@@ -1,0 +1,280 @@
+{
+"format": "pulse-teas-bank",
+"version": 2,
+"questions": [
+{"id":"ap-201-001","tag":"Anatomical Planes","type":"single","variants":[
+{"stem":"Which plane divides the body vertically into anterior and posterior sections?","opts":["Coronal plane","Sagittal plane","Transverse plane","Oblique plane"]},
+{"stem":"A cut that separates the body into a front half and a back half follows which plane?","opts":["Coronal plane","Sagittal plane","Transverse plane","Oblique plane"]},
+{"stem":"Which body plane is also called the frontal plane?","opts":["Coronal plane","Sagittal plane","Transverse plane","Oblique plane"]},
+{"stem":"Which plane runs vertically at right angles to the midline of the body?","opts":["Coronal plane","Sagittal plane","Transverse plane","Oblique plane"]},
+{"stem":"An imaging view splits the body into a belly-side half and a back-side half. Which plane is it?","opts":["Coronal plane","Sagittal plane","Transverse plane","Oblique plane"]},
+{"stem":"Which plane separates the anterior structures from the posterior structures?","opts":["Coronal plane","Sagittal plane","Transverse plane","Oblique plane"]},
+{"stem":"Of the three primary body planes, which one passes from one side of the body to the other, dividing front from back?","opts":["Coronal plane","Sagittal plane","Transverse plane","Oblique plane"]},
+{"stem":"The nose lies on one side of this plane and the back of the head lies on the other. Which plane is it?","opts":["Coronal plane","Sagittal plane","Transverse plane","Oblique plane"]}
+],"why":"The coronal (frontal) plane divides the body vertically into front (anterior) and back (posterior) parts.","deep":"Sagittal = vertical, left/right sections (parallel to the midline). Coronal/frontal = vertical, front/back. Transverse/horizontal = upper (superior) and lower (inferior) halves. Memory aid: a Coronal plane is like the Crown-shaped headband that sits front to back; a sagittal cut is like an arrow flying straight ahead, splitting left from right."},
+
+{"id":"ap-201-002","tag":"Reproductive","type":"single","variants":[
+{"stem":"Ovulation, the release of a secondary oocyte, is induced by a surge in which hormone?","opts":["Luteinizing hormone (LH)","Follicle-stimulating hormone (FSH)","Progesterone","Estrogen"]},
+{"stem":"Which hormone surge triggers the release of an egg from the ovary?","opts":["LH","FSH","Prolactin","Oxytocin"]},
+{"stem":"At about the midpoint of the ovarian cycle, a rapid rise in which pituitary hormone causes ovulation?","opts":["LH","FSH","Prolactin","Oxytocin"]},
+{"stem":"An ovulation test strip works by detecting a surge in which hormone?","opts":["Luteinizing hormone (LH)","Progesterone","Human chorionic gonadotropin","Prolactin"]},
+{"stem":"Which anterior pituitary hormone prompts the mature follicle to rupture and release an oocyte?","opts":["LH","FSH","ADH","Oxytocin"]},
+{"stem":"After the follicular phase, which hormone peak induces ovulation and the formation of the corpus luteum?","opts":["LH","FSH","Estrogen","Prolactin"]},
+{"stem":"FSH matures the follicle. Which different hormone then triggers ovulation?","opts":["LH","Progesterone","Estrogen","hCG"]},
+{"stem":"Which hormone is responsible for the event that separates the follicular phase from the luteal phase?","opts":["Luteinizing hormone (LH)","Follicle-stimulating hormone (FSH)","Prolactin","Oxytocin"]}
+],"why":"A surge in luteinizing hormone (LH) from the anterior pituitary induces ovulation, the release of a secondary oocyte from the ovary.","deep":"Ovarian cycle: follicular phase (FSH matures the follicle, which secretes estrogen) → ovulation (LH surge) → luteal phase (the corpus luteum secretes progesterone and estrogen). Memory aid: FSH = Follicle growth, LH = Launches the egg."},
+
+{"id":"ap-201-003","tag":"Reproductive","type":"single","variants":[
+{"stem":"Which hormone released by an implanted blastocyst prevents the corpus luteum from degrading?","opts":["Human chorionic gonadotropin (hCG)","Luteinizing hormone (LH)","Follicle-stimulating hormone (FSH)","Oxytocin"]},
+{"stem":"Home pregnancy tests detect which hormone?","opts":["hCG","LH","FSH","Prolactin"]},
+{"stem":"Which hormone keeps the corpus luteum producing estrogen and progesterone in early pregnancy?","opts":["hCG","LH","FSH","Oxytocin"]},
+{"stem":"After implantation, the embryo signals the ovary to maintain the uterine lining by releasing which hormone?","opts":["hCG","LH","FSH","Prolactin"]},
+{"stem":"Which hormone appears in the mother's blood and urine soon after a blastocyst implants?","opts":["hCG","LH","Oxytocin","Prolactin"]},
+{"stem":"Which hormone made by early embryonic tissue prevents the uterine lining from being shed?","opts":["hCG","Progesterone","Estrogen","Oxytocin"]},
+{"stem":"Without which embryonic hormone would the corpus luteum regress soon after implantation?","opts":["hCG","LH","FSH","Oxytocin"]},
+{"stem":"Which hormone is the standard marker of early pregnancy?","opts":["Human chorionic gonadotropin","Luteinizing hormone","Follicle-stimulating hormone","Prolactin"]}
+],"why":"When a blastocyst implants, it releases hCG, which keeps the corpus luteum alive so it continues to secrete estrogen and progesterone.","deep":"By the second trimester the placenta makes enough estrogen and progesterone on its own, so hCG is no longer needed. Memory aid: hCG = Holds the Corpus luteum Going. Oxytocin is different: it stimulates uterine contractions and milk ejection."},
+
+{"id":"ap-201-004","tag":"Nervous","type":"single","variants":[
+{"stem":"Which neurotransmitter is released by motor neurons at the neuromuscular junction?","opts":["Acetylcholine","Dopamine","Serotonin","Cortisol"]},
+{"stem":"Skeletal muscle contraction is initiated when a motor neuron releases which chemical messenger?","opts":["Acetylcholine","Dopamine","Serotonin","Cortisol"]},
+{"stem":"Which chemical crosses the synapse between a motor neuron and a muscle fiber?","opts":["Acetylcholine","Dopamine","Serotonin","Insulin"]},
+{"stem":"Which neurotransmitter binds receptors on the muscle cell membrane to trigger a muscle action potential?","opts":["Acetylcholine","Dopamine","Serotonin","Cortisol"]},
+{"stem":"Which neurotransmitter does the somatic nervous system mainly use to stimulate skeletal muscle?","opts":["Acetylcholine","Dopamine","Serotonin","Cortisol"]},
+{"stem":"A toxin blocks the receptors at the neuromuscular junction and causes muscle paralysis. Which neurotransmitter normally binds these receptors?","opts":["Acetylcholine","Dopamine","Serotonin","Insulin"]},
+{"stem":"The axon terminal of a motor neuron releases which neurotransmitter into the synaptic cleft of a muscle fiber?","opts":["Acetylcholine","Dopamine","Serotonin","Cortisol"]},
+{"stem":"Nerve signals reach skeletal muscle across a synapse. Which neurotransmitter carries that signal?","opts":["Acetylcholine","Dopamine","Serotonin","Cortisol"]}
+],"why":"Motor neurons release acetylcholine into the neuromuscular junction, where it binds receptors on the muscle fiber and starts contraction.","deep":"Sequence: action potential reaches the axon terminal → acetylcholine released → binds muscle receptors → muscle action potential → Ca²⁺ release → contraction. Memory aid: Acetylcholine = ACtion for muscle (Ach). Dopamine and serotonin act mainly in the brain."},
+
+{"id":"ap-201-005","tag":"Immune","type":"single","variants":[
+{"stem":"In which organ do T lymphocytes mature?","opts":["Thymus","Spleen","Appendix","Tonsils"]},
+{"stem":"Which lymphoid organ is located in the chest above the heart and is largest in childhood?","opts":["Thymus","Spleen","Appendix","Tonsils"]},
+{"stem":"T cells are named for the organ where they mature. Which organ is it?","opts":["Thymus","Tonsil","Thyroid","Spleen"]},
+{"stem":"Which organ, located behind the sternum, trains developing immune cells to tell self from non-self?","opts":["Thymus","Spleen","Lymph node","Liver"]},
+{"stem":"Which organ shrinks with age and is the site of T-cell maturation?","opts":["Thymus","Spleen","Tonsils","Appendix"]},
+{"stem":"Which structure is the maturation site for lymphocytes responsible for cell-mediated immunity?","opts":["Thymus","Spleen","Liver","Pancreas"]},
+{"stem":"Immature T cells travel from the bone marrow to which organ to complete their development?","opts":["Thymus","Spleen","Lymph node","Tonsil"]},
+{"stem":"Which organ would be most important for T-cell development in an infant?","opts":["Thymus","Spleen","Appendix","Adenoids"]}
+],"why":"T lymphocytes begin in the bone marrow but mature in the thymus, which is why they are called T cells.","deep":"B cells mature in the bone marrow (B = Bone marrow); T cells mature in the Thymus. The thymus is a lymphoid organ behind the sternum that is most active in childhood and gradually shrinks (involutes) in adulthood."},
+
+{"id":"ap-201-006","tag":"Renal","type":"single","variants":[
+{"stem":"Which tube carries urine from the kidney to the urinary bladder?","opts":["Ureter","Urethra","Renal artery","Nephron"]},
+{"stem":"Urine leaves the renal pelvis through which structure?","opts":["Ureter","Urethra","Collecting duct","Renal vein"]},
+{"stem":"Which structure connects each kidney to the bladder?","opts":["Ureter","Urethra","Renal vein","Nephron"]},
+{"stem":"Peristalsis moves urine through which narrow muscular tubes toward the bladder?","opts":["Ureters","Urethra","Nephrons","Renal veins"]},
+{"stem":"Which structure transports urine from the kidneys to the bladder rather than from the bladder to the outside?","opts":["Ureter","Urethra","Nephron","Renal vein"]},
+{"stem":"A kidney stone blocks the tube that drains urine from the kidney toward the bladder. Which structure is blocked?","opts":["Ureter","Urethra","Renal artery","Glomerulus"]},
+{"stem":"Each kidney drains into a long, thin tube that leads to the bladder. What is this tube called?","opts":["Ureter","Urethra","Collecting duct","Renal vein"]},
+{"stem":"Which part of the urinary system lies between the renal pelvis and the bladder?","opts":["Ureter","Urethra","Nephron","Renal cortex"]}
+],"why":"The ureters are a pair of muscular tubes that carry urine from the kidneys to the bladder.","deep":"Urine pathway: kidney → ureter → bladder → urethra → outside. Memory aid: UreTER = kidney To bladder (two ureters, one for each kidney); UreTHRA = bladder to outside (one urethra)."},
+
+{"id":"ap-201-007","tag":"Digestive","type":"single","variants":[
+{"stem":"Which organ absorbs water from remaining indigestible material and forms feces?","opts":["Large intestine","Small intestine","Stomach","Pancreas"]},
+{"stem":"Which organ completes water absorption and compacts waste into feces?","opts":["Large intestine","Small intestine","Stomach","Gallbladder"]},
+{"stem":"Bacterial flora that help produce vitamin K live in which organ, which also forms feces?","opts":["Large intestine","Small intestine","Stomach","Liver"]},
+{"stem":"Which organ includes the cecum, colon, and rectum?","opts":["Large intestine","Small intestine","Stomach","Esophagus"]},
+{"stem":"Material that is not absorbed in the small intestine passes through the ileocecal valve into which organ?","opts":["Large intestine","Stomach","Duodenum","Gallbladder"]},
+{"stem":"Which part of the digestive tract stores feces until defecation?","opts":["Large intestine","Small intestine","Stomach","Pancreas"]},
+{"stem":"The colon is the main part of which digestive organ?","opts":["Large intestine","Small intestine","Stomach","Esophagus"]},
+{"stem":"Which organ is responsible for reabsorbing leftover water and electrolytes to produce solid waste?","opts":["Large intestine","Small intestine","Stomach","Liver"]}
+],"why":"The large intestine (colon) absorbs remaining water and electrolytes from undigested material and compacts it into feces.","deep":"Large intestine parts: cecum → ascending, transverse, descending, sigmoid colon → rectum → anus. Its bacterial flora ferment leftovers and make some vitamins (such as vitamin K). Most nutrient absorption already happened in the small intestine."},
+
+{"id":"ap-201-008","tag":"Cardiovascular","type":"single","variants":[
+{"stem":"Which blood component adheres to exposed collagen and forms a plug when a vessel is damaged?","opts":["Platelets","Erythrocytes","Plasma","Leukocytes"]},
+{"stem":"Which blood component is a cell fragment that helps start clotting?","opts":["Platelets","Erythrocytes","Plasma","Leukocytes"]},
+{"stem":"Which blood components aggregate at an injury site to form a temporary plug before coagulation?","opts":["Platelets","Erythrocytes","Monocytes","Plasma cells"]},
+{"stem":"A person with a very low count of which blood component is most likely to bleed excessively?","opts":["Platelets","Erythrocytes","Lymphocytes","Neutrophils"]},
+{"stem":"Thrombocytes are another name for which blood component?","opts":["Platelets","Red blood cells","White blood cells","Plasma"]},
+{"stem":"Which blood element releases chemicals that attract other cells and promote vasoconstriction at a wound?","opts":["Platelets","Erythrocytes","Basophils","Plasma"]},
+{"stem":"Which blood component is involved in forming the initial clot at a site of bleeding?","opts":["Platelets","Erythrocytes","Monocytes","Albumin"]},
+{"stem":"Fragments of megakaryocytes circulate in the blood and are essential for hemostasis. What are they called?","opts":["Platelets","Erythrocytes","Lymphocytes","Neutrophils"]}
+],"why":"Platelets adhere to exposed collagen at a damaged vessel, release chemicals that attract more platelets, and form a plug that begins clotting.","deep":"Clotting steps: vessel constricts → platelet plug → coagulation cascade → prothrombin becomes thrombin → fibrinogen becomes fibrin mesh that traps platelets and red cells. Erythrocytes carry oxygen, leukocytes fight infection, plasma is the liquid portion of blood."},
+
+{"id":"ap-201-009","tag":"Nervous","type":"multi","variants":[
+{"stem":"Select all that apply: Which structures make up the central nervous system (CNS)?","opts":["Brain","Cranial nerves","Spinal cord","Sciatic nerve","Sensory ganglia"],"correct":[0,2]},
+{"stem":"Select all that apply: Which of the following are part of the CNS?","opts":["Cerebellum","Spinal cord","Vagus nerve","Medulla oblongata","Autonomic ganglia"],"correct":[0,1,3]},
+{"stem":"Select all that apply: Which of these belong to the peripheral nervous system (PNS), not the CNS?","opts":["Brain","Cranial nerves","Spinal nerves","Spinal cord","Cerebrum"],"correct":[1,2]},
+{"stem":"Select all that apply: Which structures are part of the CNS?","opts":["Cerebrum","Sciatic nerve","Spinal cord","Vagus nerve","Sensory ganglia"],"correct":[0,2]},
+{"stem":"Select all that apply: Which are components of the CNS?","opts":["Brain","Spinal cord","Cranial nerves","Spinal nerves","Ganglia"],"correct":[0,1]},
+{"stem":"Select all that apply: Which of these structures process and integrate information as part of the CNS?","opts":["Frontal lobe","Cranial nerves","Thalamus","Spinal nerves","Sciatic nerve"],"correct":[0,2]},
+{"stem":"Select all that apply: Which of the following are NOT part of the CNS?","opts":["Brain","Spinal nerves","Spinal cord","Cranial nerves","Cerebellum"],"correct":[1,3]},
+{"stem":"Select all that apply: Which structures belong to the central nervous system?","opts":["Pons","Sciatic nerve","Temporal lobe","Autonomic ganglia","Vagus nerve"],"correct":[0,2]}
+],"why":"The CNS consists of the brain and spinal cord, including all of their parts. Nerves and ganglia outside them make up the peripheral nervous system.","deep":"CNS = brain (cerebrum, cerebellum, diencephalon, brainstem) + spinal cord. PNS = cranial nerves, spinal nerves, and ganglia, which connect the CNS to the rest of the body. Memory aid: the CNS sits Inside bone (skull and vertebral column); the PNS reaches outside."},
+
+{"id":"ap-201-010","tag":"Nervous","type":"hotspot","image":"<svg viewBox='0 0 300 120' xmlns='http://www.w3.org/2000/svg'><g stroke='#67e8f9' stroke-width='3' fill='none' stroke-linecap='round'><path d='M62 50 L28 22 M28 22 L14 20 M28 22 L22 8 M58 62 L16 62 M62 72 L28 98 M28 98 L12 104'/></g><circle cx='80' cy='60' r='24' fill='#a78bfa' stroke='#e2e8f0' stroke-width='3'/><circle cx='80' cy='60' r='9' fill='#ddd6fe'/><line x1='104' y1='60' x2='248' y2='60' stroke='#fbbf24' stroke-width='9' stroke-linecap='round'/><g stroke='#f87171' stroke-width='3' fill='none' stroke-linecap='round'><path d='M248 60 L280 38 M248 60 L282 60 M248 60 L280 84'/></g></svg>","target":[{"type":"rect","x":104,"y":46,"w":144,"h":28}],"variants":[
+{"stem":"Tap the axon."},
+{"stem":"Tap the long fiber that carries impulses away from the cell body."},
+{"stem":"Tap the part of the neuron that conducts the action potential toward the axon terminals."},
+{"stem":"Tap the extension that transmits signals on to the next cell."},
+{"stem":"Tap the structure that ends in the axon terminals."},
+{"stem":"Tap the single long projection of the neuron, not the short branching ones."},
+{"stem":"Tap the part of the neuron that is often wrapped in a myelin sheath."},
+{"stem":"Tap the projection that leads away from the cell body toward other neurons or muscles."}
+],"why":"The axon is the single long projection that carries impulses away from the cell body toward the axon terminals.","deep":"Dendrites (the short, branching extensions) receive signals and carry them toward the cell body. The axon carries signals away. Memory aid: Axon = Away; Dendrites = Door-ways in. Many axons are wrapped in myelin, which speeds up conduction."},
+
+{"id":"ap-201-011","tag":"Endocrine","type":"single","variants":[
+{"stem":"Which pancreatic hormone raises blood glucose by stimulating the liver to release stored glucose?","opts":["Glucagon","Insulin","Thyroxine","Oxytocin"]},
+{"stem":"When blood sugar falls between meals, alpha cells of the pancreas release which hormone?","opts":["Glucagon","Insulin","Calcitonin","Oxytocin"]},
+{"stem":"Which hormone triggers the breakdown of glycogen into glucose in the liver?","opts":["Glucagon","Insulin","Aldosterone","Oxytocin"]},
+{"stem":"Which hormone is the counterpart that opposes the action of insulin?","opts":["Glucagon","Thyroxine","Oxytocin","ADH"]},
+{"stem":"After several hours without food, which pancreatic hormone rises to maintain blood glucose?","opts":["Glucagon","Insulin","Oxytocin","Prolactin"]},
+{"stem":"Which hormone increases blood sugar, in contrast to insulin, which lowers it?","opts":["Glucagon","Calcitonin","Aldosterone","Oxytocin"]},
+{"stem":"Low blood glucose stimulates secretion of which pancreatic hormone?","opts":["Glucagon","Insulin","Calcitonin","Aldosterone"]},
+{"stem":"Which hormone causes the liver to convert glycogen to glucose and release it into the blood?","opts":["Glucagon","Insulin","Thyroxine","Oxytocin"]}
+],"why":"Glucagon, released by the pancreas when blood glucose is low, signals the liver to break down glycogen and release glucose into the blood.","deep":"Insulin lowers blood glucose by helping cells take up glucose and store it as glycogen; glucagon raises it. This is a negative feedback loop. Memory aid: GlucaGON = glucose GONE up (released into the blood); insulin lets glucose IN to cells."},
+
+{"id":"bio-201-001","tag":"Genetics","type":"single","variants":[
+{"stem":"Which type of RNA brings amino acids to the ribosome during protein synthesis?","opts":["tRNA","mRNA","rRNA","microRNA"]},
+{"stem":"Which molecule assists translation by matching its anticodon to an mRNA codon?","opts":["tRNA","mRNA","rRNA","microRNA"]},
+{"stem":"Found in the cytoplasm, which RNA delivers amino acids to the ribosome?","opts":["tRNA","mRNA","rRNA","microRNA"]},
+{"stem":"During translation, a ribosome follows mRNA instructions. Which RNA delivers the matching amino acids?","opts":["Transfer RNA","Messenger RNA","Ribosomal RNA","MicroRNA"]},
+{"stem":"Which type of RNA contains an anticodon?","opts":["tRNA","mRNA","rRNA","microRNA"]},
+{"stem":"Which RNA molecule acts as the adapter between the genetic code and amino acids?","opts":["tRNA","mRNA","rRNA","microRNA"]},
+{"stem":"An amino acid attaches to one end of which type of RNA before reaching the ribosome?","opts":["Transfer RNA","Messenger RNA","Ribosomal RNA","MicroRNA"]},
+{"stem":"Which RNA is the delivery vehicle of protein synthesis, bringing amino acids to the ribosome?","opts":["tRNA","mRNA","rRNA","microRNA"]}
+],"why":"Transfer RNA (tRNA) carries amino acids to the ribosome and matches them to mRNA codons through its anticodon during translation.","deep":"mRNA carries the DNA message from the nucleus to the cytoplasm; rRNA is part of the ribosome; tRNA is the amino acid carrier. Memory aid: tRNA = Transfer (delivers amino acids); mRNA = Message; rRNA = Ribosome."},
+
+{"id":"bio-201-002","tag":"Genetics","type":"single","variants":[
+{"stem":"In snapdragons, red (RR) is incompletely dominant over white (rr). What color are Rr plants?","opts":["Pink","Red","White","Red with white spots"]},
+{"stem":"A red snapdragon is crossed with a white snapdragon and neither allele is completely dominant. What color are all of the offspring?","opts":["Pink","Red","White","Red with white spots"]},
+{"stem":"When a heterozygote shows a blend of the two parental phenotypes, it is called incomplete dominance. In flowers with red and white alleles, what is the blended phenotype?","opts":["Pink","Red","White","Purple"]},
+{"stem":"Under incomplete dominance, RR is red and rr is white. What is the phenotype of the heterozygote Rr?","opts":["Pink","Red","White","Yellow"]},
+{"stem":"Under incomplete dominance, which phenotype do heterozygous red/white flowers display?","opts":["Pink","Red","White","Red with white stripes"]},
+{"stem":"A gardener crosses RR red flowers with rr white flowers. Under incomplete dominance, the F1 flowers will be:","opts":["Pink","Red","White","Half red and half white"]},
+{"stem":"Which color is expected when a flower inherits one red allele and one white allele and neither is completely dominant?","opts":["Pink","Red","White","Yellow"]},
+{"stem":"In incomplete dominance, the heterozygous phenotype is a mixture of the two homozygous phenotypes. If the homozygotes are red and white, the heterozygote is:","opts":["Pink","Red","White","Yellow"]}
+],"why":"In incomplete dominance neither allele is fully dominant, so the heterozygote (Rr) shows a blend of the two homozygous phenotypes: pink.","deep":"A cross of two pink snapdragons (Rr × Rr) gives 25% red, 50% pink, and 25% white, so the genotype ratio matches the phenotype ratio (1:2:1). Complete dominance hides the recessive allele in heterozygotes; incomplete dominance blends them."},
+
+{"id":"bio-201-003","tag":"Cell Biology","type":"single","variants":[
+{"stem":"What is the term for the passive movement of water across a cell membrane?","opts":["Osmosis","Active transport","Exocytosis","Endocytosis"]},
+{"stem":"Water moves across a cell membrane through aquaporins without using ATP. This process is called:","opts":["Osmosis","Active transport","Exocytosis","Phagocytosis"]},
+{"stem":"Which process moves water across a membrane toward the side with the higher solute concentration?","opts":["Osmosis","Active transport","Exocytosis","Endocytosis"]},
+{"stem":"Red blood cells placed in pure water swell because water enters them. Which process is responsible?","opts":["Osmosis","Active transport","Exocytosis","Endocytosis"]},
+{"stem":"Which type of passive transport is specific to water?","opts":["Osmosis","Facilitated diffusion","Simple diffusion","Active transport"]},
+{"stem":"Diffusion of water across a selectively permeable membrane is known as:","opts":["Osmosis","Exocytosis","Active transport","Endocytosis"]},
+{"stem":"A plant cell loses water and wilts when placed in salt water. Which process moved the water out?","opts":["Osmosis","Active transport","Exocytosis","Endocytosis"]},
+{"stem":"Which process requires no ATP, is driven by differences in solute concentration, and moves water?","opts":["Osmosis","Active transport","Exocytosis","Endocytosis"]}
+],"why":"Osmosis is the passive transport of water across a selectively permeable membrane, driven by differences in solute concentration.","deep":"Passive transport (no ATP): simple diffusion, facilitated diffusion (uses channel or carrier proteins), and osmosis (water). Active transport uses ATP to move substances against their concentration gradient. Water moves toward the side with more solute."},
+
+{"id":"bio-201-004","tag":"Genetics","type":"single","variants":[
+{"stem":"Which nitrogenous base is found in RNA but not in DNA?","opts":["Uracil","Thymine","Cytosine","Guanine"]},
+{"stem":"In RNA, adenine pairs with which base?","opts":["Uracil","Thymine","Cytosine","Guanine"]},
+{"stem":"Which base replaces thymine in RNA?","opts":["Uracil","Cytosine","Adenine","Guanine"]},
+{"stem":"Which nitrogenous base is unique to RNA?","opts":["Uracil","Thymine","Adenine","Cytosine"]},
+{"stem":"Which pyrimidine base appears in RNA but not in DNA?","opts":["Uracil","Thymine","Adenine","Guanine"]},
+{"stem":"During transcription, the DNA base adenine is paired with which RNA base?","opts":["Uracil","Thymine","Guanine","Cytosine"]},
+{"stem":"Which base is absent in DNA but present in RNA?","opts":["Uracil","Thymine","Adenine","Cytosine"]},
+{"stem":"RNA differs from DNA in having ribose and which base in place of thymine?","opts":["Uracil","Cytosine","Guanine","Adenine"]}
+],"why":"RNA contains uracil (U) in place of the thymine (T) that DNA has, so uracil pairs with adenine in RNA.","deep":"DNA bases: A, T, G, C. RNA bases: A, U, G, C. RNA also uses ribose (not deoxyribose) and is usually single-stranded, while DNA is a double helix. Memory aid: U is for RNA's Unique base."},
+
+{"id":"bio-201-005","tag":"Genetics","type":"single","variants":[
+{"stem":"How many nucleotides make up a codon?","opts":["Three","One","Two","Four"]},
+{"stem":"A codon on mRNA consists of how many nucleotides that together specify one amino acid?","opts":["Three","One","Two","Four"]},
+{"stem":"Each amino acid is specified by a sequence of how many mRNA nucleotides?","opts":["Three","One","Two","Six"]},
+{"stem":"The genetic code is read in groups of how many bases?","opts":["Three","One","Two","Five"]},
+{"stem":"Which describes the length of a codon?","opts":["A triplet of three nucleotides","A pair of two nucleotides","A single nucleotide","A set of four nucleotides"]},
+{"stem":"A start codon such as AUG contains how many bases?","opts":["Three","Two","Four","Five"]},
+{"stem":"A tRNA anticodon pairs with an mRNA codon. How many nucleotides are in each codon?","opts":["Three","One","Two","Four"]},
+{"stem":"The sequences UUU, GGC, and AUG are examples of codons. Each contains how many nucleotides?","opts":["Three","One","Two","Six"]}
+],"why":"A codon is a sequence of three nucleotides on mRNA that codes for one amino acid (or a start or stop signal).","deep":"With four RNA bases, three-base codons give 64 possible combinations, which is more than enough for the 20 amino acids. Several codons can code for the same amino acid. AUG is the start codon and also codes for methionine; UAA, UAG, and UGA are stop codons."},
+
+{"id":"chem-201-001","tag":"Reactions","type":"single","variants":[
+{"stem":"How does a catalyst speed up a chemical reaction?","opts":["It lowers the activation energy","It raises the temperature","It is consumed in the reaction","It changes the products formed"]},
+{"stem":"Which statement about a catalyst is true?","opts":["It lowers activation energy","It raises activation energy","It is used up in the reaction","It makes impossible reactions possible"]},
+{"stem":"Enzymes are biological catalysts. What do they do to a reaction's activation energy?","opts":["Lower it","Raise it","Eliminate it entirely","Leave it unchanged"]},
+{"stem":"What happens to the minimum energy needed for reactants to react when a catalyst is added?","opts":["It decreases","It increases","It becomes zero","It stays the same"]},
+{"stem":"Adding a catalyst lets more reactant molecules react because the catalyst:","opts":["Lowers the activation energy","Raises the temperature","Adds more reactant","Uses up the products"]},
+{"stem":"A catalyst changes the rate of a reaction by affecting which quantity?","opts":["Activation energy","Mass of the reactants","Number of protons","Identity of the products"]},
+{"stem":"Which describes the role of a catalyst in a reaction mechanism?","opts":["Lowers activation energy to speed the reaction","Raises activation energy to slow the reaction","Supplies extra energy as a reactant","Becomes part of the final product"]},
+{"stem":"A catalyst is added to a reaction. Which statement is true afterward?","opts":["The reaction is faster and the catalyst is unchanged","The reaction is faster and the catalyst is used up","The reaction is slower and the catalyst is unchanged","The reaction is the same and the catalyst is used up"]}
+],"why":"A catalyst speeds up a reaction by lowering the activation energy, so more reactant molecules have enough energy to react. The catalyst itself is not consumed.","deep":"Other factors that increase reaction rate: higher reactant concentration, greater surface area, and higher temperature (more collisions with more energy). A catalyst does not change the products or make an impossible reaction occur; it only changes how fast the reaction reaches equilibrium."},
+
+{"id":"chem-201-002","tag":"Bonding","type":"single","variants":[
+{"stem":"Which type of attraction between water molecules gives water its cohesive and adhesive properties?","opts":["Hydrogen bonds","Ionic bonds","Metallic bonds","Peptide bonds"]},
+{"stem":"Water has a high specific heat because of which attraction between its molecules?","opts":["Hydrogen bonds","Ionic bonds","Peptide bonds","Metallic bonds"]},
+{"stem":"The slightly positive hydrogen of one water molecule is attracted to the slightly negative oxygen of another. What is this attraction called?","opts":["A hydrogen bond","An ionic bond","A peptide bond","A metallic bond"]},
+{"stem":"Ice floats on liquid water because of which type of intermolecular attraction?","opts":["Hydrogen bonding","Ionic bonding","Peptide bonding","Metallic bonding"]},
+{"stem":"Which bond is weak, short-lived, and numerous, and helps hold water molecules together?","opts":["Hydrogen bond","Ionic bond","Covalent bond","Metallic bond"]},
+{"stem":"Which attraction is responsible for water's high heat of vaporization and also helps stabilize DNA?","opts":["Hydrogen bond","Ionic bond","Metallic bond","Peptide bond"]},
+{"stem":"Water can be pulled up a narrow tube against gravity because of cohesion. Which attraction causes this?","opts":["Hydrogen bonds","Ionic bonds","Metallic bonds","Peptide bonds"]},
+{"stem":"Which bond forms between a hydrogen atom and a highly electronegative atom such as oxygen or nitrogen on another molecule?","opts":["Hydrogen bond","Ionic bond","Metallic bond","Peptide bond"]}
+],"why":"Water molecules are polar, and the attraction between the slightly positive hydrogen of one molecule and the slightly negative oxygen of another is a hydrogen bond. These bonds give water its special properties.","deep":"Properties of water from hydrogen bonding: high specific heat, high heat of vaporization, cohesion and adhesion, good solvent for polar substances, and ice that floats. Hydrogen bonds are weaker than covalent and ionic bonds. They also hold the two strands of DNA together."},
+
+{"id":"chem-201-003","tag":"Reactions","type":"single","variants":[
+{"stem":"In a reversible reaction at equilibrium, more reactant is added. According to Le Chatelier's principle, the equilibrium will:","opts":["Shift toward the products","Shift toward the reactants","Remain exactly the same","Stop reacting"]},
+{"stem":"A + B ⇌ C + D is at equilibrium. If extra A is added, the system responds by:","opts":["Shifting right","Shifting left","Staying the same","Stopping"]},
+{"stem":"Increasing the concentration of a reactant at equilibrium causes the system to:","opts":["Favor the forward reaction","Favor the reverse reaction","Eliminate the products","Cancel both reactions"]},
+{"stem":"Which response best describes how a system at equilibrium counters an added reactant?","opts":["The net reaction proceeds toward products","The net reaction proceeds toward reactants","Both reaction rates drop to zero","Reactant concentration stays constant"]},
+{"stem":"The stress of adding more reactant to an equilibrium system is partly offset by:","opts":["Making more product","Making more reactant","Removing the catalyst","Lowering the pressure"]},
+{"stem":"N₂ + 3H₂ ⇌ 2NH₃ is at equilibrium. Adding more N₂ will cause the system to produce more of which substance?","opts":["NH₃","N₂","H₂","No substance changes"]},
+{"stem":"A system at equilibrium is stressed by increasing a reactant's concentration. Which direction does it shift?","opts":["Right, toward the products","Left, toward the reactants","Neither direction","It cannot respond"]},
+{"stem":"When the concentration of a reactant is raised in a closed equilibrium system, what happens?","opts":["More products form","More reactants form","The reaction stops","Equilibrium becomes impossible"]}
+],"why":"Le Chatelier's principle says a system at equilibrium responds to a stress by partly offsetting it. Adding reactant shifts the equilibrium to the right, toward the products.","deep":"Adding product shifts the reaction left; removing a reactant shifts it left; removing a product shifts it right. Heating an endothermic reaction shifts it right (heat acts like a reactant). Pressure only affects equilibria involving gases. A catalyst does not shift equilibrium."},
+
+{"id":"chem-201-004","tag":"Periodic Table","type":"single","variants":[
+{"stem":"What do elements in the same period (row) of the periodic table have in common?","opts":["The same number of electron shells","The same number of valence electrons","The same atomic mass","The same number of protons"]},
+{"stem":"Across a period, from left to right, which quantity stays the same?","opts":["Number of electron shells","Number of valence electrons","Number of protons","Atomic mass"]},
+{"stem":"Sodium, magnesium, and chlorine are in the same period. What do their atoms share?","opts":["The same number of occupied electron shells","The same number of valence electrons","The same number of protons","The same charge as ions"]},
+{"stem":"Which is true of all atoms in period 3 of the periodic table?","opts":["They have three electron shells","They have three valence electrons","They have three protons","They have three neutrons"]},
+{"stem":"A horizontal row of the periodic table corresponds to which atomic feature?","opts":["Number of electron shells","Number of valence electrons","Number of neutrons","Isotope abundance"]},
+{"stem":"Periods in the periodic table are organized by:","opts":["Number of occupied energy levels","Number of valence electrons","Number of neutrons","Atomic mass"]},
+{"stem":"Moving down a column adds electron shells. Which statement describes elements in a single row?","opts":["They have the same number of shells","They have the same number of valence electrons","They have the same reactivity","They have the same atomic mass"]},
+{"stem":"Which feature does the period number tell you about an atom?","opts":["Number of electron shells","Number of valence electrons","Number of protons","Number of isotopes"]}
+],"why":"Elements in the same period (horizontal row) have the same number of occupied electron shells, which equals the period number.","deep":"Groups (vertical columns) share the same number of valence electrons and similar chemical properties; periods (rows) share the same number of electron shells. Atomic number increases left to right across a period. Memory aid: Periods = Plateaus of shells (rows); Groups = Gangs with the same valence electrons (columns)."},
+
+{"id":"chem-201-005","tag":"Acids and Bases","type":"typed","answers":["4"],"tolerance":0,"variants":[
+{"stem":"A solution has a hydrogen ion concentration of 1 × 10⁻⁴ M. What is its pH? Give a whole number."},
+{"stem":"Calculate the pH of a solution in which [H⁺] = 0.0001 M. Give a whole number."},
+{"stem":"The hydrogen ion concentration of a rainwater sample is 1 × 10⁻⁴ moles per liter. What is its pH? Give a whole number."},
+{"stem":"Using pH = −log[H⁺], find the pH when [H⁺] is 1 × 10⁻⁴ M. Give a whole number."},
+{"stem":"A solution contains 0.0001 mol of H⁺ per liter. What is the pH? Give a whole number."},
+{"stem":"Find the pH of a solution with a hydronium ion concentration of 1 × 10⁻⁴ M. Give a whole number."},
+{"stem":"A juice sample has [H⁺] = 1 × 10⁻⁴ M. What pH does this give? Give a whole number."},
+{"stem":"If the hydrogen ion concentration of a solution is 10⁻⁴ M, what is the pH? Give a whole number."}
+],"why":"pH = −log[H⁺] = −log(1 × 10⁻⁴) = 4.","deep":"For concentrations written as 1 × 10⁻ⁿ, the pH is simply n. Each pH unit is a tenfold change in H⁺ concentration, and lower pH means more acidic. pH 4 is acidic; pH 7 is neutral; pH above 7 is basic."},
+
+{"id":"chem-201-006","tag":"Atomic Structure","type":"multi","variants":[
+{"stem":"Select all that apply: Which of the following are subatomic particles that make up an atom?","opts":["Proton","Neutron","Isotope","Electron","Molecule"],"correct":[0,1,3]},
+{"stem":"Select all that apply: Which are particles found inside an atom?","opts":["Electron","Compound","Proton","Ion","Neutron"],"correct":[0,2,4]},
+{"stem":"Select all that apply: Which of these are located in the nucleus of an atom?","opts":["Protons","Electrons","Neutrons","Ions","Isotopes"],"correct":[0,2]},
+{"stem":"Select all that apply: Which particles carry an electrical charge?","opts":["Proton","Neutron","Electron","Isotope","Atom"],"correct":[0,2]},
+{"stem":"Select all that apply: Which are the three basic pieces of an atom?","opts":["Proton","Electron","Molecule","Neutron","Compound"],"correct":[0,1,3]},
+{"stem":"Select all that apply: Which particles contribute to an atom's mass number?","opts":["Protons","Electrons","Neutrons","Isotopes","Ions"],"correct":[0,2]},
+{"stem":"Select all that apply: Which of the following are NOT subatomic particles?","opts":["Electron","Molecule","Neutron","Compound","Proton"],"correct":[1,3]},
+{"stem":"Select all that apply: Which of these exist outside the nucleus of an atom?","opts":["Electrons","Protons","Neutrons","Isotopes","Valence electrons"],"correct":[0,4]}
+],"why":"Atoms are made of three subatomic particles: protons and neutrons in the nucleus, and electrons in shells outside it.","deep":"Protons are positive, electrons negative, neutrons neutral. Mass number = protons + neutrons (electrons have almost no mass). Atomic number = number of protons. Isotopes, ions, molecules, and compounds are things made from atoms, not particles inside them."},
+
+{"id":"sr-201-001","tag":"Metric System","type":"typed","answers":["2500","2,500"],"tolerance":0,"unit":"mL","variants":[
+{"stem":"Convert 2.5 liters to milliliters."},
+{"stem":"A bottle holds 2.5 L of saline. How many milliliters is that?"},
+{"stem":"A beaker contains 2.5 liters of solution. What is the volume in mL?"},
+{"stem":"How many milliliters are in 2.5 L?"},
+{"stem":"A lab technician measures 2.5 L of water. Express this volume in milliliters."},
+{"stem":"A reservoir tank holds 2.5 L of fluid. How many mL is this?"},
+{"stem":"A solution volume of 2.5 L equals how many milliliters?"},
+{"stem":"Using metric prefixes, convert 2.5 L to mL."}
+],"why":"The prefix milli- means one thousandth, so 1 L = 1000 mL and 2.5 L × 1000 = 2500 mL.","deep":"Common metric prefixes: kilo- (1000), hecto- (100), deka- (10), deci- (0.1), centi- (0.01), milli- (0.001), micro- (0.000001). To convert to a smaller unit, multiply; to a larger unit, divide. Moving the decimal 3 places right converts L to mL."},
+
+{"id":"sr-201-002","tag":"Variables","type":"single","variants":[
+{"stem":"A researcher tests how different doses of caffeine affect reaction time on a computer test. Which is the independent variable?","opts":["Dose of caffeine","Reaction time","Age of the participants","Time of day of the test"]},
+{"stem":"Participants receive 0, 50, or 100 mg of caffeine, and then their reaction times are measured. Which variable is deliberately changed by the researcher?","opts":["Amount of caffeine","Reaction time","Test difficulty","Room temperature"]},
+{"stem":"In a study of caffeine and reaction time, the researcher manipulates one variable. Which one?","opts":["Caffeine dose","Reaction time","Participant sleep hours","Computer brand"]},
+{"stem":"A study compares reaction times after different caffeine doses. Which variable is the manipulated variable?","opts":["Caffeine dose","Reaction time","Type of computer","Time of day"]},
+{"stem":"Which variable is the cause being tested when a study examines the effect of caffeine dose on reaction time?","opts":["Caffeine dose","Reaction time","Height of participants","Lighting in the room"]},
+{"stem":"A graph of reaction time versus caffeine dose is drawn. Which variable belongs on the x-axis?","opts":["Caffeine dose","Reaction time","Participant age","Test duration"]},
+{"stem":"In an experiment on caffeine and reaction time, which variable does the researcher choose and set before measurement begins?","opts":["Caffeine dose","Reaction time","Average test score","Participant mood"]},
+{"stem":"Which of these would be labeled the independent variable in an investigation of how caffeine affects reaction time?","opts":["Amount of caffeine","Reaction time","Time of testing","Room noise"]}
+],"why":"The independent variable is the one the researcher deliberately changes. Here, the caffeine dose is changed to see its effect on reaction time.","deep":"Independent (manipulated) variable = what you change (x-axis). Dependent (responding) variable = what you observe and record (y-axis). Constants = everything else kept the same, such as age, time of day, and equipment. Only one variable should be changed at a time."},
+
+{"id":"sr-201-003","tag":"Scientific Method","type":"single","variants":[
+{"stem":"Which best describes a scientific hypothesis?","opts":["A testable prediction or explanation","A conclusion drawn after analyzing data","A summary of the final results","A fact that has been proven forever"]},
+{"stem":"Before running an experiment, a scientist writes a statement that can be tested and could be proven false. What is this statement?","opts":["A hypothesis","A conclusion","A result","A theory"]},
+{"stem":"Which is the proposed, testable answer to a scientific question, made before data are collected?","opts":["Hypothesis","Conclusion","Observation","Constant"]},
+{"stem":"A student writes, \"If plants get more sunlight, then they will grow taller.\" This statement is an example of a:","opts":["Hypothesis","Conclusion","Constant","Control group"]},
+{"stem":"Which statement about a good hypothesis is true?","opts":["It can be tested by experiment","It is proven true before testing","It cannot be disproven","It is the same as a conclusion"]},
+{"stem":"Which step of the scientific method involves making a testable prediction about what will happen?","opts":["Forming a hypothesis","Analyzing data","Drawing a conclusion","Communicating results"]},
+{"stem":"An educated, testable guess based on observation is known as a:","opts":["Hypothesis","Conclusion","Result","Variable"]},
+{"stem":"In the scientific method, what is formed after observing and asking a question but before experimenting?","opts":["Hypothesis","Conclusion","Data table","Control group"]}
+],"why":"A hypothesis is a testable prediction or proposed explanation, written before the experiment, that data can support or refute.","deep":"Typical order: observation → question → hypothesis → experiment (with variables and controls) → data analysis → conclusion → communication of results. A hypothesis is not proven; it is supported or rejected by evidence. Good hypotheses are often written as If…then… statements."}
+]
+}

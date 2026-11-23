@@ -1,0 +1,280 @@
+{
+"format": "pulse-teas-bank",
+"version": 2,
+"questions": [
+{"id":"ap-202-001","tag":"Respiratory","type":"single","variants":[
+{"stem":"During inhalation, what does the diaphragm do?","opts":["It contracts and flattens","It relaxes and domes upward","It expands outward","It remains still"]},
+{"stem":"Which change in the diaphragm allows the thoracic cavity to enlarge so that air enters the lungs?","opts":["It contracts","It relaxes","It stretches sideways","It moves upward"]},
+{"stem":"According to Boyle's law, inspiration occurs when the volume of the thoracic cavity does what, causing lung pressure to fall below atmospheric pressure?","opts":["Increases","Decreases","Stays the same","Reaches zero"]},
+{"stem":"Which muscles contract to increase the volume of the thoracic cavity during quiet inspiration?","opts":["Diaphragm and external intercostals","Diaphragm and internal intercostals","Abdominal muscles and internal intercostals","Pectoralis major and trapezius"]},
+{"stem":"Air flows into the lungs when intrapleural pressure drops. Which action causes this drop?","opts":["Diaphragm contraction","Diaphragm relaxation","Rib cage collapse","Bronchiole constriction"]},
+{"stem":"The dome-shaped muscle separating the thoracic and abdominal cavities moves downward during which phase of breathing?","opts":["Inspiration","Expiration","Both phases equally","Neither phase"]},
+{"stem":"When the diaphragm contracts, which of the following occurs?","opts":["The chest cavity enlarges and air is drawn in","The chest cavity shrinks and air is pushed out","The lungs shrink and air is drawn in","The ribs lower and air is drawn in"]},
+{"stem":"In negative-pressure breathing, lung pressure becomes lower than atmospheric pressure when the diaphragm:","opts":["Contracts","Relaxes","Pushes on the lungs","Moves upward"]}
+],"why":"When the diaphragm and external intercostals contract, the thoracic cavity gets larger, pressure inside the lungs falls below atmospheric pressure, and air flows in (inspiration).","deep":"Boyle's law: pressure and volume of a gas are inversely related. Inhalation = diaphragm contracts and flattens, ribs lift, volume up, pressure down. Exhalation (quiet) = muscles relax, volume down, pressure up, air flows out."},
+
+{"id":"ap-202-002","tag":"Respiratory","type":"single","variants":[
+{"stem":"Where does gas exchange between the air and the blood occur in the lungs?","opts":["Alveoli","Bronchi","Trachea","Pleura"]},
+{"stem":"Oxygen diffuses into the blood and carbon dioxide diffuses out across the walls of which tiny sacs?","opts":["Alveoli","Bronchioles","Bronchi","Pleural sacs"]},
+{"stem":"Which lung structure is surrounded by capillaries and is the site of oxygen and carbon dioxide exchange?","opts":["Alveoli","Bronchioles","Bronchi","Larynx"]},
+{"stem":"The thin-walled air sacs at the ends of the bronchioles are called:","opts":["Alveoli","Bronchi","Pleurae","Cilia"]},
+{"stem":"Which structure provides the large surface area in the lungs needed for diffusion of gases?","opts":["Alveoli","Trachea","Primary bronchi","Epiglottis"]},
+{"stem":"Emphysema destroys the walls of which structures, reducing the surface available for gas exchange?","opts":["Alveoli","Bronchi","Trachea","Pharynx"]},
+{"stem":"Which part of the respiratory system has walls only one cell thick so gases can diffuse easily?","opts":["Alveoli","Bronchi","Trachea","Larynx"]},
+{"stem":"Blood in the pulmonary capillaries picks up oxygen in which structures?","opts":["Alveoli","Bronchi","Trachea","Pleura"]}
+],"why":"Gas exchange occurs in the alveoli, tiny thin-walled air sacs surrounded by capillaries, where oxygen enters the blood and carbon dioxide leaves it by diffusion.","deep":"Air path: nose or mouth → pharynx → larynx → trachea → primary bronchi → secondary bronchi → tertiary bronchi → bronchioles → alveoli. Only the alveoli are thin enough for gas exchange; the other passages just conduct air."},
+
+{"id":"ap-202-003","tag":"Cardiovascular","type":"single","variants":[
+{"stem":"On an ECG, which complex represents depolarization of the ventricles?","opts":["QRS complex","P wave","T wave","PR segment"]},
+{"stem":"Which part of the ECG corresponds to the Purkinje fibers stimulating the ventricles to contract?","opts":["QRS complex","P wave","T wave","PR segment"]},
+{"stem":"Which ECG feature records ventricular depolarization, the electrical event that triggers ventricular contraction?","opts":["QRS complex","P wave","T wave","PR segment"]},
+{"stem":"The P wave shows atrial depolarization. Which ECG feature shows ventricular depolarization?","opts":["QRS complex","T wave","PR segment","U wave"]},
+{"stem":"Which waveform is the largest and sharpest on a normal ECG, made up of the Q, R, and S waves?","opts":["QRS complex","P wave","T wave","U wave"]},
+{"stem":"Which ECG component indicates that the ventricles have been depolarized?","opts":["QRS complex","P wave","T wave","U wave"]},
+{"stem":"A widened or abnormal version of which ECG complex may suggest abnormal conduction in the ventricles?","opts":["QRS complex","P wave","T wave","PR interval"]},
+{"stem":"The T wave represents ventricular repolarization. Which ECG complex represents ventricular depolarization?","opts":["QRS complex","P wave","ST segment","U wave"]}
+],"why":"The QRS complex records depolarization of the ventricles, which triggers ventricular contraction.","deep":"ECG order: P wave (atrial depolarization) → PR segment (AV node delay) → QRS complex (ventricular depolarization) → ST segment → T wave (ventricular repolarization). Atrial repolarization is hidden within the QRS complex."},
+
+{"id":"ap-202-004","tag":"Blood","type":"single","variants":[
+{"stem":"Which ABO blood type has neither A nor B antigens on its red blood cells?","opts":["Type O","Type A","Type B","Type AB"]},
+{"stem":"A person's red blood cells carry no A or B antigen. What is the person's ABO blood type?","opts":["Type O","Type A","Type B","Type AB"]},
+{"stem":"Which blood type produces both anti-A and anti-B antibodies?","opts":["Type O","Type A","Type B","Type AB"]},
+{"stem":"Which ABO type lacks both antigens on its red blood cells and has both antibodies in its plasma?","opts":["Type O","Type A","Type B","Type AB"]},
+{"stem":"Type AB blood has both A and B antigens. Which type has neither?","opts":["Type O","Type A","Type B","Type AB"]},
+{"stem":"Whose plasma would attack red blood cells carrying either A or B antigens?","opts":["Type O","Type A","Type B","Type AB"]},
+{"stem":"Which ABO type has red blood cells without A or B surface antigens?","opts":["Type O","Type A","Type B","Type AB"]},
+{"stem":"If a blood sample does not clump with anti-A serum or anti-B serum, the ABO blood type is:","opts":["Type O","Type A","Type B","Type AB"]}
+],"why":"Type O red blood cells have neither A nor B antigens, and type O plasma contains both anti-A and anti-B antibodies.","deep":"Type A: A antigens, anti-B antibodies. Type B: B antigens, anti-A antibodies. Type AB: both antigens, no antibodies. Type O: no antigens, both antibodies. Rh factor is a separate antigen, giving positive or negative types."},
+
+{"id":"ap-202-005","tag":"Integumentary","type":"single","variants":[
+{"stem":"Which layer of the skin contains hair follicles, sweat glands, nerve endings, and blood vessels?","opts":["Dermis","Epidermis","Hypodermis","Stratum corneum"]},
+{"stem":"Which skin layer lies directly beneath the epidermis and is made mostly of connective tissue?","opts":["Dermis","Hypodermis","Stratum basale","Stratum corneum"]},
+{"stem":"The sebaceous (oil) glands and hair roots are located in which skin layer?","opts":["Dermis","Epidermis","Stratum corneum","Stratum basale"]},
+{"stem":"The epidermis has no blood vessels of its own. Which layer supplies it with nutrients?","opts":["Dermis","Hypodermis","Stratum corneum","Stratum basale"]},
+{"stem":"Collagen and elastin fibers that give skin strength and elasticity are found mainly in which layer?","opts":["Dermis","Epidermis","Stratum corneum","Stratum basale"]},
+{"stem":"Touch receptors and pain receptors of the skin are located mainly in which layer?","opts":["Dermis","Stratum corneum","Stratum basale","Epidermis"]},
+{"stem":"Which is the thick, middle layer of the skin?","opts":["Dermis","Epidermis","Stratum corneum","Stratum basale"]},
+{"stem":"Sweat glands originate in which layer of the skin?","opts":["Dermis","Epidermis","Stratum corneum","Stratum basale"]}
+],"why":"The dermis is the thick, connective tissue layer beneath the epidermis that contains blood vessels, nerve endings, hair follicles, and sweat and oil glands.","deep":"Skin has three layers: epidermis (outermost, no blood vessels, keratinocytes divide in the stratum basale), dermis (middle), and hypodermis (deepest, fat and connective tissue). Skin helps with protection, thermoregulation, and sensation."},
+
+{"id":"ap-202-006","tag":"Anatomical Terms","type":"single","variants":[
+{"stem":"In anatomical position, the hip is ____ to the knee.","opts":["proximal","distal","lateral","posterior"]},
+{"stem":"Which term means closer to the center of the body or to a limb's point of attachment?","opts":["Proximal","Distal","Lateral","Posterior"]},
+{"stem":"The elbow is ____ to the wrist.","opts":["proximal","distal","medial","anterior"]},
+{"stem":"Which directional term describes the shoulder relative to the hand?","opts":["Proximal","Distal","Lateral","Dorsal"]},
+{"stem":"Which term is the opposite of distal?","opts":["Proximal","Lateral","Posterior","Inferior"]},
+{"stem":"The thigh is ____ to the ankle.","opts":["proximal","distal","superficial","posterior"]},
+{"stem":"Which term correctly describes the position of the knee relative to the foot?","opts":["Proximal","Distal","Medial","Anterior"]},
+{"stem":"A structure nearer to the trunk than another structure on the same limb is described as:","opts":["Proximal","Distal","Lateral","Superficial"]}
+],"why":"Proximal means closer to the center of the body or a limb's attachment point, so the hip is proximal to the knee.","deep":"Proximal vs distal: nearer to vs farther from the trunk or point of origin. Medial vs lateral: toward vs away from the midline. Anterior vs posterior: front vs back. Superior vs inferior: toward the head vs toward the feet. Memory aid: Proximal = Probably close."},
+
+{"id":"ap-202-007","tag":"Digestive","type":"single","variants":[
+{"stem":"Which organ produces bile?","opts":["Liver","Gallbladder","Pancreas","Stomach"]},
+{"stem":"Bile is made in one organ and stored in another. Which organ makes it?","opts":["Liver","Gallbladder","Pancreas","Duodenum"]},
+{"stem":"The gallbladder stores bile. Which organ synthesizes it?","opts":["Liver","Pancreas","Spleen","Stomach"]},
+{"stem":"Which organ secretes the fluid that emulsifies fats in the small intestine?","opts":["Liver","Spleen","Stomach","Esophagus"]},
+{"stem":"Hepatocytes are the cells that make bile. In which organ are they found?","opts":["Liver","Pancreas","Gallbladder","Spleen"]},
+{"stem":"Which organ is the source of the bile salts that aid in fat digestion?","opts":["Liver","Gallbladder","Pancreas","Stomach"]},
+{"stem":"Which organ makes the greenish-yellow digestive fluid that travels through the common bile duct?","opts":["Liver","Pancreas","Spleen","Stomach"]},
+{"stem":"Where is bile manufactured before it is stored in the gallbladder?","opts":["Liver","Pancreas","Duodenum","Stomach"]}
+],"why":"The liver produces bile, which is stored and concentrated in the gallbladder and released into the duodenum to emulsify fats.","deep":"Liver = makes bile. Gallbladder = stores bile. Pancreas = makes digestive enzymes (lipase, amylase, proteases) and bicarbonate. Bile does not chemically digest fat; it breaks large fat droplets into smaller ones so lipase can work."},
+
+{"id":"ap-202-008","tag":"Muscular","type":"single","variants":[
+{"stem":"Which muscle type is involuntary and lacks striations?","opts":["Smooth muscle","Skeletal muscle","Cardiac muscle","Voluntary muscle"]},
+{"stem":"Which muscle tissue lines the walls of the stomach, intestines, and blood vessels?","opts":["Smooth muscle","Skeletal muscle","Cardiac muscle","Voluntary muscle"]},
+{"stem":"In which muscle type are actin and myosin filaments disorganized, with no sarcomeres present?","opts":["Smooth muscle","Skeletal muscle","Cardiac muscle","Voluntary muscle"]},
+{"stem":"Which muscle type moves food through the digestive tract by peristalsis?","opts":["Smooth muscle","Skeletal muscle","Cardiac muscle","Voluntary muscle"]},
+{"stem":"Muscle that contracts without conscious control and has no striped pattern under a microscope is:","opts":["Smooth muscle","Skeletal muscle","Cardiac muscle","Voluntary muscle"]},
+{"stem":"Which muscle is found in the walls of the bladder and uterus?","opts":["Smooth muscle","Skeletal muscle","Cardiac muscle","Voluntary muscle"]},
+{"stem":"Which muscle tissue lacks sarcomeres?","opts":["Smooth muscle","Skeletal muscle","Cardiac muscle","Voluntary muscle"]},
+{"stem":"Which type of muscle regulates the diameter of blood vessels and airways without conscious control?","opts":["Smooth muscle","Skeletal muscle","Cardiac muscle","Voluntary muscle"]}
+],"why":"Smooth muscle is involuntary and non-striated, with disorganized actin and myosin filaments and no sarcomeres.","deep":"Skeletal: voluntary, striated, attached to bones. Cardiac: involuntary, striated, found only in the heart. Smooth: involuntary, not striated, found in the walls of hollow organs and vessels. Both skeletal and cardiac muscle have sarcomeres."},
+
+{"id":"ap-202-009","tag":"Respiratory","type":"multi","variants":[
+{"stem":"Select all that apply: Through which structures does inhaled air pass on its way to the alveoli?","opts":["Trachea","Esophagus","Bronchi","Bronchioles","Aorta"],"correct":[0,2,3]},
+{"stem":"Select all that apply: Which of these are part of the airway between the larynx and the alveoli?","opts":["Bronchioles","Pulmonary vein","Trachea","Stomach","Primary bronchi"],"correct":[0,2,4]},
+{"stem":"Select all that apply: Which structures carry air rather than blood or food?","opts":["Trachea","Esophagus","Pulmonary artery","Secondary bronchi","Tertiary bronchi"],"correct":[0,3,4]},
+{"stem":"Select all that apply: Which are branches of the bronchial tree?","opts":["Primary bronchi","Secondary bronchi","Aorta","Tertiary bronchi","Duodenum"],"correct":[0,1,3]},
+{"stem":"Select all that apply: Air moving into the lungs travels through which of the following?","opts":["Trachea","Alveoli","Esophagus","Vena cava","Pyloric sphincter"],"correct":[0,1]},
+{"stem":"Select all that apply: Which structures are conducting airways that lead to the alveoli?","opts":["Bronchioles","Bronchi","Ureters","Trachea","Ileum"],"correct":[0,1,3]},
+{"stem":"Select all that apply: Which of the following are NOT part of the respiratory tree?","opts":["Trachea","Esophagus","Bronchi","Ureter","Bronchioles"],"correct":[1,3]},
+{"stem":"Select all that apply: Which structures does air travel through after the trachea?","opts":["Primary bronchi","Esophagus","Bronchioles","Aorta","Alveolar sacs"],"correct":[0,2,4]}
+],"why":"Inhaled air passes through the trachea, bronchi (primary, secondary, tertiary), and bronchioles to reach the alveoli. The esophagus, aorta, veins, and other organs belong to other systems.","deep":"Air path: nose or mouth → pharynx → larynx → trachea → primary bronchi → secondary bronchi → tertiary bronchi → bronchioles → alveoli. The esophagus lies behind the trachea and carries food, not air."},
+
+{"id":"ap-202-010","tag":"Renal","type":"hotspot","image":"<svg viewBox='0 0 200 220' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='45' rx='22' ry='34' fill='#b91c1c' stroke='#e2e8f0' stroke-width='3' transform='rotate(-12 50 45)'/><ellipse cx='150' cy='45' rx='22' ry='34' fill='#b91c1c' stroke='#e2e8f0' stroke-width='3' transform='rotate(12 150 45)'/><path d='M54 78 Q62 118 88 134 M146 78 Q138 118 112 134' stroke='#fbbf24' stroke-width='5' fill='none' stroke-linecap='round'/><circle cx='100' cy='158' r='30' fill='#38bdf8' stroke='#e2e8f0' stroke-width='3'/><line x1='100' y1='188' x2='100' y2='214' stroke='#fbbf24' stroke-width='5' stroke-linecap='round'/></svg>","target":[{"type":"circle","cx":100,"cy":158,"r":31}],"variants":[
+{"stem":"Tap the urinary bladder."},
+{"stem":"Tap the organ that stores urine until it is released."},
+{"stem":"Tap the muscular sac that receives urine from both ureters."},
+{"stem":"Tap the structure where the two ureters empty."},
+{"stem":"Tap the organ that stores urine before it passes into the urethra."},
+{"stem":"Tap the hollow organ that expands as it fills with urine."},
+{"stem":"Tap the organ located between the ureters and the urethra."},
+{"stem":"Tap the organ that holds urine after it leaves the kidneys and before it leaves the body."}
+],"why":"The urinary bladder is the hollow, muscular organ that stores urine received from the ureters until it is released through the urethra.","deep":"Urine pathway: kidneys → ureters → bladder → urethra → outside. The ureters are the thin tubes entering the bladder from above, and the urethra is the single tube leaving it. The bladder wall is smooth muscle that stretches as it fills."},
+
+{"id":"ap-202-011","tag":"Cardiovascular","type":"single","variants":[
+{"stem":"Which blood vessels carry blood away from the heart?","opts":["Arteries","Veins","Capillaries","Venules"]},
+{"stem":"Which vessels have thick, muscular walls to withstand the high pressure produced by the heart?","opts":["Arteries","Veins","Capillaries","Venules"]},
+{"stem":"The aorta is the largest example of which type of blood vessel?","opts":["Artery","Vein","Capillary","Venule"]},
+{"stem":"Which type of vessel delivers blood from the heart toward the tissues?","opts":["Arteries","Veins","Capillaries","Venules"]},
+{"stem":"Which vessels branch into arterioles and then into capillary beds?","opts":["Arteries","Veins","Venules","Lymphatics"]},
+{"stem":"Which blood vessels are associated with the pulse felt at the wrist and neck?","opts":["Arteries","Veins","Capillaries","Venules"]},
+{"stem":"The pulmonary trunk and the aorta are both examples of which category of blood vessel?","opts":["Arteries","Veins","Capillaries","Venules"]},
+{"stem":"Which vessels operate under the highest blood pressure?","opts":["Arteries","Veins","Capillaries","Venules"]}
+],"why":"Arteries carry blood away from the heart. They have thick, elastic, muscular walls because they handle the high pressure of each heartbeat.","deep":"Artery = Away from the heart (both start with A). Veins return blood to the heart and have valves and thinner walls. Capillaries are one cell thick and are where exchange of gases and nutrients occurs. Pulmonary arteries carry oxygen-poor blood, so oxygen content does not define an artery."},
+
+{"id":"bio-202-001","tag":"Genetics","type":"single","variants":[
+{"stem":"Which enzyme unwinds DNA and breaks the hydrogen bonds between base pairs at the start of replication?","opts":["Helicase","DNA polymerase","Ligase","RNA polymerase"]},
+{"stem":"Replication begins at an origin where an enzyme separates the two DNA strands. Which enzyme is this?","opts":["Helicase","DNA polymerase","Amylase","Ligase"]},
+{"stem":"Which enzyme creates the replication fork by splitting the DNA double helix?","opts":["Helicase","DNA polymerase","Ligase","RNA polymerase"]},
+{"stem":"Which enzyme breaks the hydrogen bonds between complementary bases?","opts":["Helicase","Protease","DNA polymerase","RNA polymerase"]},
+{"stem":"Before new strands can be built, which enzyme unzips the DNA double helix?","opts":["Helicase","DNA polymerase","Ligase","Lipase"]},
+{"stem":"The A–T base pairs split first during replication because they have only two hydrogen bonds. Which enzyme does the splitting?","opts":["Helicase","DNA polymerase","Ligase","RNA polymerase"]},
+{"stem":"Which enzyme is responsible for unwinding the parent DNA molecule at the replication fork?","opts":["Helicase","DNA polymerase","Ligase","Amylase"]},
+{"stem":"Which enzyme acts first in DNA replication by deforming the hydrogen bonds between bases?","opts":["Helicase","DNA polymerase","Ligase","RNA polymerase"]}
+],"why":"Helicase unwinds the double helix at the origin of replication by breaking the hydrogen bonds between base pairs, forming the replication fork.","deep":"A–T pairs have two hydrogen bonds; C–G pairs have three, so A–T regions separate more easily. After helicase unwinds the DNA, DNA polymerase builds the new complementary strands, and ligase seals gaps. Memory aid: HELicase = unwinds like a HELix opener."},
+
+{"id":"bio-202-002","tag":"Macromolecules","type":"single","variants":[
+{"stem":"Where does a substrate bind on an enzyme?","opts":["Active site","Hydrophobic core","Disulfide bridge","Signal peptide"]},
+{"stem":"Which region of an enzyme matches the shape of its substrate, explaining the key-in-lock analogy?","opts":["Active site","Hydrophobic core","Disulfide bridge","Signal peptide"]},
+{"stem":"What is the name of the region of an enzyme where catalysis takes place?","opts":["Active site","Hydrophobic core","Disulfide bridge","Signal peptide"]},
+{"stem":"An enzyme only interacts with substrates that match which part of the enzyme?","opts":["Active site","Hydrophobic core","Disulfide bridge","Signal peptide"]},
+{"stem":"In the lock-and-key model, which part of the enzyme acts as the lock?","opts":["Active site","Hydrophobic core","Disulfide bridge","Signal peptide"]},
+{"stem":"Competitive inhibitors work by blocking which region of an enzyme?","opts":["Active site","Hydrophobic core","Disulfide bridge","Signal peptide"]},
+{"stem":"Which region of an enzyme is highly selective for only certain reactants?","opts":["Active site","Hydrophobic core","Disulfide bridge","Signal peptide"]},
+{"stem":"Where does the chemical reaction occur on an enzyme molecule?","opts":["Active site","Hydrophobic core","Disulfide bridge","Signal peptide"]}
+],"why":"The substrate binds at the enzyme's active site, a region whose shape matches only certain substrates, which is why enzymes are highly selective.","deep":"Enzymes are proteins that speed reactions by lowering activation energy. The enzyme may reshape slightly to fit the substrate (induced fit), then release the products and return to its original shape. High temperature or extreme pH can denature an enzyme and destroy its active site."},
+
+{"id":"bio-202-003","tag":"Cell Biology","type":"single","variants":[
+{"stem":"Which organelle is the main site of ATP production in a cell?","opts":["Mitochondrion","Ribosome","Golgi apparatus","Lysosome"]},
+{"stem":"Known as the powerhouse of the cell, which organelle produces most of the cell's ATP?","opts":["Mitochondrion","Ribosome","Golgi apparatus","Lysosome"]},
+{"stem":"Cells with a high energy demand, such as muscle cells, contain many of which organelle?","opts":["Mitochondria","Ribosomes","Lysosomes","Centrioles"]},
+{"stem":"Which organelle has a double membrane and carries out aerobic cellular respiration?","opts":["Mitochondrion","Ribosome","Golgi apparatus","Lysosome"]},
+{"stem":"Which organelle contains its own DNA and converts the energy in glucose into ATP?","opts":["Mitochondrion","Ribosome","Golgi apparatus","Lysosome"]},
+{"stem":"Oxygen is used to release energy from food in which organelle?","opts":["Mitochondrion","Ribosome","Golgi apparatus","Smooth ER"]},
+{"stem":"Which organelle's inner folds, called cristae, increase surface area for energy production?","opts":["Mitochondrion","Ribosome","Golgi apparatus","Lysosome"]},
+{"stem":"Which structure converts the energy stored in glucose into usable ATP?","opts":["Mitochondrion","Ribosome","Golgi apparatus","Lysosome"]}
+],"why":"Mitochondria carry out aerobic cellular respiration and produce most of the cell's ATP.","deep":"Mitochondria have a double membrane, an inner membrane folded into cristae, and their own circular DNA; they self-replicate. Ribosomes build proteins, the Golgi modifies and packages them, and lysosomes digest waste."},
+
+{"id":"bio-202-004","tag":"Cell Division","type":"single","variants":[
+{"stem":"During which phase of mitosis do the chromosomes line up along the cell's equator?","opts":["Metaphase","Prophase","Anaphase","Telophase"]},
+{"stem":"Which phase of mitosis is when the chromosomes are arranged in a single line across the middle of the cell?","opts":["Metaphase","Prophase","Anaphase","Telophase"]},
+{"stem":"Spindle fibers attached to the centromeres hold the chromosomes at the center of the cell. Which phase is this?","opts":["Metaphase","Prophase","Anaphase","Telophase"]},
+{"stem":"Which phase comes right before sister chromatids are pulled apart toward opposite poles?","opts":["Metaphase","Prophase","Telophase","Cytokinesis"]},
+{"stem":"In which phase of mitosis are the chromosomes at the equatorial plane?","opts":["Metaphase","Prophase","Anaphase","Telophase"]},
+{"stem":"Which phase follows prophase and precedes anaphase?","opts":["Metaphase","Telophase","Interphase","Cytokinesis"]},
+{"stem":"A cell biologist sees all of the chromosomes lined up at the center of the cell. Which phase of mitosis is this?","opts":["Metaphase","Prophase","Anaphase","Telophase"]},
+{"stem":"The metaphase plate forms during which stage of mitosis?","opts":["Metaphase","Prophase","Anaphase","Telophase"]}
+],"why":"During metaphase, the chromosomes line up at the cell's equator (the metaphase plate), attached to spindle fibers.","deep":"Mitosis order: prophase (chromosomes condense, nuclear envelope breaks down) → metaphase (chromosomes line up in the middle) → anaphase (sister chromatids pulled apart) → telophase (two nuclei re-form), then cytokinesis. Memory aid: Metaphase = Middle."},
+
+{"id":"bio-202-005","tag":"Microbiology","type":"single","variants":[
+{"stem":"Why can't a virus reproduce on its own?","opts":["It lacks the machinery to replicate without a host cell","It is too large to divide","It has no genetic material","It is made only of cytoplasm"]},
+{"stem":"Which statement about viruses is true?","opts":["They can replicate only inside a host cell","They carry out their own metabolism","They have their own ribosomes","They divide by binary fission"]},
+{"stem":"A virus must infect another cell in order to:","opts":["Make copies of itself","Absorb sunlight","Digest food","Produce its own ATP"]},
+{"stem":"Viruses are called obligate intracellular parasites. What does this mean?","opts":["They can reproduce only inside host cells","They can live and grow in any nonliving environment","They reproduce by mitosis","They have a membrane-bound nucleus"]},
+{"stem":"How do viruses reproduce?","opts":["By taking over a host cell's machinery","By binary fission","By mitosis","By photosynthesis"]},
+{"stem":"Which feature makes viruses dependent on living cells?","opts":["They lack their own machinery for making proteins","They lack genetic material","They lack a protein coat","They contain too much DNA"]},
+{"stem":"In the life cycle of a virus, the host cell provides the:","opts":["Machinery needed to make new viral parts","Genetic code of the virus","Protein coat of the virus","Envelope of the virus"]},
+{"stem":"A bacteriophage infects a bacterium and uses it to make more phages. This shows that viruses require:","opts":["A host cell to reproduce","Sunlight to reproduce","Oxygen to reproduce","A nucleus to reproduce"]}
+],"why":"Viruses have genetic material and a protein coat but no machinery of their own for making proteins or energy, so they can replicate only by taking over a host cell.","deep":"A virus's life cycle: attach to host cell → enter → host cell makes viral parts → assemble → release. Bacteria are living cells that reproduce on their own by binary fission, which is why antibiotics work on bacteria but not viruses."},
+
+{"id":"chem-202-001","tag":"Reactions","type":"single","variants":[
+{"stem":"In a balanced chemical equation, what must be true?","opts":["The number of each type of atom is the same on both sides","The number of molecules is the same on both sides","The products have more atoms","The reactants have more mass"]},
+{"stem":"The Law of Conservation of Mass states that in a chemical reaction:","opts":["Matter is neither created nor destroyed","Mass is lost as heat","Atoms are changed into new elements","Products always weigh more"]},
+{"stem":"Why must chemical equations be balanced?","opts":["Matter cannot be created or destroyed","Reactants must be gases","Coefficients must be odd","Subscripts must be changed"]},
+{"stem":"2H₂ + O₂ → 2H₂O is a balanced equation because:","opts":["Each side has the same number of H and O atoms","Each side has the same number of molecules","The subscripts match on both sides","Oxygen is on the left only"]},
+{"stem":"Ten grams of reactants are sealed in a closed container and react completely. What is the total mass of the products?","opts":["10 g","More than 10 g","Less than 10 g","It depends on the temperature"]},
+{"stem":"Which principle explains why the atoms on the reactant side of an equation equal the atoms on the product side?","opts":["Conservation of mass","Le Chatelier's principle","Boyle's law","Avogadro's law"]},
+{"stem":"In any chemical reaction, the total mass of the reactants compared with the total mass of the products is:","opts":["Equal","Greater","Smaller","Unrelated"]},
+{"stem":"A chemist balances an equation by changing coefficients. Which rule does this satisfy?","opts":["Conservation of mass","Conservation of charge only","Le Chatelier's principle","Boyle's law"]}
+],"why":"Matter is neither created nor destroyed in a chemical reaction, so a balanced equation has the same number of each type of atom on both sides.","deep":"Balance equations by changing coefficients (the numbers in front of formulas), never subscripts, which would change the substances. Five basic reaction types: combination, decomposition, single replacement, double replacement, and combustion."},
+
+{"id":"chem-202-002","tag":"Properties of Matter","type":"typed","answers":["2.5","2.50"],"tolerance":0,"unit":"g/cm³","variants":[
+{"stem":"An object has a mass of 50 g and a volume of 20 cm³. What is its density in g/cm³?"},
+{"stem":"A metal sample weighs 50 grams and occupies 20 cubic centimeters. Calculate its density in g/cm³."},
+{"stem":"Find the density, in g/cm³, of a substance with a mass of 50 g and a volume of 20 mL."},
+{"stem":"A block of material has a volume of 20 cm³ and a mass of 50 g. What is the density, in g/cm³?"},
+{"stem":"Calculate the density in g/cm³ of a liquid if 20 cm³ of it has a mass of 50 g."},
+{"stem":"A student measures an unknown solid: mass = 50 g, volume = 20 cm³. What is the density in g/cm³?"},
+{"stem":"What is the density, in grams per cubic centimeter, of a rock that has a mass of 50 g and takes up 20 cm³?"},
+{"stem":"Using density = mass ÷ volume, find the density in g/cm³ of a sample with mass 50 g and volume 20 cm³."}
+],"why":"Density = mass ÷ volume = 50 g ÷ 20 cm³ = 2.5 g/cm³.","deep":"Water's density is about 1 g/cm³, so anything denser than 1 g/cm³ sinks in water if it is solid and uniform. Remember 1 mL = 1 cm³. An object's overall density includes any air inside it, which is why a hollow steel ship can float."},
+
+{"id":"chem-202-003","tag":"Solutions","type":"single","variants":[
+{"stem":"What does molarity (M) measure?","opts":["Moles of solute per liter of solution","Moles of solute per kilogram of solvent","Grams of solute per liter of solvent","Moles of solvent per liter of solution"]},
+{"stem":"A 1.0 M solution contains 1.0 mole of solute in each ____ of solution.","opts":["Liter","Kilogram","Gram","Milliliter"]},
+{"stem":"Which expression defines molarity?","opts":["Moles of solute ÷ liters of solution","Moles of solute ÷ kilograms of solvent","Grams of solute ÷ liters of solvent","Moles of solvent ÷ liters of solution"]},
+{"stem":"Molarity differs from molality because molarity is based on the amount of:","opts":["Solution, in liters","Solvent, in kilograms","Solute, in grams","Solvent, in liters"]},
+{"stem":"Which unit is used to express the concentration of a solution as molarity?","opts":["Moles per liter","Moles per kilogram","Grams per mole","Liters per mole"]},
+{"stem":"Which concentration measure compares the moles of solute with the volume of the entire solution?","opts":["Molarity","Molality","Density","Specific heat"]},
+{"stem":"The concentration of a solution expressed in mol/L is called its:","opts":["Molarity","Molality","Percent mass","Specific gravity"]},
+{"stem":"To calculate molarity, which two quantities are needed?","opts":["Moles of solute and liters of solution","Moles of solvent and mass of solution","Grams of solvent and liters of solute","Volume of solute and mass of solvent"]}
+],"why":"Molarity is the number of moles of solute per liter of solution (mol/L).","deep":"Molality (m) is moles of solute per kilogram of solvent. To find moles from grams, divide grams of solute by its molar mass. For dilutions use M₁V₁ = M₂V₂. A 1.0 M solution is more concentrated than a 0.1 M solution."},
+
+{"id":"chem-202-004","tag":"Acids and Bases","type":"single","variants":[
+{"stem":"What makes an acid \"strong\"?","opts":["It ionizes almost completely in solution","It has a pH above 7","It contains more atoms","It reacts only with metals"]},
+{"stem":"Which describes a strong acid in water?","opts":["Nearly all of its molecules ionize","Only a few of its molecules ionize","None of its molecules ionize","It cannot release H⁺"]},
+{"stem":"The strength of an acid reflects the degree to which it:","opts":["Ionizes in solution","Dissolves in oil","Changes color","Evaporates"]},
+{"stem":"HCl is a strong acid. What does this tell you about HCl in water?","opts":["Nearly all of it ionizes","Only a little of it ionizes","None of it ionizes","It forms a base"]},
+{"stem":"Highly reactive acids in which most of the molecules ionize are classified as:","opts":["Strong acids","Weak acids","Neutral compounds","Strong bases"]},
+{"stem":"Which statement about a strong acid is correct?","opts":["It dissociates completely in water","It dissociates slightly in water","It cannot donate protons","It always has a higher pH than a weak acid"]},
+{"stem":"In a solution of a strong acid, which is true of the acid molecules?","opts":["Almost all have ionized","Most remain intact","None have ionized","Half have ionized"]},
+{"stem":"Acid strength depends on how completely an acid does what in water?","opts":["Ionizes","Evaporates","Freezes","Reacts with oxygen"]}
+],"why":"A strong acid ionizes (dissociates) almost completely in water, while a weak acid only partly ionizes.","deep":"Strong acids include HCl, H₂SO₄, and HNO₃; acetic acid (in vinegar) is a weak acid. Strength is different from concentration: you can have a dilute solution of a strong acid or a concentrated solution of a weak acid. Strong acids have lower pH at the same concentration."},
+
+{"id":"chem-202-005","tag":"Bonding","type":"single","variants":[
+{"stem":"Which type of bond forms when two atoms share one or more pairs of electrons?","opts":["Covalent bond","Ionic bond","Metallic bond","Hydrogen bond"]},
+{"stem":"Water molecules contain hydrogen and oxygen atoms joined by which type of bond?","opts":["Covalent bonds","Ionic bonds","Metallic bonds","Hydrogen bonds"]},
+{"stem":"The sharing of electron pairs between two nonmetal atoms produces which type of bond?","opts":["Covalent","Ionic","Metallic","Hydrogen"]},
+{"stem":"Which bond results from an attraction caused by the sharing of electrons between atoms?","opts":["Covalent","Ionic","Metallic","Hydrogen"]},
+{"stem":"In O₂, the two oxygen atoms share electrons. What type of bond joins them?","opts":["Covalent","Ionic","Metallic","Hydrogen"]},
+{"stem":"Which bond is formed within a CH₄ molecule between carbon and hydrogen?","opts":["Covalent","Ionic","Metallic","Hydrogen"]},
+{"stem":"Which type of bond is characterized by shared electron pairs rather than transferred electrons?","opts":["Covalent","Ionic","Metallic","Hydrogen"]},
+{"stem":"Two nonmetal atoms with similar electronegativities that bond with each other will most likely form which type of bond?","opts":["Covalent","Ionic","Metallic","Hydrogen"]}
+],"why":"A covalent bond forms when atoms, usually nonmetals, share one or more pairs of electrons.","deep":"Ionic bond = electrons transferred (metal + nonmetal). Covalent bond = electrons shared (nonmetal + nonmetal). If the sharing is unequal (different electronegativity), the bond is polar covalent, as in water. Hydrogen bonds are weaker attractions between molecules, not bonds inside them."},
+
+{"id":"chem-202-006","tag":"Properties of Matter","type":"multi","variants":[
+{"stem":"Select all that apply: Which of the following are chemical changes?","opts":["Burning wood","Melting ice","Rusting of iron","Boiling water","Dissolving sugar in water"],"correct":[0,2]},
+{"stem":"Select all that apply: Which of these are physical changes?","opts":["Freezing water","Baking a cake","Cutting paper","Burning gasoline","Iron rusting"],"correct":[0,2]},
+{"stem":"Select all that apply: In which of these does a new substance form?","opts":["Silver tarnishing","Water evaporating","Milk souring","Ice melting","Glass breaking"],"correct":[0,2]},
+{"stem":"Select all that apply: Which changes involve only a change in state or form, not a new substance?","opts":["Wax melting","Wood burning","Water boiling","Rust forming","Food digesting"],"correct":[0,2]},
+{"stem":"Select all that apply: Which of the following are chemical changes?","opts":["Photosynthesis","Condensation","Combustion","Sublimation","Crushing a can"],"correct":[0,2]},
+{"stem":"Select all that apply: Which of the following are physical changes?","opts":["Sublimation of dry ice","Digesting food","Dissolving salt in water","Fireworks exploding","Fruit rotting"],"correct":[0,2]},
+{"stem":"Select all that apply: Which processes change the chemical composition of a substance?","opts":["Rusting","Evaporation","Combustion","Freezing","Grinding salt"],"correct":[0,2]},
+{"stem":"Select all that apply: Which processes do NOT change the chemical identity of the substance?","opts":["Melting","Burning","Boiling","Rusting","Fermenting"],"correct":[0,2]}
+],"why":"A chemical change forms new substances (burning, rusting, digesting, rotting), while a physical change alters only state, shape, or size (melting, freezing, boiling, dissolving, cutting).","deep":"Signs of a chemical change: gas given off, color change, light or heat released, a precipitate forming. Changes of state (melting, freezing, boiling, condensation, sublimation) are physical changes because the substance's identity stays the same."},
+
+{"id":"sr-202-001","tag":"Lab Equipment","type":"single","variants":[
+{"stem":"How should the volume of a liquid in a graduated cylinder be read?","opts":["At eye level, from the bottom of the curved surface","From above, at the top of the curved surface","From below, at the top of the curved surface","At arm's length, at the edge of the glass"]},
+{"stem":"The surface of a liquid in a graduated cylinder forms a curve called a meniscus. Where should the measurement be taken?","opts":["At the bottom of the curve","At the top of the curve","At the edge touching the glass","At the middle of the cylinder"]},
+{"stem":"To avoid reading errors with a graduated cylinder, the observer should:","opts":["Read at eye level on a flat surface","Hold the cylinder in one hand and look from above","Look from above to see the top edge","Read the number nearest the rim"]},
+{"stem":"A student reads a graduated cylinder from above and records the top of the meniscus. What should have been done instead?","opts":["Read at eye level from the bottom of the meniscus","Read from above at the top of the meniscus","Read from below at the glass edge","Pour in more liquid first"]},
+{"stem":"Which procedure gives the most accurate reading of a liquid volume in a graduated cylinder?","opts":["Place it on a flat surface and read the meniscus at eye level","Hold it at an angle and read the rim","Tilt it slightly and read the top","Read it from above the level of the eyes"]},
+{"stem":"Which point on the lens-shaped liquid surface is used when measuring volume in a graduated cylinder?","opts":["Lowest point of the curve","Highest point of the curve","Edge at the wall","Any point on the curve"]},
+{"stem":"Where should your eyes be in relation to the liquid surface when reading a graduated cylinder?","opts":["Level with the surface","Above the surface","Below the surface","Far to one side"]},
+{"stem":"A liquid in a graduated cylinder has a curved surface. The correct reading is the volume at the:","opts":["Bottom of the meniscus","Top of the meniscus","Left edge of the meniscus","Rim of the cylinder"]}
+],"why":"Place the cylinder on a flat surface and read it at eye level, taking the measurement from the bottom of the curved liquid surface (the meniscus).","deep":"Graduated cylinders are more precise than beakers and Erlenmeyer flasks but less precise than volumetric flasks or pipettes. Reading from above or below causes parallax error. For water-based liquids the meniscus curves downward, so read the lowest point."},
+
+{"id":"sr-202-002","tag":"Metric System","type":"typed","answers":["0.45",".45"],"tolerance":0,"unit":"g","variants":[
+{"stem":"Convert 450 milligrams to grams."},
+{"stem":"A tablet contains 450 mg of an ingredient. How many grams is that?"},
+{"stem":"A sample has a mass of 450 mg. What is its mass in grams?"},
+{"stem":"How many grams are in 450 mg?"},
+{"stem":"A lab technician weighs 450 milligrams of a powder. Express this mass in grams."},
+{"stem":"Using metric prefixes, convert 450 mg to g."},
+{"stem":"A chemical has a mass of 450 mg. Give its mass in g."},
+{"stem":"Express 450 mg in grams."}
+],"why":"Milli- means one thousandth, so 1 g = 1000 mg and 450 mg ÷ 1000 = 0.45 g.","deep":"To convert from a smaller unit to a larger one, divide; to go from larger to smaller, multiply. Moving the decimal point 3 places to the left converts mg to g. Prefix order: kilo, hecto, deka, (base unit), deci, centi, milli."},
+
+{"id":"sr-202-003","tag":"Variables","type":"single","variants":[
+{"stem":"In an experiment, which term describes the variables that are kept the same for all groups?","opts":["Constants","Independent variables","Dependent variables","Hypotheses"]},
+{"stem":"A student tests how temperature affects how much sugar dissolves in water. The type of solvent, the amount of stirring, and the pressure are kept the same. What are these called?","opts":["Constants","Independent variables","Dependent variables","Conclusions"]},
+{"stem":"Which type of variable should be carefully controlled so it does not change during an experiment?","opts":["Constant","Independent","Dependent","Responding"]},
+{"stem":"Factors such as pot size, soil type, and amount of water that are the same for every plant in an experiment are called:","opts":["Constants","Independent variables","Dependent variables","Hypotheses"]},
+{"stem":"Why are constants important in an experiment?","opts":["They keep other factors from affecting the results","They are the variable being measured","They are the variable being changed","They are the prediction being tested"]},
+{"stem":"All variables other than the independent and dependent variables should be treated as:","opts":["Constants","Hypotheses","Data points","Conclusions"]},
+{"stem":"Which of the following are variables that a researcher deliberately holds the same across trials?","opts":["Constants","Independent variables","Dependent variables","Outliers"]},
+{"stem":"In an experiment, the variables that are not tested and are kept unchanged are known as:","opts":["Constants","Independent variables","Dependent variables","Hypotheses"]}
+],"why":"Constants are the variables deliberately kept the same in every group so that only the independent variable affects the results.","deep":"Only one variable (the independent or manipulated variable) is purposely changed. The dependent (responding) variable is observed and recorded. Everything else should be a constant, otherwise you cannot tell what caused any change in the results."}
+]
+}

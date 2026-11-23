@@ -1,0 +1,280 @@
+{
+"format": "pulse-teas-bank",
+"version": 2,
+"questions": [
+{"id":"ap-200-001","tag":"Nervous","type":"single","variants":[
+{"stem":"During the depolarization phase of a neuron's action potential, which ion rushes into the cell?","opts":["Sodium (Na⁺)","Potassium (K⁺)","Chloride (Cl⁻)","Calcium (Ca²⁺)"]},
+{"stem":"A resting neuron is stimulated enough to reach threshold and voltage-gated channels open. Which ion flows inward?","opts":["Na⁺","K⁺","Mg²⁺","Cl⁻"]},
+{"stem":"The rising phase of an action potential happens because positive charge enters the cell. Which ion carries that charge?","opts":["Sodium","Potassium","Calcium","Magnesium"]},
+{"stem":"Which ion's inward movement makes the inside of a neuron less negative at the start of an action potential?","opts":["Sodium (Na⁺)","Potassium (K⁺)","Chloride (Cl⁻)","Phosphate (PO₄³⁻)"]},
+{"stem":"Depolarization of a nerve cell membrane is caused mainly by an influx of which ion?","opts":["Na⁺","K⁺","Ca²⁺","H⁺"]},
+{"stem":"In the first stage of nerve conduction, the inside of the membrane becomes positive. This is caused by the entry of which ion?","opts":["Sodium","Potassium","Chloride","Magnesium"]},
+{"stem":"Which statement correctly identifies the ion that enters a neuron during depolarization?","opts":["Sodium ions enter the cell","Potassium ions enter the cell","Magnesium ions enter the cell","Chloride ions enter the cell"]},
+{"stem":"Local anesthetics stop nerve impulses by blocking voltage-gated channels for which ion?","opts":["Sodium","Potassium","Calcium","Chloride"]}
+],"why":"Depolarization occurs when voltage-gated Na⁺ channels open and Na⁺ flows into the neuron, making the inside of the cell more positive.","deep":"Repolarization follows as Na⁺ channels close and K⁺ channels open, letting K⁺ flow out. Memory aid: Sodium Surges in, Potassium Pours out. The Na⁺/K⁺ pump later restores the resting concentration gradients."},
+
+{"id":"ap-200-002","tag":"Nervous","type":"single","variants":[
+{"stem":"In a simple withdrawal reflex, such as pulling a hand away from a hot stove, which structure processes the signal and sends the response?","opts":["Spinal cord","Cerebral cortex","Cerebellum","Thalamus"]},
+{"stem":"Which structure acts as the integration center in a reflex arc?","opts":["Spinal cord","Frontal lobe","Cerebellum","Hypothalamus"]},
+{"stem":"A patient's knee jerks when the patellar tendon is tapped. Where is this response coordinated?","opts":["Spinal cord","Motor cortex","Cerebellum","Brain stem"]},
+{"stem":"In a reflex arc, the sensory neuron synapses with an interneuron located in which structure?","opts":["Spinal cord","Cerebrum","Medulla oblongata","Hypothalamus"]},
+{"stem":"Where is the integration center for most somatic reflexes located?","opts":["Gray matter of the spinal cord","White matter of the cerebrum","Cortex of the cerebellum","Pons"]},
+{"stem":"Reflexes are faster than conscious reactions because the signal is processed mainly in which structure?","opts":["Spinal cord","Cerebral cortex","Pituitary gland","Temporal lobe"]},
+{"stem":"Which of the following sits between the sensory neuron and the motor neuron in a spinal reflex arc?","opts":["Spinal cord interneuron","Cerebral association area","Cerebellar nucleus","Thalamic relay"]},
+{"stem":"You jerk your hand back from a sharp object before you feel any pain. Which structure handled that rapid response?","opts":["Spinal cord","Cerebral cortex","Cerebellum","Occipital lobe"]}
+],"why":"In a spinal reflex, the sensory neuron synapses with an interneuron in the spinal cord, which activates a motor neuron. The brain is informed afterward.","deep":"Reflex arc order: receptor → sensory (afferent) neuron → integration center (spinal cord) → motor (efferent) neuron → effector. Afferent = arrives at the CNS; efferent = exits the CNS. Because the cerebral cortex is bypassed, reflexes are faster than voluntary responses."},
+
+{"id":"ap-200-003","tag":"Nervous","type":"single","variants":[
+{"stem":"Which brain structure controls involuntary functions such as breathing rate and heart rate?","opts":["Medulla oblongata","Cerebrum","Cerebellum","Thalamus"]},
+{"stem":"Damage to which brain structure would most directly threaten the control of respiration and heart rhythm?","opts":["Medulla oblongata","Frontal lobe","Cerebellum","Corpus callosum"]},
+{"stem":"Which region connects the brain to the spinal cord and regulates reflexes such as vomiting, coughing, and sneezing?","opts":["Medulla oblongata","Cerebrum","Cerebellum","Hypothalamus"]},
+{"stem":"Breathing continues during sleep without conscious effort. Which brain structure primarily drives this automatic rhythm?","opts":["Medulla oblongata","Cerebral cortex","Cerebellum","Basal ganglia"]},
+{"stem":"Which structure is the primary control center for heart rate, blood vessel diameter, and breathing?","opts":["Medulla oblongata","Cerebellum","Parietal lobe","Thalamus"]},
+{"stem":"The part of the brainstem that continues into the spinal cord and contains the cardiovascular and respiratory centers is the:","opts":["Medulla oblongata","Pons","Midbrain","Cerebellum"]},
+{"stem":"Which brain structure controls vital autonomic rhythms rather than movement coordination or reasoning?","opts":["Medulla oblongata","Cerebellum","Cerebrum","Parietal lobe"]},
+{"stem":"Which brain region contains the cardiac, respiratory, and vasomotor centers?","opts":["Medulla oblongata","Cerebellum","Frontal lobe","Corpus callosum"]}
+],"why":"The medulla oblongata contains the centers that automatically regulate heart rate, breathing, and blood vessel diameter.","deep":"The brainstem consists of the midbrain, pons, and medulla. The cerebrum handles conscious thought and voluntary movement, while the cerebellum coordinates balance and smooth movement. Memory aid: Medulla = Maintains life functions."},
+
+{"id":"ap-200-004","tag":"Cardiovascular","type":"single","variants":[
+{"stem":"Which chamber pumps oxygen-rich blood into the aorta for distribution to the body?","opts":["Left ventricle","Right ventricle","Left atrium","Right atrium"]},
+{"stem":"Which heart chamber has the thickest muscular wall because it must generate enough pressure for systemic circulation?","opts":["Left ventricle","Right ventricle","Left atrium","Right atrium"]},
+{"stem":"Blood leaves the heart through the aortic valve. From which chamber does it come?","opts":["Left ventricle","Right ventricle","Left atrium","Right atrium"]},
+{"stem":"Which chamber sends blood into the systemic circuit rather than the pulmonary circuit?","opts":["Left ventricle","Right ventricle","Left atrium","Right atrium"]},
+{"stem":"The mitral valve opens and blood fills a chamber that then contracts to eject blood into the aorta. Which chamber is it?","opts":["Left ventricle","Right ventricle","Left atrium","Right atrium"]},
+{"stem":"Contraction of which chamber produces the pulse that can be felt at the wrist?","opts":["Left ventricle","Right ventricle","Left atrium","Right atrium"]},
+{"stem":"Which chamber of the heart does the most work with each heartbeat?","opts":["Left ventricle","Right ventricle","Left atrium","Right atrium"]},
+{"stem":"Which chamber ejects blood at the highest pressure?","opts":["Left ventricle","Right ventricle","Left atrium","Right atrium"]}
+],"why":"The left ventricle ejects oxygenated blood into the aorta, so it must produce the highest pressure and has the thickest wall.","deep":"The right ventricle only pumps to the nearby lungs (low pressure), while the left ventricle pushes blood through the whole body. Path: left atrium → mitral valve → left ventricle → aortic valve → aorta. Atria receive blood; ventricles pump it out."},
+
+{"id":"ap-200-005","tag":"Cardiovascular","type":"single","variants":[
+{"stem":"Which structure is known as the natural pacemaker of the heart?","opts":["Sinoatrial (SA) node","Atrioventricular (AV) node","Bundle of His","Purkinje fibers"]},
+{"stem":"Where does the electrical impulse that starts each normal heartbeat originate?","opts":["Sinoatrial (SA) node","Atrioventricular (AV) node","Bundle of His","Purkinje fibers"]},
+{"stem":"The conduction pathway of the heart begins in the wall of the right atrium at which structure?","opts":["Sinoatrial (SA) node","Atrioventricular (AV) node","Bundle of His","Purkinje fibers"]},
+{"stem":"Which structure normally sets the resting heart rate at about 60 to 100 beats per minute?","opts":["Sinoatrial (SA) node","Atrioventricular (AV) node","Bundle of His","Purkinje fibers"]},
+{"stem":"On an ECG, the P wave represents atrial depolarization triggered by impulses from which structure?","opts":["Sinoatrial (SA) node","Atrioventricular (AV) node","Bundle branches","Purkinje fibers"]},
+{"stem":"Which part of the cardiac conduction system depolarizes fastest on its own and therefore sets the pace?","opts":["Sinoatrial (SA) node","Atrioventricular (AV) node","Bundle of His","Purkinje fibers"]},
+{"stem":"An artificial pacemaker is implanted to take over the job of which natural structure?","opts":["Sinoatrial (SA) node","Atrioventricular (AV) node","Bundle of His","Purkinje fibers"]},
+{"stem":"Which cluster of specialized cardiac cells starts the impulse that spreads across both atria?","opts":["Sinoatrial (SA) node","Atrioventricular (AV) node","Purkinje fibers","Bundle of His"]}
+],"why":"The SA node, located in the right atrial wall, depolarizes fastest and starts each heartbeat, so it is the heart's pacemaker.","deep":"Conduction order: SA node → atria contract → AV node (brief delay) → bundle of His → bundle branches → Purkinje fibers → ventricles contract. Memory aid: SA = Starts Alright. If the SA node fails, the AV node can take over at a slower rate."},
+
+{"id":"ap-200-006","tag":"Renal","type":"single","variants":[
+{"stem":"Which structure of the nephron is the site where blood is filtered under pressure?","opts":["Glomerulus","Proximal convoluted tubule","Loop of Henle","Collecting duct"]},
+{"stem":"The first step of urine formation, filtration, occurs across a tuft of capillaries. What is this structure called?","opts":["Glomerulus","Proximal convoluted tubule","Loop of Henle","Collecting duct"]},
+{"stem":"Large proteins and blood cells normally stay in the blood because the filtration barrier of which structure blocks them?","opts":["Glomerulus","Proximal convoluted tubule","Distal convoluted tubule","Collecting duct"]},
+{"stem":"Which part of the nephron receives blood from the afferent arteriole and filters it?","opts":["Glomerulus","Proximal convoluted tubule","Loop of Henle","Distal convoluted tubule"]},
+{"stem":"Filtration, reabsorption, and secretion are the three steps of urine formation. Which structure carries out filtration?","opts":["Glomerulus","Proximal convoluted tubule","Loop of Henle","Collecting duct"]},
+{"stem":"Which nephron structure is a ball of capillaries?","opts":["Glomerulus","Loop of Henle","Proximal convoluted tubule","Collecting duct"]},
+{"stem":"High blood pressure in the afferent arteriole pushes fluid out of the blood across which structure?","opts":["Glomerulus","Peritubular capillaries","Proximal convoluted tubule","Collecting duct"]},
+{"stem":"Within the renal corpuscle, which structure is the site of blood filtration?","opts":["Glomerulus","Proximal convoluted tubule","Loop of Henle","Collecting duct"]}
+],"why":"The glomerulus is a cluster of capillaries where blood pressure forces water and small solutes out of the blood into the nephron.","deep":"The nephron is the whole functional unit; the glomerulus is just its filtering part. Flow of filtrate: Bowman's capsule → proximal tubule → loop of Henle → distal tubule → collecting duct. Most reabsorption happens in the proximal tubule, not the glomerulus."},
+
+{"id":"ap-200-007","tag":"Muscular","type":"single","variants":[
+{"stem":"During muscle contraction, which protein's heads attach to actin to form cross-bridges?","opts":["Myosin","Tropomyosin","Troponin","Collagen"]},
+{"stem":"Which protein makes up the thick filaments of a sarcomere?","opts":["Myosin","Actin","Tropomyosin","Troponin"]},
+{"stem":"In the sliding filament model, which protein pulls the thin filaments toward the center of the sarcomere?","opts":["Myosin","Actin","Troponin","Elastin"]},
+{"stem":"Which protein uses ATP to perform the power stroke during contraction?","opts":["Myosin","Actin","Tropomyosin","Troponin"]},
+{"stem":"A cross-bridge forms when a protein head binds to a thin filament. Which protein has that head?","opts":["Myosin","Tropomyosin","Troponin","Keratin"]},
+{"stem":"Which filament protein has globular heads that extend toward actin?","opts":["Myosin","Titin","Troponin","Tropomyosin"]},
+{"stem":"Of the two main contractile proteins in skeletal muscle, which one forms the thick filaments?","opts":["Myosin","Actin","Troponin","Collagen"]},
+{"stem":"ATPase activity in the heads of which protein supplies the energy for the power stroke?","opts":["Myosin","Actin","Tropomyosin","Troponin"]}
+],"why":"Myosin forms the thick filaments, and its heads bind actin and use ATP to pull the thin filaments inward, shortening the sarcomere.","deep":"Sliding filament steps: Ca²⁺ binds troponin, tropomyosin shifts and exposes binding sites on actin, myosin heads attach (cross-bridge), then pivot (power stroke) using ATP. Memory aid: Myosin = Mover (thick), Actin = Anchor-track (thin)."},
+
+{"id":"ap-200-008","tag":"Immune","type":"single","variants":[
+{"stem":"Which cell type secretes large quantities of antibodies?","opts":["Plasma cell","Macrophage","Helper T cell","Neutrophil"]},
+{"stem":"After a B lymphocyte is activated, it differentiates into which antibody-producing cell?","opts":["Plasma cell","Memory T cell","Natural killer cell","Mast cell"]},
+{"stem":"Which of these cells is derived from activated B cells and makes antibodies?","opts":["Plasma cell","Cytotoxic T cell","Eosinophil","Basophil"]},
+{"stem":"Which cell is the main antibody factory of humoral immunity?","opts":["Plasma cell","Helper T cell","Macrophage","Natural killer cell"]},
+{"stem":"Humoral immunity depends on antibodies released into the blood. Which cell actually releases them?","opts":["Plasma cell","Cytotoxic T cell","Dendritic cell","Neutrophil"]},
+{"stem":"Which cell has abundant rough endoplasmic reticulum because it manufactures and exports antibodies?","opts":["Plasma cell","Mast cell","Natural killer cell","Monocyte"]},
+{"stem":"Which cell results when a B cell meets its antigen and receives help from a helper T cell?","opts":["Plasma cell","Cytotoxic T cell","Macrophage","Neutrophil"]},
+{"stem":"Which cell is responsible for producing and secreting antibodies after exposure to an antigen?","opts":["Plasma cell","Monocyte","Helper T cell","Eosinophil"]}
+],"why":"When a B cell is activated by its antigen (usually with help from a helper T cell), it becomes a plasma cell that secretes antibodies.","deep":"B cells mature in bone marrow; T cells mature in the thymus. Some activated B cells become memory B cells instead, which allow a faster response on re-exposure. Cytotoxic T cells kill infected cells directly rather than making antibodies."},
+
+{"id":"ap-200-009","tag":"Digestive","type":"single","variants":[
+{"stem":"Which section of the small intestine receives chyme directly from the stomach?","opts":["Duodenum","Jejunum","Ileum","Cecum"]},
+{"stem":"Where do bile and pancreatic juice enter the small intestine?","opts":["Duodenum","Jejunum","Ileum","Cecum"]},
+{"stem":"Which segment of the small intestine is the shortest and lies immediately after the pylorus?","opts":["Duodenum","Jejunum","Ileum","Appendix"]},
+{"stem":"Chyme leaves the stomach through the pyloric sphincter and first enters which structure?","opts":["Duodenum","Jejunum","Ileum","Cecum"]},
+{"stem":"Which is the first of the three sections of the small intestine?","opts":["Duodenum","Jejunum","Ileum","Colon"]},
+{"stem":"Chemical digestion in the small intestine begins in which segment, where secretions from the liver and pancreas are added?","opts":["Duodenum","Jejunum","Ileum","Colon"]},
+{"stem":"The common bile duct and pancreatic duct empty into which part of the digestive tract?","opts":["Duodenum","Jejunum","Stomach","Ileum"]},
+{"stem":"Which segment of the small intestine lies between the stomach and the jejunum?","opts":["Duodenum","Ileum","Cecum","Pylorus"]}
+],"why":"Chyme passes from the stomach through the pyloric sphincter into the duodenum, the first segment of the small intestine, where bile and pancreatic juice are added.","deep":"Order: duodenum → jejunum → ileum. Most chemical digestion occurs in the duodenum, most nutrient absorption in the jejunum, and the ileum absorbs vitamin B₁₂ and bile salts. The ileocecal valve joins the ileum to the large intestine."},
+
+{"id":"ap-200-010","tag":"Skeletal","type":"multi","variants":[
+{"stem":"Select all that apply: Which of the following belong to the axial skeleton?","opts":["Ribs","Sternum","Vertebral column","Clavicle","Pelvic girdle"],"correct":[0,1,2]},
+{"stem":"Select all that apply: Which of these are part of the axial skeleton?","opts":["Scapula","Skull","Vertebrae","Humerus","Ribs"],"correct":[1,2,4]},
+{"stem":"Select all that apply: The axial skeleton forms the central axis of the body. Which bones fall into this group?","opts":["Femur","Sternum","Ribs","Radius","Skull"],"correct":[1,2,4]},
+{"stem":"Select all that apply: Which of these structures are NOT part of the appendicular skeleton?","opts":["Ribs","Clavicle","Skull","Tibia","Vertebral column"],"correct":[0,2,4]},
+{"stem":"Select all that apply: Which of these protect the brain or the organs of the thorax and belong to the axial skeleton?","opts":["Skull","Rib cage","Pelvic girdle","Humerus","Scapula"],"correct":[0,1]},
+{"stem":"Select all that apply: Which are components of the axial skeleton?","opts":["Sternum","Femur","Vertebral column","Pelvic girdle","Skull"],"correct":[0,2,4]},
+{"stem":"Select all that apply: Which of the following belong to the axial skeleton rather than the appendicular skeleton?","opts":["Ribs","Radius","Skull","Patella","Sternum"],"correct":[0,2,4]},
+{"stem":"Select all that apply: Which of the following are classified as part of the axial skeleton?","opts":["Pelvic girdle","Vertebral column","Humerus","Ribs","Clavicle"],"correct":[1,3]}
+],"why":"The axial skeleton consists of the skull, vertebral column, ribs, and sternum. The limbs and the girdles that attach them form the appendicular skeleton.","deep":"Memory aid: Axial = the body's axis (central line); Appendicular = appendages (arms and legs) plus the girdles that connect them. The shoulder (pectoral) girdle is the scapula and clavicle; the pelvic girdle is the hip bones. Common traps: ribs are axial, and the pelvic girdle is appendicular."},
+
+{"id":"ap-200-011","tag":"Cardiovascular","type":"hotspot","image":"<svg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'><rect x='18' y='30' width='78' height='68' rx='14' fill='#3b82f6' stroke='#e2e8f0' stroke-width='3'/><rect x='104' y='30' width='78' height='68' rx='14' fill='#ef4444' stroke='#e2e8f0' stroke-width='3'/><rect x='18' y='104' width='78' height='72' rx='14' fill='#1d4ed8' stroke='#e2e8f0' stroke-width='3'/><rect x='104' y='104' width='78' height='72' rx='14' fill='#b91c1c' stroke='#e2e8f0' stroke-width='3'/><rect x='40' y='6' width='14' height='24' rx='4' fill='#60a5fa' stroke='#e2e8f0' stroke-width='2'/></svg>","target":[{"type":"rect","x":104,"y":30,"w":78,"h":68}],"variants":[
+{"stem":"Tap the left atrium. (This view faces the patient, so the patient's left appears on the right side of the image.)"},
+{"stem":"Tap the chamber that receives oxygenated blood returning from the lungs."},
+{"stem":"Tap the chamber that receives blood from the pulmonary veins."},
+{"stem":"Tap the upper chamber on the patient's left side. (The patient's left appears on the right side of the image.)"},
+{"stem":"Tap the atrium that empties through the mitral valve into the left ventricle."},
+{"stem":"Tap the receiving chamber that holds freshly oxygenated blood just before it enters the ventricle that supplies the aorta."},
+{"stem":"Tap the thin-walled receiving chamber of the left side of the heart. (The patient's left appears on the right side of the image.)"},
+{"stem":"Tap the atrium that sends blood on to the left ventricle."}
+],"why":"The left atrium receives oxygenated blood from the lungs through the pulmonary veins and passes it through the mitral valve to the left ventricle.","deep":"In an anterior diagram the patient's left is on your right. Blue/dark blue chambers show the oxygen-poor right side and red chambers the oxygen-rich left side. Memory aid: the Left Atrium Lands the lung blood (pulmonary veins), and the right atrium receives the body's blood via the vena cavae."},
+
+{"id":"bio-200-001","tag":"Genetics","type":"single","variants":[
+{"stem":"Which process copies a gene's DNA sequence into messenger RNA?","opts":["Transcription","Translation","Replication","Mutation"]},
+{"stem":"RNA polymerase builds an mRNA strand using DNA as a template. What is this process called?","opts":["Transcription","Translation","Replication","Splicing"]},
+{"stem":"In eukaryotic cells, mRNA is first made in the nucleus. Which process produces it?","opts":["Transcription","Translation","Replication","Differentiation"]},
+{"stem":"Which step of gene expression produces a single-stranded RNA copy of a DNA template?","opts":["Transcription","Translation","Replication","Mutation"]},
+{"stem":"Which is the first step of gene expression, the flow of information from a gene toward a protein?","opts":["Transcription","Translation","Replication","Translocation"]},
+{"stem":"If a cell needs to make a protein, which process must first occur in the nucleus to create the mRNA message?","opts":["Transcription","Translation","Replication","Mitosis"]},
+{"stem":"Which process produces an mRNA strand in which uracil pairs with adenine on the DNA template?","opts":["Transcription","Translation","Replication","Mutation"]},
+{"stem":"Which term describes the synthesis of RNA from a DNA template?","opts":["Transcription","Translation","Replication","Recombination"]}
+],"why":"Transcription is the process in which RNA polymerase copies a gene's DNA sequence into mRNA, taking place in the nucleus of eukaryotic cells.","deep":"DNA → (transcription) → mRNA → (translation) → protein. Memory aid: transcription = same 'language' (nucleic acid to nucleic acid), translation = changing language (nucleotides to amino acids) at the ribosome. In RNA, uracil replaces thymine."},
+
+{"id":"bio-200-002","tag":"Cell Biology","type":"single","variants":[
+{"stem":"Which type of cell division produces four genetically different haploid cells?","opts":["Meiosis","Mitosis","Binary fission","Budding"]},
+{"stem":"Gametes (sperm and egg cells) are produced by which process?","opts":["Meiosis","Mitosis","Binary fission","Fragmentation"]},
+{"stem":"Which process reduces the chromosome number by half, going from diploid to haploid?","opts":["Meiosis","Mitosis","Interphase","Cytokinesis"]},
+{"stem":"Crossing over and independent assortment increase genetic variation during which process?","opts":["Meiosis","Mitosis","Binary fission","DNA replication"]},
+{"stem":"A diploid cell with 46 chromosomes divides to make cells with 23 chromosomes each. Which process is this?","opts":["Meiosis","Mitosis","Binary fission","Replication"]},
+{"stem":"Which process involves two successive divisions and results in four daughter cells?","opts":["Meiosis","Mitosis","Budding","Binary fission"]},
+{"stem":"Germ cells in the testes and ovaries divide by which process to form haploid gametes?","opts":["Meiosis","Mitosis","Binary fission","Budding"]},
+{"stem":"Which process results in daughter cells that are not genetically identical to the parent and have half as many chromosomes?","opts":["Meiosis","Mitosis","Binary fission","Replication"]}
+],"why":"Meiosis consists of two divisions that turn one diploid cell into four genetically unique haploid cells (gametes).","deep":"Mitosis: one division, two identical diploid body (somatic) cells, used for growth and repair. Meiosis: two divisions, four unique haploid cells, used for reproduction. Crossing over (prophase I) and independent assortment create the genetic diversity."},
+
+{"id":"bio-200-003","tag":"Genetics","type":"typed","answers":["25","25%"],"tolerance":0,"unit":"%","variants":[
+{"stem":"Two heterozygous parents (Aa × Aa) have children. What percent of their offspring are expected to be homozygous recessive (aa)? Give a whole number."},
+{"stem":"In pea plants, tall (T) is dominant over short (t). Two heterozygous tall plants are crossed. What percent of the offspring are expected to be short? Give a whole number."},
+{"stem":"Both parents carry one dominant and one recessive allele for a trait. What is the probability, as a percent, that a child inherits two recessive alleles? Give a whole number."},
+{"stem":"A Punnett square crosses Bb × Bb. What percent of the offspring are expected to have the genotype bb? Give a whole number."},
+{"stem":"Two brown-eyed parents are both heterozygous (Bb), where brown is dominant over blue (b). What percent of their children are expected to have blue eyes? Give a whole number."},
+{"stem":"In a monohybrid cross between two hybrid organisms (Ee × Ee), what percent of offspring are expected to be homozygous for the recessive allele? Give a whole number."},
+{"stem":"Two unaffected parents each carry one copy of a recessive disease allele. What percent chance does each child have of being affected? Give a whole number."},
+{"stem":"A cross between two heterozygous plants gives a Punnett square with four boxes. What percent of the boxes show the homozygous recessive genotype? Give a whole number."}
+],"why":"A heterozygous × heterozygous cross (Aa × Aa) gives 1 AA : 2 Aa : 1 aa, so 1 of 4 offspring (25%) is homozygous recessive.","deep":"Genotype ratio is 1:2:1 and phenotype ratio is 3:1 (dominant:recessive) for a monohybrid hybrid cross. Homozygous = two identical alleles (AA or aa); heterozygous = two different alleles (Aa). Probability = favorable boxes ÷ total boxes."},
+
+{"id":"bio-200-004","tag":"Cell Biology","type":"single","variants":[
+{"stem":"Which feature do prokaryotic cells lack?","opts":["A membrane-bound nucleus","A cell membrane","Ribosomes","DNA"]},
+{"stem":"What is the main structural difference between prokaryotic and eukaryotic cells?","opts":["Prokaryotes have no membrane-bound nucleus","Prokaryotes have no ribosomes","Eukaryotes have no cell membrane","Eukaryotes have no DNA"]},
+{"stem":"Bacteria are prokaryotes. Which structure is absent from bacterial cells?","opts":["A membrane-enclosed nucleus","A plasma membrane","Ribosomes","Genetic material"]},
+{"stem":"In a eukaryotic cell, DNA is stored inside a membrane-bound compartment. Which cells lack this compartment?","opts":["Prokaryotic cells","Plant cells","Animal cells","Fungal cells"]},
+{"stem":"Which structure is found in eukaryotic cells but not in bacteria?","opts":["Membrane-bound nucleus","Ribosomes","Plasma membrane","Cytoplasm"]},
+{"stem":"Prokaryotic DNA is found in a region called the nucleoid. What does this indicate about the cell?","opts":["It has no membrane-bound nucleus","It lacks genetic material","It cannot make proteins","It has no cell membrane"]},
+{"stem":"Which cell type has its genetic material free in the cytoplasm rather than enclosed in a nucleus?","opts":["Prokaryotic","Eukaryotic","Animal","Plant"]},
+{"stem":"Which statement comparing eukaryotic and prokaryotic cells is true?","opts":["Only eukaryotes have a membrane-bound nucleus","Only prokaryotes have ribosomes","Only eukaryotes have DNA","Only prokaryotes have a plasma membrane"]}
+],"why":"Prokaryotic cells have no membrane-bound nucleus or other membrane-bound organelles; their DNA sits in the cytoplasm in a region called the nucleoid.","deep":"Prokaryotes (bacteria, archaea) are generally smaller and simpler. Eukaryotes (animals, plants, fungi, protists) have a nucleus and organelles such as mitochondria and the Golgi apparatus. Both types have DNA, ribosomes, cytoplasm, and a plasma membrane."},
+
+{"id":"bio-200-005","tag":"Cell Biology","type":"single","variants":[
+{"stem":"Which organelle contains digestive enzymes that break down worn-out cell parts and ingested material?","opts":["Lysosome","Ribosome","Golgi apparatus","Mitochondrion"]},
+{"stem":"A cell engulfs a bacterium. Which organelle fuses with the vesicle to digest it?","opts":["Lysosome","Nucleolus","Golgi apparatus","Smooth ER"]},
+{"stem":"Which organelle is often called the cell's recycling and waste-disposal center?","opts":["Lysosome","Mitochondrion","Ribosome","Centriole"]},
+{"stem":"Which organelle is filled with hydrolytic enzymes that work best in an acidic interior?","opts":["Lysosome","Ribosome","Rough ER","Nucleus"]},
+{"stem":"Which organelle breaks down macromolecules such as proteins, lipids, and carbohydrates inside the cell?","opts":["Lysosome","Ribosome","Golgi apparatus","Centrosome"]},
+{"stem":"Old or damaged organelles are digested inside which membrane-bound sac?","opts":["Lysosome","Ribosome","Mitochondrion","Nucleolus"]},
+{"stem":"White blood cells that engulf pathogens rely on which organelle to destroy them?","opts":["Lysosomes","Ribosomes","Centrioles","Mitochondria"]},
+{"stem":"Which organelle is produced by the Golgi apparatus and carries enzymes for intracellular digestion?","opts":["Lysosome","Ribosome","Nucleolus","Mitochondrion"]}
+],"why":"Lysosomes are membrane-bound sacs containing digestive enzymes that break down waste, worn-out organelles, and engulfed pathogens.","deep":"Memory aid: Lysosome = Lysis (to break apart). Ribosomes build proteins, the Golgi apparatus modifies and packages them, mitochondria make ATP. Lysosomes are especially abundant in phagocytic white blood cells."},
+
+{"id":"chem-200-001","tag":"Atomic Structure","type":"single","variants":[
+{"stem":"How many valence electrons does an atom of chlorine (Group 17) have?","opts":["7","17","8","5"]},
+{"stem":"Fluorine, chlorine, and bromine are in Group 17. How many electrons are in the outer shell of each of these atoms?","opts":["7","17","1","8"]},
+{"stem":"Iodine is in Group 17. How many electrons does an iodine atom have in its outermost energy level?","opts":["7","17","5","1"]},
+{"stem":"An element in Group 17 needs one more electron to fill its outer shell. How many valence electrons does it currently have?","opts":["7","1","8","17"]},
+{"stem":"How many valence electrons does any halogen atom have?","opts":["7","1","2","8"]},
+{"stem":"Bromine is a halogen. How many electrons does one bromine atom have in its valence shell?","opts":["7","17","35","8"]},
+{"stem":"For Groups 13 to 18, the last digit of the group number equals the number of valence electrons. How many valence electrons are in an atom of Group 17?","opts":["7","17","8","1"]},
+{"stem":"How many valence electrons does an element have if it sits in the column just left of the noble gases?","opts":["7","6","8","1"]}
+],"why":"Elements in Group 17 (the halogens) have 7 valence electrons, one short of a full outer shell of 8.","deep":"The group number is NOT the valence electron count for Groups 13–18; use the last digit (Group 17 → 7, Group 16 → 6, Group 1 → 1). Atoms are most stable with a full outer shell (octet), so halogens readily gain one electron to become 1− anions. Elements in the same group share valence electron count; elements in the same period share the number of electron shells."},
+
+{"id":"chem-200-002","tag":"Bonding","type":"single","variants":[
+{"stem":"Which compound is held together by ionic bonds?","opts":["NaCl","CO₂","H₂O","CH₄"]},
+{"stem":"Which compound forms when a metal atom transfers electrons to a nonmetal atom?","opts":["Sodium chloride (NaCl)","Carbon dioxide (CO₂)","Water (H₂O)","Methane (CH₄)"]},
+{"stem":"Which common household substance is an ionic compound?","opts":["Table salt (NaCl)","Sugar (C₁₂H₂₂O₁₁)","Water (H₂O)","Carbon dioxide (CO₂)"]},
+{"stem":"Which compound is made of positively and negatively charged ions attracted to each other?","opts":["NaCl","CH₄","CO₂","N₂"]},
+{"stem":"Which formula represents an ionic compound?","opts":["NaCl","H₂O","CO₂","O₂"]},
+{"stem":"Which compound has a crystal lattice made of oppositely charged ions?","opts":["NaCl","H₂O","CH₄","NH₃"]},
+{"stem":"In which compound is the electronegativity difference between the bonded atoms large enough to transfer electrons completely?","opts":["NaCl","HCl","CH₄","CO₂"]},
+{"stem":"Which compound is formed from a metal and a nonmetal?","opts":["NaCl","CO₂","H₂O","CH₄"]}
+],"why":"NaCl forms when sodium (a metal) transfers an electron to chlorine (a nonmetal), creating Na⁺ and Cl⁻ ions held together by ionic bonds.","deep":"Rule of thumb: metal + nonmetal = ionic (electrons transferred); nonmetal + nonmetal = covalent (electrons shared). Ionic compounds form crystal lattices, have high melting points, and conduct electricity when dissolved in water or melted."},
+
+{"id":"chem-200-003","tag":"Bonding","type":"multi","variants":[
+{"stem":"Select all that apply: Which of the following are ionic compounds?","opts":["NaCl","CO₂","MgO","CH₄","CaCl₂"],"correct":[0,2,4]},
+{"stem":"Select all that apply: Which compounds are formed by a metal bonding with a nonmetal?","opts":["KBr","H₂O","NH₃","LiF","CO"],"correct":[0,3]},
+{"stem":"Select all that apply: Which substances consist of ions held together by electrostatic attraction?","opts":["NH₃","CaO","NaF","HCl","O₂"],"correct":[1,2]},
+{"stem":"Select all that apply: Which of these are covalent compounds (NOT ionic)?","opts":["NaCl","H₂O","CH₄","KI","CO₂"],"correct":[1,2,4]},
+{"stem":"Select all that apply: Which formulas represent ionic compounds?","opts":["MgCl₂","C₆H₁₂O₆","Na₂O","SO₂","N₂"],"correct":[0,2]},
+{"stem":"Select all that apply: Which compounds would be expected to form a crystal lattice of cations and anions?","opts":["CH₄","KCl","H₂O","CaBr₂","CO₂"],"correct":[1,3]},
+{"stem":"Select all that apply: Which compounds form when electrons are transferred from one atom to another?","opts":["MgO","NH₃","NaBr","H₂O","CH₄"],"correct":[0,2]},
+{"stem":"Select all that apply: Which of the following are ionic?","opts":["CO₂","LiF","K₂S","H₂S","PCl₃"],"correct":[1,2]}
+],"why":"Ionic compounds form between a metal and a nonmetal through electron transfer (for example NaCl, MgO, CaCl₂). Compounds made only of nonmetals share electrons and are covalent.","deep":"Quick test: look for a metal (Groups 1, 2, or transition metals) paired with a nonmetal. Water, carbon dioxide, methane, and ammonia are covalent molecules. Ionic compounds conduct electricity when dissolved; molecular compounds generally do not."},
+
+{"id":"chem-200-004","tag":"Ions","type":"single","variants":[
+{"stem":"What is formed when a neutral atom loses one or more electrons?","opts":["A cation","An anion","An isotope","A compound"]},
+{"stem":"A sodium atom loses one electron to become Na⁺. What type of ion is Na⁺?","opts":["Cation","Anion","Isotope","Molecule"]},
+{"stem":"Which type of ion carries a positive charge?","opts":["Cation","Anion","Isotope","Allotrope"]},
+{"stem":"Metals tend to lose electrons when they form ions. What are the resulting ions called?","opts":["Cations","Anions","Isotopes","Allotropes"]},
+{"stem":"An atom ends up with more protons than electrons. What is it called?","opts":["Cation","Anion","Isotope","Neutral atom"]},
+{"stem":"Ca²⁺ is classified as which type of ion?","opts":["Cation","Anion","Isotope","Molecule"]},
+{"stem":"Which particle would be attracted to the negative electrode (cathode) in an electric field?","opts":["Cation","Anion","Neutral atom","Neutron"]},
+{"stem":"When magnesium loses two electrons, the resulting positively charged particle is called a(n):","opts":["Cation","Anion","Isotope","Allotrope"]}
+],"why":"Losing electrons leaves an atom with more protons than electrons, giving it a net positive charge. A positively charged ion is called a cation.","deep":"Memory aid: cATion = posiTIVE (the 't' looks like a plus sign) and Anion = A Negative ION. Metals usually form cations; nonmetals usually form anions by gaining electrons. Cations migrate toward the cathode."},
+
+{"id":"chem-200-005","tag":"Acids and Bases","type":"single","variants":[
+{"stem":"According to the Arrhenius definition, an acid is a substance that releases which ion in water?","opts":["H⁺ (hydrogen ion)","OH⁻ (hydroxide ion)","Na⁺ (sodium ion)","Cl⁻ (chloride ion)"]},
+{"stem":"Which ion increases in concentration when an acid is dissolved in water?","opts":["H⁺","OH⁻","Na⁺","K⁺"]},
+{"stem":"A solution with a pH of 2 has a higher concentration of which ion than a solution with a pH of 9?","opts":["H⁺","OH⁻","Na⁺","Cl⁻"]},
+{"stem":"When HCl dissolves in water, which ion is responsible for the acidic properties of the solution?","opts":["H⁺","Cl⁻","OH⁻","Na⁺"]},
+{"stem":"Bases release hydroxide ions (OH⁻) in water. Acids, in contrast, release which ion?","opts":["H⁺","OH⁻","O²⁻","Cl⁻"]},
+{"stem":"Lemon juice is acidic because it contains a high concentration of which ion?","opts":["H⁺","OH⁻","Na⁺","Ca²⁺"]},
+{"stem":"In the Brønsted–Lowry model, an acid is a proton donor. What is the proton that it donates?","opts":["H⁺","OH⁻","H₂","O²⁻"]},
+{"stem":"A strong acid dissociates almost completely in water, producing many of which ion?","opts":["H⁺","OH⁻","Na⁺","K⁺"]}
+],"why":"Acids release hydrogen ions (H⁺) in water; the more H⁺, the lower the pH and the stronger the acidity.","deep":"Acids: release H⁺ (pH below 7). Bases: release OH⁻ (pH above 7). Memory aid: Acids Add H⁺. Each pH unit is a tenfold change in H⁺ concentration, so pH 2 has 10,000 times more H⁺ than pH 6."},
+
+{"id":"chem-200-006","tag":"Atomic Structure","type":"typed","answers":["12"],"tolerance":0,"unit":"neutrons","variants":[
+{"stem":"A sodium atom has an atomic number of 11 and a mass number of 23. How many neutrons does it have?"},
+{"stem":"An atom has 11 protons and a mass number of 23. How many neutrons are in its nucleus?"},
+{"stem":"The nucleus of an atom contains 11 protons and has a total of 23 nucleons (protons plus neutrons). How many neutrons are present?"},
+{"stem":"Sodium-23 has an atomic number of 11. How many neutrons does an atom of sodium-23 contain?"},
+{"stem":"An atom's mass number is 23 and its atomic number is 11. Find its number of neutrons."},
+{"stem":"A neutral atom has 11 electrons and a mass number of 23. How many neutrons does it have?"},
+{"stem":"In the notation ²³₁₁Na, how many neutrons are in the nucleus?"},
+{"stem":"A nuclide has 11 protons, 11 electrons, and a mass number of 23. How many neutrons does it have?"}
+],"why":"Neutrons = mass number − atomic number = 23 − 11 = 12.","deep":"Atomic number = number of protons (and electrons in a neutral atom). Mass number = protons + neutrons. Isotopes of the same element have the same atomic number but different mass numbers (different numbers of neutrons)."},
+
+{"id":"sr-200-001","tag":"Experiments","type":"single","variants":[
+{"stem":"What is the main purpose of a control group in an experiment?","opts":["To provide a baseline for comparison","To receive the treatment being tested","To increase the total sample size","To prove that the hypothesis is true"]},
+{"stem":"A researcher tests a fertilizer on one set of plants and gives another set none. Why is the second set included?","opts":["To show growth without the fertilizer","To grow taller than the treated plants","To test a second fertilizer brand","To save time during the experiment"]},
+{"stem":"Why do scientists keep a group that does not receive the experimental treatment?","opts":["To compare against the treated group","To confirm the independent variable","To receive the largest dose","To remove all sources of error"]},
+{"stem":"In a drug trial, one group receives a placebo instead of the medication. What role does this group play?","opts":["It serves as the control group","It serves as the experimental group","It is the independent variable","It is the dependent variable"]},
+{"stem":"Which statement best describes the function of a control group?","opts":["It is the standard for comparing results","It receives every treatment at once","It is the variable the researcher changes","It is the data collected at the end"]},
+{"stem":"If the control group is removed from an experiment, what becomes hard to judge?","opts":["Whether the treatment had an effect","Which variable is independent","Which hypothesis was written","How the data were recorded"]},
+{"stem":"A control group is treated like the experimental group in every way except one. What is its purpose?","opts":["To isolate the effect of the variable","To increase the number of variables","To replace the hypothesis","To maximize the treatment effect"]},
+{"stem":"Why do researchers compare experimental results with a control group?","opts":["To see if the variable caused the change","To enlarge the sample size","To change the independent variable","To avoid repeating trials"]}
+],"why":"The control group does not receive the tested treatment, so it shows what happens without it and gives a baseline against which the experimental group is compared.","deep":"Everything except the independent variable is kept the same between the control and experimental groups. Without a control, you cannot tell whether a change was caused by the treatment or by something else. A placebo group is a common type of control."},
+
+{"id":"sr-200-002","tag":"Variables","type":"single","variants":[
+{"stem":"A student tests how the number of hours of sunlight per day affects the height of bean plants. Which is the dependent variable?","opts":["Height of the bean plants","Hours of sunlight per day","Type of bean seed","Amount of water given"]},
+{"stem":"A student grows bean plants under different amounts of daily sunlight and measures their heights after two weeks. Which variable is the outcome being measured?","opts":["Height of the bean plants","Hours of sunlight per day","Type of soil used","Size of the pots"]},
+{"stem":"In an experiment on how daily sunlight affects bean plant height, the researcher changes the sunlight. Which variable responds to that change?","opts":["Bean plant height","Sunlight hours","Soil type","Water volume"]},
+{"stem":"Bean plants receive 4, 8, or 12 hours of light per day and their growth is compared. Which variable depends on the amount of light?","opts":["Plant height","Number of light hours","Brand of potting soil","Temperature of the room"]},
+{"stem":"A student sets the hours of sunlight bean plants receive each day and records how tall the plants grow. Which quantity is observed and recorded rather than set?","opts":["Height of the plants","Hours of sunlight","Kind of seed","Volume of water"]},
+{"stem":"A graph shows how sunlight hours affect bean plant growth, with sunlight hours on the x-axis. Which variable belongs on the y-axis?","opts":["Plant height","Sunlight hours","Soil type","Water volume"]},
+{"stem":"If the hours of sunlight that bean plants receive are changed, which variable is expected to change as a result?","opts":["Plant height","Hours of sunlight","Seed type","Pot size"]},
+{"stem":"A student varies the light exposure of bean plants. To see the effect, the student measures which variable?","opts":["Plant height","Light exposure","Soil type","Water amount"]}
+],"why":"The dependent variable is the outcome that is measured and that responds to the change; here, plant height responds to the hours of sunlight (the independent variable).","deep":"Independent variable = what the researcher changes (x-axis). Dependent variable = what is measured (y-axis). Controlled variables (seed type, soil, water, temperature) are kept the same. Memory aid: the Dependent variable Depends on the independent variable."},
+
+{"id":"sr-200-003","tag":"Reliability","type":"single","variants":[
+{"stem":"A measurement or experiment is described as reliable if it:","opts":["Gives consistent results when repeated","Is close to the true value","Uses expensive equipment","Supports the hypothesis"]},
+{"stem":"Which situation best describes high reliability in an experiment?","opts":["Repeated trials give nearly the same results","The results match the researcher's prediction","The experiment has a very large sample","The experiment was published in a journal"]},
+{"stem":"A scale reads 5.01 g, 5.00 g, and 5.02 g each time the same object is weighed. What does this indicate about the scale?","opts":["It is reliable because the readings are consistent","It is accurate because it equals the true value","It is invalid because the readings differ","It has a systematic error"]},
+{"stem":"Which term describes how consistently an experiment's results can be reproduced?","opts":["Reliability","Accuracy","Control","Hypothesis"]},
+{"stem":"Different researchers repeat an experiment and obtain the same results. This shows that the experiment is:","opts":["Reliable","Biased","Unfalsifiable","Qualitative"]},
+{"stem":"Which practice does the most to improve the reliability of results?","opts":["Running repeated trials","Changing the procedure each time","Testing only one subject","Ignoring unusual results"]},
+{"stem":"Which describes a reliable test?","opts":["One that gives consistent results","One that measures what it claims","One that confirms the hypothesis","One that uses the newest tools"]},
+{"stem":"A thermometer gives the same reading each time it is placed in the same water. Which quality is demonstrated?","opts":["Reliability","Validity","Hypothesis","Bias"]}
+],"why":"Reliability means that results are consistent and repeatable when the same procedure is repeated.","deep":"Reliability = consistency (same result every time). Accuracy = closeness to the true value. Validity = measuring what you intend to measure. A tool can be reliable without being accurate (consistently off by the same amount). Repeated trials improve confidence in reliability."}
+]
+}

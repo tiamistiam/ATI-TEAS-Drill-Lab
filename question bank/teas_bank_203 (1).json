@@ -1,0 +1,280 @@
+{
+"format": "pulse-teas-bank",
+"version": 2,
+"questions": [
+{"id":"ap-203-001","tag":"Endocrine","type":"single","variants":[
+{"stem":"Which gland secretes thyroxine, a hormone that regulates the body's metabolic rate?","opts":["Thyroid gland","Adrenal gland","Parathyroid gland","Pancreas"]},
+{"stem":"Which endocrine gland, located in the anterior neck, controls the rate of metabolism?","opts":["Thyroid gland","Adrenal gland","Pineal gland","Thymus"]},
+{"stem":"T₃ and T₄ are produced by which gland?","opts":["Thyroid gland","Pituitary gland","Adrenal cortex","Pancreas"]},
+{"stem":"Which gland's hormones set the body's basal metabolic rate?","opts":["Thyroid gland","Adrenal gland","Parathyroid gland","Thymus"]},
+{"stem":"A shortage of iodine can cause an enlarged gland in the neck. Which gland is affected?","opts":["Thyroid gland","Adrenal gland","Thymus","Parathyroid gland"]},
+{"stem":"Which gland takes up iodine to make hormones that control cellular metabolism?","opts":["Thyroid gland","Adrenal gland","Pancreas","Pineal gland"]},
+{"stem":"Which gland is stimulated by TSH from the pituitary and regulates metabolism?","opts":["Thyroid gland","Adrenal gland","Pancreas","Thymus"]},
+{"stem":"Which butterfly-shaped gland wraps around the front of the trachea?","opts":["Thyroid gland","Thymus","Adrenal gland","Parathyroid gland"]}
+],"why":"The thyroid gland secretes thyroxine (T₄) and triiodothyronine (T₃), which regulate the body's metabolic rate.","deep":"The pituitary releases thyroid-stimulating hormone (TSH), which tells the thyroid to release its hormones (a negative feedback loop). Iodine is needed to make thyroid hormones. The parathyroid glands, behind the thyroid, regulate calcium."},
+
+{"id":"ap-203-002","tag":"Endocrine","type":"single","variants":[
+{"stem":"Which hormone increases water reabsorption in the kidneys, producing more concentrated urine?","opts":["ADH","Insulin","Calcitonin","Oxytocin"]},
+{"stem":"Released from the posterior pituitary, which hormone helps the body conserve water?","opts":["ADH","Growth hormone","Prolactin","Glucagon"]},
+{"stem":"A person is dehydrated. Which hormone's release increases to reduce urine output?","opts":["ADH","Insulin","Glucagon","Calcitonin"]},
+{"stem":"Which hormone is also called vasopressin?","opts":["ADH","Oxytocin","Aldosterone","Cortisol"]},
+{"stem":"Which hormone makes the collecting ducts of the kidney more permeable to water?","opts":["ADH","Insulin","Thyroxine","Glucagon"]},
+{"stem":"Which hormone decreases after a person drinks a large amount of water, resulting in dilute urine?","opts":["ADH","Insulin","Glucagon","Thyroxine"]},
+{"stem":"Which hormone regulates the body's water balance by acting on the kidneys?","opts":["ADH","Insulin","Glucagon","Thyroxine"]},
+{"stem":"Alcohol inhibits the release of which hormone, leading to increased urination?","opts":["ADH","Insulin","Glucagon","Calcitonin"]}
+],"why":"Antidiuretic hormone (ADH) is released when the body needs to conserve water. It makes the kidney's collecting ducts more permeable to water so more is reabsorbed.","deep":"ADH is made in the hypothalamus and released from the posterior pituitary. Higher ADH = less urine, more concentrated. Lower ADH = more urine, dilute. Memory aid: ADH = Anti-Diuretic Hormone (anti-peeing)."},
+
+{"id":"ap-203-003","tag":"Blood","type":"single","variants":[
+{"stem":"Which protein in red blood cells binds oxygen for transport?","opts":["Hemoglobin","Albumin","Fibrinogen","Keratin"]},
+{"stem":"The iron-containing protein that gives red blood cells their color is:","opts":["Hemoglobin","Collagen","Fibrinogen","Albumin"]},
+{"stem":"Oxygen is carried in the blood mainly by binding to which molecule?","opts":["Hemoglobin","Albumin","Globulin","Fibrin"]},
+{"stem":"Which molecule in erythrocytes carries oxygen from the lungs to the tissues?","opts":["Hemoglobin","Fibrinogen","Albumin","Keratin"]},
+{"stem":"Anemia is often caused by too little of which oxygen-carrying protein in the blood?","opts":["Hemoglobin","Albumin","Fibrinogen","Globulin"]},
+{"stem":"Each red blood cell is packed with which iron-containing protein that picks up oxygen in the lungs?","opts":["Hemoglobin","Albumin","Collagen","Fibrinogen"]},
+{"stem":"Which protein is responsible for most of the oxygen transport in human blood?","opts":["Hemoglobin","Albumin","Immunoglobulin","Fibrinogen"]},
+{"stem":"Carbon monoxide is dangerous because it binds in place of oxygen to which protein?","opts":["Hemoglobin","Albumin","Fibrinogen","Collagen"]}
+],"why":"Hemoglobin, an iron-containing protein inside red blood cells, binds oxygen in the lungs and releases it in the tissues.","deep":"Each hemoglobin molecule can carry four oxygen molecules. Red blood cells (erythrocytes) lack a nucleus, giving more room for hemoglobin. Albumin helps maintain blood osmotic pressure, and fibrinogen is involved in clotting."},
+
+{"id":"ap-203-004","tag":"Skeletal","type":"multi","variants":[
+{"stem":"Select all that apply: Which are functions of the skeletal system?","opts":["Protection of organs","Storage of calcium","Production of blood cells","Digestion of food","Production of insulin"],"correct":[0,1,2]},
+{"stem":"Select all that apply: The bones of the skeleton serve which purposes?","opts":["Support of the body","Production of insulin","Storage of minerals","Absorption of nutrients","Attachment sites for muscles"],"correct":[0,2,4]},
+{"stem":"Select all that apply: Which of these does the skeletal system do?","opts":["Houses red bone marrow","Filters blood plasma","Protects the brain","Regulates temperature by sweating","Stores phosphorus"],"correct":[0,2,4]},
+{"stem":"Select all that apply: Which of the following are NOT functions of the skeletal system?","opts":["Support","Gas exchange","Mineral storage","Digestion","Attachment for muscles"],"correct":[1,3]},
+{"stem":"Select all that apply: Which functions does bone tissue perform?","opts":["Blood cell formation","Calcium storage","Lipid digestion","Skeletal support","Urine production"],"correct":[0,1,3]},
+{"stem":"Select all that apply: Which statements about the skeletal system are true?","opts":["It protects the heart and lungs","It stores minerals","It filters blood","It makes blood cells","It secretes digestive enzymes"],"correct":[0,1,3]},
+{"stem":"Select all that apply: Which tasks are carried out by bones?","opts":["Protecting the spinal cord","Producing bile","Providing leverage for movement","Storing calcium","Making antibodies in the thymus"],"correct":[0,2,3]},
+{"stem":"Select all that apply: Which of the following does the skeleton provide?","opts":["A framework for the body","Storage of calcium and phosphorus","Absorption of oxygen","Sites for blood cell production","Secretion of pituitary hormones"],"correct":[0,1,3]}
+],"why":"The skeletal system supports the body, protects organs, provides leverage for movement, stores minerals such as calcium and phosphorus, and houses red bone marrow, where blood cells are made.","deep":"Hematopoiesis (blood cell production) occurs in red bone marrow. Yellow bone marrow stores fat. The skeletal system does not digest food, exchange gases, filter blood, or make hormones such as insulin."},
+
+{"id":"ap-203-005","tag":"Reproductive","type":"single","variants":[
+{"stem":"Where in the male reproductive system is sperm produced?","opts":["Seminiferous tubules","Epididymis","Vas deferens","Prostate gland"]},
+{"stem":"Spermatogenesis occurs within which structures of the testes?","opts":["Seminiferous tubules","Epididymis","Seminal vesicles","Urethra"]},
+{"stem":"Which coiled tubules inside the testes contain the cells that develop into sperm?","opts":["Seminiferous tubules","Epididymis","Vas deferens","Bulbourethral glands"]},
+{"stem":"Sperm cells first form in which part of the testis?","opts":["Seminiferous tubules","Epididymis","Vas deferens","Scrotum"]},
+{"stem":"Sperm mature and are stored in the epididymis. Where are they initially produced?","opts":["Seminiferous tubules","Vas deferens","Prostate gland","Seminal vesicles"]},
+{"stem":"Meiosis occurs in which male structures to form sperm?","opts":["Seminiferous tubules","Epididymis","Vas deferens","Prostate gland"]},
+{"stem":"Which structures make up most of the volume of the testes and produce sperm?","opts":["Seminiferous tubules","Epididymis","Vas deferens","Prostate gland"]},
+{"stem":"In which structures do spermatogonia divide and develop into sperm?","opts":["Seminiferous tubules","Epididymis","Seminal vesicles","Vas deferens"]}
+],"why":"Sperm are produced by meiosis in the seminiferous tubules, the coiled tubes inside the testes.","deep":"Sperm path: seminiferous tubules (made) → epididymis (matured and stored) → vas deferens → ejaculatory duct → urethra. The prostate gland and seminal vesicles add fluid to form semen. Testosterone is made by interstitial (Leydig) cells between the tubules."},
+
+{"id":"ap-203-006","tag":"Lymphatic","type":"single","variants":[
+{"stem":"Which structures filter lymph and contain lymphocytes that respond to pathogens?","opts":["Lymph nodes","Spleen","Thymus","Tonsils"]},
+{"stem":"Swollen glands in the neck during an infection are most likely enlarged:","opts":["Lymph nodes","Salivary glands","Thyroid lobes","Tonsil crypts"]},
+{"stem":"Lymph passes through which small, bean-shaped structures before returning to the bloodstream?","opts":["Lymph nodes","Thymus","Spleen","Adenoids"]},
+{"stem":"Which lymphatic structures trap pathogens from lymph fluid?","opts":["Lymph nodes","Thymus","Spleen","Bone marrow"]},
+{"stem":"Which structures are clustered in the armpits, neck, and groin and filter lymph?","opts":["Lymph nodes","Spleen","Thymus","Tonsils"]},
+{"stem":"Macrophages and lymphocytes inside which structures remove foreign particles from lymph?","opts":["Lymph nodes","Spleen","Thymus","Adenoids"]},
+{"stem":"Which part of the lymphatic system filters lymph, in contrast to the spleen, which filters blood?","opts":["Lymph nodes","Thymus","Tonsils","Adenoids"]},
+{"stem":"Which small, bean-shaped organs are located along lymphatic vessels?","opts":["Lymph nodes","Spleen","Thymus","Tonsils"]}
+],"why":"Lymph nodes are bean-shaped structures along lymphatic vessels that filter lymph, trapping pathogens so macrophages and lymphocytes can destroy them.","deep":"Lymph nodes cluster in the neck, armpits, and groin and swell during infection as immune cells multiply. The spleen filters blood and removes old red blood cells. The thymus is where T cells mature."},
+
+{"id":"bio-203-001","tag":"Macromolecules","type":"single","variants":[
+{"stem":"Which of the following is NOT a macromolecule?","opts":["Glucose","DNA","Protein","RNA"]},
+{"stem":"Which of the following is a monomer rather than a macromolecule?","opts":["Glucose","Starch","Glycogen","Cellulose"]},
+{"stem":"All of the following are macromolecules EXCEPT:","opts":["Glucose","Cellulose","Hemoglobin","RNA"]},
+{"stem":"Which is the building block (monomer) that links together to form large carbohydrates?","opts":["Glucose","Amino acid","Fatty acid","Nucleotide"]},
+{"stem":"Which of these is a simple sugar and not a polymer?","opts":["Glucose","Glycogen","Starch","Protein"]},
+{"stem":"Which of the following is NOT a large molecule built from many smaller repeating units?","opts":["Glucose","Protein","Starch","DNA"]},
+{"stem":"Starch, glycogen, and cellulose are macromolecules made of repeating units of which smaller molecule?","opts":["Glucose","Amino acids","Nucleotides","Glycerol"]},
+{"stem":"Which one is NOT considered a macromolecule?","opts":["Glucose","Glycogen","Collagen","mRNA"]}
+],"why":"Glucose is a single simple sugar (a monomer). Macromolecules are large polymers built from many monomers: starch and glycogen from glucose, proteins from amino acids, and DNA and RNA from nucleotides.","deep":"Four macromolecule types: carbohydrates (monomer: monosaccharide), lipids (fatty acids and glycerol; not true polymers), proteins (amino acids), and nucleic acids (nucleotides). Starch, glycogen, and cellulose are all long chains of glucose."},
+
+{"id":"bio-203-002","tag":"Macromolecules","type":"single","variants":[
+{"stem":"The enzyme lipase most likely digests which type of macromolecule?","opts":["Lipids","Carbohydrates","Proteins","Nucleic acids"]},
+{"stem":"A researcher isolates an enzyme called lipase. Which substrate would she expect it to break down?","opts":["Fats","Starches","Proteins","Nucleic acids"]},
+{"stem":"Enzyme names often hint at their targets. Lipase would be expected to act on:","opts":["Lipids","Carbohydrates","Proteins","Nucleic acids"]},
+{"stem":"Which macromolecule is broken down in the small intestine by pancreatic lipase?","opts":["Lipids","Carbohydrates","Proteins","Nucleic acids"]},
+{"stem":"Lipase would be most useful in digesting which food component?","opts":["Fats","Starches","Proteins","Sugars"]},
+{"stem":"Which of these is the correct substrate for the enzyme lipase?","opts":["Triglycerides","Starch","Polypeptides","DNA"]},
+{"stem":"Fatty acids and glycerol are released when lipase acts on which macromolecule?","opts":["Lipids","Carbohydrates","Proteins","Nucleic acids"]},
+{"stem":"An enzyme whose name begins with \"lip-\" and ends with \"-ase\" most likely digests which type of molecule?","opts":["Lipids","Carbohydrates","Proteins","Nucleic acids"]}
+],"why":"The ending \"-ase\" marks an enzyme, and the beginning of the name hints at its substrate. Lipase breaks down lipids (fats) into fatty acids and glycerol.","deep":"Use name clues: lactase → lactose, sucrase → sucrose, amylase → amylose (starch), protease → protein, nuclease → nucleic acids. Lipids are broken down by lipase; carbohydrates by enzymes such as amylase; proteins by proteases."},
+
+{"id":"bio-203-003","tag":"Metabolism","type":"single","variants":[
+{"stem":"During protein digestion, amino acids are broken down to yield urea, carbon dioxide, and energy in the form of ATP. This process is an example of:","opts":["Catabolism","Anabolism","Photosynthesis","Protein synthesis"]},
+{"stem":"Which term describes metabolic reactions that break large molecules into smaller ones and release energy?","opts":["Catabolism","Anabolism","Photosynthesis","Protein synthesis"]},
+{"stem":"The breakdown of glycogen into glucose is an example of:","opts":["Catabolism","Anabolism","Photosynthesis","Protein synthesis"]},
+{"stem":"Which type of metabolism is the opposite of anabolism?","opts":["Catabolism","Photosynthesis","Protein synthesis","Gluconeogenesis"]},
+{"stem":"Digesting a starch molecule into individual glucose units is an example of which type of metabolism?","opts":["Catabolism","Anabolism","Photosynthesis","Protein synthesis"]},
+{"stem":"Which term describes the breakdown of complex molecules into simpler ones?","opts":["Catabolism","Anabolism","Photosynthesis","Protein synthesis"]},
+{"stem":"Cellular respiration breaks glucose into carbon dioxide and water and releases energy. This is an example of:","opts":["Catabolism","Anabolism","Photosynthesis","Protein synthesis"]},
+{"stem":"When the body breaks down fat to obtain energy, which type of metabolism is taking place?","opts":["Catabolism","Anabolism","Photosynthesis","Protein synthesis"]}
+],"why":"Catabolism breaks large molecules into smaller ones and releases energy. Breaking amino acids into urea, carbon dioxide, and ATP energy is an example.","deep":"Metabolism = anabolism + catabolism. Anabolism builds big molecules from small ones and requires energy (for example, making proteins or photosynthesis). Catabolism breaks things down and releases energy. Memory aid: Catabolism = Cutting down."},
+
+{"id":"bio-203-004","tag":"Macromolecules","type":"single","variants":[
+{"stem":"Which condition is most likely to denature an enzyme?","opts":["A temperature far above its optimum","A small increase in substrate","A slight decrease in temperature","Adding more of the same enzyme"]},
+{"stem":"Enzymes are proteins that can lose their 3D shape. Which change would most likely cause this?","opts":["Heating well above the optimum temperature","Adding more substrate","Cooling slightly","Diluting the enzyme"]},
+{"stem":"An enzyme works best at pH 6 and 37 °C. Which condition would most likely denature it?","opts":["pH 10 and 52 °C","pH 6 and 37 °C","pH 6 and 30 °C","pH 7 and 37 °C"]},
+{"stem":"A protein loses its three-dimensional structure and stops functioning when exposed to which of the following?","opts":["Very high temperature","Its optimum pH","Moderate temperature","Its normal substrate"]},
+{"stem":"Which is most likely to cause an enzyme's active site to change shape and lose function?","opts":["An extreme pH","Its optimum temperature","A suitable substrate","A cofactor"]},
+{"stem":"Cooking an egg turns the clear protein white because the protein is exposed to which condition?","opts":["High temperature","Optimum pH","Low temperature","Extra water"]},
+{"stem":"Which of the following would cause the greatest loss of enzyme activity due to denaturation for a human enzyme?","opts":["Heating it to 80 °C","Keeping it at 37 °C","Adding extra substrate","Keeping it at its optimum pH"]},
+{"stem":"An enzyme's activity falls to nearly zero because its shape has unraveled. Which cause is most likely?","opts":["Exposure to extreme heat or pH","Lack of substrate","Too many enzyme molecules","Low oxygen"]}
+],"why":"Extreme temperature or pH breaks the bonds that hold an enzyme in its 3D shape, so the active site no longer fits the substrate and the enzyme stops working (denaturation).","deep":"Each enzyme has an optimum pH and temperature (for many human enzymes around 37 °C). Too high a temperature or too extreme a pH denatures it. Cold slows an enzyme but usually does not unravel its shape. Denatured = unfolded and not functional."},
+
+{"id":"bio-203-005","tag":"Cell Biology","type":"single","variants":[
+{"stem":"Which molecule forms the double layer that makes up the cell membrane?","opts":["Phospholipids","Nucleotides","Polysaccharides","Amino acids"]},
+{"stem":"Which type of molecule has a hydrophilic head and two hydrophobic tails?","opts":["Phospholipid","Nucleotide","Polysaccharide","Amino acid"]},
+{"stem":"Which molecule is the main structural component of cell membranes?","opts":["Phospholipid","Nucleic acid","Glycogen","Enzyme"]},
+{"stem":"The cell membrane is a bilayer made mostly of which molecule?","opts":["Phospholipids","Nucleotides","Polysaccharides","Amino acids"]},
+{"stem":"Which molecule has a glycerol backbone, a phosphate group, and two fatty acid chains?","opts":["Phospholipid","Triglyceride","Steroid","Nucleotide"]},
+{"stem":"In a cell membrane, hydrophobic tails face inward away from water. Which molecule has these tails?","opts":["Phospholipid","Glucose","DNA","ATP"]},
+{"stem":"Which lipid is amphipathic, with one end that attracts water and one end that repels it?","opts":["Phospholipid","Triglyceride","Wax","Starch"]},
+{"stem":"Which molecule is found in large quantities in the plasma membrane of a cell?","opts":["Phospholipid","DNA","Ribosome","Starch"]}
+],"why":"Phospholipids have a hydrophilic phosphate head and two hydrophobic fatty acid tails. They arrange in two layers (a bilayer) to form the cell membrane.","deep":"In water, the heads face outward toward the watery environment and the tails tuck inward, away from water. Proteins and cholesterol are embedded in the bilayer. This structure makes the membrane selectively permeable."},
+
+{"id":"bio-203-006","tag":"Genetics","type":"single","variants":[
+{"stem":"A nucleotide from DNA is composed of which three components?","opts":["Deoxyribose sugar, phosphate group, nitrogenous base","Ribose sugar, phosphate group, nitrogenous base","Deoxyribose sugar, amino acid, fatty acid","Ribose sugar, amino acid, fatty acid"]},
+{"stem":"Which set correctly lists the parts of one DNA nucleotide?","opts":["Phosphate, deoxyribose, nitrogenous base","Phosphate, ribose, nitrogenous base","Phosphate, deoxyribose, fatty acid","Amino acid, deoxyribose, nitrogenous base"]},
+{"stem":"The monomer of DNA contains a nitrogenous base, a phosphate group, and which sugar?","opts":["Deoxyribose","Ribose","Glucose","Fructose"]},
+{"stem":"Which sugar is part of each nucleotide in DNA?","opts":["Deoxyribose","Ribose","Glucose","Sucrose"]},
+{"stem":"DNA stands for deoxyribonucleic acid. Which sugar does the name refer to?","opts":["Deoxyribose","Ribose","Glucose","Maltose"]},
+{"stem":"In a strand of DNA, each repeating unit includes a phosphate, a nitrogenous base, and what else?","opts":["A deoxyribose sugar","A ribose sugar","An amino acid","A fatty acid"]},
+{"stem":"Which description matches the monomer that makes up DNA?","opts":["Deoxyribose + phosphate + nitrogenous base","Ribose + phosphate + nitrogenous base","Deoxyribose + amino acid + base","Glycerol + phosphate + fatty acid"]},
+{"stem":"Which molecule is the building block of DNA?","opts":["A nucleotide with deoxyribose, a phosphate, and a base","A nucleotide with ribose, a phosphate, and a base","An amino acid with an amine and a carboxyl group","A fatty acid attached to a glycerol backbone"]}
+],"why":"A DNA nucleotide consists of a deoxyribose sugar, a phosphate group, and a nitrogenous base (A, T, G, or C).","deep":"DNA = DeoxyriboNucleic Acid, so its sugar is deoxyribose. RNA = RiboNucleic Acid, so its sugar is ribose. The nitrogenous base is the \"letter\" part of the nucleotide. Nucleotides link through their sugar and phosphate groups to form the strand."},
+
+{"id":"bio-203-007","tag":"Cell Differentiation","type":"single","variants":[
+{"stem":"Shortly after fertilization, the first cells (blastomeres) can become any type of cell, including placental tissue. Which term describes them?","opts":["Totipotent","Pluripotent","Multipotent","Unipotent"]},
+{"stem":"Which term describes a cell that can develop into a complete organism?","opts":["Totipotent","Pluripotent","Multipotent","Unipotent"]},
+{"stem":"A zygote and the early cells from its first few divisions are best described as:","opts":["Totipotent","Pluripotent","Multipotent","Unipotent"]},
+{"stem":"Which cells have the greatest developmental potential, able to form all tissues, including those outside the embryo itself?","opts":["Totipotent","Pluripotent","Multipotent","Unipotent"]},
+{"stem":"Cells that can become any cell of the body and also the placenta are called:","opts":["Totipotent","Pluripotent","Multipotent","Unipotent"]},
+{"stem":"The earliest cells of an embryo after fertilization can give rise to a whole organism. Which term describes this ability?","opts":["Totipotent","Pluripotent","Multipotent","Unipotent"]},
+{"stem":"Which type of potency is shown by a fertilized egg?","opts":["Totipotent","Pluripotent","Multipotent","Unipotent"]},
+{"stem":"Which level of potency is the highest, above pluripotent and multipotent?","opts":["Totipotent","Unipotent","Pluripotent","Multipotent"]}
+],"why":"Totipotent cells, such as the zygote and the first blastomeres, can differentiate into any cell type and can form a whole organism.","deep":"Potency from greatest to least: totipotent (everything, including placenta) → pluripotent (all body cell types, such as embryonic stem cells) → multipotent (a limited family of cells, such as blood stem cells) → unipotent (one cell type). Memory aid: Toti = Total."},
+
+{"id":"bio-203-008","tag":"Genetics","type":"single","variants":[
+{"stem":"What is chromatin?","opts":["DNA wrapped around histone proteins","An enzyme complex that copies DNA","A structure that carries RNA to the ribosome","A network of protein fibers that shapes the cell"]},
+{"stem":"Which description matches chromatin in the nucleus of a eukaryotic cell?","opts":["DNA packaged with histone proteins","A complex that makes copies of DNA","A carrier of RNA out of the nucleus","Fibers that hold the cell's shape"]},
+{"stem":"Which statement about histones and DNA is correct?","opts":["DNA wraps around histones to form chromatin","Histones copy DNA before mitosis","Histones carry RNA out of the nucleus","Histones are fibers that give the cell shape"]},
+{"stem":"How is DNA organized so that it fits inside the nucleus?","opts":["It wraps around histone proteins as chromatin","It forms a ring made of RNA","It is stored inside lysosomes","It is spread loosely across the cytoplasm"]},
+{"stem":"Which best defines chromatin?","opts":["A complex of DNA and histone proteins","A complex of RNA and ribosomes","A bundle of cytoskeleton fibers","A membrane around the nucleus"]},
+{"stem":"Chromatin condenses into chromosomes before cell division. What is chromatin made of?","opts":["DNA and histone proteins","RNA and amino acids","Lipids and carbohydrates","Water and ions"]},
+{"stem":"Which structure is formed when DNA is wound around histone proteins?","opts":["Chromatin","Ribosome","Centriole","Nucleolus"]},
+{"stem":"What does chromatin consist of?","opts":["DNA wrapped around histones","mRNA bound to ribosomes","Phospholipids and proteins","Actin and myosin filaments"]}
+],"why":"Chromatin is DNA wrapped around histone proteins, which keeps the long DNA molecule organized and tightly packed in the nucleus.","deep":"Chromatin (loosely packed) condenses into visible chromosomes during cell division. Think of histones as spools and DNA as thread. DNA replication is done by enzymes such as helicase and DNA polymerase, not by chromatin."},
+
+{"id":"bio-203-009","tag":"Genetics","type":"typed","answers":["35","35%"],"tolerance":0,"unit":"%","variants":[
+{"stem":"A double-stranded DNA molecule contains 15% adenine. What percent of the molecule is guanine? Give a whole number."},
+{"stem":"In a sample of double-stranded DNA, adenine makes up 15% of the bases. According to Chargaff's rules, what percent of the bases are guanine?"},
+{"stem":"A segment of double-stranded DNA is 15% thymine. What percent is cytosine? Give a whole number."},
+{"stem":"If 15% of the nucleotides in a double-stranded DNA sample are adenine, what percent are guanine? Give a whole number."},
+{"stem":"Double-stranded DNA from a bacterium is 15% adenine. Use Chargaff's rules to find the percent of cytosine."},
+{"stem":"In double-stranded DNA, adenine and thymine together make up 30% of the bases. What percent are guanine? Give a whole number."},
+{"stem":"A researcher finds that 15% of the bases in a DNA double helix are adenine. What percent of the bases are guanine? Give a whole number."},
+{"stem":"Thymine accounts for 15% of the bases in a double-stranded DNA sample. What percent of the bases are guanine?"}
+],"why":"By Chargaff's rules, A = T and G = C. If A = 15%, then T = 15%, leaving 70% for G + C, so G = 35% (and C = 35%).","deep":"In double-stranded DNA, adenine pairs with thymine and guanine pairs with cytosine, so their amounts are equal. All four bases add up to 100%. Chargaff's rules apply to double-stranded DNA, not to single-stranded RNA."},
+
+{"id":"bio-203-010","tag":"Genetics","type":"single","variants":[
+{"stem":"RNA is unique from DNA in all of the following ways EXCEPT:","opts":["Its nucleotides contain a phosphate group","It contains the nucleotide uracil","It is typically single-stranded","Its nucleotides contain the sugar ribose"]},
+{"stem":"All of the following are differences between RNA and DNA EXCEPT:","opts":["Both have nucleotides containing phosphate groups","RNA has uracil while DNA has thymine","RNA is usually single-stranded while DNA is double-stranded","RNA has ribose while DNA has deoxyribose"]},
+{"stem":"Which feature do RNA and DNA share?","opts":["Nucleotides that contain a phosphate group","The base uracil","The sugar deoxyribose","A double-stranded helix"]},
+{"stem":"Which of the following is NOT a difference between RNA and DNA?","opts":["Both contain phosphate groups","Uracil versus thymine","Single strand versus double strand","Ribose versus deoxyribose"]},
+{"stem":"RNA and DNA are alike in which way?","opts":["Each nucleotide has a phosphate group","Each contains thymine","Each contains ribose","Each is typically double-stranded"]},
+{"stem":"Which statement is true of both RNA and DNA?","opts":["Their nucleotides contain a phosphate group","They contain uracil","They contain deoxyribose","They are usually single-stranded"]},
+{"stem":"Which property does NOT distinguish RNA from DNA?","opts":["Phosphate group in each nucleotide","Presence of uracil","Number of strands","Type of sugar"]},
+{"stem":"Choose the statement that is true for both RNA and DNA.","opts":["Both are made of nucleotides with a phosphate group","Both contain the base thymine","Both contain the sugar ribose","Both are usually single-stranded"]}
+],"why":"Both RNA and DNA are made of nucleotides that contain a phosphate group. The differences are the sugar (ribose vs. deoxyribose), one base (uracil vs. thymine), and the number of strands (usually single vs. double).","deep":"On the TEAS, watch for EXCEPT and NOT questions: you are looking for the false statement (or the shared feature). RNA = ribose, uracil, usually single-stranded. DNA = deoxyribose, thymine, double-stranded helix."},
+
+{"id":"bio-203-011","tag":"Cell Transport","type":"single","variants":[
+{"stem":"A red blood cell is placed in a solution with a very high salt concentration. What will happen?","opts":["Water will leave the cell and the cell will shrink","Water will enter the cell and the cell will swell","Salt will enter the cell and the cell will swell","The cell will keep its size"]},
+{"stem":"A red blood cell is placed in a hypertonic solution. Which will occur?","opts":["Water leaves the cell and the cell shrinks","Water enters the cell and the cell swells","Solute enters the cell and the cell swells","The cell stays the same size"]},
+{"stem":"Water moves by osmosis when a red blood cell is placed in concentrated salt water. The cell will:","opts":["Shrink","Swell","Burst","Stay the same size"]},
+{"stem":"The solution surrounding a red blood cell has much more solute than the cell's cytoplasm. What happens to the cell?","opts":["It shrinks as water leaves","It swells as water enters","It swells as solute enters","It stays the same"]},
+{"stem":"Which describes the net movement of water when a red blood cell is placed in very salty water?","opts":["Out of the cell","Into the cell","No net movement","Toward the lower solute concentration"]},
+{"stem":"A red blood cell is placed in water that is much saltier than its cytoplasm. Which is the result?","opts":["The cell shrinks","The cell expands","The cell bursts","The cell is unchanged"]},
+{"stem":"What happens to a red blood cell in a hypertonic environment?","opts":["It loses water and shrinks","It gains water and swells","It gains solutes and swells","It is unaffected"]},
+{"stem":"Because salt cannot cross the membrane, what happens to a red blood cell in a very salty solution?","opts":["Water leaves and the cell shrinks","Water enters and the cell expands","Salt enters and the cell expands","The cell neither gains nor loses water"]}
+],"why":"Salt cannot easily cross the membrane, so water moves by osmosis toward the saltier side. In a very salty solution water leaves the red blood cell and the cell shrinks.","deep":"Water moves from lower solute concentration to higher solute concentration. Pure water (hypotonic): water enters the red blood cell and it swells and may burst. Very salty solution (hypertonic): water leaves and the cell shrinks. Isotonic: no net change."},
+
+{"id":"bio-203-012","tag":"Genetics","type":"typed","answers":["50","50%"],"tolerance":0,"unit":"%","variants":[
+{"stem":"A heterozygous parent (Aa) is crossed with a homozygous recessive parent (aa). What percent of the offspring are expected to be homozygous recessive? Give a whole number."},
+{"stem":"In a certain animal, albino (a) is recessive to normal coat color (A). A heterozygous animal mates with an albino animal. What percent of the offspring are expected to be albino? Give a whole number."},
+{"stem":"A Punnett square crosses Bb × bb. What percent of the offspring have the genotype bb? Give a whole number."},
+{"stem":"A parent with genotype Tt is crossed with a parent with genotype tt. What is the probability, as a percent, that a child has genotype tt? Give a whole number."},
+{"stem":"One parent is a carrier (Cc) for a recessive trait and the other parent has the recessive trait (cc). What percent of their offspring are expected to show the trait? Give a whole number."},
+{"stem":"A cross is made between Rr and rr plants. What percent of the offspring are expected to be rr? Give a whole number."},
+{"stem":"If an Aa individual mates with an aa individual, what percent of the offspring will be aa? Give a whole number."},
+{"stem":"A carrier (Dd) and an affected individual (dd) have children. What is the percent chance that each child is dd? Give a whole number."}
+],"why":"Aa × aa gives 2 Aa : 2 aa, so half (50%) of the offspring are homozygous recessive (aa).","deep":"Set up the Punnett square: one parent's alleles across the top, the other's down the side. Aa × aa → Aa, Aa, aa, aa. Genotype ratio 1:1, so 50% Aa (heterozygous) and 50% aa. Compare with Aa × Aa, which gives 25% aa."},
+
+{"id":"bio-203-013","tag":"Microbiology","type":"single","variants":[
+{"stem":"After Gram staining, bacteria with a thick peptidoglycan cell wall will appear what color?","opts":["Purple","Red","Colorless","Green"]},
+{"stem":"Gram-positive bacteria stain which color?","opts":["Purple","Red","Colorless","Green"]},
+{"stem":"A bacterium has a thick outer peptidoglycan layer. Under a light microscope after Gram staining, it will look:","opts":["Purple","Pink or red","Clear","Yellow"]},
+{"stem":"Which color do Gram-positive cells appear after the Gram stain procedure?","opts":["Purple","Red","Colorless","Green"]},
+{"stem":"Gram staining sorts bacteria by cell wall structure. Which color results for cells with a thick peptidoglycan layer on the outside?","opts":["Purple","Red","Colorless","Green"]},
+{"stem":"Staphylococcus epidermidis is Gram-positive. How will it appear after Gram staining?","opts":["Purple","Red","Colorless","Green"]},
+{"stem":"On a Gram-stained slide, which color is characteristic of Gram-positive bacteria?","opts":["Purple","Red","Colorless","Green"]},
+{"stem":"A Gram-positive bacterium retains the crystal violet dye. What color will it be?","opts":["Purple","Pink","Colorless","Orange"]}
+],"why":"Gram-positive bacteria have a thick outer layer of peptidoglycan that holds the crystal violet dye, so they stain purple.","deep":"Gram-negative bacteria have a thin peptidoglycan layer sandwiched between membranes and stain pink/red. Memory aid: Gram-Positive = Purple. Gram staining helps identify bacteria, which guides which antibiotics to use."},
+
+{"id":"bio-203-014","tag":"Microbiology","type":"multi","variants":[
+{"stem":"Select all that apply: Which of the following diseases are caused by viruses?","opts":["Measles","Pertussis","Herpes","Malaria","Influenza"],"correct":[0,2,4]},
+{"stem":"Select all that apply: Which are viral infections?","opts":["Strep throat","Chickenpox","Tuberculosis","Mumps","Candidiasis"],"correct":[1,3]},
+{"stem":"Select all that apply: Which diseases are caused by viruses rather than bacteria?","opts":["Hepatitis B","Tetanus","HIV/AIDS","Cholera","Lyme disease"],"correct":[0,2]},
+{"stem":"Select all that apply: Which of the following are NOT caused by viruses?","opts":["Measles","Pertussis","Herpes","Tuberculosis","Influenza"],"correct":[1,3]},
+{"stem":"Select all that apply: Antibiotics would be ineffective against which of these?","opts":["Common cold","Strep throat","Measles","Urinary tract infection caused by E. coli","Pertussis"],"correct":[0,2]},
+{"stem":"Select all that apply: Which diseases are caused by viruses?","opts":["Rabies","Syphilis","Polio","Malaria","Ringworm"],"correct":[0,2]},
+{"stem":"Select all that apply: Which of these illnesses are viral?","opts":["COVID-19","Whooping cough","Mononucleosis","Trichomoniasis","Anthrax"],"correct":[0,2]},
+{"stem":"Select all that apply: Which of the following infections are caused by viruses?","opts":["Genital herpes","Gonorrhea","Hepatitis A","Athlete's foot","Typhoid fever"],"correct":[0,2]}
+],"why":"Measles, herpes, influenza, chickenpox, mumps, polio, rabies, hepatitis, and HIV are viral. Pertussis, tuberculosis, strep throat, and cholera are bacterial; malaria is caused by a protozoan; candidiasis and ringworm are fungal.","deep":"Match the pathogen to the drug: antibiotics (bactericidal) treat bacteria, antivirals treat viruses, antifungals (such as fluconazole) treat fungi, and antiprotozoal drugs (such as metronidazole) treat protozoa. Antibiotics do not work on viruses. Viruses are smaller than bacteria."},
+
+{"id":"chem-203-001","tag":"Reactions","type":"single","variants":[
+{"stem":"A reaction releases heat to its surroundings, and the container feels warm. What type of reaction is this?","opts":["Exothermic","Endothermic","Catalytic","Reversible"]},
+{"stem":"The combustion of methane gives off heat and light. This reaction is classified as:","opts":["Exothermic","Endothermic","Catalytic","Reversible"]},
+{"stem":"Which term describes a reaction in which the products have less energy than the reactants and energy is released?","opts":["Exothermic","Endothermic","Catalytic","Neutral"]},
+{"stem":"A chemical reaction transfers energy to the surroundings, and the temperature of the surroundings rises. Which type is it?","opts":["Exothermic","Endothermic","Catalytic","Reversible"]},
+{"stem":"Which type of reaction releases energy, usually as heat?","opts":["Exothermic","Endothermic","Catalytic","Reversible"]},
+{"stem":"An instant hot pack heats up when it is activated. The reaction inside is:","opts":["Exothermic","Endothermic","Catalytic","Reversible"]},
+{"stem":"Which of the following describes an exothermic reaction?","opts":["It releases heat to the surroundings","It absorbs heat from the surroundings","It requires a catalyst","It occurs only in living cells"]},
+{"stem":"In an energy diagram, the products are lower in energy than the reactants. Which type of reaction is this?","opts":["Exothermic","Endothermic","Catalytic","Reversible"]}
+],"why":"An exothermic reaction releases energy (usually as heat) to the surroundings because the products have less energy than the reactants.","deep":"Exothermic: heat released, surroundings warm up (combustion, hot packs, cellular respiration). Endothermic: heat absorbed, surroundings cool down (instant cold packs, photosynthesis). Memory aid: Exo = exit (heat exits); Endo = enters."},
+
+{"id":"chem-203-002","tag":"Atomic Structure","type":"single","variants":[
+{"stem":"Isotopes of an element have the same number of ____ but different numbers of ____.","opts":["protons; neutrons","neutrons; protons","electrons; protons","protons; electrons"]},
+{"stem":"How do carbon-12 and carbon-14 differ?","opts":["They have different numbers of neutrons","They have different numbers of protons","They have different atomic numbers","They are different elements"]},
+{"stem":"Which statement correctly describes isotopes of the same element?","opts":["Same atomic number, different mass number","Same mass number, different atomic number","Same neutrons, different protons","Same electrons only"]},
+{"stem":"Two atoms have the same atomic number but different mass numbers. They are:","opts":["Isotopes of the same element","Ions of the same element","Atoms of different elements","Isomers"]},
+{"stem":"Hydrogen, deuterium, and tritium all have one proton. They differ in the number of:","opts":["Neutrons","Protons","Valence electrons","Energy shells"]},
+{"stem":"What distinguishes one isotope of an element from another?","opts":["The number of neutrons","The number of protons","The number of valence electrons","The chemical symbol"]},
+{"stem":"Atoms of an element with different numbers of neutrons are called:","opts":["Isotopes","Ions","Allotropes","Molecules"]},
+{"stem":"Which pair of atoms are isotopes of each other?","opts":["6 protons and 6 neutrons; 6 protons and 8 neutrons","6 protons and 6 neutrons; 7 protons and 6 neutrons","6 protons and 6 neutrons; 8 protons and 8 neutrons","7 protons and 7 neutrons; 8 protons and 8 neutrons"]}
+],"why":"Isotopes are atoms of the same element (same number of protons, same atomic number) that have different numbers of neutrons, and therefore different mass numbers.","deep":"The number of protons defines the element. Carbon-12 has 6 neutrons, carbon-14 has 8, and both have 6 protons. Isotopes have nearly identical chemical behavior but different masses; some are radioactive. Ions differ in electrons, not neutrons."},
+
+{"id":"sr-203-001","tag":"Graphs","type":"hotspot","image":"<svg viewBox='0 0 300 200' xmlns='http://www.w3.org/2000/svg'><line x1='40' y1='170' x2='280' y2='170' stroke='#e2e8f0' stroke-width='2'/><line x1='40' y1='170' x2='40' y2='15' stroke='#e2e8f0' stroke-width='2'/><path d='M45 168 C90 165 120 40 170 40 C215 40 225 150 255 168' fill='none' stroke='#fbbf24' stroke-width='4' stroke-linecap='round'/><text x='160' y='192' fill='#e2e8f0' font-size='11' text-anchor='middle'>Temperature</text><text x='14' y='95' fill='#e2e8f0' font-size='11' text-anchor='middle' transform='rotate(-90 14 95)'>Enzyme activity</text></svg>","target":[{"type":"circle","cx":170,"cy":46,"r":22}],"variants":[
+{"stem":"Tap the point on the curve where enzyme activity is highest."},
+{"stem":"Tap the part of the graph that shows the enzyme's optimum temperature."},
+{"stem":"Tap the peak of the curve."},
+{"stem":"Tap the location where the enzyme is working at its best."},
+{"stem":"Tap the temperature at which this enzyme shows its greatest activity."},
+{"stem":"Tap the point where the enzyme is most active, just before activity begins to fall because of denaturation."},
+{"stem":"Tap the highest point on the activity curve."},
+{"stem":"Tap the spot on the graph that marks the optimal condition for the enzyme."}
+],"why":"The enzyme is most active at the peak of the curve, which marks its optimum temperature. Activity falls on either side of it.","deep":"Read a graph by first identifying the axes: here, temperature on the x-axis and enzyme activity on the y-axis. At temperatures well above the optimum the enzyme starts to denature, so activity drops. Below the optimum, the enzyme works slowly but is not usually denatured."},
+
+{"id":"sr-203-002","tag":"Data Interpretation","type":"single","table":{"head":["Temperature (°C)","Enzyme activity (units)"],"rows":[["20","12"],["30","28"],["37","45"],["45","20"],["55","2"]]},"variants":[
+{"stem":"Which conclusion is best supported by the data in the table?","opts":["The enzyme is most active near 37 °C and much less active at higher temperatures","Enzyme activity increases at every temperature tested","The enzyme shows no activity below 30 °C","The enzyme works best at 55 °C"]},
+{"stem":"Based on the table, which statement is accurate?","opts":["Activity peaks near 37 °C, then drops at higher temperatures","Activity rises as the temperature rises from 20 °C to 55 °C","Activity is zero at 20 °C","The highest activity is recorded at 55 °C"]},
+{"stem":"A student records enzyme activity at five temperatures. Which statement does the data support?","opts":["The enzyme performs best at about 37 °C","The enzyme performs best at about 20 °C","The enzyme performs best at about 55 °C","The enzyme is unaffected by temperature"]},
+{"stem":"Which is the best interpretation of the results shown?","opts":["The optimum temperature is near 37 °C, and activity declines past it","Higher temperature always increases activity","The enzyme is fully inactive at 30 °C","Activity is the same at every temperature"]},
+{"stem":"What do the data suggest about the effect of temperature on this enzyme?","opts":["Activity is highest near 37 °C and falls at higher temperatures","Activity steadily rises with temperature","Activity steadily falls with temperature","Temperature has no effect on activity"]},
+{"stem":"Which statement correctly describes the trend in enzyme activity?","opts":["Activity rises to a peak near 37 °C, then falls","Activity rises at every temperature tested","Activity falls at every temperature tested","Activity stays constant across all temperatures"]},
+{"stem":"Which statement matches the information in the table?","opts":["Activity at 37 °C is greater than activity at 45 °C","Activity at 55 °C is greater than activity at 37 °C","Activity at 20 °C is greater than activity at 30 °C","Activity at 45 °C is greater than activity at 37 °C"]},
+{"stem":"Which claim can be made using only the data in the table?","opts":["The enzyme is most active at 37 °C among the temperatures tested","The enzyme is most active at 55 °C among the temperatures tested","The enzyme is most active at 20 °C among the temperatures tested","The enzyme is equally active at all temperatures tested"]}
+],"why":"Activity is highest at 37 °C (45 units) and drops at 45 °C and 55 °C, so the data support an optimum near 37 °C with decreasing activity at higher temperatures.","deep":"When a question says the answer must be supported by the table, only use the numbers given. Note what the data does NOT show: it has no measurements between listed temperatures, so claims such as \"exactly 37 °C is the best possible temperature\" go beyond the data."},
+
+{"id":"sr-203-003","tag":"Scientific Method","type":"single","variants":[
+{"stem":"A student adds iodine solution to a potato slice, and the slice turns dark blue-black. Which statement is an observation?","opts":["The potato slice turned dark blue-black","The potato contains starch","Iodine reacts with starch","The potato is a good energy source"]},
+{"stem":"A student adds iodine solution to a potato slice, and the slice turns dark blue-black. Which statement describes what was directly seen rather than a conclusion drawn from it?","opts":["The slice changed to dark blue-black","The slice must contain starch","The iodine reacted chemically","The potato stores energy"]},
+{"stem":"A student adds iodine to a potato slice, and the slice turns dark blue-black. Which of the following is NOT an inference?","opts":["The potato slice turned dark blue-black","The potato contains starch","The iodine reacted with something in the potato","The color change means a chemical was present"]},
+{"stem":"A student reports four statements about a potato slice treated with iodine. Which one is based directly on what was seen?","opts":["The slice turned dark blue-black","The slice contains a carbohydrate","The iodine solution is an indicator","The color shows starch is present"]},
+{"stem":"A student adds iodine to a potato slice and the slice turns dark blue-black. Which statement belongs in the observations section of a lab notebook?","opts":["The potato slice became dark blue-black","The potato slice has starch","Starch turns iodine blue-black","The test proves the potato is nutritious"]},
+{"stem":"After iodine is added to a potato slice, the slice turns dark blue-black. Which is a direct observation, not an explanation?","opts":["The potato slice turned a dark blue-black color","The potato slice contains starch molecules","The iodine bonded to starch","The potato slice is a plant storage organ"]},
+{"stem":"Iodine is added to a potato slice and the slice turns dark blue-black. Which statement reports data without interpreting it?","opts":["The slice turned dark blue-black","The color change shows a starch test","Starch is present in the slice","The slice is rich in carbohydrates"]},
+{"stem":"A potato slice turns dark blue-black after iodine is added. Which of the following is an observation instead of an inference?","opts":["The surface of the potato slice turned dark blue-black","The potato slice has complex carbohydrates","Iodine detected starch","The potato is a starchy food"]}
+],"why":"An observation records what is directly seen, measured, or heard (the slice turned dark blue-black). An inference is a conclusion based on the observation and prior knowledge (the potato contains starch).","deep":"Observations: facts gathered with the senses or instruments (qualitative or quantitative). Inferences: explanations or conclusions that go beyond the data. Hypotheses are testable predictions, and models are simplified descriptions of systems. On the TEAS, ask yourself: could I see or measure this directly?"}
+]
+}

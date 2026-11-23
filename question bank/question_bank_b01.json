@@ -1,0 +1,2003 @@
+{
+ "format": "pulse-teas-bank",
+ "version": 2,
+ "questions": [
+  {
+   "id": "ap-b01-001",
+   "tag": "Cardiovascular",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which heart chamber receives oxygen-poor blood returning from the body?",
+     "opts": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+     ]
+    },
+    {
+     "stem": "Deoxygenated blood from the vena cava first enters which chamber?",
+     "opts": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+     ]
+    },
+    {
+     "stem": "Blood returning through the superior and inferior vena cavae empties into the:",
+     "opts": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+     ]
+    },
+    {
+     "stem": "Which chamber is the entry point for systemic venous blood?",
+     "opts": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+     ]
+    },
+    {
+     "stem": "After circulating through the body, oxygen-depleted blood arrives at which heart chamber?",
+     "opts": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+     ]
+    },
+    {
+     "stem": "The vena cavae deliver blood to which part of the heart?",
+     "opts": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+     ]
+    },
+    {
+     "stem": "Which chamber collects blood from the body before it passes to the right ventricle?",
+     "opts": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+     ]
+    },
+    {
+     "stem": "Which heart chamber first receives blood that has just given up its oxygen to the tissues?",
+     "opts": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+     ]
+    }
+   ],
+   "why": "The right atrium receives deoxygenated blood from the body via the superior and inferior vena cavae.",
+   "deep": "Blood path: body → vena cavae → right atrium → right ventricle → pulmonary arteries → lungs → pulmonary veins → left atrium → left ventricle → aorta. Memory aid: the right side handles blood returning from the body, the left side sends oxygenated blood out."
+  },
+  {
+   "id": "ap-b01-002",
+   "tag": "Skeletal",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which of the following belongs to the axial skeleton?",
+     "opts": [
+      "Ribs",
+      "Pelvic girdle",
+      "Clavicle",
+      "Humerus"
+     ]
+    },
+    {
+     "stem": "The axial skeleton includes the skull, vertebral column, and which of these?",
+     "opts": [
+      "Ribs",
+      "Pelvic girdle",
+      "Clavicle",
+      "Humerus"
+     ]
+    },
+    {
+     "stem": "Which bone group is classified as axial rather than appendicular?",
+     "opts": [
+      "Ribs",
+      "Pelvic girdle",
+      "Clavicle",
+      "Humerus"
+     ]
+    },
+    {
+     "stem": "Which structure forms part of the central axis of the skeleton?",
+     "opts": [
+      "Ribs",
+      "Pelvic girdle",
+      "Clavicle",
+      "Humerus"
+     ]
+    },
+    {
+     "stem": "Choose the structure that is part of the axial skeleton.",
+     "opts": [
+      "Ribs",
+      "Pelvic girdle",
+      "Clavicle",
+      "Humerus"
+     ]
+    },
+    {
+     "stem": "Which of these is NOT part of the appendicular skeleton?",
+     "opts": [
+      "Ribs",
+      "Pelvic girdle",
+      "Clavicle",
+      "Humerus"
+     ]
+    },
+    {
+     "stem": "The thoracic cage of the axial skeleton is formed by the sternum, thoracic vertebrae, and which structure?",
+     "opts": [
+      "Ribs",
+      "Pelvic girdle",
+      "Clavicle",
+      "Humerus"
+     ]
+    },
+    {
+     "stem": "Which of the following protects the organs of the thorax as part of the axial skeleton?",
+     "opts": [
+      "Ribs",
+      "Pelvic girdle",
+      "Clavicle",
+      "Humerus"
+     ]
+    }
+   ],
+   "why": "The ribs are part of the axial skeleton; the pelvic girdle, clavicle, and humerus belong to the appendicular skeleton.",
+   "deep": "Axial = skull, vertebral column, ribs, sternum, hyoid, and ear ossicles (the body's axis). Appendicular = limbs plus the pectoral and pelvic girdles that attach them."
+  },
+  {
+   "id": "ap-b01-003",
+   "tag": "Nervous",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "During the depolarization phase of an action potential, which ion rushes into the neuron?",
+     "opts": [
+      "Sodium (Na⁺)",
+      "Potassium (K⁺)",
+      "Chloride (Cl⁻)",
+      "Magnesium (Mg²⁺)"
+     ]
+    },
+    {
+     "stem": "Opening of voltage-gated channels at the start of an action potential lets which ion enter the cell?",
+     "opts": [
+      "Sodium (Na⁺)",
+      "Potassium (K⁺)",
+      "Chloride (Cl⁻)",
+      "Magnesium (Mg²⁺)"
+     ]
+    },
+    {
+     "stem": "Which ion's influx causes the neuron's membrane potential to become less negative?",
+     "opts": [
+      "Sodium (Na⁺)",
+      "Potassium (K⁺)",
+      "Chloride (Cl⁻)",
+      "Magnesium (Mg²⁺)"
+     ]
+    },
+    {
+     "stem": "The rising phase of an action potential is caused by the entry of which ion?",
+     "opts": [
+      "Sodium (Na⁺)",
+      "Potassium (K⁺)",
+      "Chloride (Cl⁻)",
+      "Magnesium (Mg²⁺)"
+     ]
+    },
+    {
+     "stem": "Which ion moves into the axon through voltage-gated channels when a neuron fires?",
+     "opts": [
+      "Sodium (Na⁺)",
+      "Potassium (K⁺)",
+      "Chloride (Cl⁻)",
+      "Magnesium (Mg²⁺)"
+     ]
+    },
+    {
+     "stem": "Once a neuron reaches threshold, channels open to let in which ion?",
+     "opts": [
+      "Sodium (Na⁺)",
+      "Potassium (K⁺)",
+      "Chloride (Cl⁻)",
+      "Magnesium (Mg²⁺)"
+     ]
+    },
+    {
+     "stem": "Which ion flows inward to produce depolarization of the axon membrane?",
+     "opts": [
+      "Sodium (Na⁺)",
+      "Potassium (K⁺)",
+      "Chloride (Cl⁻)",
+      "Magnesium (Mg²⁺)"
+     ]
+    },
+    {
+     "stem": "At the start of a nerve impulse, which ion enters the cell down its gradient?",
+     "opts": [
+      "Sodium (Na⁺)",
+      "Potassium (K⁺)",
+      "Chloride (Cl⁻)",
+      "Magnesium (Mg²⁺)"
+     ]
+    }
+   ],
+   "why": "Sodium channels open at threshold and Na⁺ flows in, depolarizing the membrane.",
+   "deep": "Sequence: resting potential (about −70 mV) → threshold → Na⁺ rushes in (depolarization) → Na⁺ channels inactivate and K⁺ channels open → K⁺ rushes out (repolarization). Sodium In, Potassium Out."
+  },
+  {
+   "id": "ap-b01-004",
+   "tag": "Anatomical Terms",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which plane divides the body into anterior (front) and posterior (back) portions?",
+     "opts": [
+      "Coronal",
+      "Sagittal",
+      "Transverse",
+      "Oblique"
+     ]
+    },
+    {
+     "stem": "A frontal cut that separates the belly side from the back side is made along which plane?",
+     "opts": [
+      "Coronal",
+      "Sagittal",
+      "Transverse",
+      "Oblique"
+     ]
+    },
+    {
+     "stem": "Which plane would separate the face from the back of the head?",
+     "opts": [
+      "Coronal",
+      "Sagittal",
+      "Transverse",
+      "Oblique"
+     ]
+    },
+    {
+     "stem": "Name the plane that runs vertically from side to side, splitting front from back.",
+     "opts": [
+      "Coronal",
+      "Sagittal",
+      "Transverse",
+      "Oblique"
+     ]
+    },
+    {
+     "stem": "A section that leaves the chest and abdomen in one piece and the spine in the other follows which plane?",
+     "opts": [
+      "Coronal",
+      "Sagittal",
+      "Transverse",
+      "Oblique"
+     ]
+    },
+    {
+     "stem": "Which anatomical plane is also called the frontal plane?",
+     "opts": [
+      "Coronal",
+      "Sagittal",
+      "Transverse",
+      "Oblique"
+     ]
+    },
+    {
+     "stem": "A vertical cut made parallel to the forehead lies in which plane?",
+     "opts": [
+      "Coronal",
+      "Sagittal",
+      "Transverse",
+      "Oblique"
+     ]
+    },
+    {
+     "stem": "Dividing a person into ventral and dorsal portions requires a cut along which plane?",
+     "opts": [
+      "Coronal",
+      "Sagittal",
+      "Transverse",
+      "Oblique"
+     ]
+    }
+   ],
+   "why": "The coronal (frontal) plane separates anterior from posterior.",
+   "deep": "Sagittal splits left from right; transverse (horizontal) splits superior from inferior; coronal splits anterior from posterior. Memory aid: a 'corona' (crown) sits on the head like a front-to-back band."
+  },
+  {
+   "id": "ap-b01-005",
+   "tag": "Immune",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which cell type secretes large quantities of antibodies?",
+     "opts": [
+      "Plasma cell",
+      "Macrophage",
+      "Helper T cell",
+      "Natural killer cell"
+     ]
+    },
+    {
+     "stem": "Antibody production is the main job of which cell?",
+     "opts": [
+      "Plasma cell",
+      "Macrophage",
+      "Helper T cell",
+      "Natural killer cell"
+     ]
+    },
+    {
+     "stem": "After activation, B lymphocytes differentiate into which antibody-secreting cell?",
+     "opts": [
+      "Plasma cell",
+      "Macrophage",
+      "Helper T cell",
+      "Natural killer cell"
+     ]
+    },
+    {
+     "stem": "Which cell releases antibodies into the blood during the humoral immune response?",
+     "opts": [
+      "Plasma cell",
+      "Macrophage",
+      "Helper T cell",
+      "Natural killer cell"
+     ]
+    },
+    {
+     "stem": "The cells responsible for secreting immunoglobulins are called:",
+     "opts": [
+      "Plasma cell",
+      "Macrophage",
+      "Helper T cell",
+      "Natural killer cell"
+     ]
+    },
+    {
+     "stem": "Which immune cell acts as an antibody factory?",
+     "opts": [
+      "Plasma cell",
+      "Macrophage",
+      "Helper T cell",
+      "Natural killer cell"
+     ]
+    },
+    {
+     "stem": "During the humoral response, which cell produces and releases antibodies specific to an antigen?",
+     "opts": [
+      "Plasma cell",
+      "Macrophage",
+      "Helper T cell",
+      "Natural killer cell"
+     ]
+    },
+    {
+     "stem": "Which of the following cells makes and secretes antibodies?",
+     "opts": [
+      "Plasma cell",
+      "Macrophage",
+      "Helper T cell",
+      "Natural killer cell"
+     ]
+    }
+   ],
+   "why": "Plasma cells, derived from activated B cells, secrete antibodies.",
+   "deep": "B cell + antigen (with T-helper signals) → plasma cells (secrete antibodies) and memory B cells (long-term protection). Macrophages engulf pathogens, helper T cells coordinate, NK cells kill infected or abnormal cells."
+  },
+  {
+   "id": "ap-b01-006",
+   "tag": "Renal",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Where in the nephron does blood plasma first get filtered?",
+     "opts": [
+      "Glomerulus",
+      "Proximal tubule",
+      "Loop of Henle",
+      "Collecting duct"
+     ]
+    },
+    {
+     "stem": "Filtration of blood in the kidney takes place in which structure?",
+     "opts": [
+      "Glomerulus",
+      "Proximal tubule",
+      "Loop of Henle",
+      "Collecting duct"
+     ]
+    },
+    {
+     "stem": "Which structure is a tuft of capillaries surrounded by Bowman's capsule?",
+     "opts": [
+      "Glomerulus",
+      "Proximal tubule",
+      "Loop of Henle",
+      "Collecting duct"
+     ]
+    },
+    {
+     "stem": "Water and small solutes are forced out of the blood under pressure at which nephron structure?",
+     "opts": [
+      "Glomerulus",
+      "Proximal tubule",
+      "Loop of Henle",
+      "Collecting duct"
+     ]
+    },
+    {
+     "stem": "The first step of urine formation, filtration, occurs at the:",
+     "opts": [
+      "Glomerulus",
+      "Proximal tubule",
+      "Loop of Henle",
+      "Collecting duct"
+     ]
+    },
+    {
+     "stem": "Which nephron component filters blood rather than reabsorbing or secreting substances?",
+     "opts": [
+      "Glomerulus",
+      "Proximal tubule",
+      "Loop of Henle",
+      "Collecting duct"
+     ]
+    },
+    {
+     "stem": "Which structure within the renal corpuscle acts as the filter?",
+     "opts": [
+      "Glomerulus",
+      "Proximal tubule",
+      "Loop of Henle",
+      "Collecting duct"
+     ]
+    },
+    {
+     "stem": "Which part of the nephron produces the filtrate that flows into Bowman's capsule?",
+     "opts": [
+      "Glomerulus",
+      "Proximal tubule",
+      "Loop of Henle",
+      "Collecting duct"
+     ]
+    }
+   ],
+   "why": "The glomerulus is a capillary tuft where blood is filtered into Bowman's capsule.",
+   "deep": "Urine formation: filtration (glomerulus) → reabsorption (mostly proximal tubule, plus loop of Henle and distal tubule) → secretion → excretion. The nephron is the whole functional unit; the glomerulus is just its filter."
+  },
+  {
+   "id": "ap-b01-007",
+   "tag": "Muscular",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which ion is released from the sarcoplasmic reticulum to trigger muscle contraction?",
+     "opts": [
+      "Calcium (Ca²⁺)",
+      "Sodium (Na⁺)",
+      "Chloride (Cl⁻)",
+      "Magnesium (Mg²⁺)"
+     ]
+    },
+    {
+     "stem": "Binding of which ion to troponin allows myosin to attach to actin?",
+     "opts": [
+      "Calcium (Ca²⁺)",
+      "Sodium (Na⁺)",
+      "Chloride (Cl⁻)",
+      "Magnesium (Mg²⁺)"
+     ]
+    },
+    {
+     "stem": "Muscle fiber contraction is initiated by a rise in the cytoplasmic concentration of which ion?",
+     "opts": [
+      "Calcium (Ca²⁺)",
+      "Sodium (Na⁺)",
+      "Chloride (Cl⁻)",
+      "Magnesium (Mg²⁺)"
+     ]
+    },
+    {
+     "stem": "Which ion do muscle cells store in the sarcoplasmic reticulum?",
+     "opts": [
+      "Calcium (Ca²⁺)",
+      "Sodium (Na⁺)",
+      "Chloride (Cl⁻)",
+      "Magnesium (Mg²⁺)"
+     ]
+    },
+    {
+     "stem": "Which ion exposes the myosin-binding sites on actin filaments?",
+     "opts": [
+      "Calcium (Ca²⁺)",
+      "Sodium (Na⁺)",
+      "Chloride (Cl⁻)",
+      "Magnesium (Mg²⁺)"
+     ]
+    },
+    {
+     "stem": "Following a nerve signal, the sarcoplasmic reticulum floods the muscle cell with which ion?",
+     "opts": [
+      "Calcium (Ca²⁺)",
+      "Sodium (Na⁺)",
+      "Chloride (Cl⁻)",
+      "Magnesium (Mg²⁺)"
+     ]
+    },
+    {
+     "stem": "Which ion is essential for cross-bridge formation between actin and myosin?",
+     "opts": [
+      "Calcium (Ca²⁺)",
+      "Sodium (Na⁺)",
+      "Chloride (Cl⁻)",
+      "Magnesium (Mg²⁺)"
+     ]
+    },
+    {
+     "stem": "Excitation-contraction coupling in skeletal muscle depends on the release of which ion?",
+     "opts": [
+      "Calcium (Ca²⁺)",
+      "Sodium (Na⁺)",
+      "Chloride (Cl⁻)",
+      "Magnesium (Mg²⁺)"
+     ]
+    }
+   ],
+   "why": "Ca²⁺ released from the sarcoplasmic reticulum binds troponin, moving tropomyosin off actin's binding sites.",
+   "deep": "Sequence: acetylcholine at the neuromuscular junction → muscle action potential → Ca²⁺ release → cross-bridges form and the sarcomere shortens (sliding filament). Contraction ends when Ca²⁺ is pumped back into the SR."
+  },
+  {
+   "id": "ap-b01-008",
+   "tag": "Digestive",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "What is the first segment of the small intestine, receiving chyme from the stomach?",
+     "opts": [
+      "Duodenum",
+      "Jejunum",
+      "Ileum",
+      "Cecum"
+     ]
+    },
+    {
+     "stem": "Which section of the small intestine connects directly to the stomach?",
+     "opts": [
+      "Duodenum",
+      "Jejunum",
+      "Ileum",
+      "Cecum"
+     ]
+    },
+    {
+     "stem": "Bile and pancreatic juice empty into which part of the small intestine?",
+     "opts": [
+      "Duodenum",
+      "Jejunum",
+      "Ileum",
+      "Cecum"
+     ]
+    },
+    {
+     "stem": "Chyme leaving the pyloric sphincter enters which structure first?",
+     "opts": [
+      "Duodenum",
+      "Jejunum",
+      "Ileum",
+      "Cecum"
+     ]
+    },
+    {
+     "stem": "The small intestine has three parts. Which comes first?",
+     "opts": [
+      "Duodenum",
+      "Jejunum",
+      "Ileum",
+      "Cecum"
+     ]
+    },
+    {
+     "stem": "Which small intestine segment is located closest to the stomach?",
+     "opts": [
+      "Duodenum",
+      "Jejunum",
+      "Ileum",
+      "Cecum"
+     ]
+    },
+    {
+     "stem": "Which segment of the small intestine is the shortest and begins right after the pylorus?",
+     "opts": [
+      "Duodenum",
+      "Jejunum",
+      "Ileum",
+      "Cecum"
+     ]
+    },
+    {
+     "stem": "Which region follows the pylorus of the stomach?",
+     "opts": [
+      "Duodenum",
+      "Jejunum",
+      "Ileum",
+      "Cecum"
+     ]
+    }
+   ],
+   "why": "The duodenum is the first and shortest segment of the small intestine, where bile and pancreatic secretions enter.",
+   "deep": "Order: duodenum → jejunum → ileum → (ileocecal valve) → cecum of the large intestine. Memory aid: 'DJI' — Duodenum, Jejunum, Ileum. Most nutrient absorption occurs in the jejunum and ileum."
+  },
+  {
+   "id": "ap-b01-009",
+   "tag": "Endocrine",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which hormone raises blood glucose levels?",
+     "opts": [
+      "Glucagon",
+      "Insulin",
+      "Thyroxine",
+      "Aldosterone"
+     ]
+    },
+    {
+     "stem": "When blood sugar drops, the pancreas releases which hormone to stimulate glycogen breakdown in the liver?",
+     "opts": [
+      "Glucagon",
+      "Insulin",
+      "Thyroxine",
+      "Aldosterone"
+     ]
+    },
+    {
+     "stem": "Alpha cells of the pancreatic islets secrete which hormone?",
+     "opts": [
+      "Glucagon",
+      "Insulin",
+      "Thyroxine",
+      "Aldosterone"
+     ]
+    },
+    {
+     "stem": "Which hormone signals the liver to convert glycogen into glucose?",
+     "opts": [
+      "Glucagon",
+      "Insulin",
+      "Thyroxine",
+      "Aldosterone"
+     ]
+    },
+    {
+     "stem": "Which hormone opposes the action of insulin?",
+     "opts": [
+      "Glucagon",
+      "Insulin",
+      "Thyroxine",
+      "Aldosterone"
+     ]
+    },
+    {
+     "stem": "Hypoglycemia triggers release of which pancreatic hormone?",
+     "opts": [
+      "Glucagon",
+      "Insulin",
+      "Thyroxine",
+      "Aldosterone"
+     ]
+    },
+    {
+     "stem": "Which hormone increases blood glucose by promoting glycogenolysis and gluconeogenesis?",
+     "opts": [
+      "Glucagon",
+      "Insulin",
+      "Thyroxine",
+      "Aldosterone"
+     ]
+    },
+    {
+     "stem": "Which hormone is released between meals to keep blood sugar from falling too low?",
+     "opts": [
+      "Glucagon",
+      "Insulin",
+      "Thyroxine",
+      "Aldosterone"
+     ]
+    }
+   ],
+   "why": "Glucagon raises blood glucose by stimulating the liver to break down glycogen and make new glucose.",
+   "deep": "Insulin (beta cells) lowers blood glucose; glucagon (alpha cells) raises it. Memory aid: glucaGON = glucose GOes up/'gone' from storage. Both are pancreatic hormones working in negative feedback."
+  },
+  {
+   "id": "ap-b01-010",
+   "tag": "Cardiovascular",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which type of blood vessel contains valves to prevent backflow?",
+     "opts": [
+      "Veins",
+      "Arteries",
+      "Arterioles",
+      "Capillaries"
+     ]
+    },
+    {
+     "stem": "To keep blood moving toward the heart against gravity, valves are found in which vessels?",
+     "opts": [
+      "Veins",
+      "Arteries",
+      "Arterioles",
+      "Capillaries"
+     ]
+    },
+    {
+     "stem": "Which vessels return blood to the heart and have one-way valves, especially in the limbs?",
+     "opts": [
+      "Veins",
+      "Arteries",
+      "Arterioles",
+      "Capillaries"
+     ]
+    },
+    {
+     "stem": "Backflow of blood in the legs is prevented by valves located in which vessels?",
+     "opts": [
+      "Veins",
+      "Arteries",
+      "Arterioles",
+      "Capillaries"
+     ]
+    },
+    {
+     "stem": "Which vessels have thinner walls than arteries and contain valves?",
+     "opts": [
+      "Veins",
+      "Arteries",
+      "Arterioles",
+      "Capillaries"
+     ]
+    },
+    {
+     "stem": "Which vessel type relies on skeletal muscle contraction plus one-way valves to return blood?",
+     "opts": [
+      "Veins",
+      "Arteries",
+      "Arterioles",
+      "Capillaries"
+     ]
+    },
+    {
+     "stem": "Which vessels carry blood at low pressure back to the heart and contain valves?",
+     "opts": [
+      "Veins",
+      "Arteries",
+      "Arterioles",
+      "Capillaries"
+     ]
+    },
+    {
+     "stem": "Valves are present in which of the following vessels?",
+     "opts": [
+      "Veins",
+      "Arteries",
+      "Arterioles",
+      "Capillaries"
+     ]
+    }
+   ],
+   "why": "Veins carry low-pressure blood back to the heart and have valves to prevent backflow.",
+   "deep": "Arteries are thick, elastic, high-pressure vessels without valves (except at the heart's exits). Capillaries are one cell thick for exchange. Venous return is helped by the skeletal muscle pump and breathing."
+  },
+  {
+   "id": "ap-b01-011",
+   "tag": "Digestive",
+   "type": "multi",
+   "variants": [
+    {
+     "stem": "Which of the following are part of the digestive tract itself (the alimentary canal)? Select all that apply.",
+     "opts": [
+      "Pancreas",
+      "Stomach",
+      "Liver",
+      "Esophagus",
+      "Ileum"
+     ],
+     "correct": [
+      1,
+      3,
+      4
+     ]
+    },
+    {
+     "stem": "Select every structure that food passes through during digestion.",
+     "opts": [
+      "Ileum",
+      "Liver",
+      "Esophagus",
+      "Pancreas",
+      "Stomach"
+     ],
+     "correct": [
+      0,
+      2,
+      4
+     ]
+    },
+    {
+     "stem": "Which options are hollow organs of the gastrointestinal tract rather than accessory organs? Select all that apply.",
+     "opts": [
+      "Liver",
+      "Ileum",
+      "Stomach",
+      "Esophagus",
+      "Pancreas"
+     ],
+     "correct": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "stem": "Identify all structures that form part of the alimentary canal.",
+     "opts": [
+      "Esophagus",
+      "Ileum",
+      "Stomach",
+      "Pancreas",
+      "Liver"
+     ],
+     "correct": [
+      0,
+      1,
+      2
+     ]
+    },
+    {
+     "stem": "Which of these does food travel directly through? Select all that apply.",
+     "opts": [
+      "Esophagus",
+      "Ileum",
+      "Pancreas",
+      "Liver",
+      "Stomach"
+     ],
+     "correct": [
+      0,
+      1,
+      4
+     ]
+    },
+    {
+     "stem": "Select all that are parts of the GI tract (not accessory digestive organs).",
+     "opts": [
+      "Liver",
+      "Pancreas",
+      "Ileum",
+      "Stomach",
+      "Esophagus"
+     ],
+     "correct": [
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "stem": "Which of the following are components of the digestive tube from mouth to anus? Select all that apply.",
+     "opts": [
+      "Liver",
+      "Ileum",
+      "Pancreas",
+      "Esophagus",
+      "Stomach"
+     ],
+     "correct": [
+      1,
+      3,
+      4
+     ]
+    },
+    {
+     "stem": "Choose every structure that is part of the gastrointestinal tract.",
+     "opts": [
+      "Esophagus",
+      "Pancreas",
+      "Stomach",
+      "Liver",
+      "Ileum"
+     ],
+     "correct": [
+      0,
+      2,
+      4
+     ]
+    }
+   ],
+   "why": "The esophagus, stomach, and ileum are parts of the GI tract; the liver and pancreas are accessory organs.",
+   "deep": "Accessory organs (liver, gallbladder, pancreas, salivary glands) make or store secretions delivered to the tract, but food never passes through them."
+  },
+  {
+   "id": "ap-b01-012",
+   "tag": "Cardiovascular",
+   "type": "hotspot",
+   "image": "<svg viewBox=\"0 0 240 210\" xmlns=\"http://www.w3.org/2000/svg\"><text x=\"65\" y=\"14\" text-anchor=\"middle\" font-size=\"10\" fill=\"#9db1cd\">Patient's right</text><text x=\"175\" y=\"14\" text-anchor=\"middle\" font-size=\"10\" fill=\"#9db1cd\">Patient's left</text><rect x=\"20\" y=\"22\" width=\"90\" height=\"70\" rx=\"16\" fill=\"#3b6fd8\" stroke=\"#eaf1fb\" stroke-width=\"2\"/><rect x=\"130\" y=\"22\" width=\"90\" height=\"70\" rx=\"16\" fill=\"#e0475f\" stroke=\"#eaf1fb\" stroke-width=\"2\"/><rect x=\"20\" y=\"104\" width=\"90\" height=\"86\" rx=\"16\" fill=\"#2a4fa8\" stroke=\"#eaf1fb\" stroke-width=\"2\"/><rect x=\"130\" y=\"104\" width=\"90\" height=\"86\" rx=\"16\" fill=\"#b8324a\" stroke=\"#eaf1fb\" stroke-width=\"2\"/></svg>",
+   "target": [
+    {
+     "type": "rect",
+     "x": 130,
+     "y": 104,
+     "w": 90,
+     "h": 86
+    }
+   ],
+   "variants": [
+    {
+     "stem": "Tap the left ventricle."
+    },
+    {
+     "stem": "Which chamber pumps blood into the aorta? Tap it on the diagram."
+    },
+    {
+     "stem": "Locate the chamber with the thickest muscular wall and tap it."
+    },
+    {
+     "stem": "Tap the chamber that sends oxygenated blood out to the body."
+    },
+    {
+     "stem": "On this front view of the heart, tap the left ventricle."
+    },
+    {
+     "stem": "Tap the heart chamber that receives blood from the left atrium."
+    },
+    {
+     "stem": "Find the chamber that ejects blood through the aortic valve and tap it."
+    },
+    {
+     "stem": "Tap the ventricle that belongs to the systemic circuit."
+    }
+   ],
+   "why": "The left ventricle is the lower chamber on the patient's left (the viewer's right in this front view); it pumps blood to the aorta.",
+   "deep": "In a front (anterior) view the patient's left appears on your right. Blue chambers carry deoxygenated blood, red carry oxygenated. The left ventricle's wall is about three times thicker than the right's because it drives the high-pressure systemic circuit."
+  },
+  {
+   "id": "bio-b01-013",
+   "tag": "Genetics",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which process copies a gene's DNA sequence into messenger RNA?",
+     "opts": [
+      "Transcription",
+      "Translation",
+      "Replication",
+      "Mutation"
+     ]
+    },
+    {
+     "stem": "Synthesis of mRNA using a DNA template occurs during:",
+     "opts": [
+      "Transcription",
+      "Translation",
+      "Replication",
+      "Mutation"
+     ]
+    },
+    {
+     "stem": "In which process does RNA polymerase build an RNA strand from a DNA template?",
+     "opts": [
+      "Transcription",
+      "Translation",
+      "Replication",
+      "Mutation"
+     ]
+    },
+    {
+     "stem": "The first step of gene expression, taking place in the nucleus of eukaryotes, is called:",
+     "opts": [
+      "Transcription",
+      "Translation",
+      "Replication",
+      "Mutation"
+     ]
+    },
+    {
+     "stem": "Which process produces pre-mRNA?",
+     "opts": [
+      "Transcription",
+      "Translation",
+      "Replication",
+      "Mutation"
+     ]
+    },
+    {
+     "stem": "A cell makes an mRNA copy of a gene. This process is known as:",
+     "opts": [
+      "Transcription",
+      "Translation",
+      "Replication",
+      "Mutation"
+     ]
+    },
+    {
+     "stem": "RNA polymerase carries out which process?",
+     "opts": [
+      "Transcription",
+      "Translation",
+      "Replication",
+      "Mutation"
+     ]
+    },
+    {
+     "stem": "Which process moves genetic information from DNA to RNA?",
+     "opts": [
+      "Transcription",
+      "Translation",
+      "Replication",
+      "Mutation"
+     ]
+    }
+   ],
+   "why": "Transcription uses DNA as a template to build mRNA.",
+   "deep": "Central dogma: DNA → (transcription) → mRNA → (translation) → protein. Memory aid: TRANScription = same 'language' (nucleic acid to nucleic acid); TRANSlation = change of language (nucleotides to amino acids)."
+  },
+  {
+   "id": "bio-b01-014",
+   "tag": "Cell Biology",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which organelle assembles proteins by reading mRNA?",
+     "opts": [
+      "Ribosome",
+      "Golgi apparatus",
+      "Lysosome",
+      "Smooth endoplasmic reticulum"
+     ]
+    },
+    {
+     "stem": "Protein synthesis takes place at which cellular structure?",
+     "opts": [
+      "Ribosome",
+      "Golgi apparatus",
+      "Lysosome",
+      "Smooth endoplasmic reticulum"
+     ]
+    },
+    {
+     "stem": "Amino acids are joined into polypeptide chains at which organelle?",
+     "opts": [
+      "Ribosome",
+      "Golgi apparatus",
+      "Lysosome",
+      "Smooth endoplasmic reticulum"
+     ]
+    },
+    {
+     "stem": "Which structure is the site of translation?",
+     "opts": [
+      "Ribosome",
+      "Golgi apparatus",
+      "Lysosome",
+      "Smooth endoplasmic reticulum"
+     ]
+    },
+    {
+     "stem": "Which organelle, made of rRNA and protein, builds proteins?",
+     "opts": [
+      "Ribosome",
+      "Golgi apparatus",
+      "Lysosome",
+      "Smooth endoplasmic reticulum"
+     ]
+    },
+    {
+     "stem": "A cell needs to manufacture a new enzyme. Which structure will assemble it?",
+     "opts": [
+      "Ribosome",
+      "Golgi apparatus",
+      "Lysosome",
+      "Smooth endoplasmic reticulum"
+     ]
+    },
+    {
+     "stem": "tRNA molecules deliver amino acids to which organelle?",
+     "opts": [
+      "Ribosome",
+      "Golgi apparatus",
+      "Lysosome",
+      "Smooth endoplasmic reticulum"
+     ]
+    },
+    {
+     "stem": "Which organelle links amino acids together according to the mRNA code?",
+     "opts": [
+      "Ribosome",
+      "Golgi apparatus",
+      "Lysosome",
+      "Smooth endoplasmic reticulum"
+     ]
+    }
+   ],
+   "why": "Ribosomes read mRNA and link amino acids into proteins.",
+   "deep": "Ribosomes may be free in the cytoplasm or attached to the rough ER. The Golgi apparatus modifies, sorts, and packages proteins; lysosomes digest waste; smooth ER makes lipids and detoxifies."
+  },
+  {
+   "id": "bio-b01-015",
+   "tag": "Genetics",
+   "type": "typed",
+   "answers": [
+    "25"
+   ],
+   "tolerance": 0,
+   "variants": [
+    {
+     "stem": "In a cross between two heterozygous parents (Aa × Aa), what percent of offspring are expected to be homozygous recessive (aa)? Type a number."
+    },
+    {
+     "stem": "Two carriers of a recessive allele (Aa × Aa) have a child. What is the percent chance the child is aa? Type a number."
+    },
+    {
+     "stem": "Using a Punnett square for Aa × Aa, what percentage of offspring will have the genotype aa? Type a number."
+    },
+    {
+     "stem": "Both parents have the genotype Aa. What percentage of their offspring are expected to show the recessive trait (aa)? Type a number."
+    },
+    {
+     "stem": "Cross Aa with Aa. Give the expected percentage of aa offspring as a number."
+    },
+    {
+     "stem": "If two heterozygous individuals mate, what is the probability, expressed as a percent, that an offspring will be homozygous recessive? Type a number."
+    },
+    {
+     "stem": "A Punnett square of two Aa parents has four boxes. What percent of those boxes show aa? Type a number."
+    },
+    {
+     "stem": "Heterozygous × heterozygous (Aa × Aa): what percent of the offspring are expected to be aa? Type a number."
+    }
+   ],
+   "why": "Aa × Aa gives 1 AA : 2 Aa : 1 aa, so 1 of 4 offspring (25%) are aa.",
+   "deep": "Genotype ratio 1:2:1, phenotype ratio 3 dominant : 1 recessive. Each parent passes 'a' half the time, so the chance of aa is 0.5 × 0.5 = 0.25.",
+   "unit": "%"
+  },
+  {
+   "id": "bio-b01-016",
+   "tag": "Cell Division",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which process produces four genetically distinct haploid cells?",
+     "opts": [
+      "Meiosis",
+      "Mitosis",
+      "Binary fission",
+      "Cytokinesis"
+     ]
+    },
+    {
+     "stem": "Gametes (sperm and egg) are formed by which type of cell division?",
+     "opts": [
+      "Meiosis",
+      "Mitosis",
+      "Binary fission",
+      "Cytokinesis"
+     ]
+    },
+    {
+     "stem": "Crossing over and independent assortment occur during which process?",
+     "opts": [
+      "Meiosis",
+      "Mitosis",
+      "Binary fission",
+      "Cytokinesis"
+     ]
+    },
+    {
+     "stem": "Which cell division reduces the chromosome number by half?",
+     "opts": [
+      "Meiosis",
+      "Mitosis",
+      "Binary fission",
+      "Cytokinesis"
+     ]
+    },
+    {
+     "stem": "A diploid cell undergoes two rounds of division and yields four haploid cells. Which process is this?",
+     "opts": [
+      "Meiosis",
+      "Mitosis",
+      "Binary fission",
+      "Cytokinesis"
+     ]
+    },
+    {
+     "stem": "Which process generates genetic variation among the cells it produces and is used to make sex cells?",
+     "opts": [
+      "Meiosis",
+      "Mitosis",
+      "Binary fission",
+      "Cytokinesis"
+     ]
+    },
+    {
+     "stem": "Which type of division begins with a diploid germ cell and ends with haploid products?",
+     "opts": [
+      "Meiosis",
+      "Mitosis",
+      "Binary fission",
+      "Cytokinesis"
+     ]
+    },
+    {
+     "stem": "Homologous chromosomes separate during anaphase I of which process?",
+     "opts": [
+      "Meiosis",
+      "Mitosis",
+      "Binary fission",
+      "Cytokinesis"
+     ]
+    }
+   ],
+   "why": "Meiosis makes four genetically unique haploid gametes.",
+   "deep": "Mitosis: one diploid cell → two identical diploid cells (growth, repair). Meiosis: one diploid cell → four unique haploid cells via two divisions. Cytokinesis is just the splitting of the cytoplasm; binary fission is bacterial reproduction."
+  },
+  {
+   "id": "bio-b01-017",
+   "tag": "Macromolecules",
+   "type": "multi",
+   "variants": [
+    {
+     "stem": "Which of the following are components of a DNA nucleotide? Select all that apply.",
+     "opts": [
+      "Deoxyribose",
+      "Phosphate group",
+      "Uracil",
+      "Adenine",
+      "Ribose"
+     ],
+     "correct": [
+      0,
+      1,
+      3
+     ]
+    },
+    {
+     "stem": "Select every item found in DNA.",
+     "opts": [
+      "Adenine",
+      "Ribose",
+      "Uracil",
+      "Deoxyribose",
+      "Phosphate group"
+     ],
+     "correct": [
+      0,
+      3,
+      4
+     ]
+    },
+    {
+     "stem": "Which options are building blocks of a DNA nucleotide? Select all that apply.",
+     "opts": [
+      "Deoxyribose",
+      "Uracil",
+      "Adenine",
+      "Phosphate group",
+      "Ribose"
+     ],
+     "correct": [
+      0,
+      2,
+      3
+     ]
+    },
+    {
+     "stem": "A single nucleotide of DNA contains which of these? Select all that apply.",
+     "opts": [
+      "Phosphate group",
+      "Adenine",
+      "Uracil",
+      "Deoxyribose",
+      "Ribose"
+     ],
+     "correct": [
+      0,
+      1,
+      3
+     ]
+    },
+    {
+     "stem": "Identify all components that belong to DNA (not RNA).",
+     "opts": [
+      "Phosphate group",
+      "Deoxyribose",
+      "Ribose",
+      "Uracil",
+      "Adenine"
+     ],
+     "correct": [
+      0,
+      1,
+      4
+     ]
+    },
+    {
+     "stem": "Which of the following are present in DNA? Select all that apply.",
+     "opts": [
+      "Deoxyribose",
+      "Uracil",
+      "Phosphate group",
+      "Ribose",
+      "Adenine"
+     ],
+     "correct": [
+      0,
+      2,
+      4
+     ]
+    },
+    {
+     "stem": "Select all parts that make up the DNA backbone and bases.",
+     "opts": [
+      "Uracil",
+      "Ribose",
+      "Adenine",
+      "Phosphate group",
+      "Deoxyribose"
+     ],
+     "correct": [
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "stem": "Choose every component found in a DNA nucleotide.",
+     "opts": [
+      "Phosphate group",
+      "Adenine",
+      "Deoxyribose",
+      "Uracil",
+      "Ribose"
+     ],
+     "correct": [
+      0,
+      1,
+      2
+     ]
+    }
+   ],
+   "why": "A DNA nucleotide has a phosphate group, deoxyribose sugar, and a nitrogenous base such as adenine. Uracil and ribose are found in RNA.",
+   "deep": "DNA bases: A, T, C, G. RNA bases: A, U, C, G. DNA sugar = deoxyribose; RNA sugar = ribose."
+  },
+  {
+   "id": "chem-b01-018",
+   "tag": "Periodic Table",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "How many valence electrons does an element in Group 17 have?",
+     "opts": [
+      "7",
+      "17",
+      "1",
+      "8"
+     ]
+    },
+    {
+     "stem": "An atom of chlorine (Group 17) has how many electrons in its outermost shell?",
+     "opts": [
+      "7",
+      "17",
+      "1",
+      "8"
+     ]
+    },
+    {
+     "stem": "Halogens, found in Group 17, have how many valence electrons?",
+     "opts": [
+      "7",
+      "17",
+      "1",
+      "8"
+     ]
+    },
+    {
+     "stem": "Fluorine is in Group 17 of the periodic table. How many valence electrons does it have?",
+     "opts": [
+      "7",
+      "17",
+      "1",
+      "8"
+     ]
+    },
+    {
+     "stem": "How many electrons are in the outer energy level of any halogen?",
+     "opts": [
+      "7",
+      "17",
+      "1",
+      "8"
+     ]
+    },
+    {
+     "stem": "Group 17 elements are one electron short of a full octet. How many valence electrons do they have?",
+     "opts": [
+      "7",
+      "17",
+      "1",
+      "8"
+     ]
+    },
+    {
+     "stem": "An element in the same column as chlorine has how many valence electrons?",
+     "opts": [
+      "7",
+      "17",
+      "1",
+      "8"
+     ]
+    },
+    {
+     "stem": "How many valence electrons are found in an atom of bromine, a Group 17 element?",
+     "opts": [
+      "7",
+      "17",
+      "1",
+      "8"
+     ]
+    }
+   ],
+   "why": "Group 17 (the halogens) has 7 valence electrons, one short of a full octet.",
+   "deep": "For main-group elements, valence electrons = the group's ones digit: Group 1 → 1, Group 2 → 2, Group 13 → 3 … Group 17 → 7, Group 18 → 8 (helium has 2). Group number ≠ electron count for 13–18 — use the ones digit."
+  },
+  {
+   "id": "chem-b01-019",
+   "tag": "Bonding",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which of the following is an ionic compound?",
+     "opts": [
+      "Sodium chloride (NaCl)",
+      "Carbon dioxide (CO₂)",
+      "Water (H₂O)",
+      "Methane (CH₄)"
+     ]
+    },
+    {
+     "stem": "Which compound is formed by the transfer of electrons from a metal to a nonmetal?",
+     "opts": [
+      "Sodium chloride (NaCl)",
+      "Carbon dioxide (CO₂)",
+      "Water (H₂O)",
+      "Methane (CH₄)"
+     ]
+    },
+    {
+     "stem": "Which substance consists of a metal cation bonded to a nonmetal anion?",
+     "opts": [
+      "Sodium chloride (NaCl)",
+      "Carbon dioxide (CO₂)",
+      "Water (H₂O)",
+      "Methane (CH₄)"
+     ]
+    },
+    {
+     "stem": "Which of these compounds is held together by electrostatic attraction between oppositely charged ions?",
+     "opts": [
+      "Sodium chloride (NaCl)",
+      "Carbon dioxide (CO₂)",
+      "Water (H₂O)",
+      "Methane (CH₄)"
+     ]
+    },
+    {
+     "stem": "Identify the compound with ionic bonding.",
+     "opts": [
+      "Sodium chloride (NaCl)",
+      "Carbon dioxide (CO₂)",
+      "Water (H₂O)",
+      "Methane (CH₄)"
+     ]
+    },
+    {
+     "stem": "Which of the following forms a crystal lattice of positive and negative ions?",
+     "opts": [
+      "Sodium chloride (NaCl)",
+      "Carbon dioxide (CO₂)",
+      "Water (H₂O)",
+      "Methane (CH₄)"
+     ]
+    },
+    {
+     "stem": "Which compound results from a bond between a metal and a nonmetal?",
+     "opts": [
+      "Sodium chloride (NaCl)",
+      "Carbon dioxide (CO₂)",
+      "Water (H₂O)",
+      "Methane (CH₄)"
+     ]
+    },
+    {
+     "stem": "Which of these is NOT a covalent (molecular) compound?",
+     "opts": [
+      "Sodium chloride (NaCl)",
+      "Carbon dioxide (CO₂)",
+      "Water (H₂O)",
+      "Methane (CH₄)"
+     ]
+    }
+   ],
+   "why": "NaCl forms from sodium (metal) giving an electron to chlorine (nonmetal), producing Na⁺ and Cl⁻ ions.",
+   "deep": "Ionic = metal + nonmetal (electron transfer). Covalent = nonmetal + nonmetal (electron sharing). CO₂, H₂O, and CH₄ are all covalent molecules."
+  },
+  {
+   "id": "chem-b01-020",
+   "tag": "Atomic Structure",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "A calcium atom loses two electrons to become Ca²⁺. What is this positively charged ion called?",
+     "opts": [
+      "Cation",
+      "Anion",
+      "Isotope",
+      "Compound"
+     ]
+    },
+    {
+     "stem": "What term describes an atom that has lost one or more electrons?",
+     "opts": [
+      "Cation",
+      "Anion",
+      "Isotope",
+      "Compound"
+     ]
+    },
+    {
+     "stem": "Sodium becomes Na⁺ after losing an electron. The resulting particle is called a(n):",
+     "opts": [
+      "Cation",
+      "Anion",
+      "Isotope",
+      "Compound"
+     ]
+    },
+    {
+     "stem": "A particle with more protons than electrons is called a(n):",
+     "opts": [
+      "Cation",
+      "Anion",
+      "Isotope",
+      "Compound"
+     ]
+    },
+    {
+     "stem": "Which term refers to any positively charged ion?",
+     "opts": [
+      "Cation",
+      "Anion",
+      "Isotope",
+      "Compound"
+     ]
+    },
+    {
+     "stem": "Metals tend to lose electrons and form which type of ion?",
+     "opts": [
+      "Cation",
+      "Anion",
+      "Isotope",
+      "Compound"
+     ]
+    },
+    {
+     "stem": "Which type of ion is attracted to the negative electrode (cathode)?",
+     "opts": [
+      "Cation",
+      "Anion",
+      "Isotope",
+      "Compound"
+     ]
+    },
+    {
+     "stem": "When an atom's electron count drops below its proton count, it becomes a(n):",
+     "opts": [
+      "Cation",
+      "Anion",
+      "Isotope",
+      "Compound"
+     ]
+    }
+   ],
+   "why": "Losing electrons leaves more protons than electrons, creating a positive ion called a cation.",
+   "deep": "Cation = positive (cats are 'paws-itive'); anion = negative. Isotopes are atoms of the same element with different numbers of neutrons, not different charges."
+  },
+  {
+   "id": "chem-b01-021",
+   "tag": "Acids & Bases",
+   "type": "typed",
+   "answers": [
+    "4",
+    "4.0"
+   ],
+   "tolerance": 0,
+   "variants": [
+    {
+     "stem": "A solution has a hydrogen ion concentration of 1 × 10⁻⁴ M. What is its pH? Type a number."
+    },
+    {
+     "stem": "What is the pH of a solution in which [H⁺] = 0.0001 M? Type a number."
+    },
+    {
+     "stem": "Calculate the pH when the hydrogen ion concentration is 1 × 10⁻⁴ mol/L. Type a number."
+    },
+    {
+     "stem": "[H⁺] = 1 × 10⁻⁴ M. Using pH = −log[H⁺], what is the pH? Type a number."
+    },
+    {
+     "stem": "A sample of water has [H⁺] of 1 × 10⁻⁴ M. Find its pH. Type a number."
+    },
+    {
+     "stem": "Give the pH of a solution containing 0.0001 moles of H⁺ per liter. Type a number."
+    },
+    {
+     "stem": "The hydrogen ion concentration of a solution is 1 × 10⁻⁴ M. Type its pH."
+    },
+    {
+     "stem": "What pH corresponds to a hydrogen ion concentration of 10⁻⁴ M? Type a number."
+    }
+   ],
+   "why": "pH = −log(1 × 10⁻⁴) = 4.",
+   "deep": "For [H⁺] written as 1 × 10⁻ⁿ M, the pH is simply n. Each pH unit is a tenfold change in H⁺ concentration, and lower pH means more acidic."
+  },
+  {
+   "id": "chem-b01-022",
+   "tag": "Acids & Bases",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "According to the Arrhenius definition, an acid releases which ion when dissolved in water?",
+     "opts": [
+      "Hydrogen ion (H⁺)",
+      "Hydroxide ion (OH⁻)",
+      "Sodium ion (Na⁺)",
+      "Chloride ion (Cl⁻)"
+     ]
+    },
+    {
+     "stem": "Which ion increases in concentration when an acid is added to water?",
+     "opts": [
+      "Hydrogen ion (H⁺)",
+      "Hydroxide ion (OH⁻)",
+      "Sodium ion (Na⁺)",
+      "Chloride ion (Cl⁻)"
+     ]
+    },
+    {
+     "stem": "Lowering the pH of a solution means increasing the concentration of which ion?",
+     "opts": [
+      "Hydrogen ion (H⁺)",
+      "Hydroxide ion (OH⁻)",
+      "Sodium ion (Na⁺)",
+      "Chloride ion (Cl⁻)"
+     ]
+    },
+    {
+     "stem": "Which ion do acids donate in solution?",
+     "opts": [
+      "Hydrogen ion (H⁺)",
+      "Hydroxide ion (OH⁻)",
+      "Sodium ion (Na⁺)",
+      "Chloride ion (Cl⁻)"
+     ]
+    },
+    {
+     "stem": "A substance that releases this ion in water is classified as an acid. Which ion?",
+     "opts": [
+      "Hydrogen ion (H⁺)",
+      "Hydroxide ion (OH⁻)",
+      "Sodium ion (Na⁺)",
+      "Chloride ion (Cl⁻)"
+     ]
+    },
+    {
+     "stem": "Which ion is responsible for the sour taste and low pH of acidic solutions?",
+     "opts": [
+      "Hydrogen ion (H⁺)",
+      "Hydroxide ion (OH⁻)",
+      "Sodium ion (Na⁺)",
+      "Chloride ion (Cl⁻)"
+     ]
+    },
+    {
+     "stem": "Hydrochloric acid dissociates in water to give chloride ions and which other ion?",
+     "opts": [
+      "Hydrogen ion (H⁺)",
+      "Hydroxide ion (OH⁻)",
+      "Sodium ion (Na⁺)",
+      "Chloride ion (Cl⁻)"
+     ]
+    },
+    {
+     "stem": "Acids produce an excess of which ion in water, compared with bases?",
+     "opts": [
+      "Hydrogen ion (H⁺)",
+      "Hydroxide ion (OH⁻)",
+      "Sodium ion (Na⁺)",
+      "Chloride ion (Cl⁻)"
+     ]
+    }
+   ],
+   "why": "Acids release H⁺ ions in water; bases release OH⁻.",
+   "deep": "HCl → H⁺ + Cl⁻. More H⁺ means lower pH. Bases such as NaOH release OH⁻ and raise pH."
+  },
+  {
+   "id": "sr-b01-023",
+   "tag": "Experimental Design",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "What does a control group provide in an experiment?",
+     "opts": [
+      "A baseline for comparison",
+      "The experimental treatment",
+      "A larger sample size",
+      "Proof that the hypothesis is correct"
+     ]
+    },
+    {
+     "stem": "Researchers include a group that does not get the treatment. What does this group supply?",
+     "opts": [
+      "A baseline for comparison",
+      "The experimental treatment",
+      "A larger sample size",
+      "Proof that the hypothesis is correct"
+     ]
+    },
+    {
+     "stem": "In a drug trial, the placebo group serves as which of the following?",
+     "opts": [
+      "A baseline for comparison",
+      "The experimental treatment",
+      "A larger sample size",
+      "Proof that the hypothesis is correct"
+     ]
+    },
+    {
+     "stem": "The main value of a control group is that it gives the experimenter:",
+     "opts": [
+      "A baseline for comparison",
+      "The experimental treatment",
+      "A larger sample size",
+      "Proof that the hypothesis is correct"
+     ]
+    },
+    {
+     "stem": "To tell whether the independent variable caused a change, a researcher needs which of the following from the control group?",
+     "opts": [
+      "A baseline for comparison",
+      "The experimental treatment",
+      "A larger sample size",
+      "Proof that the hypothesis is correct"
+     ]
+    },
+    {
+     "stem": "What is the control group's role when the results are analyzed?",
+     "opts": [
+      "A baseline for comparison",
+      "The experimental treatment",
+      "A larger sample size",
+      "Proof that the hypothesis is correct"
+     ]
+    },
+    {
+     "stem": "A control group is kept under the same conditions without the tested variable. What does it provide?",
+     "opts": [
+      "A baseline for comparison",
+      "The experimental treatment",
+      "A larger sample size",
+      "Proof that the hypothesis is correct"
+     ]
+    },
+    {
+     "stem": "Which of the following does a control group contribute to an experiment?",
+     "opts": [
+      "A baseline for comparison",
+      "The experimental treatment",
+      "A larger sample size",
+      "Proof that the hypothesis is correct"
+     ]
+    }
+   ],
+   "why": "The control group shows what happens without the tested variable, giving a baseline to compare against the experimental group.",
+   "deep": "A valid experiment changes only one variable (independent) between groups and keeps everything else constant. Without a control, you cannot tell if the treatment caused the effect."
+  },
+  {
+   "id": "sr-b01-024",
+   "tag": "Experimental Design",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "In an experiment, the independent variable is the factor that is:",
+     "opts": [
+      "Deliberately changed by the researcher",
+      "Measured as the outcome",
+      "Kept constant in all groups",
+      "Unaffected by the experiment"
+     ]
+    },
+    {
+     "stem": "Which description fits the independent variable?",
+     "opts": [
+      "Deliberately changed by the researcher",
+      "Measured as the outcome",
+      "Kept constant in all groups",
+      "Unaffected by the experiment"
+     ]
+    },
+    {
+     "stem": "A student tests how fertilizer amount affects plant height. Fertilizer amount is the independent variable because it is:",
+     "opts": [
+      "Deliberately changed by the researcher",
+      "Measured as the outcome",
+      "Kept constant in all groups",
+      "Unaffected by the experiment"
+     ]
+    },
+    {
+     "stem": "How is the independent variable best described?",
+     "opts": [
+      "Deliberately changed by the researcher",
+      "Measured as the outcome",
+      "Kept constant in all groups",
+      "Unaffected by the experiment"
+     ]
+    },
+    {
+     "stem": "Which statement correctly describes the independent variable?",
+     "opts": [
+      "Deliberately changed by the researcher",
+      "Measured as the outcome",
+      "Kept constant in all groups",
+      "Unaffected by the experiment"
+     ]
+    },
+    {
+     "stem": "In a well-designed experiment, the independent variable is:",
+     "opts": [
+      "Deliberately changed by the researcher",
+      "Measured as the outcome",
+      "Kept constant in all groups",
+      "Unaffected by the experiment"
+     ]
+    },
+    {
+     "stem": "A researcher varies the temperature of water to see its effect on dissolving rate. Temperature is the independent variable because it is:",
+     "opts": [
+      "Deliberately changed by the researcher",
+      "Measured as the outcome",
+      "Kept constant in all groups",
+      "Unaffected by the experiment"
+     ]
+    },
+    {
+     "stem": "Which best defines the independent variable?",
+     "opts": [
+      "Deliberately changed by the researcher",
+      "Measured as the outcome",
+      "Kept constant in all groups",
+      "Unaffected by the experiment"
+     ]
+    }
+   ],
+   "why": "The independent variable is the one the researcher deliberately manipulates to see its effect.",
+   "deep": "Independent = what you change (x-axis); dependent = what you measure (y-axis); controlled variables = kept constant. Memory aid: DRY MIX."
+  },
+  {
+   "id": "sr-b01-025",
+   "tag": "Measurement",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which piece of lab equipment is best for measuring a liquid's volume accurately?",
+     "opts": [
+      "Graduated cylinder",
+      "Beaker",
+      "Erlenmeyer flask",
+      "Watch glass"
+     ]
+    },
+    {
+     "stem": "A student needs to measure 35 mL of water as precisely as possible. Which tool should be used?",
+     "opts": [
+      "Graduated cylinder",
+      "Beaker",
+      "Erlenmeyer flask",
+      "Watch glass"
+     ]
+    },
+    {
+     "stem": "Which glassware has fine graduation marks designed for accurate volume readings?",
+     "opts": [
+      "Graduated cylinder",
+      "Beaker",
+      "Erlenmeyer flask",
+      "Watch glass"
+     ]
+    },
+    {
+     "stem": "For the most accurate liquid volume measurement, choose:",
+     "opts": [
+      "Graduated cylinder",
+      "Beaker",
+      "Erlenmeyer flask",
+      "Watch glass"
+     ]
+    },
+    {
+     "stem": "Which of the following is intended for precise measurement of liquid volume rather than mixing or storing?",
+     "opts": [
+      "Graduated cylinder",
+      "Beaker",
+      "Erlenmeyer flask",
+      "Watch glass"
+     ]
+    },
+    {
+     "stem": "Which instrument would a scientist use to read the volume of a liquid to the nearest milliliter?",
+     "opts": [
+      "Graduated cylinder",
+      "Beaker",
+      "Erlenmeyer flask",
+      "Watch glass"
+     ]
+    },
+    {
+     "stem": "Beakers and flasks give only rough volume estimates. Which glassware is designed for accurate measurement?",
+     "opts": [
+      "Graduated cylinder",
+      "Beaker",
+      "Erlenmeyer flask",
+      "Watch glass"
+     ]
+    },
+    {
+     "stem": "Which tool is most appropriate for determining the volume of a liquid sample?",
+     "opts": [
+      "Graduated cylinder",
+      "Beaker",
+      "Erlenmeyer flask",
+      "Watch glass"
+     ]
+    }
+   ],
+   "why": "A graduated cylinder has precise volume markings and is the standard tool for accurately measuring liquid volume.",
+   "deep": "Beakers and Erlenmeyer flasks are for mixing, heating, and storing; their markings are approximate. Read a graduated cylinder at eye level at the bottom of the meniscus."
+  }
+ ]
+}

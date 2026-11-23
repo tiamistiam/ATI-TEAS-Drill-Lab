@@ -1,0 +1,2037 @@
+{
+ "format": "pulse-teas-bank",
+ "version": 2,
+ "questions": [
+  {
+   "id": "ap-b02-001",
+   "tag": "Nervous",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which part of the brain coordinates balance and smooth voluntary movement?",
+     "opts": [
+      "Cerebellum",
+      "Cerebrum",
+      "Medulla oblongata",
+      "Thalamus"
+     ]
+    },
+    {
+     "stem": "Damage to which brain structure would most likely cause clumsy, uncoordinated movements?",
+     "opts": [
+      "Cerebellum",
+      "Cerebrum",
+      "Medulla oblongata",
+      "Thalamus"
+     ]
+    },
+    {
+     "stem": "Which region of the brain fine-tunes muscle activity and helps maintain posture?",
+     "opts": [
+      "Cerebellum",
+      "Cerebrum",
+      "Medulla oblongata",
+      "Thalamus"
+     ]
+    },
+    {
+     "stem": "Which brain structure is located at the back of the skull beneath the occipital lobes and controls coordination?",
+     "opts": [
+      "Cerebellum",
+      "Cerebrum",
+      "Medulla oblongata",
+      "Thalamus"
+     ]
+    },
+    {
+     "stem": "Which part of the brain is primarily responsible for balance and motor coordination?",
+     "opts": [
+      "Cerebellum",
+      "Cerebrum",
+      "Medulla oblongata",
+      "Thalamus"
+     ]
+    },
+    {
+     "stem": "A person has trouble walking in a straight line and touching their nose with a finger. Which brain structure is likely affected?",
+     "opts": [
+      "Cerebellum",
+      "Cerebrum",
+      "Medulla oblongata",
+      "Thalamus"
+     ]
+    },
+    {
+     "stem": "Which structure compares intended movements with actual movements to keep them smooth?",
+     "opts": [
+      "Cerebellum",
+      "Cerebrum",
+      "Medulla oblongata",
+      "Thalamus"
+     ]
+    },
+    {
+     "stem": "The brain region most involved in coordinating muscle timing and equilibrium is the:",
+     "opts": [
+      "Cerebellum",
+      "Cerebrum",
+      "Medulla oblongata",
+      "Thalamus"
+     ]
+    }
+   ],
+   "why": "The cerebellum coordinates voluntary movement, posture, and balance.",
+   "deep": "Cerebrum = thinking, sensation, voluntary movement planning; medulla = breathing and heart rate; thalamus = sensory relay. Memory aid: cerebellum is the 'little brain' tucked below the cerebrum."
+  },
+  {
+   "id": "ap-b02-002",
+   "tag": "Nervous",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which neurotransmitter is released by motor neurons at the neuromuscular junction?",
+     "opts": [
+      "Acetylcholine",
+      "Dopamine",
+      "Serotonin",
+      "GABA"
+     ]
+    },
+    {
+     "stem": "Skeletal muscle contraction is triggered by which neurotransmitter?",
+     "opts": [
+      "Acetylcholine",
+      "Dopamine",
+      "Serotonin",
+      "GABA"
+     ]
+    },
+    {
+     "stem": "Which chemical messenger crosses the synapse between a motor neuron and a muscle fiber?",
+     "opts": [
+      "Acetylcholine",
+      "Dopamine",
+      "Serotonin",
+      "GABA"
+     ]
+    },
+    {
+     "stem": "At the junction between a motor neuron and a skeletal muscle cell, the neuron releases which neurotransmitter?",
+     "opts": [
+      "Acetylcholine",
+      "Dopamine",
+      "Serotonin",
+      "GABA"
+     ]
+    },
+    {
+     "stem": "Which neurotransmitter binds to receptors on the muscle cell membrane to start a muscle action potential?",
+     "opts": [
+      "Acetylcholine",
+      "Dopamine",
+      "Serotonin",
+      "GABA"
+     ]
+    },
+    {
+     "stem": "Which neurotransmitter is cleared from the neuromuscular junction by the enzyme cholinesterase?",
+     "opts": [
+      "Acetylcholine",
+      "Dopamine",
+      "Serotonin",
+      "GABA"
+     ]
+    },
+    {
+     "stem": "Which neurotransmitter is the main one used by the somatic nervous system to stimulate muscles?",
+     "opts": [
+      "Acetylcholine",
+      "Dopamine",
+      "Serotonin",
+      "GABA"
+     ]
+    },
+    {
+     "stem": "A motor neuron signals a muscle to contract by releasing which neurotransmitter?",
+     "opts": [
+      "Acetylcholine",
+      "Dopamine",
+      "Serotonin",
+      "GABA"
+     ]
+    }
+   ],
+   "why": "Motor neurons release acetylcholine, which binds receptors on the muscle fiber and triggers contraction.",
+   "deep": "Acetylcholinesterase then breaks acetylcholine down so the signal ends. Dopamine is tied to reward and movement control in the brain, serotonin to mood, and GABA is the main inhibitory neurotransmitter."
+  },
+  {
+   "id": "ap-b02-003",
+   "tag": "Renal",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "What is the effect of antidiuretic hormone (ADH) on the kidneys?",
+     "opts": [
+      "Reabsorb more water",
+      "Excrete more water",
+      "Filter more sodium",
+      "Secrete more glucose"
+     ]
+    },
+    {
+     "stem": "When ADH levels rise, the kidneys will:",
+     "opts": [
+      "Reabsorb more water",
+      "Excrete more water",
+      "Filter more sodium",
+      "Secrete more glucose"
+     ]
+    },
+    {
+     "stem": "A dehydrated person releases more ADH. What happens in the kidneys?",
+     "opts": [
+      "Reabsorb more water",
+      "Excrete more water",
+      "Filter more sodium",
+      "Secrete more glucose"
+     ]
+    },
+    {
+     "stem": "Antidiuretic hormone acts on the collecting ducts to cause the kidneys to:",
+     "opts": [
+      "Reabsorb more water",
+      "Excrete more water",
+      "Filter more sodium",
+      "Secrete more glucose"
+     ]
+    },
+    {
+     "stem": "Which kidney response is stimulated by ADH from the posterior pituitary?",
+     "opts": [
+      "Reabsorb more water",
+      "Excrete more water",
+      "Filter more sodium",
+      "Secrete more glucose"
+     ]
+    },
+    {
+     "stem": "How does ADH help the body conserve fluid?",
+     "opts": [
+      "Reabsorb more water",
+      "Excrete more water",
+      "Filter more sodium",
+      "Secrete more glucose"
+     ]
+    },
+    {
+     "stem": "Increased ADH secretion results in the kidneys doing which of the following?",
+     "opts": [
+      "Reabsorb more water",
+      "Excrete more water",
+      "Filter more sodium",
+      "Secrete more glucose"
+     ]
+    },
+    {
+     "stem": "ADH makes the urine more concentrated because the kidneys:",
+     "opts": [
+      "Reabsorb more water",
+      "Excrete more water",
+      "Filter more sodium",
+      "Secrete more glucose"
+     ]
+    }
+   ],
+   "why": "ADH increases the water permeability of the collecting ducts, so more water is reabsorbed and urine is more concentrated.",
+   "deep": "ADH is made in the hypothalamus and released by the posterior pituitary. 'Anti-diuretic' means against producing lots of urine. Alcohol suppresses ADH, which is why it makes you urinate more."
+  },
+  {
+   "id": "ap-b02-004",
+   "tag": "Immune",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which of the following is an example of passive immunity?",
+     "opts": [
+      "Antibodies received from mother's milk",
+      "Antibodies made after a vaccine",
+      "Antibodies made after chickenpox",
+      "Memory cells formed after infection"
+     ]
+    },
+    {
+     "stem": "A newborn is protected by antibodies delivered through breast milk. This is an example of:",
+     "opts": [
+      "Antibodies received from mother's milk",
+      "Antibodies made after a vaccine",
+      "Antibodies made after chickenpox",
+      "Memory cells formed after infection"
+     ]
+    },
+    {
+     "stem": "Which situation provides passive immunity?",
+     "opts": [
+      "Antibodies received from mother's milk",
+      "Antibodies made after a vaccine",
+      "Antibodies made after chickenpox",
+      "Memory cells formed after infection"
+     ]
+    },
+    {
+     "stem": "Passive immunity occurs when a person receives which of the following?",
+     "opts": [
+      "Antibodies received from mother's milk",
+      "Antibodies made after a vaccine",
+      "Antibodies made after chickenpox",
+      "Memory cells formed after infection"
+     ]
+    },
+    {
+     "stem": "Which option describes temporary protection given by ready-made antibodies from another source?",
+     "opts": [
+      "Antibodies received from mother's milk",
+      "Antibodies made after a vaccine",
+      "Antibodies made after chickenpox",
+      "Memory cells formed after infection"
+     ]
+    },
+    {
+     "stem": "Which of these gives immediate but short-lived protection because the body did not make the antibodies itself?",
+     "opts": [
+      "Antibodies received from mother's milk",
+      "Antibodies made after a vaccine",
+      "Antibodies made after chickenpox",
+      "Memory cells formed after infection"
+     ]
+    },
+    {
+     "stem": "An infant receives antibodies that crossed the placenta from the mother. Which type of immunity is this?",
+     "opts": [
+      "Antibodies received from mother's milk",
+      "Antibodies made after a vaccine",
+      "Antibodies made after chickenpox",
+      "Memory cells formed after infection"
+     ]
+    },
+    {
+     "stem": "Which of the following is NOT active immunity?",
+     "opts": [
+      "Antibodies received from mother's milk",
+      "Antibodies made after a vaccine",
+      "Antibodies made after chickenpox",
+      "Memory cells formed after infection"
+     ]
+    }
+   ],
+   "why": "Passive immunity comes from antibodies made by someone else (for example, mother to infant), so it is immediate but temporary.",
+   "deep": "Active immunity (from infection or vaccination) means your own B cells make antibodies and memory cells, and it lasts much longer. Passive immunity does not create memory cells."
+  },
+  {
+   "id": "ap-b02-005",
+   "tag": "Endocrine",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which gland produces cortisol?",
+     "opts": [
+      "Adrenal cortex",
+      "Adrenal medulla",
+      "Pituitary",
+      "Thyroid"
+     ]
+    },
+    {
+     "stem": "The stress hormone cortisol is secreted by which part of the body?",
+     "opts": [
+      "Adrenal cortex",
+      "Adrenal medulla",
+      "Pituitary",
+      "Thyroid"
+     ]
+    },
+    {
+     "stem": "Which structure releases glucocorticoids such as cortisol in response to ACTH?",
+     "opts": [
+      "Adrenal cortex",
+      "Adrenal medulla",
+      "Pituitary",
+      "Thyroid"
+     ]
+    },
+    {
+     "stem": "ACTH from the pituitary stimulates which gland to release cortisol?",
+     "opts": [
+      "Adrenal cortex",
+      "Adrenal medulla",
+      "Pituitary",
+      "Thyroid"
+     ]
+    },
+    {
+     "stem": "Chronic stress raises blood levels of a hormone made by which structure?",
+     "opts": [
+      "Adrenal cortex",
+      "Adrenal medulla",
+      "Pituitary",
+      "Thyroid"
+     ]
+    },
+    {
+     "stem": "Cortisol, which raises blood glucose and suppresses inflammation, comes from the:",
+     "opts": [
+      "Adrenal cortex",
+      "Adrenal medulla",
+      "Pituitary",
+      "Thyroid"
+     ]
+    },
+    {
+     "stem": "Which endocrine tissue is the source of cortisol?",
+     "opts": [
+      "Adrenal cortex",
+      "Adrenal medulla",
+      "Pituitary",
+      "Thyroid"
+     ]
+    },
+    {
+     "stem": "Which of the following produces cortisol?",
+     "opts": [
+      "Adrenal cortex",
+      "Adrenal medulla",
+      "Pituitary",
+      "Thyroid"
+     ]
+    }
+   ],
+   "why": "The adrenal cortex secretes cortisol (a glucocorticoid), along with aldosterone and sex hormones.",
+   "deep": "The adrenal medulla (inner part) makes epinephrine and norepinephrine for fight-or-flight. The cortex makes steroid hormones. Pathway: hypothalamus (CRH) → pituitary (ACTH) → adrenal cortex (cortisol)."
+  },
+  {
+   "id": "ap-b02-006",
+   "tag": "Respiratory",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which structure lies between the pharynx and the trachea and contains the vocal cords?",
+     "opts": [
+      "Larynx",
+      "Esophagus",
+      "Bronchus",
+      "Bronchiole"
+     ]
+    },
+    {
+     "stem": "Air moving from the pharynx toward the trachea passes through which structure?",
+     "opts": [
+      "Larynx",
+      "Esophagus",
+      "Bronchus",
+      "Bronchiole"
+     ]
+    },
+    {
+     "stem": "Which part of the airway houses the vocal folds?",
+     "opts": [
+      "Larynx",
+      "Esophagus",
+      "Bronchus",
+      "Bronchiole"
+     ]
+    },
+    {
+     "stem": "The voice box is the common name for which structure?",
+     "opts": [
+      "Larynx",
+      "Esophagus",
+      "Bronchus",
+      "Bronchiole"
+     ]
+    },
+    {
+     "stem": "Which structure is located just above the trachea and below the pharynx?",
+     "opts": [
+      "Larynx",
+      "Esophagus",
+      "Bronchus",
+      "Bronchiole"
+     ]
+    },
+    {
+     "stem": "Sound is produced when air passes over the vocal cords in which structure?",
+     "opts": [
+      "Larynx",
+      "Esophagus",
+      "Bronchus",
+      "Bronchiole"
+     ]
+    },
+    {
+     "stem": "Which respiratory structure is protected by the epiglottis during swallowing?",
+     "opts": [
+      "Larynx",
+      "Esophagus",
+      "Bronchus",
+      "Bronchiole"
+     ]
+    },
+    {
+     "stem": "Which airway structure connects the pharynx to the trachea?",
+     "opts": [
+      "Larynx",
+      "Esophagus",
+      "Bronchus",
+      "Bronchiole"
+     ]
+    }
+   ],
+   "why": "The larynx connects the pharynx to the trachea and contains the vocal cords.",
+   "deep": "Air path: nose → pharynx → larynx → trachea → bronchi → bronchioles → alveoli. The esophagus runs behind the trachea and carries food to the stomach."
+  },
+  {
+   "id": "ap-b02-007",
+   "tag": "Muscular",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which muscle tissue is both striated and involuntary?",
+     "opts": [
+      "Cardiac muscle",
+      "Skeletal muscle",
+      "Smooth muscle",
+      "Epithelial tissue"
+     ]
+    },
+    {
+     "stem": "Which type of muscle is found only in the heart wall?",
+     "opts": [
+      "Cardiac muscle",
+      "Skeletal muscle",
+      "Smooth muscle",
+      "Epithelial tissue"
+     ]
+    },
+    {
+     "stem": "Intercalated discs are a feature of which muscle type?",
+     "opts": [
+      "Cardiac muscle",
+      "Skeletal muscle",
+      "Smooth muscle",
+      "Epithelial tissue"
+     ]
+    },
+    {
+     "stem": "Which muscle tissue contracts rhythmically without conscious control and appears striped under a microscope?",
+     "opts": [
+      "Cardiac muscle",
+      "Skeletal muscle",
+      "Smooth muscle",
+      "Epithelial tissue"
+     ]
+    },
+    {
+     "stem": "Which muscle tissue is found only in the walls of the heart chambers?",
+     "opts": [
+      "Cardiac muscle",
+      "Skeletal muscle",
+      "Smooth muscle",
+      "Epithelial tissue"
+     ]
+    },
+    {
+     "stem": "Which muscle type forms the myocardium?",
+     "opts": [
+      "Cardiac muscle",
+      "Skeletal muscle",
+      "Smooth muscle",
+      "Epithelial tissue"
+     ]
+    },
+    {
+     "stem": "Which tissue has striations, one or two nuclei per cell, and branched fibers?",
+     "opts": [
+      "Cardiac muscle",
+      "Skeletal muscle",
+      "Smooth muscle",
+      "Epithelial tissue"
+     ]
+    },
+    {
+     "stem": "Which type of muscle contracts automatically to pump blood?",
+     "opts": [
+      "Cardiac muscle",
+      "Skeletal muscle",
+      "Smooth muscle",
+      "Epithelial tissue"
+     ]
+    }
+   ],
+   "why": "Cardiac muscle is striated like skeletal muscle but involuntary, with intercalated discs linking branched cells.",
+   "deep": "Skeletal = striated, voluntary, attached to bones. Smooth = non-striated, involuntary, found in walls of organs and vessels. Cardiac = striated, involuntary, heart only."
+  },
+  {
+   "id": "ap-b02-008",
+   "tag": "Cardiovascular",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which cell fragments form a plug to start blood clotting?",
+     "opts": [
+      "Platelets",
+      "Erythrocytes",
+      "Neutrophils",
+      "Lymphocytes"
+     ]
+    },
+    {
+     "stem": "Which blood component is involved in forming a platelet plug at a damaged vessel?",
+     "opts": [
+      "Platelets",
+      "Erythrocytes",
+      "Neutrophils",
+      "Lymphocytes"
+     ]
+    },
+    {
+     "stem": "After a cut, which blood elements stick together at the injury site to begin stopping the bleeding?",
+     "opts": [
+      "Platelets",
+      "Erythrocytes",
+      "Neutrophils",
+      "Lymphocytes"
+     ]
+    },
+    {
+     "stem": "Which formed elements of blood are fragments of megakaryocytes?",
+     "opts": [
+      "Platelets",
+      "Erythrocytes",
+      "Neutrophils",
+      "Lymphocytes"
+     ]
+    },
+    {
+     "stem": "Which blood component initiates clotting by clumping at a wound?",
+     "opts": [
+      "Platelets",
+      "Erythrocytes",
+      "Neutrophils",
+      "Lymphocytes"
+     ]
+    },
+    {
+     "stem": "A low count of which blood element could cause excessive bleeding?",
+     "opts": [
+      "Platelets",
+      "Erythrocytes",
+      "Neutrophils",
+      "Lymphocytes"
+     ]
+    },
+    {
+     "stem": "Thrombocytes are also known as:",
+     "opts": [
+      "Platelets",
+      "Erythrocytes",
+      "Neutrophils",
+      "Lymphocytes"
+     ]
+    },
+    {
+     "stem": "Which of the following initiates hemostasis by aggregating at a break in a blood vessel?",
+     "opts": [
+      "Platelets",
+      "Erythrocytes",
+      "Neutrophils",
+      "Lymphocytes"
+     ]
+    }
+   ],
+   "why": "Platelets (thrombocytes) are cell fragments that aggregate at an injury and help form a clot.",
+   "deep": "Erythrocytes carry oxygen, neutrophils engulf bacteria, lymphocytes (B and T cells) run adaptive immunity. Platelets come from megakaryocytes in bone marrow."
+  },
+  {
+   "id": "ap-b02-009",
+   "tag": "Skeletal",
+   "type": "multi",
+   "variants": [
+    {
+     "stem": "Which of the following are functions of the skeletal system? Select all that apply.",
+     "opts": [
+      "Secretion of digestive enzymes",
+      "Support of the body",
+      "Storage of minerals",
+      "Protection of organs",
+      "Production of blood cells"
+     ],
+     "correct": [
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "stem": "Select every function performed by bones and the skeletal system.",
+     "opts": [
+      "Production of blood cells",
+      "Storage of minerals",
+      "Protection of organs",
+      "Secretion of digestive enzymes",
+      "Support of the body"
+     ],
+     "correct": [
+      0,
+      1,
+      2,
+      4
+     ]
+    },
+    {
+     "stem": "Which options are roles of the skeleton? Select all that apply.",
+     "opts": [
+      "Storage of minerals",
+      "Production of blood cells",
+      "Support of the body",
+      "Protection of organs",
+      "Secretion of digestive enzymes"
+     ],
+     "correct": [
+      0,
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "stem": "Identify all functions of the skeletal system from the list.",
+     "opts": [
+      "Protection of organs",
+      "Production of blood cells",
+      "Support of the body",
+      "Secretion of digestive enzymes",
+      "Storage of minerals"
+     ],
+     "correct": [
+      0,
+      1,
+      2,
+      4
+     ]
+    },
+    {
+     "stem": "Which of these does the skeletal system do? Select all that apply.",
+     "opts": [
+      "Protection of organs",
+      "Production of blood cells",
+      "Secretion of digestive enzymes",
+      "Storage of minerals",
+      "Support of the body"
+     ],
+     "correct": [
+      0,
+      1,
+      3,
+      4
+     ]
+    },
+    {
+     "stem": "Select all tasks carried out by the skeleton.",
+     "opts": [
+      "Storage of minerals",
+      "Secretion of digestive enzymes",
+      "Production of blood cells",
+      "Support of the body",
+      "Protection of organs"
+     ],
+     "correct": [
+      0,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "stem": "Which of the following are correct functions of bones? Select all that apply.",
+     "opts": [
+      "Storage of minerals",
+      "Production of blood cells",
+      "Secretion of digestive enzymes",
+      "Protection of organs",
+      "Support of the body"
+     ],
+     "correct": [
+      0,
+      1,
+      3,
+      4
+     ]
+    },
+    {
+     "stem": "Choose every function that belongs to the skeletal system.",
+     "opts": [
+      "Protection of organs",
+      "Secretion of digestive enzymes",
+      "Support of the body",
+      "Storage of minerals",
+      "Production of blood cells"
+     ],
+     "correct": [
+      0,
+      2,
+      3,
+      4
+     ]
+    }
+   ],
+   "why": "Bones support the body, protect organs, make blood cells in marrow, and store minerals such as calcium and phosphorus.",
+   "deep": "They also act as levers for movement. Digestive enzymes are secreted by glands and the lining of the digestive tract, not bone."
+  },
+  {
+   "id": "ap-b02-010",
+   "tag": "Nervous",
+   "type": "hotspot",
+   "image": "<svg viewBox=\"0 0 320 160\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M60 68 L28 40 M58 76 L22 76 M60 90 L30 120 M70 62 L55 30\" stroke=\"#4da6ff\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\"/><circle cx=\"80\" cy=\"80\" r=\"24\" fill=\"#a78bfa\" stroke=\"#eaf1fb\" stroke-width=\"2\"/><circle cx=\"80\" cy=\"80\" r=\"8\" fill=\"#4b3a99\"/><rect x=\"104\" y=\"74\" width=\"140\" height=\"12\" rx=\"6\" fill=\"#ffb224\"/><rect x=\"116\" y=\"68\" width=\"24\" height=\"24\" rx=\"8\" fill=\"#41e08d\"/><rect x=\"148\" y=\"68\" width=\"24\" height=\"24\" rx=\"8\" fill=\"#41e08d\"/><rect x=\"180\" y=\"68\" width=\"24\" height=\"24\" rx=\"8\" fill=\"#41e08d\"/><rect x=\"212\" y=\"68\" width=\"24\" height=\"24\" rx=\"8\" fill=\"#41e08d\"/><path d=\"M244 80 L290 50 M244 80 L296 80 M244 80 L290 110\" stroke=\"#ff6ac1\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\"/><circle cx=\"290\" cy=\"50\" r=\"5\" fill=\"#ff6ac1\"/><circle cx=\"296\" cy=\"80\" r=\"5\" fill=\"#ff6ac1\"/><circle cx=\"290\" cy=\"110\" r=\"5\" fill=\"#ff6ac1\"/></svg>",
+   "target": [
+    {
+     "type": "rect",
+     "x": 104,
+     "y": 66,
+     "w": 140,
+     "h": 28
+    }
+   ],
+   "variants": [
+    {
+     "stem": "Tap the axon."
+    },
+    {
+     "stem": "Which part of the neuron conducts impulses away from the cell body? Tap it."
+    },
+    {
+     "stem": "Locate the long fiber that carries electrical signals away from the soma and tap it."
+    },
+    {
+     "stem": "On this neuron diagram, tap the axon."
+    },
+    {
+     "stem": "Tap the part of the neuron that transmits the action potential toward the axon terminals."
+    },
+    {
+     "stem": "Find the structure that carries an impulse from the cell body toward the next cell and tap it."
+    },
+    {
+     "stem": "Tap the portion of the neuron that is insulated by myelin segments."
+    },
+    {
+     "stem": "Tap the neuron's long projection that sends signals outward."
+    }
+   ],
+   "why": "The axon is the long fiber (here wrapped in myelin segments) that carries action potentials away from the cell body.",
+   "deep": "Dendrites (the branching ends on the left) receive signals and conduct them toward the cell body; the axon sends them away to the axon terminals, which release neurotransmitter. Myelin speeds conduction along the axon."
+  },
+  {
+   "id": "bio-b02-011",
+   "tag": "Cell Biology",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which molecule forms the basic structure of the cell membrane?",
+     "opts": [
+      "Phospholipids",
+      "Cellulose",
+      "Nucleic acids",
+      "Glycogen"
+     ]
+    },
+    {
+     "stem": "The cell membrane is built mainly from a double layer of which molecules?",
+     "opts": [
+      "Phospholipids",
+      "Cellulose",
+      "Nucleic acids",
+      "Glycogen"
+     ]
+    },
+    {
+     "stem": "Which type of molecule makes up the bilayer of a cell membrane?",
+     "opts": [
+      "Phospholipids",
+      "Cellulose",
+      "Nucleic acids",
+      "Glycogen"
+     ]
+    },
+    {
+     "stem": "A phospholipid bilayer is the main framework of which cell structure?",
+     "opts": [
+      "Phospholipids",
+      "Cellulose",
+      "Nucleic acids",
+      "Glycogen"
+     ]
+    },
+    {
+     "stem": "Which molecules have hydrophilic heads and hydrophobic tails and line up to form the cell membrane?",
+     "opts": [
+      "Phospholipids",
+      "Cellulose",
+      "Nucleic acids",
+      "Glycogen"
+     ]
+    },
+    {
+     "stem": "The fluid mosaic model describes a membrane made mostly of which molecule type?",
+     "opts": [
+      "Phospholipids",
+      "Cellulose",
+      "Nucleic acids",
+      "Glycogen"
+     ]
+    },
+    {
+     "stem": "Which biomolecule is the primary structural component of plasma membranes?",
+     "opts": [
+      "Phospholipids",
+      "Cellulose",
+      "Nucleic acids",
+      "Glycogen"
+     ]
+    },
+    {
+     "stem": "Which of the following forms the main framework of cellular membranes?",
+     "opts": [
+      "Phospholipids",
+      "Cellulose",
+      "Nucleic acids",
+      "Glycogen"
+     ]
+    }
+   ],
+   "why": "Cell membranes are built from a phospholipid bilayer with embedded proteins and cholesterol.",
+   "deep": "Hydrophilic (water-loving) heads face the watery inside and outside; hydrophobic (water-fearing) tails face each other in the middle. Cellulose is a plant cell wall component."
+  },
+  {
+   "id": "bio-b02-012",
+   "tag": "Cell Biology",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "What is the term for the diffusion of water across a semipermeable membrane?",
+     "opts": [
+      "Osmosis",
+      "Active transport",
+      "Facilitated diffusion",
+      "Endocytosis"
+     ]
+    },
+    {
+     "stem": "Water moves from an area of low solute concentration to an area of high solute concentration across a membrane. This process is called:",
+     "opts": [
+      "Osmosis",
+      "Active transport",
+      "Facilitated diffusion",
+      "Endocytosis"
+     ]
+    },
+    {
+     "stem": "Which process moves water through a membrane toward the side with more dissolved solute?",
+     "opts": [
+      "Osmosis",
+      "Active transport",
+      "Facilitated diffusion",
+      "Endocytosis"
+     ]
+    },
+    {
+     "stem": "A red blood cell placed in salt water shrinks as water leaves it. Which process is responsible?",
+     "opts": [
+      "Osmosis",
+      "Active transport",
+      "Facilitated diffusion",
+      "Endocytosis"
+     ]
+    },
+    {
+     "stem": "Which transport process specifically involves the movement of water across a selectively permeable membrane?",
+     "opts": [
+      "Osmosis",
+      "Active transport",
+      "Facilitated diffusion",
+      "Endocytosis"
+     ]
+    },
+    {
+     "stem": "Which process requires no energy and moves water down its concentration gradient?",
+     "opts": [
+      "Osmosis",
+      "Active transport",
+      "Facilitated diffusion",
+      "Endocytosis"
+     ]
+    },
+    {
+     "stem": "Plant roots take up water from soil mainly through which process?",
+     "opts": [
+      "Osmosis",
+      "Active transport",
+      "Facilitated diffusion",
+      "Endocytosis"
+     ]
+    },
+    {
+     "stem": "The movement of solvent across a membrane to balance solute concentration is known as:",
+     "opts": [
+      "Osmosis",
+      "Active transport",
+      "Facilitated diffusion",
+      "Endocytosis"
+     ]
+    }
+   ],
+   "why": "Osmosis is the passive diffusion of water across a selectively permeable membrane toward higher solute concentration.",
+   "deep": "In a hypotonic solution cells swell, in hypertonic they shrink, in isotonic there is no net water movement. Active transport uses ATP to move solutes against their gradient."
+  },
+  {
+   "id": "bio-b02-013",
+   "tag": "Genetics",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "How many nucleotides make up one mRNA codon?",
+     "opts": [
+      "3",
+      "2",
+      "4",
+      "6"
+     ]
+    },
+    {
+     "stem": "A codon is a sequence of how many mRNA bases that codes for one amino acid?",
+     "opts": [
+      "3",
+      "2",
+      "4",
+      "6"
+     ]
+    },
+    {
+     "stem": "Each amino acid is specified by a codon made of how many nucleotides?",
+     "opts": [
+      "3",
+      "2",
+      "4",
+      "6"
+     ]
+    },
+    {
+     "stem": "The genetic code is read in groups of how many nucleotides?",
+     "opts": [
+      "3",
+      "2",
+      "4",
+      "6"
+     ]
+    },
+    {
+     "stem": "How many bases are in the codon that tRNA's anticodon pairs with?",
+     "opts": [
+      "3",
+      "2",
+      "4",
+      "6"
+     ]
+    },
+    {
+     "stem": "A triplet code means each codon contains how many nucleotides?",
+     "opts": [
+      "3",
+      "2",
+      "4",
+      "6"
+     ]
+    },
+    {
+     "stem": "If an mRNA strand is 30 nucleotides long, each codon within it is made of how many nucleotides?",
+     "opts": [
+      "3",
+      "2",
+      "4",
+      "6"
+     ]
+    },
+    {
+     "stem": "What is the number of nucleotides in a single codon?",
+     "opts": [
+      "3",
+      "2",
+      "4",
+      "6"
+     ]
+    }
+   ],
+   "why": "A codon is three nucleotides long and codes for one amino acid (or a start/stop signal).",
+   "deep": "With 4 bases and 3 positions there are 4³ = 64 possible codons for just 20 amino acids, so the code is redundant. AUG is the start codon; UAA, UAG, and UGA are stop codons."
+  },
+  {
+   "id": "bio-b02-014",
+   "tag": "Genetics",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "What is the term for an individual with two identical alleles for a gene?",
+     "opts": [
+      "Homozygous",
+      "Heterozygous",
+      "Hemizygous",
+      "Polygenic"
+     ]
+    },
+    {
+     "stem": "An organism with the genotype AA or aa is described as:",
+     "opts": [
+      "Homozygous",
+      "Heterozygous",
+      "Hemizygous",
+      "Polygenic"
+     ]
+    },
+    {
+     "stem": "Which term describes a genotype with two copies of the same allele?",
+     "opts": [
+      "Homozygous",
+      "Heterozygous",
+      "Hemizygous",
+      "Polygenic"
+     ]
+    },
+    {
+     "stem": "If both alleles at a gene locus are the same, the organism is said to be:",
+     "opts": [
+      "Homozygous",
+      "Heterozygous",
+      "Hemizygous",
+      "Polygenic"
+     ]
+    },
+    {
+     "stem": "Which word describes the genotype TT?",
+     "opts": [
+      "Homozygous",
+      "Heterozygous",
+      "Hemizygous",
+      "Polygenic"
+     ]
+    },
+    {
+     "stem": "A pea plant carries two copies of the allele for purple flowers (PP). Its genotype is:",
+     "opts": [
+      "Homozygous",
+      "Heterozygous",
+      "Hemizygous",
+      "Polygenic"
+     ]
+    },
+    {
+     "stem": "Which term applies when an individual inherited the same allele from each parent?",
+     "opts": [
+      "Homozygous",
+      "Heterozygous",
+      "Hemizygous",
+      "Polygenic"
+     ]
+    },
+    {
+     "stem": "The genotype tt is described as:",
+     "opts": [
+      "Homozygous",
+      "Heterozygous",
+      "Hemizygous",
+      "Polygenic"
+     ]
+    }
+   ],
+   "why": "Having two identical alleles for a gene is called homozygous.",
+   "deep": "Homo = same, hetero = different. Homozygous dominant (AA), homozygous recessive (aa), heterozygous (Aa). Hemizygous refers to a single copy of a gene, as with X-linked genes in males."
+  },
+  {
+   "id": "bio-b02-015",
+   "tag": "Molecular Biology",
+   "type": "typed",
+   "answers": [
+    "20",
+    "20.0"
+   ],
+   "tolerance": 0,
+   "variants": [
+    {
+     "stem": "A DNA sample is 30% adenine. What percent of the DNA is guanine? Type a number."
+    },
+    {
+     "stem": "In a double-stranded DNA molecule, 30% of the bases are adenine. What percent are guanine? Type a number."
+    },
+    {
+     "stem": "If thymine makes up 30% of a DNA sample, what percent is cytosine? Type a number."
+    },
+    {
+     "stem": "A scientist finds that 30% of the nucleotides in a DNA sample are adenine. Give the percent of guanine nucleotides as a number."
+    },
+    {
+     "stem": "DNA is double stranded and contains 30% adenine. What percentage is guanine? Type a number."
+    },
+    {
+     "stem": "Given that 30% of a DNA molecule's bases are adenine, what percent of its bases are guanine? Type a number."
+    },
+    {
+     "stem": "A double helix contains 30% thymine. Type the percent of the bases that are guanine."
+    },
+    {
+     "stem": "Using base-pairing rules, if adenine is 30% of a DNA sample, what percent is guanine? Type a number."
+    }
+   ],
+   "why": "A pairs with T, so A = T = 30% (60% total). The remaining 40% is split equally between G and C, giving 20% each.",
+   "deep": "Chargaff's rules: in double-stranded DNA, A = T and G = C, and all four bases add up to 100%.",
+   "unit": "%"
+  },
+  {
+   "id": "bio-b02-016",
+   "tag": "Cell Biology",
+   "type": "multi",
+   "variants": [
+    {
+     "stem": "Which of the following are found in eukaryotic cells but not in prokaryotic cells? Select all that apply.",
+     "opts": [
+      "Mitochondria",
+      "Nucleus",
+      "Ribosomes",
+      "Golgi apparatus",
+      "Plasma membrane"
+     ],
+     "correct": [
+      0,
+      1,
+      3
+     ]
+    },
+    {
+     "stem": "Select every structure that is present in eukaryotes and absent in bacteria.",
+     "opts": [
+      "Golgi apparatus",
+      "Plasma membrane",
+      "Ribosomes",
+      "Mitochondria",
+      "Nucleus"
+     ],
+     "correct": [
+      0,
+      3,
+      4
+     ]
+    },
+    {
+     "stem": "Which options are membrane-bound structures found only in eukaryotic cells? Select all that apply.",
+     "opts": [
+      "Mitochondria",
+      "Ribosomes",
+      "Golgi apparatus",
+      "Nucleus",
+      "Plasma membrane"
+     ],
+     "correct": [
+      0,
+      2,
+      3
+     ]
+    },
+    {
+     "stem": "Identify all structures that distinguish eukaryotic cells from prokaryotic cells.",
+     "opts": [
+      "Nucleus",
+      "Golgi apparatus",
+      "Ribosomes",
+      "Mitochondria",
+      "Plasma membrane"
+     ],
+     "correct": [
+      0,
+      1,
+      3
+     ]
+    },
+    {
+     "stem": "Which of these would you expect in an animal cell but not in a bacterial cell? Select all that apply.",
+     "opts": [
+      "Nucleus",
+      "Mitochondria",
+      "Plasma membrane",
+      "Ribosomes",
+      "Golgi apparatus"
+     ],
+     "correct": [
+      0,
+      1,
+      4
+     ]
+    },
+    {
+     "stem": "Select all organelles or structures that bacteria lack but eukaryotes have.",
+     "opts": [
+      "Mitochondria",
+      "Ribosomes",
+      "Nucleus",
+      "Plasma membrane",
+      "Golgi apparatus"
+     ],
+     "correct": [
+      0,
+      2,
+      4
+     ]
+    },
+    {
+     "stem": "Which of the following are unique to eukaryotes? Select all that apply.",
+     "opts": [
+      "Ribosomes",
+      "Plasma membrane",
+      "Golgi apparatus",
+      "Nucleus",
+      "Mitochondria"
+     ],
+     "correct": [
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "stem": "Choose every structure that a prokaryotic cell does not have but a eukaryotic cell does.",
+     "opts": [
+      "Nucleus",
+      "Golgi apparatus",
+      "Mitochondria",
+      "Ribosomes",
+      "Plasma membrane"
+     ],
+     "correct": [
+      0,
+      1,
+      2
+     ]
+    }
+   ],
+   "why": "Eukaryotes have a nucleus and membrane-bound organelles such as mitochondria and the Golgi apparatus. Ribosomes and a plasma membrane are found in both cell types.",
+   "deep": "Prokaryotes (bacteria and archaea) have DNA in a nucleoid region, no membrane-bound organelles, and smaller ribosomes, but they do have ribosomes and a plasma membrane."
+  },
+  {
+   "id": "chem-b02-017",
+   "tag": "Periodic Table",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which element is the most electronegative?",
+     "opts": [
+      "Fluorine",
+      "Oxygen",
+      "Chlorine",
+      "Nitrogen"
+     ]
+    },
+    {
+     "stem": "Which of the following elements attracts electrons most strongly in a bond?",
+     "opts": [
+      "Fluorine",
+      "Oxygen",
+      "Chlorine",
+      "Nitrogen"
+     ]
+    },
+    {
+     "stem": "Which element has the highest electronegativity on the periodic table?",
+     "opts": [
+      "Fluorine",
+      "Oxygen",
+      "Chlorine",
+      "Nitrogen"
+     ]
+    },
+    {
+     "stem": "In a bond between hydrogen and which of these elements would the electrons be pulled most strongly toward the other atom?",
+     "opts": [
+      "Fluorine",
+      "Oxygen",
+      "Chlorine",
+      "Nitrogen"
+     ]
+    },
+    {
+     "stem": "Which element is most likely to pull shared electrons toward itself?",
+     "opts": [
+      "Fluorine",
+      "Oxygen",
+      "Chlorine",
+      "Nitrogen"
+     ]
+    },
+    {
+     "stem": "Electronegativity increases across a period and decreases down a group. Which element listed is the most electronegative?",
+     "opts": [
+      "Fluorine",
+      "Oxygen",
+      "Chlorine",
+      "Nitrogen"
+     ]
+    },
+    {
+     "stem": "Which of the following has the greatest tendency to attract bonding electrons?",
+     "opts": [
+      "Fluorine",
+      "Oxygen",
+      "Chlorine",
+      "Nitrogen"
+     ]
+    },
+    {
+     "stem": "Which element is at the top of the electronegativity scale?",
+     "opts": [
+      "Fluorine",
+      "Oxygen",
+      "Chlorine",
+      "Nitrogen"
+     ]
+    }
+   ],
+   "why": "Fluorine is the most electronegative element.",
+   "deep": "Electronegativity trend: increases left to right across a period and bottom to top within a group, so fluorine (top right, excluding noble gases) is highest, followed by oxygen."
+  },
+  {
+   "id": "chem-b02-018",
+   "tag": "Bonding",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Hydrogen bonds between water molecules form between which atoms?",
+     "opts": [
+      "O of one water and H of another",
+      "O and O of neighboring waters",
+      "H and H of neighboring waters",
+      "H and Na⁺ in a solution"
+     ]
+    },
+    {
+     "stem": "Which interaction describes the hydrogen bond holding liquid water molecules together?",
+     "opts": [
+      "O of one water and H of another",
+      "O and O of neighboring waters",
+      "H and H of neighboring waters",
+      "H and Na⁺ in a solution"
+     ]
+    },
+    {
+     "stem": "A hydrogen bond in water is an attraction between:",
+     "opts": [
+      "O of one water and H of another",
+      "O and O of neighboring waters",
+      "H and H of neighboring waters",
+      "H and Na⁺ in a solution"
+     ]
+    },
+    {
+     "stem": "What atoms are involved in a hydrogen bond between two adjacent water molecules?",
+     "opts": [
+      "O of one water and H of another",
+      "O and O of neighboring waters",
+      "H and H of neighboring waters",
+      "H and Na⁺ in a solution"
+     ]
+    },
+    {
+     "stem": "Which pair of atoms is attracted to each other in a hydrogen bond between water molecules?",
+     "opts": [
+      "O of one water and H of another",
+      "O and O of neighboring waters",
+      "H and H of neighboring waters",
+      "H and Na⁺ in a solution"
+     ]
+    },
+    {
+     "stem": "Water's high boiling point is due to hydrogen bonds. Which attraction forms them?",
+     "opts": [
+      "O of one water and H of another",
+      "O and O of neighboring waters",
+      "H and H of neighboring waters",
+      "H and Na⁺ in a solution"
+     ]
+    },
+    {
+     "stem": "Which description correctly identifies a hydrogen bond between two water molecules?",
+     "opts": [
+      "O of one water and H of another",
+      "O and O of neighboring waters",
+      "H and H of neighboring waters",
+      "H and Na⁺ in a solution"
+     ]
+    },
+    {
+     "stem": "Neighboring water molecules cling together because of an attraction between:",
+     "opts": [
+      "O of one water and H of another",
+      "O and O of neighboring waters",
+      "H and H of neighboring waters",
+      "H and Na⁺ in a solution"
+     ]
+    }
+   ],
+   "why": "The slightly negative oxygen of one water molecule is attracted to the slightly positive hydrogen of another.",
+   "deep": "Water is polar because oxygen pulls electrons more strongly than hydrogen. Hydrogen bonds cause cohesion, high surface tension, high specific heat, and ice floating on water."
+  },
+  {
+   "id": "chem-b02-019",
+   "tag": "States of Matter",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "What is the term for the change from a solid directly to a gas?",
+     "opts": [
+      "Sublimation",
+      "Condensation",
+      "Deposition",
+      "Evaporation"
+     ]
+    },
+    {
+     "stem": "Dry ice turns directly into carbon dioxide gas without becoming a liquid. This process is called:",
+     "opts": [
+      "Sublimation",
+      "Condensation",
+      "Deposition",
+      "Evaporation"
+     ]
+    },
+    {
+     "stem": "Which phase change skips the liquid state when going from solid to gas?",
+     "opts": [
+      "Sublimation",
+      "Condensation",
+      "Deposition",
+      "Evaporation"
+     ]
+    },
+    {
+     "stem": "Snow slowly disappearing on a cold, dry, sunny day without melting is an example of:",
+     "opts": [
+      "Sublimation",
+      "Condensation",
+      "Deposition",
+      "Evaporation"
+     ]
+    },
+    {
+     "stem": "A solid changing directly into a vapor undergoes which process?",
+     "opts": [
+      "Sublimation",
+      "Condensation",
+      "Deposition",
+      "Evaporation"
+     ]
+    },
+    {
+     "stem": "Which process occurs when moth balls shrink and give off vapor without melting?",
+     "opts": [
+      "Sublimation",
+      "Condensation",
+      "Deposition",
+      "Evaporation"
+     ]
+    },
+    {
+     "stem": "Which term describes solid-to-gas transitions?",
+     "opts": [
+      "Sublimation",
+      "Condensation",
+      "Deposition",
+      "Evaporation"
+     ]
+    },
+    {
+     "stem": "The phase change in which a substance goes from solid to gas without passing through the liquid phase is:",
+     "opts": [
+      "Sublimation",
+      "Condensation",
+      "Deposition",
+      "Evaporation"
+     ]
+    }
+   ],
+   "why": "Sublimation is the direct change from solid to gas.",
+   "deep": "Deposition is the reverse (gas directly to solid, such as frost). Condensation is gas to liquid; evaporation is liquid to gas; melting is solid to liquid; freezing is liquid to solid."
+  },
+  {
+   "id": "chem-b02-020",
+   "tag": "Chemical Reactions",
+   "type": "typed",
+   "answers": [
+    "117",
+    "117.0"
+   ],
+   "tolerance": 0,
+   "variants": [
+    {
+     "stem": "What is the mass of 2 moles of NaCl? Use atomic masses Na = 23 and Cl = 35.5. Type a number."
+    },
+    {
+     "stem": "Using Na = 23 and Cl = 35.5, how many grams are in 2 moles of NaCl? Type a number."
+    },
+    {
+     "stem": "The molar mass of NaCl is the sum of Na (23) and Cl (35.5). What is the mass, in grams, of 2 moles of NaCl? Type a number."
+    },
+    {
+     "stem": "Calculate the mass of 2.0 mol of sodium chloride (Na = 23, Cl = 35.5). Type a number."
+    },
+    {
+     "stem": "A chemist weighs out 2 moles of table salt (NaCl). Using Na = 23 and Cl = 35.5, what is the mass in grams? Type a number."
+    },
+    {
+     "stem": "If one mole of NaCl has a mass equal to Na (23) plus Cl (35.5), how many grams do 2 moles weigh? Type a number."
+    },
+    {
+     "stem": "Find the mass in grams of 2 moles of NaCl given Na = 23 and Cl = 35.5. Type a number."
+    },
+    {
+     "stem": "What is the total mass of 2 moles of NaCl? (Na = 23, Cl = 35.5) Type a number."
+    }
+   ],
+   "why": "Molar mass of NaCl = 23 + 35.5 = 58.5 g/mol, so 2 mol × 58.5 g/mol = 117 g.",
+   "deep": "Mass = moles × molar mass. Always add the atomic masses of each atom in the formula to get the molar mass.",
+   "unit": "g"
+  },
+  {
+   "id": "chem-b02-021",
+   "tag": "Chemical Reactions",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "The reaction 2Na + Cl₂ → 2NaCl is which type of reaction?",
+     "opts": [
+      "Synthesis",
+      "Decomposition",
+      "Single replacement",
+      "Double replacement"
+     ]
+    },
+    {
+     "stem": "Two or more reactants combine to form a single product in 2Na + Cl₂ → 2NaCl. What type of reaction is this?",
+     "opts": [
+      "Synthesis",
+      "Decomposition",
+      "Single replacement",
+      "Double replacement"
+     ]
+    },
+    {
+     "stem": "Which classification fits 2Na + Cl₂ → 2NaCl?",
+     "opts": [
+      "Synthesis",
+      "Decomposition",
+      "Single replacement",
+      "Double replacement"
+     ]
+    },
+    {
+     "stem": "When elements join to form one compound, as in 2Na + Cl₂ → 2NaCl, the reaction is a:",
+     "opts": [
+      "Synthesis",
+      "Decomposition",
+      "Single replacement",
+      "Double replacement"
+     ]
+    },
+    {
+     "stem": "Which reaction type produces a single compound from simpler substances, like sodium and chlorine forming NaCl?",
+     "opts": [
+      "Synthesis",
+      "Decomposition",
+      "Single replacement",
+      "Double replacement"
+     ]
+    },
+    {
+     "stem": "What kind of reaction is represented by the equation 2Na + Cl₂ → 2NaCl?",
+     "opts": [
+      "Synthesis",
+      "Decomposition",
+      "Single replacement",
+      "Double replacement"
+     ]
+    },
+    {
+     "stem": "Sodium reacts with chlorine gas to form table salt. Which reaction type does this represent?",
+     "opts": [
+      "Synthesis",
+      "Decomposition",
+      "Single replacement",
+      "Double replacement"
+     ]
+    },
+    {
+     "stem": "Identify the type of reaction: 2Na + Cl₂ → 2NaCl.",
+     "opts": [
+      "Synthesis",
+      "Decomposition",
+      "Single replacement",
+      "Double replacement"
+     ]
+    }
+   ],
+   "why": "Two reactants combining into one product is a synthesis (combination) reaction.",
+   "deep": "Synthesis: A + B → AB. Decomposition: AB → A + B. Single replacement: A + BC → AC + B. Double replacement: AB + CD → AD + CB."
+  },
+  {
+   "id": "sr-b02-022",
+   "tag": "Experimental Design",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "A student tests how water temperature affects the time sugar takes to dissolve. Which is the dependent variable?",
+     "opts": [
+      "Time to dissolve",
+      "Water temperature",
+      "Amount of sugar",
+      "Type of cup"
+     ]
+    },
+    {
+     "stem": "In an experiment on water temperature and dissolving time for sugar, which factor is measured as the outcome?",
+     "opts": [
+      "Time to dissolve",
+      "Water temperature",
+      "Amount of sugar",
+      "Type of cup"
+     ]
+    },
+    {
+     "stem": "Which variable depends on the water temperature when testing how fast sugar dissolves?",
+     "opts": [
+      "Time to dissolve",
+      "Water temperature",
+      "Amount of sugar",
+      "Type of cup"
+     ]
+    },
+    {
+     "stem": "A researcher varies water temperature and records how long sugar takes to dissolve. What is the dependent variable?",
+     "opts": [
+      "Time to dissolve",
+      "Water temperature",
+      "Amount of sugar",
+      "Type of cup"
+     ]
+    },
+    {
+     "stem": "When studying the effect of temperature on how quickly sugar dissolves, which is the responding variable?",
+     "opts": [
+      "Time to dissolve",
+      "Water temperature",
+      "Amount of sugar",
+      "Type of cup"
+     ]
+    },
+    {
+     "stem": "Which value is the experimental result in a study of water temperature and sugar dissolving?",
+     "opts": [
+      "Time to dissolve",
+      "Water temperature",
+      "Amount of sugar",
+      "Type of cup"
+     ]
+    },
+    {
+     "stem": "In an investigation of how temperature affects sugar dissolving, which variable would be plotted on the y-axis?",
+     "opts": [
+      "Time to dissolve",
+      "Water temperature",
+      "Amount of sugar",
+      "Type of cup"
+     ]
+    },
+    {
+     "stem": "Which of the following is the dependent variable in a sugar-dissolving experiment where water temperature is changed?",
+     "opts": [
+      "Time to dissolve",
+      "Water temperature",
+      "Amount of sugar",
+      "Type of cup"
+     ]
+    }
+   ],
+   "why": "The dependent variable is what is measured as the outcome, here the time for the sugar to dissolve.",
+   "deep": "Independent = water temperature (what the student changes). Controlled variables = amount of sugar, type of cup, stirring. Dependent = what responds and is measured."
+  },
+  {
+   "id": "sr-b02-023",
+   "tag": "Data Interpretation",
+   "type": "single",
+   "table": {
+    "head": [
+     "Time (min)",
+     "Mass (g)"
+    ],
+    "rows": [
+     [
+      "0",
+      "100"
+     ],
+     [
+      "5",
+      "95"
+     ],
+     [
+      "10",
+      "90"
+     ],
+     [
+      "15",
+      "85"
+     ]
+    ]
+   },
+   "variants": [
+    {
+     "stem": "The table below shows the mass of a sample over time. Which statement describes the trend?",
+     "opts": [
+      "Mass decreases by 5 g every 5 minutes",
+      "Mass increases steadily",
+      "Mass stays constant",
+      "Mass decreases by 10 g every 5 minutes"
+     ]
+    },
+    {
+     "stem": "Based on the table, which statement correctly describes how the mass changes?",
+     "opts": [
+      "Mass decreases by 5 g every 5 minutes",
+      "Mass increases steadily",
+      "Mass stays constant",
+      "Mass decreases by 10 g every 5 minutes"
+     ]
+    },
+    {
+     "stem": "A student records the mass of a sample every 5 minutes (see table). Which conclusion is supported?",
+     "opts": [
+      "Mass decreases by 5 g every 5 minutes",
+      "Mass increases steadily",
+      "Mass stays constant",
+      "Mass decreases by 10 g every 5 minutes"
+     ]
+    },
+    {
+     "stem": "Which statement is best supported by the data in the table?",
+     "opts": [
+      "Mass decreases by 5 g every 5 minutes",
+      "Mass increases steadily",
+      "Mass stays constant",
+      "Mass decreases by 10 g every 5 minutes"
+     ]
+    },
+    {
+     "stem": "Examine the mass measurements in the table. What is the pattern?",
+     "opts": [
+      "Mass decreases by 5 g every 5 minutes",
+      "Mass increases steadily",
+      "Mass stays constant",
+      "Mass decreases by 10 g every 5 minutes"
+     ]
+    },
+    {
+     "stem": "What does the table show about the sample's mass over time?",
+     "opts": [
+      "Mass decreases by 5 g every 5 minutes",
+      "Mass increases steadily",
+      "Mass stays constant",
+      "Mass decreases by 10 g every 5 minutes"
+     ]
+    },
+    {
+     "stem": "Using the table, which description of the change in mass is accurate?",
+     "opts": [
+      "Mass decreases by 5 g every 5 minutes",
+      "Mass increases steadily",
+      "Mass stays constant",
+      "Mass decreases by 10 g every 5 minutes"
+     ]
+    },
+    {
+     "stem": "Which of the following best summarizes the data shown in the table?",
+     "opts": [
+      "Mass decreases by 5 g every 5 minutes",
+      "Mass increases steadily",
+      "Mass stays constant",
+      "Mass decreases by 10 g every 5 minutes"
+     ]
+    }
+   ],
+   "why": "Mass drops from 100 to 95 to 90 to 85 g, a steady decrease of 5 g per 5-minute interval.",
+   "deep": "Compare each interval: 100→95, 95→90, 90→85 are all −5 g, so the rate is constant (about −1 g per minute). Check every row before choosing; a trend answer must hold for all the data."
+  },
+  {
+   "id": "sr-b02-024",
+   "tag": "Measurement",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which metric prefix means one-thousandth?",
+     "opts": [
+      "milli-",
+      "kilo-",
+      "centi-",
+      "micro-"
+     ]
+    },
+    {
+     "stem": "The prefix that represents 1/1000 of a unit is:",
+     "opts": [
+      "milli-",
+      "kilo-",
+      "centi-",
+      "micro-"
+     ]
+    },
+    {
+     "stem": "A milligram is one-thousandth of a gram. Which prefix means 'one-thousandth'?",
+     "opts": [
+      "milli-",
+      "kilo-",
+      "centi-",
+      "micro-"
+     ]
+    },
+    {
+     "stem": "Which prefix would you add to 'meter' to describe 1/1000 of a meter?",
+     "opts": [
+      "milli-",
+      "kilo-",
+      "centi-",
+      "micro-"
+     ]
+    },
+    {
+     "stem": "Which metric prefix stands for 0.001?",
+     "opts": [
+      "milli-",
+      "kilo-",
+      "centi-",
+      "micro-"
+     ]
+    },
+    {
+     "stem": "A millimeter is 1/1000 of a meter. Which prefix is that?",
+     "opts": [
+      "milli-",
+      "kilo-",
+      "centi-",
+      "micro-"
+     ]
+    },
+    {
+     "stem": "Which prefix is used for a factor of 10⁻³?",
+     "opts": [
+      "milli-",
+      "kilo-",
+      "centi-",
+      "micro-"
+     ]
+    },
+    {
+     "stem": "Which of the following prefixes indicates a unit divided by 1000?",
+     "opts": [
+      "milli-",
+      "kilo-",
+      "centi-",
+      "micro-"
+     ]
+    }
+   ],
+   "why": "Milli- means one-thousandth (10⁻³).",
+   "deep": "Kilo = 1000, centi = 1/100, milli = 1/1000, micro = 1/1,000,000. Memory aid: 'k' goes up (kilo, bigger) while m, µ shrink the unit."
+  },
+  {
+   "id": "sr-b02-025",
+   "tag": "Scientific Method",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which statement best describes a scientific theory?",
+     "opts": [
+      "A well-tested explanation of nature",
+      "An untested guess about results",
+      "One recorded observation",
+      "A fact that never changes"
+     ]
+    },
+    {
+     "stem": "In science, a theory is best defined as:",
+     "opts": [
+      "A well-tested explanation of nature",
+      "An untested guess about results",
+      "One recorded observation",
+      "A fact that never changes"
+     ]
+    },
+    {
+     "stem": "Which description fits the scientific meaning of 'theory'?",
+     "opts": [
+      "A well-tested explanation of nature",
+      "An untested guess about results",
+      "One recorded observation",
+      "A fact that never changes"
+     ]
+    },
+    {
+     "stem": "How do scientists use the word 'theory'?",
+     "opts": [
+      "A well-tested explanation of nature",
+      "An untested guess about results",
+      "One recorded observation",
+      "A fact that never changes"
+     ]
+    },
+    {
+     "stem": "A scientific theory is:",
+     "opts": [
+      "A well-tested explanation of nature",
+      "An untested guess about results",
+      "One recorded observation",
+      "A fact that never changes"
+     ]
+    },
+    {
+     "stem": "Which of the following correctly describes the difference between a scientific theory and a hunch?",
+     "opts": [
+      "A well-tested explanation of nature",
+      "An untested guess about results",
+      "One recorded observation",
+      "A fact that never changes"
+     ]
+    },
+    {
+     "stem": "Which choice is the correct scientific definition of a theory?",
+     "opts": [
+      "A well-tested explanation of nature",
+      "An untested guess about results",
+      "One recorded observation",
+      "A fact that never changes"
+     ]
+    },
+    {
+     "stem": "The theory of evolution and the germ theory of disease are examples of:",
+     "opts": [
+      "A well-tested explanation of nature",
+      "An untested guess about results",
+      "One recorded observation",
+      "A fact that never changes"
+     ]
+    }
+   ],
+   "why": "A scientific theory is a well-substantiated explanation of natural phenomena supported by repeated testing and evidence.",
+   "deep": "A hypothesis is a testable prediction; a law describes a pattern (often mathematically); a theory explains why. Theories can be refined if new evidence appears."
+  }
+ ]
+}

@@ -1,0 +1,280 @@
+{
+"format": "pulse-teas-bank",
+"version": 2,
+"questions": [
+{"id":"chem-205-001","tag":"Periodic Table","type":"single","variants":[
+{"stem":"Which of the following elements attracts electrons most strongly in a chemical bond?","opts":["Fluorine","Oxygen","Chlorine","Nitrogen"]},
+{"stem":"Which element has the highest electronegativity?","opts":["Fluorine","Oxygen","Chlorine","Nitrogen"]},
+{"stem":"Electronegativity increases across a period and up a group. Which of these elements is the most electronegative?","opts":["Fluorine","Oxygen","Chlorine","Sulfur"]},
+{"stem":"In a bond between hydrogen and each of the following, which element would pull the shared electrons most strongly?","opts":["Fluorine","Oxygen","Chlorine","Nitrogen"]},
+{"stem":"Which of these elements is the most electronegative?","opts":["Fluorine","Oxygen","Bromine","Carbon"]},
+{"stem":"Which atom has the greatest ability to attract bonding electrons?","opts":["Fluorine","Nitrogen","Oxygen","Chlorine"]},
+{"stem":"A bond between hydrogen and which element would be the most polar?","opts":["Fluorine","Oxygen","Nitrogen","Chlorine"]},
+{"stem":"Which of the following elements would pull on shared electrons the hardest?","opts":["Fluorine","Oxygen","Chlorine","Nitrogen"]}
+],"why":"Fluorine is the most electronegative element, meaning it attracts bonding electrons more strongly than any other element.","deep":"Electronegativity increases from left to right across a period and from bottom to top in a group, so the most electronegative elements cluster at the top right (excluding noble gases): F, O, N, Cl. Order to remember: F > O > N ≈ Cl. Memory aid: Fluorine is Fierce about electrons."},
+
+{"id":"chem-205-002","tag":"Atomic Structure","type":"single","variants":[
+{"stem":"Isotopes have the same atomic number but different numbers of:","opts":["Neutrons","Protons","Electrons","Valence shells"]},
+{"stem":"What differs between isotopes of the same element?","opts":["The number of neutrons","The number of protons","The atomic number","The chemical symbol"]},
+{"stem":"Carbon-12 and carbon-14 differ in the number of which particle?","opts":["Neutrons","Protons","Electrons","Valence shells"]},
+{"stem":"Which particle count changes from one isotope to another without changing the element?","opts":["Neutrons","Protons","Electrons","Photons"]},
+{"stem":"If two atoms have the same number of protons but different mass numbers, they differ in the number of:","opts":["Neutrons","Protons","Electrons","Valence electrons"]},
+{"stem":"An isotope of an element has a different mass because it has a different number of:","opts":["Neutrons","Protons","Electrons","Energy levels"]},
+{"stem":"Which statement about isotopes is true?","opts":["They differ in neutron number","They differ in proton number","They differ in atomic number","They are different elements"]},
+{"stem":"Uranium-235 and uranium-238 have the same number of protons. What is different?","opts":["The number of neutrons","The number of protons","The atomic number","The element name"]}
+],"why":"Isotopes are atoms of the same element, so they have the same number of protons (the same atomic number), but they have different numbers of neutrons, which gives them different mass numbers.","deep":"Protons define the element. Neutrons can vary: carbon-12 has 6 neutrons and carbon-14 has 8. Electrons change when an atom becomes an ion, not when it becomes a different isotope. Memory aid: Isotopes = Identical protons, Strange neutrons."},
+
+{"id":"chem-205-003","tag":"Atomic Structure","type":"single","variants":[
+{"stem":"Which subatomic particle has no electrical charge?","opts":["Neutron","Proton","Electron","Ion"]},
+{"stem":"Which particle in the nucleus is electrically neutral?","opts":["Neutron","Proton","Electron","Ion"]},
+{"stem":"Protons are positive and electrons are negative. Which particle is neutral?","opts":["Neutron","Proton","Electron","Ion"]},
+{"stem":"Which particle contributes mass to an atom but no charge?","opts":["Neutron","Proton","Electron","Ion"]},
+{"stem":"Which of these particles has a charge of zero?","opts":["Neutron","Proton","Electron","Ion"]},
+{"stem":"The mass number counts protons plus which uncharged particle?","opts":["Neutrons","Electrons","Ions","Photons"]},
+{"stem":"Which nuclear particle is neither positively nor negatively charged?","opts":["Neutron","Proton","Electron","Ion"]},
+{"stem":"A neutral atom has equal numbers of positive and negative particles. Which particle has no charge at all?","opts":["Neutron","Proton","Electron","Ion"]}
+],"why":"Neutrons have no electrical charge. Protons are positive (+1) and electrons are negative (−1).","deep":"Proton: +1, in the nucleus, mass about 1 amu. Neutron: 0, in the nucleus, mass about 1 amu. Electron: −1, in shells outside the nucleus, mass almost zero. A neutral atom has equal numbers of protons and electrons."},
+
+{"id":"chem-205-004","tag":"Bonding","type":"multi","variants":[
+{"stem":"Select all that apply: Which of the following are covalent compounds?","opts":["H₂S","K₂S","PCl₃","LiF","CO₂"],"correct":[0,2,4]},
+{"stem":"Select all that apply: Which of these compounds contain only nonmetals?","opts":["NH₃","MgO","CH₄","NaCl","H₂O"],"correct":[0,2,4]},
+{"stem":"Select all that apply: Which compounds are ionic?","opts":["CaF₂","SO₂","KBr","CH₄","N₂O"],"correct":[0,2]},
+{"stem":"Select all that apply: In which compounds do the atoms share electrons?","opts":["HCl","NaBr","CCl₄","MgS","H₂O"],"correct":[0,2,4]},
+{"stem":"Select all that apply: Which of the following are NOT ionic?","opts":["Na₂O","H₂S","PCl₃","CaCl₂","CO"],"correct":[1,2,4]},
+{"stem":"Select all that apply: Which compounds are made of a metal and a nonmetal?","opts":["Li₂O","CO₂","AlCl₃","SO₃","MgBr₂"],"correct":[0,2,4]},
+{"stem":"Select all that apply: Which of the following are molecular (covalent) compounds?","opts":["NaF","H₂O","C₆H₁₂O₆","KI","CO₂"],"correct":[1,2,4]},
+{"stem":"Select all that apply: Which of the following are held together by ionic bonds?","opts":["LiF","H₂S","K₂S","PCl₃","CCl₄"],"correct":[0,2]}
+],"why":"Ionic compounds are made of a metal and a nonmetal (such as K₂S, LiF, CaF₂, KBr). Compounds made only of nonmetals (such as H₂S, PCl₃, CO₂, CH₄) share electrons and are covalent.","deep":"Quick check: find the first element in the formula. If it is a metal (Groups 1 and 2, or a transition metal), the compound is usually ionic. If every element is a nonmetal (C, H, N, O, P, S, Cl, and so on), it is covalent. H₂S looks like K₂S but contains hydrogen, a nonmetal, so it is covalent."},
+
+{"id":"chem-205-005","tag":"Atomic Structure","type":"single","variants":[
+{"stem":"What does the atomic number of an element represent?","opts":["The number of protons","The number of neutrons","The number of protons plus neutrons","The number of valence electrons"]},
+{"stem":"Which quantity determines the identity of an element?","opts":["Number of protons","Number of neutrons","Number of electrons","Number of valence shells"]},
+{"stem":"The atomic number of an atom is equal to the number of its:","opts":["Protons","Neutrons","Nucleons","Valence electrons"]},
+{"stem":"An atom's atomic number tells you how many of which particle are in its nucleus?","opts":["Protons","Neutrons","Electrons","Nucleons"]},
+{"stem":"Changing the number of which particle in an atom changes it into a different element?","opts":["Protons","Neutrons","Electrons","Energy levels"]},
+{"stem":"Which particle count is the same for every atom of a given element?","opts":["Protons","Neutrons","Electrons","Valence electrons"]},
+{"stem":"In the periodic table, elements are arranged in order of increasing number of:","opts":["Protons","Neutrons","Isotopes","Energy levels"]},
+{"stem":"Which part of an atom determines which element it is?","opts":["The number of protons in the nucleus","The number of neutrons in the nucleus","The number of electrons in the outer shell","The total mass of the atom"]}
+],"why":"The atomic number is the number of protons in an atom's nucleus, and it determines which element the atom is.","deep":"Atomic number = protons. Mass number = protons + neutrons. Neutrons = mass number − atomic number. In a neutral atom, electrons = protons. Changing neutrons gives an isotope; changing electrons gives an ion; changing protons gives a different element."},
+
+{"id":"chem-205-006","tag":"Atomic Structure","type":"typed","answers":["10"],"tolerance":0,"unit":"electrons","variants":[
+{"stem":"A magnesium atom has 12 protons. It loses two electrons to form Mg²⁺. How many electrons does the Mg²⁺ ion have? Give a whole number."},
+{"stem":"An ion of magnesium has 12 protons and a 2+ charge. How many electrons does it have? Give a whole number."},
+{"stem":"Mg²⁺ is formed from a neutral magnesium atom with 12 protons. How many electrons are in one Mg²⁺ ion? Give a whole number."},
+{"stem":"A cation has 12 protons and a charge of +2. How many electrons does it have? Give a whole number."},
+{"stem":"How many electrons are in an ion that has 12 protons and a net charge of 2+? Give a whole number."},
+{"stem":"A neutral atom with atomic number 12 loses 2 electrons. How many electrons remain? Give a whole number."},
+{"stem":"The ion Mg²⁺ has an atomic number of 12. How many electrons does it contain? Give a whole number."},
+{"stem":"Magnesium (atomic number 12) forms a 2+ ion. How many electrons does this ion have? Give a whole number."}
+],"why":"A neutral magnesium atom has 12 electrons. Forming Mg²⁺ means losing 2 electrons, leaving 12 − 2 = 10 electrons.","deep":"For an ion: electrons = protons − charge. For a cation (positive), subtract the charge from the proton count; for an anion (negative), add it. The protons do not change when an ion forms: Mg²⁺ still has 12 protons."},
+
+{"id":"chem-205-007","tag":"Atomic Structure","type":"typed","answers":["15"],"tolerance":0,"variants":[
+{"stem":"An atom has a mass number of 31 and contains 16 neutrons. How many protons does it have?"},
+{"stem":"A neutral atom has a mass number of 31 and 16 neutrons. What is its atomic number?"},
+{"stem":"The nucleus of an atom contains 31 nucleons in total, 16 of which are neutrons. How many protons are there?"},
+{"stem":"Phosphorus-31 has 16 neutrons. How many protons does it have?"},
+{"stem":"An atom with a mass number of 31 has 16 neutrons. How many electrons does it have if it is neutral?"},
+{"stem":"Find the number of protons in an atom with a mass number of 31 and 16 neutrons."},
+{"stem":"An isotope has a mass number of 31 and 16 neutrons. What is its atomic number?"},
+{"stem":"If the mass number is 31 and there are 16 neutrons, how many protons are in the nucleus?"}
+],"why":"Mass number = protons + neutrons, so protons = 31 − 16 = 15.","deep":"Rearrange the same relationship: protons = mass number − neutrons, and neutrons = mass number − atomic number. A neutral atom also has as many electrons as protons, so this atom (phosphorus) has 15 electrons too."},
+
+{"id":"chem-205-008","tag":"Periodic Table","type":"single","variants":[
+{"stem":"Why are noble gases generally unreactive?","opts":["Their outermost energy level is full","They have only one valence electron","They contain no protons","They are always liquids"]},
+{"stem":"Which feature explains the stability of helium, neon, and argon?","opts":["A full valence shell","A single valence electron","A positive charge","A large number of neutrons"]},
+{"stem":"Noble gases rarely form compounds because:","opts":["Their outer shell of electrons is already complete","They have too many electrons to share","They are all radioactive","They are all metals"]},
+{"stem":"Which statement about Group 18 elements is correct?","opts":["They have full outer electron shells","They have seven valence electrons","They readily lose one electron","They readily gain two electrons"]},
+{"stem":"An atom with a full valence shell is likely to be:","opts":["Unreactive","Highly reactive","Strongly acidic","A metal"]},
+{"stem":"Neon does not usually bond with other atoms. Why?","opts":["Its outer shell already holds 8 electrons","It has only one valence electron","It has no electrons","It is a liquid at room temperature"]},
+{"stem":"The octet rule says atoms are stable with a full outer shell. Which group of elements already has one?","opts":["Noble gases","Alkali metals","Halogens","Alkaline earth metals"]},
+{"stem":"What do He, Ne, and Ar have in common that explains their low reactivity?","opts":["Complete valence shells","Seven valence electrons","One valence electron","Partially filled outer shells"]}
+],"why":"Noble gases (Group 18) already have a full outermost electron shell, so they have little tendency to gain, lose, or share electrons.","deep":"Helium has 2 valence electrons (a full first shell); the other noble gases have 8. Group 1 (alkali metals) are the most reactive metals because they have one electron to lose; Group 17 (halogens) are the most reactive nonmetals because they need one more electron."},
+
+{"id":"chem-205-009","tag":"Periodic Table","type":"single","variants":[
+{"stem":"Which property is typical of metals?","opts":["They conduct heat and electricity well","They are brittle when solid","They are poor conductors","They are dull and shatter easily"]},
+{"stem":"Which group of elements is generally the best conductor of electric current?","opts":["Metals","Nonmetals","Noble gases","Halogens"]},
+{"stem":"Copper wire is used in electrical cords because copper has which property?","opts":["High electrical conductivity","High brittleness","Poor heat transfer","Low luster"]},
+{"stem":"Which of the following is a physical property of metals?","opts":["Conducts electricity","Brittle","Gas at room temperature","Dull appearance"]},
+{"stem":"Metals tend to have which pair of properties?","opts":["Luster and good conductivity","Dullness and poor conductivity","Brittleness and low luster","Gas state and low density"]},
+{"stem":"Elements on the left side of the periodic table are generally metals. What do they conduct well?","opts":["Heat and electricity","Only sound","Only light","Neither heat nor electricity"]},
+{"stem":"Which of these would you expect of a metal?","opts":["It conducts electricity","It shatters when hammered","It is a poor conductor of heat","It is a gas at room temperature"]},
+{"stem":"Why are metals used in cooking pots and electrical wires?","opts":["They conduct heat and electricity well","They are brittle","They are poor conductors","They are all liquids"]}
+],"why":"Metals are good conductors of heat and electricity, and they are typically shiny (lustrous), malleable, and ductile.","deep":"Metals (left and center of the table) lose electrons easily and form cations. Nonmetals (upper right) are poor conductors, tend to be brittle as solids, and gain electrons to form anions. Metalloids (such as silicon) have properties in between and are semiconductors."},
+
+{"id":"chem-205-010","tag":"Bonding","type":"single","variants":[
+{"stem":"Why is a water molecule polar?","opts":["Oxygen attracts the shared electrons more strongly than hydrogen does","Hydrogen attracts the shared electrons more strongly than oxygen does","Electrons are transferred completely from hydrogen to oxygen","The atoms share electrons equally"]},
+{"stem":"In the O–H bonds of water, which statement is accurate?","opts":["Oxygen pulls the shared electrons closer to itself","Hydrogen pulls the shared electrons closer to itself","The electrons are transferred to hydrogen","The electrons are shared equally"]},
+{"stem":"What causes the partial negative charge on the oxygen end of a water molecule?","opts":["Oxygen pulls shared electrons closer","Hydrogen pulls shared electrons closer","Oxygen gains two electrons permanently","Hydrogen gains an electron"]},
+{"stem":"A polar covalent bond forms when:","opts":["Electrons are shared unequally","Electrons are shared equally","Electrons are fully transferred","Atoms share no electrons"]},
+{"stem":"Oxygen is more electronegative than hydrogen. What does this mean for the electrons in an O–H bond?","opts":["They spend more time near oxygen","They spend more time near hydrogen","They are transferred to hydrogen","They are shared equally"]},
+{"stem":"The slight negative charge at the oxygen end of water results from:","opts":["Unequal sharing of electrons","Equal sharing of electrons","Transfer of protons","Transfer of neutrons"]},
+{"stem":"In a polar bond between two atoms, the more electronegative atom:","opts":["Attracts the shared electrons more strongly","Gives up its electrons completely","Attracts neutrons more strongly","Has fewer protons"]},
+{"stem":"Why does one side of an HCl molecule carry a partial negative charge?","opts":["Chlorine attracts the shared electrons more strongly","Hydrogen attracts the shared electrons more strongly","Chlorine gives an electron to hydrogen","The electrons are shared equally"]}
+],"why":"Oxygen is more electronegative than hydrogen, so it pulls the shared electrons closer. This unequal sharing makes each O–H bond, and the water molecule, polar.","deep":"Equal sharing = nonpolar covalent (O₂, N₂, CH₄). Unequal sharing = polar covalent (H₂O, HCl, NH₃). Complete transfer = ionic (NaCl). The partial charges are written δ⁻ on the more electronegative atom and δ⁺ on the other. Polarity is what lets water form hydrogen bonds."},
+
+{"id":"chem-205-011","tag":"Reactions","type":"single","variants":[
+{"stem":"Which type of reaction follows the pattern A + B → AB?","opts":["Synthesis","Decomposition","Single replacement","Double replacement"]},
+{"stem":"2H₂ + O₂ → 2H₂O is an example of which type of reaction?","opts":["Synthesis","Decomposition","Single replacement","Double replacement"]},
+{"stem":"Two or more substances combine to form one product. What is this reaction type?","opts":["Synthesis","Decomposition","Single replacement","Double replacement"]},
+{"stem":"2Na + Cl₂ → 2NaCl is an example of which reaction type?","opts":["Synthesis","Decomposition","Single replacement","Double replacement"]},
+{"stem":"In which type of reaction do simple substances combine to form a more complex one?","opts":["Synthesis","Decomposition","Single replacement","Double replacement"]},
+{"stem":"Which reaction type is also called a combination reaction?","opts":["Synthesis","Decomposition","Single replacement","Double replacement"]},
+{"stem":"N₂ + 3H₂ → 2NH₃ is classified as:","opts":["Synthesis","Decomposition","Single replacement","Double replacement"]},
+{"stem":"Which reaction type forms a single compound from two reactants?","opts":["Synthesis","Decomposition","Single replacement","Double replacement"]}
+],"why":"A synthesis (combination) reaction joins two or more reactants into a single, more complex product: A + B → AB.","deep":"Decomposition: AB → A + B. Single replacement: A + BC → AC + B. Double replacement: AB + CD → AD + CB. Combustion: a fuel reacts with oxygen to release energy, usually producing CO₂ and H₂O."},
+
+{"id":"chem-205-012","tag":"Atomic Structure","type":"hotspot","image":"<svg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'><g fill='none' stroke='#94a3b8' stroke-width='1.5'><circle cx='100' cy='100' r='34'/><circle cx='100' cy='100' r='62'/><circle cx='100' cy='100' r='88'/></g><circle cx='100' cy='100' r='14' fill='#f87171' stroke='#e2e8f0' stroke-width='2'/><g fill='#67e8f9'><circle cx='134' cy='100' r='5'/><circle cx='66' cy='100' r='5'/><circle cx='162' cy='100' r='5'/><circle cx='144' cy='144' r='5'/><circle cx='100' cy='162' r='5'/><circle cx='56' cy='144' r='5'/><circle cx='38' cy='100' r='5'/><circle cx='56' cy='56' r='5'/><circle cx='100' cy='38' r='5'/><circle cx='144' cy='56' r='5'/><circle cx='162' cy='38' r='5'/></g></svg>","target":[{"type":"circle","cx":162,"cy":38,"r":17}],"variants":[
+{"stem":"This diagram shows a sodium atom (11 electrons). Tap its valence electron."},
+{"stem":"Tap the outermost electron of this atom."},
+{"stem":"This atom will form Na⁺ by losing one electron. Tap the electron it loses."},
+{"stem":"Tap the electron in the highest energy level of this atom."},
+{"stem":"Tap the electron that is involved in bonding in this atom."},
+{"stem":"Tap the lone electron in the third shell of this atom."},
+{"stem":"Tap the electron that is farthest from the nucleus."},
+{"stem":"This atom has 11 electrons. Tap the single electron in its outer shell."}
+],"why":"Sodium has 11 electrons arranged 2, 8, 1. The single electron in the outermost (third) shell is the valence electron, which sodium loses to form Na⁺.","deep":"Valence electrons are the electrons in the outermost shell, and they are the ones involved in bonding. Sodium has 1, so it is in Group 1. After losing that electron, Na⁺ has 10 electrons (2, 8), matching the stable configuration of neon."},
+
+{"id":"chem-205-013","tag":"Ions","type":"single","variants":[
+{"stem":"A chlorine atom gains one electron. What is the charge of the resulting ion?","opts":["1−","1+","2−","0"]},
+{"stem":"What charge results when a neutral atom gains one electron?","opts":["1−","1+","2+","No charge"]},
+{"stem":"A fluorine atom gains one electron to fill its valence shell. The ion formed has which charge?","opts":["1−","1+","2−","2+"]},
+{"stem":"A neutral atom gains one electron, so it has one more electron than protons. What is its net charge?","opts":["1−","1+","0","2−"]},
+{"stem":"An atom of bromine gains one electron. Which symbol correctly represents the ion?","opts":["Br⁻","Br⁺","Br²⁻","Br²⁺"]},
+{"stem":"Which charge does an ion carry if it has 17 protons and 18 electrons?","opts":["1−","1+","2−","0"]},
+{"stem":"A neutral atom gains one electron. What is the ion's overall charge?","opts":["−1","+1","−2","0"]},
+{"stem":"In forming NaCl, the chlorine atom gains one electron from sodium. What charge does the chloride ion have?","opts":["1−","1+","2−","0"]}
+],"why":"Gaining an electron gives an atom one more negative particle than positive particles, so the ion has a 1− charge (an anion).","deep":"Charge = protons − electrons. Gain electrons → negative ion (anion). Lose electrons → positive ion (cation). Group 17 atoms gain one electron to form 1− ions; Group 1 atoms lose one to form 1+ ions."},
+
+{"id":"bio-205-001","tag":"Genetics","type":"single","variants":[
+{"stem":"A DNA template strand reads 3′-TTAGCC-5′. Which mRNA sequence is transcribed from it?","opts":["5′-AAUCGG-3′","5′-GGCUAA-3′","5′-AATCGG-3′","5′-UUAGCC-3′"]},
+{"stem":"RNA polymerase reads the template 3′-TTAGCC-5′. Which mRNA does it build?","opts":["5′-AAUCGG-3′","5′-TTAGCC-3′","5′-GGCUAA-3′","5′-AATCGG-3′"]},
+{"stem":"Which mRNA is complementary to the DNA template 3′-TTAGCC-5′?","opts":["5′-AAUCGG-3′","5′-GGCUAA-3′","5′-AATCGG-3′","5′-UUAGCC-3′"]},
+{"stem":"The template strand of a gene reads 3′-TTAGCC-5′. What is the resulting mRNA, written 5′ to 3′?","opts":["5′-AAUCGG-3′","5′-TTAGCC-3′","5′-GGCUAA-3′","5′-AATCGG-3′"]},
+{"stem":"During transcription of the template 3′-TTAGCC-5′, which RNA sequence is made?","opts":["5′-AAUCGG-3′","5′-GGCUAA-3′","5′-AATCGG-3′","5′-UUAGCC-3′"]},
+{"stem":"Given the template DNA 3′-TTAGCC-5′, what is the mRNA?","opts":["5′-AAUCGG-3′","5′-TTAGCC-3′","5′-GGCUAA-3′","5′-AATCGG-3′"]},
+{"stem":"What RNA sequence is transcribed from the template strand 3′-TTAGCC-5′?","opts":["5′-AAUCGG-3′","5′-GGCUAA-3′","5′-AATCGG-3′","5′-UUAGCC-3′"]},
+{"stem":"A section of template DNA is 3′-TTAGCC-5′. Which mRNA sequence would be made from it?","opts":["5′-AAUCGG-3′","5′-TTAGCC-3′","5′-GGCUAA-3′","5′-AATCGG-3′"]}
+],"why":"mRNA is built complementary to the template: T→A, T→A, A→U, G→C, C→G, C→G, so 3′-TTAGCC-5′ gives 5′-AAUCGG-3′.","deep":"Step by step: write the complement under each template base (T pairs with A, A with U in RNA, G with C, C with G), keeping the same left-to-right order. The mRNA's 5′ end lines up with the template's 3′ end. Watch out for two traps: thymine (T) in RNA, and a sequence written backwards."},
+
+{"id":"bio-205-002","tag":"Cell Biology","type":"multi","variants":[
+{"stem":"Select all that apply: Which structures are found in BOTH bacterial cells and animal cells?","opts":["Ribosomes","Nucleus","Plasma membrane","Mitochondria","Lysosomes"],"correct":[0,2]},
+{"stem":"Select all that apply: Which structures would you find in both a human cell and E. coli?","opts":["Cytoplasm","Golgi apparatus","Ribosomes","Endoplasmic reticulum","Nucleus"],"correct":[0,2]},
+{"stem":"Select all that apply: Which of the following do prokaryotic and eukaryotic cells have in common?","opts":["DNA","Mitochondria","Plasma membrane","Nucleus","Lysosomes"],"correct":[0,2]},
+{"stem":"Select all that apply: Which are present in every cell, whether prokaryotic or eukaryotic?","opts":["Ribosomes","Plasma membrane","Nucleus","Chloroplasts","Mitochondria"],"correct":[0,1]},
+{"stem":"Select all that apply: Which structures are shared by bacteria and animal cells?","opts":["Cytoplasm","DNA","Golgi apparatus","Mitochondria","Nucleus"],"correct":[0,1]},
+{"stem":"Select all that apply: Which structures do both bacteria and human cells use to make proteins or to enclose their contents?","opts":["Ribosomes","Endoplasmic reticulum","Plasma membrane","Nuclear envelope","Lysosomes"],"correct":[0,2]},
+{"stem":"Select all that apply: Which of these are NOT unique to eukaryotes?","opts":["Ribosomes","Nucleus","Mitochondria","Plasma membrane","Golgi apparatus"],"correct":[0,3]},
+{"stem":"Select all that apply: Bacteria and animal cells both contain which of the following?","opts":["Ribosomes","Lysosomes","DNA","Nucleus","Mitochondria"],"correct":[0,2]}
+],"why":"All cells have a plasma membrane, cytoplasm, ribosomes, and DNA. Only eukaryotes have a nucleus and membrane-bound organelles such as mitochondria, the Golgi apparatus, and lysosomes.","deep":"Ribosomes are the trap: bacteria have them (smaller ones), so ribosomes are NOT a difference between bacterial and animal cells. Differences are structures with membranes around them: nucleus, mitochondria, ER, Golgi, and lysosomes."},
+
+{"id":"bio-205-003","tag":"Genetics","type":"single","variants":[
+{"stem":"Which enzyme adds nucleotides to build a new DNA strand during replication?","opts":["DNA polymerase","Helicase","RNA polymerase","Lipase"]},
+{"stem":"After helicase unwinds DNA, which enzyme builds the new complementary strands?","opts":["DNA polymerase","Helicase","Ligase","Amylase"]},
+{"stem":"Which enzyme synthesizes new DNA using the parent strand as a template?","opts":["DNA polymerase","RNA polymerase","Helicase","Protease"]},
+{"stem":"Which enzyme matches free nucleotides to the template strand during DNA replication?","opts":["DNA polymerase","Helicase","Ligase","RNA polymerase"]},
+{"stem":"Which enzyme is responsible for elongating the new DNA strand?","opts":["DNA polymerase","Helicase","Ligase","Lipase"]},
+{"stem":"The main enzyme that assembles the new daughter strand of DNA is:","opts":["DNA polymerase","Helicase","RNA polymerase","Amylase"]},
+{"stem":"Which enzyme links DNA nucleotides together in the 5′ to 3′ direction during replication?","opts":["DNA polymerase","Helicase","Protease","RNA polymerase"]},
+{"stem":"Which enzyme copies the DNA template into a new complementary DNA strand?","opts":["DNA polymerase","RNA polymerase","Helicase","Amylase"]}
+],"why":"DNA polymerase builds each new DNA strand by adding nucleotides complementary to the template strand.","deep":"Replication: helicase unwinds the double helix, DNA polymerase builds new strands along each template (each daughter DNA has one old and one new strand: semiconservative), and ligase seals gaps. RNA polymerase makes RNA in transcription, not DNA in replication."},
+
+{"id":"bio-205-004","tag":"Genetics","type":"single","variants":[
+{"stem":"Two heterozygous parents (Aa × Aa) have children. What percent of the offspring are expected to show the dominant phenotype?","opts":["75%","25%","50%","100%"]},
+{"stem":"In pea plants, tall (T) is dominant. Two heterozygous tall plants are crossed. What percent of the offspring are expected to be tall?","opts":["75%","25%","50%","100%"]},
+{"stem":"A cross between two Bb parents produces offspring. What percentage are expected to have at least one dominant allele B?","opts":["75%","25%","50%","100%"]},
+{"stem":"Two brown-eyed parents are both Bb (brown is dominant). What percent of their children are expected to have brown eyes?","opts":["75%","25%","50%","100%"]},
+{"stem":"Two carriers (Cc) of a recessive trait have a child. What is the chance that the child does NOT show the recessive trait?","opts":["75%","25%","50%","100%"]},
+{"stem":"In an Rr × Rr cross, what percent of the offspring will show the dominant trait?","opts":["75%","25%","50%","100%"]},
+{"stem":"When two hybrid parents (Ee × Ee) are crossed, what percentage of the offspring show the dominant phenotype?","opts":["75%","25%","50%","100%"]},
+{"stem":"A Punnett square of Aa × Aa has four boxes. What percent of them show the dominant phenotype?","opts":["75%","25%","50%","100%"]}
+],"why":"Aa × Aa gives 1 AA : 2 Aa : 1 aa. AA and Aa both show the dominant phenotype, so 3 of 4 offspring (75%) do.","deep":"Genotype ratio 1:2:1; phenotype ratio 3:1. The 25% figure is the recessive phenotype (aa), and 75% is everything with at least one dominant allele. Compare Aa × aa, which gives 50% of each."},
+
+{"id":"bio-205-005","tag":"Homeostasis","type":"single","variants":[
+{"stem":"Which of the following is an example of negative feedback?","opts":["Sweating when body temperature rises","Uterine contractions strengthening during labor","Clot formation growing after an injury","Milk letdown during nursing"]},
+{"stem":"Which process returns a variable toward its set point?","opts":["Sweating when body temperature rises","Uterine contractions intensifying during labor","Platelet plug growth during clotting","Oxytocin increasing during labor"]},
+{"stem":"A homeostatic response reverses the original change. Which is an example?","opts":["Shivering when body temperature falls","Labor contractions strengthening","Clot formation amplifying","Ovulation triggered by the LH surge"]},
+{"stem":"Which regulation mechanism opposes a change and helps maintain homeostasis?","opts":["Insulin lowering blood glucose after a meal","Oxytocin increasing during labor","Platelets attracting more platelets","The LH surge before ovulation"]},
+{"stem":"Which of these is a negative feedback loop?","opts":["Sweating to cool the body","Oxytocin release speeding up labor","Clotting cascade amplification","Estrogen causing the LH surge"]},
+{"stem":"Which of the following helps maintain a stable internal environment by reversing a change?","opts":["Sweating after body temperature rises","Contractions getting stronger during childbirth","Blood clot growth after injury","Milk letdown from suckling"]},
+{"stem":"Which situation shows the body counteracting a change to restore a set point?","opts":["Sweating when overheated","Labor contractions strengthening","Clot formation growing","The LH surge"]},
+{"stem":"Which of the following is NOT an example of positive feedback?","opts":["Sweating when body temperature rises","Oxytocin strengthening contractions in labor","Platelet plug growth during clotting","Milk letdown during suckling"]}
+],"why":"Negative feedback reverses a change and returns a variable to its set point, as sweating does when body temperature rises.","deep":"Negative feedback (most homeostasis): temperature, blood glucose, blood pressure. Positive feedback amplifies a change until an event is complete: labor contractions (oxytocin), blood clotting, and the LH surge before ovulation. Memory aid: Negative feedback = Neutralizes the change."},
+
+{"id":"ap-205-001","tag":"Skeletal","type":"single","variants":[
+{"stem":"What is the shaft of a long bone called?","opts":["Diaphysis","Epiphysis","Periosteum","Articular cartilage"]},
+{"stem":"Which part of a long bone is the long, cylindrical midsection?","opts":["Diaphysis","Epiphysis","Periosteum","Articular cartilage"]},
+{"stem":"In the femur, the main shaft between the two rounded ends is the:","opts":["Diaphysis","Epiphysis","Periosteum","Articular cartilage"]},
+{"stem":"Which region of a long bone lies between the two epiphyses?","opts":["Diaphysis","Epiphysis","Periosteum","Articular cartilage"]},
+{"stem":"Which portion of a long bone contains the medullary cavity along most of its length?","opts":["Diaphysis","Epiphysis","Periosteum","Articular cartilage"]},
+{"stem":"Which term describes the compact bone shaft of the humerus?","opts":["Diaphysis","Epiphysis","Articular cartilage","Periosteum"]},
+{"stem":"The ends of a long bone are called epiphyses. What is the part between them?","opts":["Diaphysis","Epiphysis","Periosteum","Articular cartilage"]},
+{"stem":"Which part of a long bone forms its main shaft?","opts":["Diaphysis","Epiphysis","Periosteum","Articular cartilage"]}
+],"why":"The diaphysis is the long, hollow shaft of a long bone, made of compact bone surrounding the medullary cavity.","deep":"A long bone has a diaphysis (shaft) and two epiphyses (the ends, covered with articular cartilage). The periosteum is the tough membrane around the outside, and the medullary cavity inside holds bone marrow. Memory aid: Diaphysis = Distance between the ends."},
+
+{"id":"ap-205-002","tag":"Skeletal","type":"single","variants":[
+{"stem":"Which type of joint is the hip, allowing movement in all directions?","opts":["Ball-and-socket joint","Hinge joint","Pivot joint","Gliding joint"]},
+{"stem":"Which synovial joint has a rounded head that fits into a cup-shaped cavity, allowing rotation?","opts":["Ball-and-socket joint","Hinge joint","Pivot joint","Gliding joint"]},
+{"stem":"The shoulder joint allows the arm to move in many directions. What type of joint is it?","opts":["Ball-and-socket joint","Hinge joint","Pivot joint","Gliding joint"]},
+{"stem":"Which joint type allows the greatest range of motion?","opts":["Ball-and-socket joint","Hinge joint","Pivot joint","Gliding joint"]},
+{"stem":"Which joint type permits flexion, extension, abduction, adduction, and rotation?","opts":["Ball-and-socket joint","Hinge joint","Pivot joint","Gliding joint"]},
+{"stem":"The head of the femur fits into the acetabulum. What type of joint is formed?","opts":["Ball-and-socket joint","Hinge joint","Pivot joint","Gliding joint"]},
+{"stem":"Which type of joint is found at both the shoulder and the hip?","opts":["Ball-and-socket joint","Hinge joint","Pivot joint","Gliding joint"]},
+{"stem":"Which joint type is the most freely movable?","opts":["Ball-and-socket joint","Hinge joint","Pivot joint","Gliding joint"]}
+],"why":"A ball-and-socket joint (the shoulder and hip) has a rounded head fitting into a cup, allowing movement in all directions.","deep":"Hinge joints (elbow, knee) move in one plane, like a door. Pivot joints (the top of the neck, between atlas and axis) allow rotation. Gliding joints (between carpal bones) allow sliding movement. Ball-and-socket joints have the widest range of motion."},
+
+{"id":"ap-205-003","tag":"Nervous","type":"single","variants":[
+{"stem":"Which part of a neuron receives incoming signals and carries them toward the cell body?","opts":["Dendrite","Axon","Myelin sheath","Axon terminal"]},
+{"stem":"Short, branching extensions of a neuron that receive signals from other cells are called:","opts":["Dendrites","Axons","Myelin sheaths","Axon terminals"]},
+{"stem":"Which neuron structure is the main receiving end of the cell?","opts":["Dendrite","Axon","Myelin sheath","Axon terminal"]},
+{"stem":"Signals enter a neuron mainly through which structure?","opts":["Dendrites","Axon","Myelin sheath","Axon terminals"]},
+{"stem":"Which part of a neuron carries impulses toward the cell body?","opts":["Dendrite","Axon","Myelin sheath","Axon terminal"]},
+{"stem":"A neuron receives chemical signals from neighboring neurons at which structures?","opts":["Dendrites","Axons","Myelin sheaths","Axon terminals"]},
+{"stem":"Which neuron structure has many branches that increase the surface area for receiving signals?","opts":["Dendrite","Axon","Myelin sheath","Axon terminal"]},
+{"stem":"Which part of a neuron would first pick up a signal from a neighboring neuron?","opts":["Dendrite","Axon","Myelin sheath","Axon terminal"]}
+],"why":"Dendrites are the short, branching extensions of a neuron that receive signals and carry them toward the cell body.","deep":"Signal path: dendrites (receive) → cell body → axon (conducts away) → axon terminals (release neurotransmitter onto the next cell). Memory aid: Dendrites = Door-ways in; Axon = Away."},
+
+{"id":"ap-205-004","tag":"Digestive","type":"single","variants":[
+{"stem":"Which enzyme in the stomach begins the digestion of proteins?","opts":["Pepsin","Salivary amylase","Pancreatic lipase","Lactase"]},
+{"stem":"Chief cells in the stomach secrete a precursor of which protein-digesting enzyme?","opts":["Pepsin","Salivary amylase","Pancreatic lipase","Lactase"]},
+{"stem":"Which enzyme works best in the acidic environment of the stomach and breaks down protein?","opts":["Pepsin","Salivary amylase","Pancreatic lipase","Lactase"]},
+{"stem":"Which of these is the main protease of gastric juice?","opts":["Pepsin","Salivary amylase","Pancreatic lipase","Lactase"]},
+{"stem":"Protein digestion begins in the stomach with which enzyme?","opts":["Pepsin","Salivary amylase","Pancreatic lipase","Lactase"]},
+{"stem":"Which stomach enzyme breaks proteins into smaller peptides?","opts":["Pepsin","Salivary amylase","Pancreatic lipase","Lactase"]},
+{"stem":"Which enzyme is activated by hydrochloric acid in the stomach to digest protein?","opts":["Pepsin","Salivary amylase","Pancreatic lipase","Lactase"]},
+{"stem":"In the stomach, which enzyme is responsible for starting protein breakdown?","opts":["Pepsin","Salivary amylase","Pancreatic lipase","Lactase"]}
+],"why":"Pepsin, activated from pepsinogen by the stomach's hydrochloric acid, is the main enzyme that begins protein digestion.","deep":"Chemical digestion: mouth (salivary amylase, starch) → stomach (pepsin, protein) → small intestine (pancreatic lipase for fats, pancreatic amylase and proteases, plus brush-border enzymes such as lactase). Pepsin works best at a very low pH."},
+
+{"id":"sr-205-001","tag":"Math","type":"single","variants":[
+{"stem":"A sample contains 200 cells, and 25 of them are dividing. What percent of the cells are dividing?","opts":["12.5%","8%","25%","1.25%"]},
+{"stem":"Out of 200 seeds planted, 25 sprouted. What percent sprouted?","opts":["12.5%","8%","25%","1.25%"]},
+{"stem":"In a population of 200 bacteria, 25 are resistant to an antibiotic. What percent are resistant?","opts":["12.5%","8%","25%","1.25%"]},
+{"stem":"A researcher counts 25 stained cells among 200 total cells. What percent of the cells are stained?","opts":["12.5%","8%","25%","1.25%"]},
+{"stem":"A group of 200 patients includes 25 who are left-handed. What percent of the group are left-handed?","opts":["12.5%","8%","25%","1.25%"]},
+{"stem":"What is 25 out of 200 expressed as a percent?","opts":["12.5%","8%","25%","1.25%"]},
+{"stem":"A lab tests 200 samples and 25 are positive. What percent are positive?","opts":["12.5%","8%","25%","1.25%"]},
+{"stem":"If 25 of 200 mice develop a trait, what percentage of the mice have the trait?","opts":["12.5%","8%","25%","1.25%"]}
+],"why":"Percent = part ÷ whole × 100 = 25 ÷ 200 × 100 = 12.5%.","deep":"Divide the part by the whole, then multiply by 100: 25 ÷ 200 = 0.125, which is 12.5%. Check reasonableness: 25 is one-eighth of 200, and one-eighth is 12.5%. The wrong answer 25% comes from dividing by 100 instead of 200."},
+
+{"id":"sr-205-002","tag":"Math","type":"single","variants":[
+{"stem":"What is 3.2 × 10³ written in standard form?","opts":["3,200","320","32,000","0.0032"]},
+{"stem":"Which number is equal to 3.2 × 10³?","opts":["3,200","320","32,000","0.0032"]},
+{"stem":"Convert 3.2 × 10³ to a standard number.","opts":["3,200","320","32,000","0.0032"]},
+{"stem":"A scientist records a distance of 3.2 × 10³ meters. How many meters is this?","opts":["3,200","320","32,000","0.0032"]},
+{"stem":"Written without an exponent, 3.2 × 10³ equals:","opts":["3,200","320","32,000","0.0032"]},
+{"stem":"Which value is equivalent to 3.2 × 10³?","opts":["3,200","320","32,000","0.0032"]},
+{"stem":"Move the decimal in 3.2 three places to the right. What number do you get?","opts":["3,200","320","32,000","0.0032"]},
+{"stem":"Express 3.2 × 10³ as an ordinary number.","opts":["3,200","320","32,000","0.0032"]}
+],"why":"A positive exponent of 3 moves the decimal point three places to the right: 3.2 → 3,200.","deep":"Positive exponent = large number (move the decimal right); negative exponent = small number (move the decimal left). So 3.2 × 10⁻³ = 0.0032. Count the places carefully: one place gives 32, two gives 320, three gives 3,200."},
+
+{"id":"sr-205-003","tag":"Scientific Method","type":"single","variants":[
+{"stem":"A student examines a flask containing 25 mL of a cloudy, blue liquid with a sweet smell. Which statement is a quantitative observation?","opts":["The liquid has a volume of 25 mL","The liquid is cloudy","The liquid is blue","The liquid smells sweet"]},
+{"stem":"A student examines a flask containing 25 mL of a cloudy, blue liquid with a sweet smell. Which observation involves a measurement with a number?","opts":["The liquid has a volume of 25 mL","The liquid looks cloudy","The liquid looks blue","The liquid smells sweet"]},
+{"stem":"A student examines a flask containing 25 mL of a cloudy, blue liquid with a sweet smell. Which of the following is NOT a qualitative observation?","opts":["The liquid has a volume of 25 mL","The liquid is cloudy","The liquid is blue","The liquid smells sweet"]},
+{"stem":"A student examines a flask containing 25 mL of a cloudy, blue liquid with a sweet smell. Which statement records a measured amount rather than a quality?","opts":["The flask holds 25 mL of liquid","The liquid is cloudy","The liquid is blue","The liquid smells sweet"]},
+{"stem":"A student examines a flask containing 25 mL of a cloudy, blue liquid with a sweet smell. Which observation could be recorded as a number with units?","opts":["The volume of the liquid","The cloudiness of the liquid","The color of the liquid","The smell of the liquid"]},
+{"stem":"A student examines a flask containing 25 mL of a cloudy, blue liquid with a sweet smell. Which of these is quantitative data?","opts":["The liquid has a volume of 25 mL","The liquid is cloudy","The liquid is blue","The liquid smells sweet"]},
+{"stem":"A student examines a flask containing 25 mL of a cloudy, blue liquid with a sweet smell. Which observation is expressed numerically?","opts":["The flask contains 25 mL of liquid","The flask contains a cloudy liquid","The flask contains a blue liquid","The flask contains a sweet-smelling liquid"]},
+{"stem":"A student examines a flask containing 25 mL of a cloudy, blue liquid with a sweet smell. Which statement would be classified as quantitative rather than qualitative?","opts":["The liquid has a volume of 25 mL","The liquid is cloudy","The liquid is blue","The liquid smells sweet"]}
+],"why":"A quantitative observation is a measurement expressed with a number and unit (25 mL). Qualitative observations describe qualities such as color, smell, and clarity without numbers.","deep":"Quantitative = how much, how many, how long (mass, volume, temperature, time). Qualitative = descriptions with the senses (color, odor, texture, shape). Both are observations; inferences are conclusions drawn from them."}
+]
+}

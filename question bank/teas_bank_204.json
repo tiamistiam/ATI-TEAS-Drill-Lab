@@ -1,0 +1,280 @@
+{
+"format": "pulse-teas-bank",
+"version": 2,
+"questions": [
+{"id":"ap-204-001","tag":"Blood","type":"single","variants":[
+{"stem":"Which antibodies are found in the plasma of a person with type A blood?","opts":["Anti-B antibodies","Anti-A antibodies","Both anti-A and anti-B antibodies","No antibodies"]},
+{"stem":"A person with type A blood has A antigens on the red blood cells. Which antibodies circulate in the plasma?","opts":["Anti-B antibodies","Anti-A antibodies","Both anti-A and anti-B antibodies","No antibodies"]},
+{"stem":"Type A red blood cells carry the A antigen. Which antibody does the plasma contain to oppose the other antigen?","opts":["Anti-B","Anti-A","Both anti-A and anti-B","Neither"]},
+{"stem":"Which plasma antibody is present in type A blood?","opts":["Anti-B","Anti-A","Anti-O","Anti-AB"]},
+{"stem":"A patient has type A blood. Which antibodies would you expect to find in the patient's serum?","opts":["Anti-B antibodies","Anti-A antibodies","Both anti-A and anti-B antibodies","No antibodies"]},
+{"stem":"Type A plasma contains antibodies against which antigen?","opts":["B antigen","A antigen","Both A and B antigens","Neither antigen"]},
+{"stem":"Which antibodies protect a type A person from receiving type B or type AB red cells?","opts":["Anti-B","Anti-A","Both anti-A and anti-B","None"]},
+{"stem":"Naturally occurring antibodies in the serum of type A individuals are directed against which blood group antigen?","opts":["Type B antigen","Type A antigen","Type O antigen","Rh antigen"]}
+],"why":"People make antibodies against the ABO antigens they lack. Type A red cells have A antigens, so type A plasma contains anti-B antibodies.","deep":"Type A: A antigen, anti-B antibodies. Type B: B antigen, anti-A antibodies. Type AB: both antigens, no antibodies. Type O: no antigens, both anti-A and anti-B antibodies. Rule: the plasma antibodies are against the antigens that are NOT on your own cells."},
+
+{"id":"ap-204-002","tag":"Blood","type":"single","variants":[
+{"stem":"Which blood type is the universal donor for red blood cells?","opts":["O negative","AB positive","A negative","B positive"]},
+{"stem":"In an emergency, which blood type can be given to patients of any ABO and Rh type?","opts":["O negative","AB positive","A negative","B positive"]},
+{"stem":"Red blood cells of which type lack A, B, and Rh antigens and can be given to almost anyone?","opts":["Type O negative","Type AB positive","Type A positive","Type B negative"]},
+{"stem":"A trauma patient's blood type is unknown. Which type of red blood cells is typically given first?","opts":["O negative","AB positive","A positive","B negative"]},
+{"stem":"Which type is called the universal red cell donor?","opts":["Type O negative","Type AB positive","Type A negative","Type B positive"]},
+{"stem":"Which blood type has no A, B, or Rh antigens on its red blood cells?","opts":["O negative","AB positive","A negative","B negative"]},
+{"stem":"The universal donor for packed red blood cells is:","opts":["Type O negative","Type AB negative","Type A positive","Type B positive"]},
+{"stem":"Which type can donate red blood cells to every other type?","opts":["O negative","AB negative","A positive","B positive"]}
+],"why":"O negative red cells have no A, B, or Rh antigens, so the recipient's antibodies have nothing to attack. That makes O negative the universal red cell donor.","deep":"Universal red cell recipient: AB positive (no ABO antibodies, and Rh-positive blood can receive Rh antigen). Universal plasma donor: AB. The Rh factor is a separate antigen: Rh-positive has it, Rh-negative does not."},
+
+{"id":"ap-204-003","tag":"Reproductive","type":"single","variants":[
+{"stem":"After ovulation, the ruptured follicle becomes a structure that secretes progesterone and estrogen. What is it?","opts":["Corpus luteum","Graafian follicle","Endometrium","Fallopian tube"]},
+{"stem":"Which structure secretes progesterone during the luteal phase?","opts":["Corpus luteum","Graafian follicle","Endometrium","Fallopian tube"]},
+{"stem":"Which ovarian structure does hCG keep alive during early pregnancy?","opts":["Corpus luteum","Graafian follicle","Endometrium","Fallopian tube"]},
+{"stem":"Which structure forms from the remains of the follicle after the oocyte is released?","opts":["Corpus luteum","Graafian follicle","Endometrium","Fallopian tube"]},
+{"stem":"LH causes the ovulated follicle to turn into which hormone-secreting structure?","opts":["Corpus luteum","Graafian follicle","Endometrium","Fallopian tube"]},
+{"stem":"Which structure maintains the uterine lining by secreting progesterone before the placenta takes over?","opts":["Corpus luteum","Graafian follicle","Endometrium","Fallopian tube"]},
+{"stem":"Which temporary endocrine structure in the ovary breaks down if pregnancy does not occur?","opts":["Corpus luteum","Graafian follicle","Endometrium","Fallopian tube"]},
+{"stem":"What is the name of the yellow, hormone-secreting body formed in the ovary after ovulation?","opts":["Corpus luteum","Graafian follicle","Endometrium","Fallopian tube"]}
+],"why":"After ovulation, the empty follicle becomes the corpus luteum, which secretes progesterone and some estrogen to maintain the uterine lining.","deep":"If pregnancy does not occur, the corpus luteum degenerates, hormone levels fall, and menstruation begins. If the embryo implants, it releases hCG, which keeps the corpus luteum alive until the placenta can make enough hormones. Luteum = yellow."},
+
+{"id":"ap-204-004","tag":"Muscular","type":"single","variants":[
+{"stem":"Which muscle type is both striated and involuntary?","opts":["Cardiac muscle","Smooth muscle","Skeletal muscle","Voluntary muscle"]},
+{"stem":"Which muscle tissue has sarcomeres but contracts without conscious control?","opts":["Cardiac muscle","Smooth muscle","Skeletal muscle","Voluntary muscle"]},
+{"stem":"The muscle found only in the walls of the heart is:","opts":["Cardiac muscle","Smooth muscle","Skeletal muscle","Voluntary muscle"]},
+{"stem":"Which muscle has intercalated discs and branching fibers?","opts":["Cardiac muscle","Smooth muscle","Skeletal muscle","Voluntary muscle"]},
+{"stem":"Which muscle contracts rhythmically without conscious effort and shows a striped appearance?","opts":["Cardiac muscle","Smooth muscle","Skeletal muscle","Voluntary muscle"]},
+{"stem":"Which is the only muscle type that is involuntary and has sarcomeres?","opts":["Cardiac muscle","Smooth muscle","Skeletal muscle","Voluntary muscle"]},
+{"stem":"Which tissue forms the myocardium?","opts":["Cardiac muscle","Smooth muscle","Skeletal muscle","Voluntary muscle"]},
+{"stem":"A muscle cell is striated, usually has one central nucleus, and is involuntary. Which type is it?","opts":["Cardiac muscle","Smooth muscle","Skeletal muscle","Voluntary muscle"]}
+],"why":"Cardiac muscle is striated (it has sarcomeres) and involuntary, and it is found only in the heart.","deep":"Skeletal: striated + voluntary. Cardiac: striated + involuntary. Smooth: not striated + involuntary (no sarcomeres). Intercalated discs connect cardiac cells so the heart contracts as a unit."},
+
+{"id":"ap-204-005","tag":"Respiratory","type":"single","variants":[
+{"stem":"What is the function of the cilia lining the trachea?","opts":["Move mucus and trapped particles upward","Exchange oxygen with the blood","Produce mucus","Warm the incoming air"]},
+{"stem":"Cilia in the respiratory tract help protect the lungs by doing what?","opts":["Moving mucus with trapped debris toward the throat","Absorbing oxygen from the air","Secreting digestive enzymes","Storing air for gas exchange"]},
+{"stem":"Cigarette smoke damages cilia in the airways. Which function is impaired?","opts":["Clearing mucus and trapped particles","Making red blood cells","Producing surfactant","Absorbing nutrients"]},
+{"stem":"Which best describes what cilia do in the respiratory tract?","opts":["Sweep mucus and debris out of the airway","Perform gas exchange","Warm the air to body temperature","Produce antibodies"]},
+{"stem":"Short, hair-like appendages on the cells lining the airway create movement of what?","opts":["Mucus and trapped particles","Red blood cells","Digestive enzymes","Oxygen molecules"]},
+{"stem":"How do cilia on the cells of the trachea help prevent infection?","opts":["By moving trapped pathogens and mucus toward the throat","By killing bacteria with enzymes","By absorbing viruses into the blood","By producing antibodies"]},
+{"stem":"A nurse explains that the mucociliary escalator removes debris from the lungs. What part do the cilia play?","opts":["They beat to move mucus upward","They produce the mucus","They exchange gases","They constrict the airway"]},
+{"stem":"Which action of cilia keeps the airways clear?","opts":["Beating to sweep mucus and particles upward","Contracting to narrow the airway","Releasing histamine","Absorbing water from mucus"]}
+],"why":"Cilia are short, hair-like projections on the cell surface that beat in coordinated waves. In the airways they sweep mucus and trapped particles toward the throat.","deep":"Goblet cells make the mucus that traps dust and microbes; cilia move it (the mucociliary escalator). Cilia are short and numerous; flagella are longer and fewer (as on a sperm cell). Damage to cilia, as from smoking, raises the risk of respiratory infection."},
+
+{"id":"ap-204-006","tag":"Reproductive","type":"single","variants":[
+{"stem":"Where do sperm mature and get stored before ejaculation?","opts":["Epididymis","Seminiferous tubules","Vas deferens","Urethra"]},
+{"stem":"Which coiled tube on the back of each testis stores sperm while they gain motility?","opts":["Epididymis","Seminiferous tubules","Vas deferens","Urethra"]},
+{"stem":"Sperm leave the seminiferous tubules and enter which structure to finish maturing?","opts":["Epididymis","Seminiferous tubules","Vas deferens","Urethra"]},
+{"stem":"Which structure lies between the seminiferous tubules and the vas deferens?","opts":["Epididymis","Urethra","Prostate gland","Seminal vesicle"]},
+{"stem":"Which structure stores sperm until ejaculation and is where they become capable of swimming?","opts":["Epididymis","Seminiferous tubules","Vas deferens","Bulbourethral gland"]},
+{"stem":"After sperm are made in the testis, they move to which coiled duct for maturation?","opts":["Epididymis","Seminiferous tubules","Vas deferens","Urethra"]},
+{"stem":"Which duct is the site of sperm maturation and storage?","opts":["Epididymis","Seminiferous tubules","Vas deferens","Urethra"]},
+{"stem":"Sperm gain motility in which part of the male reproductive tract?","opts":["Epididymis","Seminiferous tubules","Vas deferens","Urethra"]}
+],"why":"Sperm are made in the seminiferous tubules, then move to the epididymis, where they mature, become motile, and are stored.","deep":"Path of sperm: seminiferous tubules (made) → epididymis (matured and stored) → vas deferens (transport) → ejaculatory duct → urethra. Memory aid: the Epididymis is where sperm Ease into maturity."},
+
+{"id":"ap-204-007","tag":"Muscular","type":"multi","variants":[
+{"stem":"Select all that apply: Which of the following muscle tissues are striated?","opts":["Skeletal muscle of the biceps","Cardiac muscle of the ventricles","Smooth muscle of the intestine","Smooth muscle of blood vessels","Skeletal muscle of the diaphragm"],"correct":[0,1,4]},
+{"stem":"Select all that apply: Which muscle tissues contain sarcomeres?","opts":["Cardiac muscle","Smooth muscle in the bladder","Skeletal muscle","Smooth muscle in the uterus","Smooth muscle in the stomach"],"correct":[0,2]},
+{"stem":"Select all that apply: Which of these muscle tissues show a striped appearance under a microscope?","opts":["Muscles in the heart wall","Muscles lining the intestines","Muscles attached to the femur","Muscles in blood vessel walls","Muscles in the airway walls"],"correct":[0,2]},
+{"stem":"Select all that apply: Which muscle tissues lack sarcomeres?","opts":["Smooth muscle in the intestine","Cardiac muscle","Smooth muscle in the bladder","Skeletal muscle","Smooth muscle in arteries"],"correct":[0,2,4]},
+{"stem":"Select all that apply: Which of these are NOT striated?","opts":["Skeletal muscle of the quadriceps","Muscle lining the stomach","Cardiac muscle","Muscle in the walls of arteries","Skeletal muscle of the triceps"],"correct":[1,3]},
+{"stem":"Select all that apply: Which of the following muscles are striated?","opts":["Triceps","Myocardium","Uterine wall muscle","Artery wall muscle","Diaphragm"],"correct":[0,1,4]},
+{"stem":"Select all that apply: Which tissues have actin and myosin arranged in sarcomeres?","opts":["Skeletal muscle","Smooth muscle of the stomach","Cardiac muscle","Smooth muscle of the bladder","Smooth muscle of the intestine"],"correct":[0,2]},
+{"stem":"Select all that apply: Which of the following show striations?","opts":["Muscles that move the limbs","Muscles that move food through the intestines","Muscles of the heart","Muscles that narrow arteries","Muscles of the iris"],"correct":[0,2]}
+],"why":"Skeletal and cardiac muscle are striated because their actin and myosin are arranged in sarcomeres. Smooth muscle has no sarcomeres and is not striated.","deep":"Striated = skeletal + cardiac. Not striated = smooth muscle (walls of the stomach, intestines, bladder, uterus, blood vessels, and airways). Cardiac muscle is striated but involuntary, which is why it is the tricky one."},
+
+{"id":"ap-204-008","tag":"Endocrine","type":"single","variants":[
+{"stem":"Which hormone stimulates uterine contractions during labor and milk ejection during breastfeeding?","opts":["Oxytocin","Prolactin","Progesterone","Estrogen"]},
+{"stem":"Released from the posterior pituitary, which hormone causes milk to be ejected from the breasts?","opts":["Oxytocin","Prolactin","Progesterone","ADH"]},
+{"stem":"Which hormone is released in a positive feedback loop during childbirth?","opts":["Oxytocin","Prolactin","Insulin","Glucagon"]},
+{"stem":"Which hormone is sometimes given to induce or strengthen labor?","opts":["Oxytocin","Prolactin","Insulin","Glucagon"]},
+{"stem":"Suckling by an infant triggers the release of which hormone, causing milk to be let down?","opts":["Oxytocin","Prolactin","Estrogen","Progesterone"]},
+{"stem":"Which hormone strengthens uterine contractions near the end of pregnancy?","opts":["Oxytocin","Progesterone","Prolactin","Estrogen"]},
+{"stem":"Which hormone causes the let-down reflex?","opts":["Oxytocin","Prolactin","Insulin","Glucagon"]},
+{"stem":"Which pituitary hormone causes contraction of the smooth muscle of the uterus and mammary glands?","opts":["Oxytocin","Prolactin","FSH","ADH"]}
+],"why":"Oxytocin, released from the posterior pituitary, stimulates uterine contractions in labor and the let-down (ejection) of milk.","deep":"Positive feedback: stretching of the cervix triggers more oxytocin, which strengthens contractions, which cause more stretching, until delivery. Prolactin makes the milk; oxytocin ejects it."},
+
+{"id":"ap-204-009","tag":"Muscular","type":"hotspot","image":"<svg viewBox='0 0 300 140' xmlns='http://www.w3.org/2000/svg'><line x1='30' y1='15' x2='30' y2='125' stroke='#e2e8f0' stroke-width='5'/><line x1='270' y1='15' x2='270' y2='125' stroke='#e2e8f0' stroke-width='5'/><g stroke='#67e8f9' stroke-width='3' stroke-linecap='round'><line x1='30' y1='35' x2='140' y2='35'/><line x1='30' y1='105' x2='140' y2='105'/><line x1='270' y1='35' x2='160' y2='35'/><line x1='270' y1='105' x2='160' y2='105'/></g><line x1='85' y1='70' x2='215' y2='70' stroke='#f87171' stroke-width='12' stroke-linecap='round'/></svg>","target":[{"type":"rect","x":80,"y":56,"w":140,"h":28}],"variants":[
+{"stem":"Tap the thick filament of the sarcomere."},
+{"stem":"Tap the filament made of myosin."},
+{"stem":"Tap the filament whose heads form cross-bridges with actin."},
+{"stem":"Tap the protein filament located in the center of the sarcomere."},
+{"stem":"Tap the filament that pulls the thin filaments toward the center during contraction."},
+{"stem":"Tap the filament that uses ATP for the power stroke."},
+{"stem":"Tap the thicker of the two kinds of filaments."},
+{"stem":"Tap the filament that is NOT attached to the Z lines."}
+],"why":"The thick filament in the center of the sarcomere is made of myosin. Its heads attach to the thin actin filaments and pull them toward the center.","deep":"Thin filaments (actin) are anchored to the Z lines at each end of the sarcomere. Thick filaments (myosin) sit in the middle. During contraction the thin filaments slide over the thick ones, the Z lines move closer, and the sarcomere shortens."},
+
+{"id":"bio-204-001","tag":"Genetics","type":"single","variants":[
+{"stem":"During translation, amino acids are brought to the ribosome by which RNA?","opts":["tRNA","mRNA","rRNA","snRNA"]},
+{"stem":"Which RNA carries the specific amino acid that matches an mRNA codon?","opts":["tRNA","mRNA","rRNA","microRNA"]},
+{"stem":"A ribosome reads an mRNA message. Which type of RNA delivers each amino acid in the correct order?","opts":["tRNA","mRNA","rRNA","snRNA"]},
+{"stem":"Which type of RNA carries amino acids from the cytoplasm to the ribosome?","opts":["tRNA","mRNA","rRNA","microRNA"]},
+{"stem":"An anticodon pairs with an mRNA codon on which type of RNA?","opts":["tRNA","mRNA","rRNA","microRNA"]},
+{"stem":"Which RNA acts like a shuttle, bringing amino acids to be linked into a protein?","opts":["tRNA","mRNA","rRNA","snRNA"]},
+{"stem":"Of the three main types of RNA, which one delivers amino acids to the ribosome?","opts":["tRNA","mRNA","rRNA","miRNA"]},
+{"stem":"Which RNA binds to an amino acid and then moves to the ribosome?","opts":["tRNA","mRNA","rRNA","snRNA"]}
+],"why":"Transfer RNA (tRNA) carries a specific amino acid to the ribosome and matches it to an mRNA codon with its anticodon.","deep":"mRNA = the message (carries the code from DNA). rRNA = part of the ribosome. tRNA = the amino acid carrier. Order in the cell: transcription makes mRNA, then in translation tRNA brings amino acids to the ribosome, which links them into a protein."},
+
+{"id":"bio-204-002","tag":"Cell Biology","type":"multi","variants":[
+{"stem":"Select all that apply: Which structures would you expect in an animal cell but not in a bacterial cell?","opts":["Plasma membrane","Ribosomes","Golgi apparatus","Mitochondria","Nucleus"],"correct":[2,3,4]},
+{"stem":"Select all that apply: Which of the following are found in eukaryotic cells but absent in prokaryotic cells?","opts":["Cytoplasm","Nucleus","Endoplasmic reticulum","Ribosomes","Plasma membrane"],"correct":[1,2]},
+{"stem":"Select all that apply: Which structures do bacteria lack?","opts":["Mitochondria","Ribosomes","Lysosomes","Cell membrane","DNA"],"correct":[0,2]},
+{"stem":"Select all that apply: Which are found in BOTH animal cells and bacterial cells?","opts":["Ribosomes","Nucleus","Plasma membrane","Mitochondria","Golgi apparatus"],"correct":[0,2]},
+{"stem":"Select all that apply: Which of the following are membrane-bound organelles found in human cells but not in bacteria?","opts":["Mitochondria","Ribosomes","Nucleus","Cytoplasm","Plasma membrane"],"correct":[0,2]},
+{"stem":"Select all that apply: Prokaryotes do not have which of the following?","opts":["Endoplasmic reticulum","Cytoplasm","Nucleus","Ribosomes","DNA"],"correct":[0,2]},
+{"stem":"Select all that apply: Which structures are present in eukaryotes only?","opts":["Lysosomes","Plasma membrane","Mitochondria","Ribosomes","Golgi apparatus"],"correct":[0,2,4]},
+{"stem":"Select all that apply: Which of these would be found in a human cell and NOT in E. coli?","opts":["Nucleus","Cytoplasm","Mitochondria","Cell membrane","Ribosomes"],"correct":[0,2]}
+],"why":"Eukaryotic cells (animal cells) have a nucleus and membrane-bound organelles such as mitochondria, the Golgi apparatus, the endoplasmic reticulum, and lysosomes. Bacteria lack all of these but share a plasma membrane, ribosomes, cytoplasm, and DNA.","deep":"Everyone has: plasma membrane, cytoplasm, ribosomes, DNA. Only eukaryotes have: nucleus, mitochondria, endoplasmic reticulum, Golgi apparatus, lysosomes. Bacteria keep their DNA in an area called the nucleoid, not in a nucleus."},
+
+{"id":"bio-204-003","tag":"Cell Energy","type":"single","variants":[
+{"stem":"Which pair are the products of photosynthesis?","opts":["Glucose and oxygen","Carbon dioxide and water","Glucose and carbon dioxide","Oxygen and water"]},
+{"stem":"CO₂ + H₂O + light energy → ? Which products complete the reaction?","opts":["C₆H₁₂O₆ and O₂","CO₂ and H₂O","C₆H₁₂O₆ and CO₂","O₂ and H₂O"]},
+{"stem":"Plants use sunlight to make which two substances during photosynthesis?","opts":["Glucose and oxygen","Carbon dioxide and water","Starch and carbon dioxide","ATP and nitrogen"]},
+{"stem":"Which substances are produced when a chloroplast carries out photosynthesis?","opts":["Sugar and oxygen","Carbon dioxide and water","Sugar and carbon dioxide","Oxygen and carbon dioxide"]},
+{"stem":"Photosynthesis uses carbon dioxide and water. What does it produce?","opts":["Glucose and oxygen","Glucose and carbon dioxide","Water and oxygen","Carbon dioxide and oxygen"]},
+{"stem":"Which pair of molecules does photosynthesis make?","opts":["Glucose and oxygen","Water and carbon dioxide","Protein and oxygen","Glucose and nitrogen"]},
+{"stem":"Which substances are the outputs of photosynthesis in a plant cell?","opts":["Glucose and O₂","CO₂ and H₂O","Glucose and CO₂","H₂O and O₂"]},
+{"stem":"Which pair describes what photosynthesis makes?","opts":["Sugar and oxygen","Carbon dioxide and water","Sugar and carbon dioxide","Water and oxygen"]}
+],"why":"Photosynthesis uses light energy to convert carbon dioxide and water into glucose and oxygen: 6CO₂ + 6H₂O + light → C₆H₁₂O₆ + 6O₂.","deep":"Photosynthesis occurs in chloroplasts and is the reverse of cellular respiration, which uses glucose and oxygen to make carbon dioxide, water, and ATP in the mitochondria. Photosynthesis is anabolic (it builds glucose and needs energy)."},
+
+{"id":"bio-204-004","tag":"Genetics","type":"single","variants":[
+{"stem":"A DNA template strand reads 3′-TACGGA-5′. What mRNA sequence is transcribed from it?","opts":["5′-AUGCCU-3′","5′-UACGGA-3′","5′-AUGCCT-3′","5′-TACGGA-3′"]},
+{"stem":"RNA polymerase uses the DNA template 3′-TACGGA-5′. Which mRNA does it make?","opts":["5′-AUGCCU-3′","5′-UCCGUA-3′","5′-ATGCCT-3′","5′-UACGGA-3′"]},
+{"stem":"Which mRNA strand is complementary to the template 3′-TACGGA-5′?","opts":["5′-AUGCCU-3′","5′-UACGGA-3′","5′-AUGCCT-3′","5′-TACGGA-3′"]},
+{"stem":"During transcription, the template strand 3′-TACGGA-5′ is read. Which mRNA sequence results?","opts":["5′-AUGCCU-3′","5′-UCCGUA-3′","5′-ATGCCT-3′","5′-UACGGA-3′"]},
+{"stem":"A gene's template strand is 3′-TACGGA-5′. Write the mRNA sequence it codes for.","opts":["5′-AUGCCU-3′","5′-UACGGA-3′","5′-AUGCCT-3′","5′-UCCGUA-3′"]},
+{"stem":"What mRNA sequence is produced from the DNA template 3′-TACGGA-5′?","opts":["5′-AUGCCU-3′","5′-UCCGUA-3′","5′-TACGGA-3′","5′-UACGGA-3′"]},
+{"stem":"Given the DNA template 3′-TACGGA-5′, which is the transcribed RNA?","opts":["5′-AUGCCU-3′","5′-UACGGA-3′","5′-ATGCCT-3′","5′-TACGGA-3′"]},
+{"stem":"A section of template DNA reads 3′-TACGGA-5′. Which RNA sequence is made, written 5′ to 3′?","opts":["5′-AUGCCU-3′","5′-UCCGUA-3′","5′-ATGCCT-3′","5′-UACGGA-3′"]}
+],"why":"mRNA is built complementary to the template: T→A, A→U, C→G, G→C, so 3′-TACGGA-5′ gives 5′-AUGCCU-3′ (RNA uses uracil, not thymine).","deep":"The two strands are antiparallel, so the mRNA's 5′ end pairs with the template's 3′ end. If you write the complement in the same left-to-right order as the template, you get the mRNA in 5′→3′ order. Trap answers: keeping thymine (T) in RNA, or writing the sequence backwards."},
+
+{"id":"bio-204-005","tag":"Genetics","type":"single","variants":[
+{"stem":"A section of DNA that contains the instructions to make a specific protein is called a:","opts":["Gene","Operon","Histone","Promoter"]},
+{"stem":"Which term describes a segment of DNA that codes for a particular protein?","opts":["Gene","Histone","Promoter","Operon"]},
+{"stem":"Which is a unit of heredity consisting of a DNA sequence that specifies a protein?","opts":["Gene","Histone","Promoter","Codon"]},
+{"stem":"DNA is organized into sections, each carrying the instructions for making one protein. What is each section called?","opts":["Gene","Promoter","Histone","Operon"]},
+{"stem":"Which of the following describes a gene?","opts":["A DNA segment that encodes a protein","A protein that packages DNA","An RNA molecule that carries amino acids","A bond between two bases"]},
+{"stem":"A promoter sits near the start of what, telling RNA polymerase where to begin transcription?","opts":["A gene","A histone","A ribosome","A lysosome"]},
+{"stem":"Which term refers to the region of DNA that is transcribed to make a protein-coding RNA?","opts":["Gene","Histone","Promoter","Operon"]},
+{"stem":"The instructions for making hemoglobin are found in which DNA unit?","opts":["A gene","A histone","A ribosome","A lipid"]}
+],"why":"A gene is a section of DNA that contains the instructions for making a specific protein.","deep":"DNA → gene → mRNA → protein. A promoter is the DNA region where RNA polymerase starts transcribing a gene. Histones are proteins that DNA wraps around. An operon is a group of genes controlled together (mainly in bacteria)."},
+
+{"id":"bio-204-006","tag":"Microbiology","type":"single","variants":[
+{"stem":"Candidiasis and ringworm can both be treated with which type of medication?","opts":["Antifungal","Antibacterial","Antiviral","Antiprotozoal"]},
+{"stem":"Tinea (ringworm) is caused by a fungus. Which type of drug treats it?","opts":["Antifungal","Antibacterial","Antiviral","Antiprotozoal"]},
+{"stem":"Fluconazole is used to treat candidiasis. What type of drug is it?","opts":["Antifungal","Antibacterial","Antiviral","Antiprotozoal"]},
+{"stem":"Which type of medication would be prescribed for athlete's foot?","opts":["Antifungal","Antibacterial","Antiviral","Antiprotozoal"]},
+{"stem":"A yeast infection is caused by Candida. Which medication class targets it?","opts":["Antifungal","Antibacterial","Antiviral","Antiprotozoal"]},
+{"stem":"Which type of drug is effective against fungal pathogens such as Candida?","opts":["Antifungal","Antibacterial","Antiviral","Antiprotozoal"]},
+{"stem":"Antibiotics do not work on candidiasis. Which type of medication does?","opts":["Antifungal","Antibacterial","Antiviral","Antiprotozoal"]},
+{"stem":"Which drug type would a clinician choose for a fungal skin infection?","opts":["Antifungal","Antibacterial","Antiviral","Antiprotozoal"]}
+],"why":"Candidiasis (yeast infection, thrush) and ringworm (tinea) are caused by fungi, so they are treated with antifungal medications such as fluconazole.","deep":"Match drug to pathogen: antibacterial (antibiotics, such as levofloxacin) → bacteria; antiviral → viruses; antifungal (fluconazole) → fungi; antiprotozoal (metronidazole) → protozoa; antihelminthic (ivermectin) → parasitic worms. Fungi are eukaryotes, which is why antibacterial drugs do not work on them."},
+
+{"id":"chem-204-001","tag":"Reactions","type":"single","variants":[
+{"stem":"A reaction releases energy because the products have less energy than the reactants. Which term describes it?","opts":["Exothermic","Endothermic","Catalytic","Neutral"]},
+{"stem":"Which type of reaction feels warm to the touch because heat leaves the reacting system?","opts":["Exothermic","Endothermic","Catalytic","Neutral"]},
+{"stem":"A campfire burning is an example of which type of reaction?","opts":["Exothermic","Endothermic","Catalytic","Neutral"]},
+{"stem":"Which term means energy flows out of the system into the surroundings?","opts":["Exothermic","Endothermic","Catalytic","Neutral"]},
+{"stem":"In an energy diagram, the products sit lower than the reactants. This reaction is:","opts":["Exothermic","Endothermic","Catalytic","Neutral"]},
+{"stem":"The Greek prefix exo- means outside. A reaction that releases heat to the outside is called:","opts":["Exothermic","Endothermic","Catalytic","Neutral"]},
+{"stem":"Cellular respiration releases energy from glucose. Which type of reaction is it?","opts":["Exothermic","Endothermic","Catalytic","Neutral"]},
+{"stem":"When reactants form products and energy is given off to the surroundings, the reaction is classified as:","opts":["Exothermic","Endothermic","Catalytic","Neutral"]}
+],"why":"An exothermic reaction releases energy (usually heat) to the surroundings, because the products end up with less energy than the reactants.","deep":"Exothermic: energy exits, surroundings get warmer (combustion, cellular respiration, hot packs). Endothermic: energy enters, surroundings get colder (instant cold packs, photosynthesis, melting ice). Memory aid: EXothermic = EXit."},
+
+{"id":"chem-204-002","tag":"Atomic Structure","type":"single","variants":[
+{"stem":"An element's atomic mass on the periodic table is the:","opts":["Weighted average of its isotopes","Count of protons only","Count of electrons only","Mass of one isotope only"]},
+{"stem":"Why is the atomic mass of chlorine on the periodic table not a whole number?","opts":["It is a weighted average of its isotopes","It counts the electrons too","It is rounded incorrectly","It includes the mass of a molecule"]},
+{"stem":"The atomic mass listed for an element reflects which of the following?","opts":["The average mass of its naturally occurring isotopes","The number of protons in its nucleus","The mass of its heaviest isotope","The number of valence electrons"]},
+{"stem":"How is the atomic mass of an element calculated from its isotopes?","opts":["By averaging isotope masses weighted by abundance","By adding the isotope masses together","By taking the lightest isotope's mass","By counting only the protons"]},
+{"stem":"The decimal value for atomic mass on the periodic table comes from:","opts":["The abundance-weighted average of isotope masses","The mass of the most abundant isotope only","The number of neutrons","The mass of the electrons"]},
+{"stem":"Which statement describes the average atomic mass of an element?","opts":["It is the weighted average mass of its isotopes","It is the mass of a single atom of the lightest isotope","It equals the number of protons","It equals the number of electrons"]},
+{"stem":"Neon's atomic mass is about 20.18. What does that value represent?","opts":["The weighted average of neon's isotopes","The mass of its most common isotope only","Twice its atomic number","The sum of its isotope masses"]},
+{"stem":"Which best explains why atomic masses are rarely whole numbers?","opts":["Elements exist as mixtures of isotopes","Protons have fractional mass","Neutrons have no mass","Electrons add fractional mass"]}
+],"why":"Most elements occur as a mixture of isotopes, so the atomic mass on the periodic table is the weighted average of the isotope masses, weighted by how abundant each isotope is.","deep":"The atomic number (a whole number) is the proton count. Mass number = protons + neutrons for a single isotope. Atomic mass is an average, so it is usually a decimal. For example, chlorine is about 75% Cl-35 and 25% Cl-37, giving 35.5."},
+
+{"id":"chem-204-003","tag":"Acids and Bases","type":"typed","answers":["6"],"tolerance":0,"variants":[
+{"stem":"A solution has [H⁺] = 1 × 10⁻⁶ M. What is its pH? Give a whole number."},
+{"stem":"What is the pH of a solution whose hydrogen ion concentration is 0.000001 M? Give a whole number."},
+{"stem":"In this problem, a sample of milk has [H⁺] = 1 × 10⁻⁶ M. What is its pH? Give a whole number."},
+{"stem":"Using pH = −log[H⁺], find the pH when [H⁺] is 1 × 10⁻⁶ M. Give a whole number."},
+{"stem":"A solution contains 1 × 10⁻⁶ mol of H⁺ per liter. What is the pH? Give a whole number."},
+{"stem":"Find the pH of a solution with a hydronium ion concentration of 1 × 10⁻⁶ M. Give a whole number."},
+{"stem":"If [H⁺] = 10⁻⁶ M, what is the pH? Give a whole number."},
+{"stem":"A sample of rainwater has [H⁺] = 1 × 10⁻⁶ M. What is its pH? Give a whole number."}
+],"why":"pH = −log[H⁺] = −log(1 × 10⁻⁶) = 6.","deep":"Shortcut: for 1 × 10⁻ⁿ, pH = n (the exponent without the minus sign). So 10⁻⁴ gives pH 4 and 10⁻⁶ gives pH 6. Take care not to add or subtract 1 and not to confuse H⁺ with OH⁻. Each pH unit is a tenfold change in H⁺ concentration."},
+
+{"id":"chem-204-004","tag":"Atomic Structure","type":"typed","answers":["35.5"],"tolerance":0,"unit":"amu","variants":[
+{"stem":"Chlorine has two main isotopes: chlorine-35 (75% abundance) and chlorine-37 (25% abundance). What is the average atomic mass? Round to the nearest tenth."},
+{"stem":"An element has two isotopes: one with mass 35 and abundance 75%, and one with mass 37 and abundance 25%. Calculate the atomic mass to the nearest tenth."},
+{"stem":"A sample of an element is 75% mass-35 atoms and 25% mass-37 atoms. What is the weighted-average atomic mass, to the nearest tenth?"},
+{"stem":"Find the average atomic mass of an element whose isotopes have masses 35 (75% abundant) and 37 (25% abundant). Round to the nearest tenth."},
+{"stem":"Calculate the atomic mass of chlorine from isotope masses of 35 (three-quarters of the atoms) and 37 (one-quarter of the atoms). Round to the nearest tenth."},
+{"stem":"Isotope A has a mass of 37 and makes up 25% of an element; isotope B has a mass of 35 and makes up 75%. What is the element's average atomic mass, to the nearest tenth?"},
+{"stem":"Using abundances of 75% for mass 35 and 25% for mass 37, find the weighted atomic mass. Round to the nearest tenth."},
+{"stem":"The element chlorine is made of 75% Cl-35 and 25% Cl-37. What atomic mass would appear on the periodic table, rounded to the nearest tenth?"}
+],"why":"Weighted average = (35 × 0.75) + (37 × 0.25) = 26.25 + 9.25 = 35.5.","deep":"Multiply each isotope's mass by its fractional abundance (percent ÷ 100) and add the results. The answer should fall between the two isotope masses and closer to the more abundant one (here, closer to 35)."},
+
+{"id":"chem-204-005","tag":"Acids and Bases","type":"single","variants":[
+{"stem":"Which solution has the highest concentration of hydrogen ions?","opts":["pH 3","pH 5","pH 7","pH 9"]},
+{"stem":"Which of these solutions is the most acidic?","opts":["pH 3","pH 5","pH 7","pH 9"]},
+{"stem":"Four solutions have the pH values shown. Which one has the greatest [H⁺]?","opts":["pH 3","pH 5","pH 9","pH 7"]},
+{"stem":"Which sample would turn blue litmus paper red most strongly?","opts":["pH 3","pH 5","pH 7","pH 9"]},
+{"stem":"Which solution contains the most H⁺ ions per liter?","opts":["pH 3","pH 5","pH 7","pH 9"]},
+{"stem":"A student tests four liquids. Which pH value indicates the strongest acid?","opts":["pH 3","pH 5","pH 7","pH 9"]},
+{"stem":"Which of the following liquids is the most acidic?","opts":["pH 3","pH 5","pH 7","pH 9"]},
+{"stem":"Which solution has 1,000 times more H⁺ than a solution at pH 6?","opts":["pH 3","pH 5","pH 7","pH 9"]}
+],"why":"The lower the pH, the higher the hydrogen ion concentration. pH 3 is the lowest value, so it is the most acidic and has the most H⁺.","deep":"pH below 7 is acidic, 7 is neutral, and above 7 is basic. Each whole pH unit is a tenfold change: pH 3 has 10 times more H⁺ than pH 4, and 1,000 times more than pH 6."},
+
+{"id":"chem-204-006","tag":"Atomic Structure","type":"single","variants":[
+{"stem":"What is the maximum number of electrons that can occupy the first energy level of an atom?","opts":["2","8","10","18"]},
+{"stem":"How many electrons can the innermost electron shell hold?","opts":["2","8","6","4"]},
+{"stem":"A helium atom has a full outer shell. How many electrons are in that shell?","opts":["2","8","4","6"]},
+{"stem":"How many electrons fill the first shell of an atom?","opts":["2","8","10","18"]},
+{"stem":"The first energy level of an atom is full when it contains how many electrons?","opts":["2","8","4","18"]},
+{"stem":"Hydrogen and helium fill only the first shell. How many electrons does that shell hold when full?","opts":["2","8","6","10"]},
+{"stem":"What is the maximum number of electrons in the n = 1 shell?","opts":["2","8","10","18"]},
+{"stem":"Lithium's third electron must go into a second shell because the first shell can hold only how many electrons?","opts":["2","8","3","4"]}
+],"why":"The first (innermost) energy level can hold a maximum of 2 electrons. The second can hold up to 8.","deep":"Electron shells fill from the inside out: 2, 8, 8, 18 and so on. Helium (2 electrons) has a full first shell, which is why it is a stable noble gas. Most other atoms are stable with 8 valence electrons (the octet rule)."},
+
+{"id":"sr-204-001","tag":"Measurement","type":"single","variants":[
+{"stem":"An object has a known mass of 10.00 g. A student weighs it three times and gets 9.52 g, 9.51 g, and 9.53 g. How can these measurements be described?","opts":["Precise but not accurate","Accurate but not precise","Both accurate and precise","Neither accurate nor precise"]},
+{"stem":"A balance reads 9.52 g, 9.51 g, and 9.53 g for an object whose true mass is 10.00 g. Which describes the readings?","opts":["Precise but not accurate","Accurate but not precise","Both accurate and precise","Neither accurate nor precise"]},
+{"stem":"Three measurements of 9.52 g, 9.51 g, and 9.53 g are taken for a 10.00 g standard. What do they show?","opts":["Precise but not accurate","Accurate but not precise","Both accurate and precise","Neither accurate nor precise"]},
+{"stem":"Repeated measurements (9.52 g, 9.51 g, 9.53 g) are very close to each other but far from the true value of 10.00 g. This indicates:","opts":["Precise but not accurate","Accurate but not precise","Both accurate and precise","Neither accurate nor precise"]},
+{"stem":"A 10.00 g standard mass is measured as 9.52 g, 9.51 g, and 9.53 g. Which statement is correct?","opts":["The readings are consistent but not close to the true value","The readings are close to the true value but inconsistent","The readings are both consistent and close to the true value","The readings are neither consistent nor close to the true value"]},
+{"stem":"A student's balance gives 9.52 g, 9.51 g, and 9.53 g when weighing a 10.00 g mass. What should the student conclude about the balance?","opts":["It is precise but not accurate","It is accurate but not precise","It is accurate and precise","It is neither accurate nor precise"]},
+{"stem":"The results 9.52 g, 9.51 g, and 9.53 g for an object known to be 10.00 g would be best described as:","opts":["Precise but not accurate","Accurate but not precise","Accurate and precise","Neither accurate nor precise"]},
+{"stem":"Which term describes measurements that agree with each other but not with the accepted value of 10.00 g (9.52 g, 9.51 g, 9.53 g)?","opts":["Precise but not accurate","Accurate but not precise","Accurate and precise","Neither accurate nor precise"]}
+],"why":"The three readings are very close to each other (precise) but far from the true value of 10.00 g (not accurate).","deep":"Accuracy = closeness to the true or accepted value. Precision = closeness of repeated measurements to each other. A scale that is consistently off by the same amount is precise but not accurate, which could mean it needs calibration."},
+
+{"id":"sr-204-002","tag":"Data Interpretation","type":"single","table":{"head":["Group","Mean plant height (cm)"],"rows":[["Control","10"],["Fertilizer A","12"],["Fertilizer B","18"],["Fertilizer C","15"]]},"variants":[
+{"stem":"Which conclusion is best supported by the table?","opts":["Fertilizer B produced the most growth of the groups tested","Fertilizer A produced the most growth of the groups tested","The control group grew the most","All fertilizers produced equal growth"]},
+{"stem":"Based on the data, which group had the greatest mean plant height?","opts":["Fertilizer B","Fertilizer A","Fertilizer C","Control"]},
+{"stem":"Which statement is supported by the data?","opts":["Plants given fertilizer B grew taller on average than plants given fertilizer A","Plants given fertilizer A grew taller on average than plants given fertilizer B","Plants given fertilizer C grew taller on average than plants given fertilizer B","The control plants grew taller on average than all fertilized plants"]},
+{"stem":"A student wants to identify the most effective treatment. Based on the table, which treatment was most effective?","opts":["Fertilizer B","Fertilizer A","Fertilizer C","No fertilizer (control)"]},
+{"stem":"Which interpretation of the data is correct?","opts":["Fertilizer B led to the greatest average growth","Fertilizer C led to the greatest average growth","Fertilizer A led to the greatest average growth","The control led to the greatest average growth"]},
+{"stem":"Which fertilizer should the researcher say produced the tallest plants on average?","opts":["Fertilizer B","Fertilizer A","Fertilizer C","The control"]},
+{"stem":"Which is the best summary of the results?","opts":["Fertilizer B gave the tallest plants on average","Fertilizer A gave the tallest plants on average","Fertilizer C gave the tallest plants on average","Fertilizer had no effect on plant height"]},
+{"stem":"According to the table, which group's plants were tallest on average?","opts":["Fertilizer B","Control","Fertilizer A","Fertilizer C"]}
+],"why":"Fertilizer B has the highest mean plant height (18 cm), higher than fertilizers A (12 cm) and C (15 cm) and the control (10 cm).","deep":"The control (no fertilizer) is the baseline for comparison. Read the table carefully for the exact question: highest, lowest, or difference. Note also what the table cannot show, such as why B worked better or how many plants were in each group."},
+
+{"id":"sr-204-003","tag":"Scientific Method","type":"single","variants":[
+{"stem":"Which of the following is NOT a characteristic of a good hypothesis?","opts":["It is proven true before testing","It can be tested","It can be disproven","It is based on observation"]},
+{"stem":"All of the following describe a good hypothesis EXCEPT:","opts":["It is accepted as fact before testing","It is testable","It is based on observations","It makes a prediction"]},
+{"stem":"A scientist writes a hypothesis. Which feature would make it a poor hypothesis?","opts":["It is assumed true before any testing","It is testable","It can be shown false","It is based on prior knowledge"]},
+{"stem":"Which statement does NOT describe a hypothesis?","opts":["A fact that needs no testing","A testable prediction","A proposed explanation","An educated guess"]},
+{"stem":"Which is a flaw in a hypothesis?","opts":["Treating it as proven before any experiment","Being testable","Being based on observations","Predicting an outcome"]},
+{"stem":"Which of these would NOT belong in a description of a hypothesis?","opts":["Proven true before testing","Testable by experiment","Falsifiable","Based on background knowledge"]},
+{"stem":"Which statement about hypotheses is false?","opts":["They are proven true before experiments are done","They can be tested","They may be rejected by data","They are based on observations"]},
+{"stem":"Which of the following is NOT true of a hypothesis?","opts":["It is already proven","It can be supported or rejected by data","It can be tested","It predicts a result"]}
+],"why":"A hypothesis is a testable prediction or explanation that is tested by experiment. It is not proven in advance; the data support or reject it.","deep":"On NOT and EXCEPT questions, find the three true statements and pick the one that does not fit. A good hypothesis is testable, falsifiable, based on observations or prior knowledge, and makes a prediction. Hypotheses are supported or rejected, not proven."},
+
+{"id":"sr-204-004","tag":"Graphs","type":"single","variants":[
+{"stem":"Which type of graph is best for showing how a quantity changes over time?","opts":["Line graph","Pie chart","Pictograph","Stem-and-leaf plot"]},
+{"stem":"A nurse records a patient's temperature every hour for a day. Which graph best shows the trend?","opts":["Line graph","Pie chart","Pictograph","Stem-and-leaf plot"]},
+{"stem":"Which graph is most appropriate for showing a trend in blood glucose readings across several weeks?","opts":["Line graph","Pie chart","Pictograph","Stem-and-leaf plot"]},
+{"stem":"A researcher tracks the height of a plant each day for a month. Which display best shows growth over time?","opts":["Line graph","Pie chart","Pictograph","Stem-and-leaf plot"]},
+{"stem":"To show how the population of bacteria changes over 12 hours, which graph should be used?","opts":["Line graph","Pie chart","Pictograph","Stem-and-leaf plot"]},
+{"stem":"Which graph connects data points to reveal how a variable changes as time passes?","opts":["Line graph","Pie chart","Pictograph","Stem-and-leaf plot"]},
+{"stem":"Which type of graph would best illustrate rising and falling sales over twelve months?","opts":["Line graph","Pie chart","Pictograph","Stem-and-leaf plot"]},
+{"stem":"What is the most effective way to show changes in rainfall across the year?","opts":["A line graph","A pie chart","A pictograph","A stem-and-leaf plot"]}
+],"why":"A line graph plots data points over time and connects them, so it shows trends (increases, decreases, and patterns) clearly.","deep":"Line graph: change over time. Bar graph: compare separate categories. Pie (circle) chart: parts of a whole, as percentages. Scatter plot: relationship between two variables. Histogram: distribution of data in ranges."}
+]
+}

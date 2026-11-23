@@ -1,0 +1,2002 @@
+{
+ "format": "pulse-teas-bank",
+ "version": 2,
+ "questions": [
+  {
+   "id": "ap-b03-001",
+   "tag": "Cardiovascular",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "The systolic number in a blood pressure reading reflects the pressure while the ventricles are:",
+     "opts": [
+      "Contracting",
+      "Relaxing",
+      "Filling with blood",
+      "Fibrillating"
+     ]
+    },
+    {
+     "stem": "Systolic pressure is measured when the heart's ventricles are:",
+     "opts": [
+      "Contracting",
+      "Relaxing",
+      "Filling with blood",
+      "Fibrillating"
+     ]
+    },
+    {
+     "stem": "The top number of a blood pressure measurement is recorded while the ventricles are:",
+     "opts": [
+      "Contracting",
+      "Relaxing",
+      "Filling with blood",
+      "Fibrillating"
+     ]
+    },
+    {
+     "stem": "During ventricular systole, the ventricles are:",
+     "opts": [
+      "Contracting",
+      "Relaxing",
+      "Filling with blood",
+      "Fibrillating"
+     ]
+    },
+    {
+     "stem": "Peak arterial pressure occurs when the ventricles are:",
+     "opts": [
+      "Contracting",
+      "Relaxing",
+      "Filling with blood",
+      "Fibrillating"
+     ]
+    },
+    {
+     "stem": "In a reading of 120/80 mm Hg, the 120 is measured while the ventricles are:",
+     "opts": [
+      "Contracting",
+      "Relaxing",
+      "Filling with blood",
+      "Fibrillating"
+     ]
+    },
+    {
+     "stem": "Which describes the ventricles at the moment of systolic pressure?",
+     "opts": [
+      "Contracting",
+      "Relaxing",
+      "Filling with blood",
+      "Fibrillating"
+     ]
+    },
+    {
+     "stem": "Arterial pressure is highest during which ventricular activity?",
+     "opts": [
+      "Contracting",
+      "Relaxing",
+      "Filling with blood",
+      "Fibrillating"
+     ]
+    }
+   ],
+   "why": "Systolic pressure is the peak pressure in the arteries when the ventricles contract and eject blood.",
+   "deep": "Diastolic pressure (the bottom number) is the lowest pressure, when the ventricles relax and fill. Systole = squeeze, diastole = dilate/relax."
+  },
+  {
+   "id": "ap-b03-002",
+   "tag": "Digestive",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "What is the main role of bicarbonate released by the pancreas into the duodenum?",
+     "opts": [
+      "Neutralize stomach acid",
+      "Digest fats",
+      "Break down proteins",
+      "Absorb nutrients"
+     ]
+    },
+    {
+     "stem": "Pancreatic bicarbonate raises the pH of chyme entering the small intestine. Its function is to:",
+     "opts": [
+      "Neutralize stomach acid",
+      "Digest fats",
+      "Break down proteins",
+      "Absorb nutrients"
+     ]
+    },
+    {
+     "stem": "Why does the pancreas secrete bicarbonate into the small intestine?",
+     "opts": [
+      "Neutralize stomach acid",
+      "Digest fats",
+      "Break down proteins",
+      "Absorb nutrients"
+     ]
+    },
+    {
+     "stem": "Which function is performed by bicarbonate in pancreatic juice?",
+     "opts": [
+      "Neutralize stomach acid",
+      "Digest fats",
+      "Break down proteins",
+      "Absorb nutrients"
+     ]
+    },
+    {
+     "stem": "Pancreatic juice contains bicarbonate. What does it do?",
+     "opts": [
+      "Neutralize stomach acid",
+      "Digest fats",
+      "Break down proteins",
+      "Absorb nutrients"
+     ]
+    },
+    {
+     "stem": "What does bicarbonate do to the acidic chyme that enters the duodenum?",
+     "opts": [
+      "Neutralize stomach acid",
+      "Digest fats",
+      "Break down proteins",
+      "Absorb nutrients"
+     ]
+    },
+    {
+     "stem": "The alkaline bicarbonate in pancreatic secretions serves to:",
+     "opts": [
+      "Neutralize stomach acid",
+      "Digest fats",
+      "Break down proteins",
+      "Absorb nutrients"
+     ]
+    },
+    {
+     "stem": "In the duodenum, bicarbonate from the pancreas is needed to:",
+     "opts": [
+      "Neutralize stomach acid",
+      "Digest fats",
+      "Break down proteins",
+      "Absorb nutrients"
+     ]
+    }
+   ],
+   "why": "Bicarbonate neutralizes the acidic chyme from the stomach so pancreatic enzymes can work at their optimal, near-neutral pH.",
+   "deep": "Pancreatic enzymes: lipase (fats), proteases such as trypsin (proteins), pancreatic amylase (carbohydrates). The bicarbonate itself is not a digestive enzyme."
+  },
+  {
+   "id": "ap-b03-003",
+   "tag": "Muscular",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which structure attaches muscle to bone?",
+     "opts": [
+      "Tendon",
+      "Ligament",
+      "Cartilage",
+      "Fascia"
+     ]
+    },
+    {
+     "stem": "Muscles transmit force to bones through which structure?",
+     "opts": [
+      "Tendon",
+      "Ligament",
+      "Cartilage",
+      "Fascia"
+     ]
+    },
+    {
+     "stem": "A strong band of dense connective tissue that links muscle to bone is called a:",
+     "opts": [
+      "Tendon",
+      "Ligament",
+      "Cartilage",
+      "Fascia"
+     ]
+    },
+    {
+     "stem": "Which tissue connects the calf muscle to the heel bone?",
+     "opts": [
+      "Tendon",
+      "Ligament",
+      "Cartilage",
+      "Fascia"
+     ]
+    },
+    {
+     "stem": "Which connective tissue joins skeletal muscle to the periosteum of bone?",
+     "opts": [
+      "Tendon",
+      "Ligament",
+      "Cartilage",
+      "Fascia"
+     ]
+    },
+    {
+     "stem": "When a muscle contracts, it pulls on a bone via which structure?",
+     "opts": [
+      "Tendon",
+      "Ligament",
+      "Cartilage",
+      "Fascia"
+     ]
+    },
+    {
+     "stem": "Unlike ligaments, which structure connects muscle to bone?",
+     "opts": [
+      "Tendon",
+      "Ligament",
+      "Cartilage",
+      "Fascia"
+     ]
+    },
+    {
+     "stem": "What anchors a muscle to a bone?",
+     "opts": [
+      "Tendon",
+      "Ligament",
+      "Cartilage",
+      "Fascia"
+     ]
+    }
+   ],
+   "why": "Tendons attach muscle to bone; ligaments attach bone to bone.",
+   "deep": "Memory aid: Tendons = muscle to bone ('T' for 'tug'); Ligaments = bone to bone ('L' for 'link' at a joint). Cartilage cushions joints; fascia wraps and separates muscles."
+  },
+  {
+   "id": "ap-b03-004",
+   "tag": "Endocrine",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which hormone surge triggers ovulation?",
+     "opts": [
+      "LH",
+      "FSH",
+      "Progesterone",
+      "Prolactin"
+     ]
+    },
+    {
+     "stem": "A sudden rise in which hormone causes the release of the egg from the ovary?",
+     "opts": [
+      "LH",
+      "FSH",
+      "Progesterone",
+      "Prolactin"
+     ]
+    },
+    {
+     "stem": "Ovulation is triggered by a mid-cycle surge of:",
+     "opts": [
+      "LH",
+      "FSH",
+      "Progesterone",
+      "Prolactin"
+     ]
+    },
+    {
+     "stem": "Which pituitary hormone causes the mature follicle to rupture and release an oocyte?",
+     "opts": [
+      "LH",
+      "FSH",
+      "Progesterone",
+      "Prolactin"
+     ]
+    },
+    {
+     "stem": "In the menstrual cycle, which hormone peaks just before ovulation and initiates it?",
+     "opts": [
+      "LH",
+      "FSH",
+      "Progesterone",
+      "Prolactin"
+     ]
+    },
+    {
+     "stem": "Which hormone is responsible for causing the ovary to release an egg?",
+     "opts": [
+      "LH",
+      "FSH",
+      "Progesterone",
+      "Prolactin"
+     ]
+    },
+    {
+     "stem": "A test strip that predicts ovulation detects a rise in which hormone?",
+     "opts": [
+      "LH",
+      "FSH",
+      "Progesterone",
+      "Prolactin"
+     ]
+    },
+    {
+     "stem": "Which hormone's surge is the signal for ovulation to occur?",
+     "opts": [
+      "LH",
+      "FSH",
+      "Progesterone",
+      "Prolactin"
+     ]
+    }
+   ],
+   "why": "A surge of luteinizing hormone (LH) from the anterior pituitary triggers ovulation.",
+   "deep": "FSH stimulates follicle growth early in the cycle. After ovulation the follicle becomes the corpus luteum, which secretes progesterone. Prolactin stimulates milk production."
+  },
+  {
+   "id": "ap-b03-005",
+   "tag": "Renal",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which structure carries urine from the kidney to the urinary bladder?",
+     "opts": [
+      "Ureter",
+      "Urethra",
+      "Renal vein",
+      "Nephron"
+     ]
+    },
+    {
+     "stem": "Urine travels from each kidney to the bladder through which tube?",
+     "opts": [
+      "Ureter",
+      "Urethra",
+      "Renal vein",
+      "Nephron"
+     ]
+    },
+    {
+     "stem": "A kidney stone blocking the tube between the kidney and bladder is lodged in the:",
+     "opts": [
+      "Ureter",
+      "Urethra",
+      "Renal vein",
+      "Nephron"
+     ]
+    },
+    {
+     "stem": "Which structure transports urine from the renal pelvis toward the bladder?",
+     "opts": [
+      "Ureter",
+      "Urethra",
+      "Renal vein",
+      "Nephron"
+     ]
+    },
+    {
+     "stem": "Peristalsis moves urine through which narrow muscular tube leading to the bladder?",
+     "opts": [
+      "Ureter",
+      "Urethra",
+      "Renal vein",
+      "Nephron"
+     ]
+    },
+    {
+     "stem": "Which part of the urinary system connects the kidney to the bladder?",
+     "opts": [
+      "Ureter",
+      "Urethra",
+      "Renal vein",
+      "Nephron"
+     ]
+    },
+    {
+     "stem": "Urine leaves the kidney through which duct on its way to the bladder?",
+     "opts": [
+      "Ureter",
+      "Urethra",
+      "Renal vein",
+      "Nephron"
+     ]
+    },
+    {
+     "stem": "Which structure links the renal pelvis to the urinary bladder?",
+     "opts": [
+      "Ureter",
+      "Urethra",
+      "Renal vein",
+      "Nephron"
+     ]
+    }
+   ],
+   "why": "The ureters carry urine from the kidneys to the bladder.",
+   "deep": "Urine path: nephron → collecting duct → renal pelvis → ureter → bladder → urethra → outside. Ureter = to the bladder; urethra = out of the body."
+  },
+  {
+   "id": "ap-b03-006",
+   "tag": "Respiratory",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "During inhalation, pressure inside the lungs is ______ the pressure of the atmosphere.",
+     "opts": [
+      "Lower than",
+      "Higher than",
+      "Equal to",
+      "Unrelated to"
+     ]
+    },
+    {
+     "stem": "For air to flow into the lungs, the intrapulmonary pressure must be ______ atmospheric pressure.",
+     "opts": [
+      "Lower than",
+      "Higher than",
+      "Equal to",
+      "Unrelated to"
+     ]
+    },
+    {
+     "stem": "When the thoracic cavity expands, the pressure in the lungs becomes ______ atmospheric pressure.",
+     "opts": [
+      "Lower than",
+      "Higher than",
+      "Equal to",
+      "Unrelated to"
+     ]
+    },
+    {
+     "stem": "Air flows into the lungs because the pressure in the lungs is ______ the pressure outside the body.",
+     "opts": [
+      "Lower than",
+      "Higher than",
+      "Equal to",
+      "Unrelated to"
+     ]
+    },
+    {
+     "stem": "As the diaphragm contracts and the lungs expand, alveolar pressure is ______ atmospheric pressure.",
+     "opts": [
+      "Lower than",
+      "Higher than",
+      "Equal to",
+      "Unrelated to"
+     ]
+    },
+    {
+     "stem": "At the moment inspiration is occurring, lung pressure compared with atmospheric pressure is ______.",
+     "opts": [
+      "Lower than",
+      "Higher than",
+      "Equal to",
+      "Unrelated to"
+     ]
+    },
+    {
+     "stem": "Boyle's law explains that when lung volume increases, lung pressure ends up ______ atmospheric pressure.",
+     "opts": [
+      "Lower than",
+      "Higher than",
+      "Equal to",
+      "Unrelated to"
+     ]
+    },
+    {
+     "stem": "Inhaled air moves down its pressure gradient, which means lung pressure is ______ atmospheric pressure.",
+     "opts": [
+      "Lower than",
+      "Higher than",
+      "Equal to",
+      "Unrelated to"
+     ]
+    }
+   ],
+   "why": "Expanding the thoracic cavity increases lung volume, which lowers lung pressure below atmospheric pressure, so air flows in.",
+   "deep": "Boyle's law: pressure and volume are inversely related at constant temperature. During exhalation the volume decreases, pressure rises above atmospheric, and air flows out."
+  },
+  {
+   "id": "ap-b03-007",
+   "tag": "Immune / Lymphatic",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Where do T lymphocytes mature?",
+     "opts": [
+      "Thymus",
+      "Bone marrow",
+      "Spleen",
+      "Lymph node"
+     ]
+    },
+    {
+     "stem": "Which organ is responsible for the maturation of T cells?",
+     "opts": [
+      "Thymus",
+      "Bone marrow",
+      "Spleen",
+      "Lymph node"
+     ]
+    },
+    {
+     "stem": "T cells originate in bone marrow but complete their development in which organ?",
+     "opts": [
+      "Thymus",
+      "Bone marrow",
+      "Spleen",
+      "Lymph node"
+     ]
+    },
+    {
+     "stem": "Which organ, located behind the sternum, is the site of T cell maturation?",
+     "opts": [
+      "Thymus",
+      "Bone marrow",
+      "Spleen",
+      "Lymph node"
+     ]
+    },
+    {
+     "stem": "Immature T cells travel to which organ to become functional?",
+     "opts": [
+      "Thymus",
+      "Bone marrow",
+      "Spleen",
+      "Lymph node"
+     ]
+    },
+    {
+     "stem": "Which lymphoid organ shrinks after puberty and trains T lymphocytes?",
+     "opts": [
+      "Thymus",
+      "Bone marrow",
+      "Spleen",
+      "Lymph node"
+     ]
+    },
+    {
+     "stem": "Where does T cell education (selection) take place?",
+     "opts": [
+      "Thymus",
+      "Bone marrow",
+      "Spleen",
+      "Lymph node"
+     ]
+    },
+    {
+     "stem": "Which primary lymphoid organ is the site of T cell development?",
+     "opts": [
+      "Thymus",
+      "Bone marrow",
+      "Spleen",
+      "Lymph node"
+     ]
+    }
+   ],
+   "why": "T cells mature in the thymus, where they learn to distinguish self from non-self.",
+   "deep": "B cells mature in bone marrow. The spleen filters blood and stores immune cells; lymph nodes filter lymph and host immune responses."
+  },
+  {
+   "id": "ap-b03-008",
+   "tag": "Skeletal",
+   "type": "multi",
+   "variants": [
+    {
+     "stem": "Which of the following are part of the appendicular skeleton? Select all that apply.",
+     "opts": [
+      "Vertebrae",
+      "Humerus",
+      "Sternum",
+      "Femur",
+      "Scapula"
+     ],
+     "correct": [
+      1,
+      3,
+      4
+     ]
+    },
+    {
+     "stem": "Select every bone that belongs to the appendicular skeleton.",
+     "opts": [
+      "Scapula",
+      "Sternum",
+      "Femur",
+      "Vertebrae",
+      "Humerus"
+     ],
+     "correct": [
+      0,
+      2,
+      4
+     ]
+    },
+    {
+     "stem": "Which options are bones of the limbs or the girdles that attach them? Select all that apply.",
+     "opts": [
+      "Sternum",
+      "Scapula",
+      "Humerus",
+      "Femur",
+      "Vertebrae"
+     ],
+     "correct": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "stem": "Identify all appendicular bones from the list.",
+     "opts": [
+      "Femur",
+      "Scapula",
+      "Humerus",
+      "Vertebrae",
+      "Sternum"
+     ],
+     "correct": [
+      0,
+      1,
+      2
+     ]
+    },
+    {
+     "stem": "Which of these are NOT part of the axial skeleton? Select all that apply.",
+     "opts": [
+      "Femur",
+      "Scapula",
+      "Vertebrae",
+      "Sternum",
+      "Humerus"
+     ],
+     "correct": [
+      0,
+      1,
+      4
+     ]
+    },
+    {
+     "stem": "Select all bones that form part of the limbs or the pectoral and pelvic girdles.",
+     "opts": [
+      "Sternum",
+      "Vertebrae",
+      "Scapula",
+      "Humerus",
+      "Femur"
+     ],
+     "correct": [
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "stem": "Which of the following belong to the appendicular skeleton rather than the axial skeleton? Select all that apply.",
+     "opts": [
+      "Sternum",
+      "Scapula",
+      "Vertebrae",
+      "Femur",
+      "Humerus"
+     ],
+     "correct": [
+      1,
+      3,
+      4
+     ]
+    },
+    {
+     "stem": "Choose every appendicular bone.",
+     "opts": [
+      "Femur",
+      "Vertebrae",
+      "Humerus",
+      "Sternum",
+      "Scapula"
+     ],
+     "correct": [
+      0,
+      2,
+      4
+     ]
+    }
+   ],
+   "why": "The humerus, femur, and scapula are appendicular bones; the sternum and vertebrae belong to the axial skeleton.",
+   "deep": "Appendicular = limbs plus pectoral (scapula, clavicle) and pelvic girdles. Axial = skull, vertebral column, ribs, and sternum."
+  },
+  {
+   "id": "bio-b03-009",
+   "tag": "Cell Division",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "During which phase of mitosis do chromosomes line up along the cell's equator?",
+     "opts": [
+      "Metaphase",
+      "Prophase",
+      "Anaphase",
+      "Telophase"
+     ]
+    },
+    {
+     "stem": "In which mitotic phase are the chromosomes arranged in a single line across the middle of the cell?",
+     "opts": [
+      "Metaphase",
+      "Prophase",
+      "Anaphase",
+      "Telophase"
+     ]
+    },
+    {
+     "stem": "Spindle fibers attach to the centromeres and align the chromosomes at the center of the cell during:",
+     "opts": [
+      "Metaphase",
+      "Prophase",
+      "Anaphase",
+      "Telophase"
+     ]
+    },
+    {
+     "stem": "Which phase of mitosis comes between prophase and anaphase, with chromosomes lined up at the middle of the cell?",
+     "opts": [
+      "Metaphase",
+      "Prophase",
+      "Anaphase",
+      "Telophase"
+     ]
+    },
+    {
+     "stem": "At which stage are duplicated chromosomes positioned along the cell's equatorial plane?",
+     "opts": [
+      "Metaphase",
+      "Prophase",
+      "Anaphase",
+      "Telophase"
+     ]
+    },
+    {
+     "stem": "Chromosomes are most easily counted under the microscope when they are lined up in the middle of the cell, during:",
+     "opts": [
+      "Metaphase",
+      "Prophase",
+      "Anaphase",
+      "Telophase"
+     ]
+    },
+    {
+     "stem": "Which phase ensures each daughter cell will receive one chromatid from each chromosome by lining chromosomes up at the center?",
+     "opts": [
+      "Metaphase",
+      "Prophase",
+      "Anaphase",
+      "Telophase"
+     ]
+    },
+    {
+     "stem": "The cell's chromosomes are arranged along its midline in which phase of mitosis?",
+     "opts": [
+      "Metaphase",
+      "Prophase",
+      "Anaphase",
+      "Telophase"
+     ]
+    }
+   ],
+   "why": "Chromosomes align along the cell's equator (the metaphase plate) during metaphase.",
+   "deep": "Order: Prophase → Metaphase → Anaphase → Telophase (then cytokinesis). Memory aid: PMAT. Metaphase = Middle; Anaphase = Apart."
+  },
+  {
+   "id": "bio-b03-010",
+   "tag": "Genetics",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which of the following human cells is haploid?",
+     "opts": [
+      "Sperm cells",
+      "Neurons",
+      "Skin cells",
+      "Muscle cells"
+     ]
+    },
+    {
+     "stem": "Which cell type contains only 23 chromosomes?",
+     "opts": [
+      "Sperm cells",
+      "Neurons",
+      "Skin cells",
+      "Muscle cells"
+     ]
+    },
+    {
+     "stem": "Which of these cells carries a single set of chromosomes?",
+     "opts": [
+      "Sperm cells",
+      "Neurons",
+      "Skin cells",
+      "Muscle cells"
+     ]
+    },
+    {
+     "stem": "Which cell is a gamete?",
+     "opts": [
+      "Sperm cells",
+      "Neurons",
+      "Skin cells",
+      "Muscle cells"
+     ]
+    },
+    {
+     "stem": "Which of the following is NOT a diploid somatic cell?",
+     "opts": [
+      "Sperm cells",
+      "Neurons",
+      "Skin cells",
+      "Muscle cells"
+     ]
+    },
+    {
+     "stem": "Which cell results from meiosis rather than mitosis?",
+     "opts": [
+      "Sperm cells",
+      "Neurons",
+      "Skin cells",
+      "Muscle cells"
+     ]
+    },
+    {
+     "stem": "Which cell has half the normal number of chromosomes found in body cells?",
+     "opts": [
+      "Sperm cells",
+      "Neurons",
+      "Skin cells",
+      "Muscle cells"
+     ]
+    },
+    {
+     "stem": "Which of these is a germ cell rather than a somatic cell?",
+     "opts": [
+      "Sperm cells",
+      "Neurons",
+      "Skin cells",
+      "Muscle cells"
+     ]
+    }
+   ],
+   "why": "Sperm cells are gametes, which are haploid (23 chromosomes). The others are diploid somatic cells (46).",
+   "deep": "Somatic cells make up the body and divide by mitosis. Germ cells give rise to gametes through meiosis. Fertilization restores the diploid number."
+  },
+  {
+   "id": "bio-b03-011",
+   "tag": "Molecular Biology",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "A nonsense mutation results in which of the following?",
+     "opts": [
+      "A premature stop codon",
+      "A different amino acid",
+      "No change in the protein",
+      "An extra codon added"
+     ]
+    },
+    {
+     "stem": "Which outcome is caused by a nonsense mutation?",
+     "opts": [
+      "A premature stop codon",
+      "A different amino acid",
+      "No change in the protein",
+      "An extra codon added"
+     ]
+    },
+    {
+     "stem": "A point mutation changes a codon into UAA. What is the result?",
+     "opts": [
+      "A premature stop codon",
+      "A different amino acid",
+      "No change in the protein",
+      "An extra codon added"
+     ]
+    },
+    {
+     "stem": "What effect does a nonsense mutation have on translation?",
+     "opts": [
+      "A premature stop codon",
+      "A different amino acid",
+      "No change in the protein",
+      "An extra codon added"
+     ]
+    },
+    {
+     "stem": "A single base change turns a normal codon into a stop signal. This results in:",
+     "opts": [
+      "A premature stop codon",
+      "A different amino acid",
+      "No change in the protein",
+      "An extra codon added"
+     ]
+    },
+    {
+     "stem": "Nonsense mutations usually produce a shortened, nonfunctional protein because they create:",
+     "opts": [
+      "A premature stop codon",
+      "A different amino acid",
+      "No change in the protein",
+      "An extra codon added"
+     ]
+    },
+    {
+     "stem": "Which result describes a nonsense mutation?",
+     "opts": [
+      "A premature stop codon",
+      "A different amino acid",
+      "No change in the protein",
+      "An extra codon added"
+     ]
+    },
+    {
+     "stem": "Which is a consequence of a nonsense mutation in the middle of a gene?",
+     "opts": [
+      "A premature stop codon",
+      "A different amino acid",
+      "No change in the protein",
+      "An extra codon added"
+     ]
+    }
+   ],
+   "why": "A nonsense mutation changes an amino-acid codon into a stop codon, ending translation early.",
+   "deep": "Missense = changes one amino acid; silent = no change in the amino acid; nonsense = premature stop; frameshift = insertion or deletion shifts the reading frame."
+  },
+  {
+   "id": "bio-b03-012",
+   "tag": "Ecology",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which term describes an organism that obtains energy by consuming other organisms?",
+     "opts": [
+      "Heterotroph",
+      "Autotroph",
+      "Producer",
+      "Photoautotroph"
+     ]
+    },
+    {
+     "stem": "Animals, fungi, and many bacteria that cannot make their own food are called:",
+     "opts": [
+      "Heterotroph",
+      "Autotroph",
+      "Producer",
+      "Photoautotroph"
+     ]
+    },
+    {
+     "stem": "An organism that must eat other organisms or organic matter for energy is a(n):",
+     "opts": [
+      "Heterotroph",
+      "Autotroph",
+      "Producer",
+      "Photoautotroph"
+     ]
+    },
+    {
+     "stem": "A deer eating grass is an example of which type of organism?",
+     "opts": [
+      "Heterotroph",
+      "Autotroph",
+      "Producer",
+      "Photoautotroph"
+     ]
+    },
+    {
+     "stem": "Which type of organism cannot produce its own food from inorganic sources?",
+     "opts": [
+      "Heterotroph",
+      "Autotroph",
+      "Producer",
+      "Photoautotroph"
+     ]
+    },
+    {
+     "stem": "Which term applies to organisms that rely on other organisms for their organic molecules?",
+     "opts": [
+      "Heterotroph",
+      "Autotroph",
+      "Producer",
+      "Photoautotroph"
+     ]
+    },
+    {
+     "stem": "What is a consumer's nutritional category?",
+     "opts": [
+      "Heterotroph",
+      "Autotroph",
+      "Producer",
+      "Photoautotroph"
+     ]
+    },
+    {
+     "stem": "Which nutritional mode describes organisms that obtain carbon from other living things?",
+     "opts": [
+      "Heterotroph",
+      "Autotroph",
+      "Producer",
+      "Photoautotroph"
+     ]
+    }
+   ],
+   "why": "Heterotrophs obtain energy and carbon by consuming other organisms or organic matter.",
+   "deep": "Autotrophs (producers) make their own food using light (photoautotrophs) or chemicals. Hetero = other, auto = self, troph = feeding."
+  },
+  {
+   "id": "bio-b03-013",
+   "tag": "Genetics",
+   "type": "typed",
+   "answers": [
+    "23"
+   ],
+   "tolerance": 0,
+   "variants": [
+    {
+     "stem": "A human body cell has 46 chromosomes. How many chromosomes are in each sperm or egg cell? Type a number."
+    },
+    {
+     "stem": "How many chromosomes does a normal human gamete contain if a somatic cell has 46? Type a number."
+    },
+    {
+     "stem": "Meiosis halves the chromosome number. If a human somatic cell has 46 chromosomes, how many does each gamete have? Type a number."
+    },
+    {
+     "stem": "A human egg cell contains how many chromosomes? (A body cell has 46.) Type a number."
+    },
+    {
+     "stem": "Starting from a cell with 46 chromosomes, meiosis produces gametes with how many chromosomes each? Type a number."
+    },
+    {
+     "stem": "If a skin cell contains 46 chromosomes, how many chromosomes are in a sperm cell? Type a number."
+    },
+    {
+     "stem": "Type the number of chromosomes in a human gamete, given that a diploid body cell has 46."
+    },
+    {
+     "stem": "Each human gamete is haploid. How many chromosomes does it have, given a diploid number of 46? Type a number."
+    }
+   ],
+   "why": "Gametes are haploid, so they carry half of 46 chromosomes, which is 23.",
+   "deep": "Fertilization combines two gametes (23 + 23) to restore the diploid number of 46."
+  },
+  {
+   "id": "bio-b03-014",
+   "tag": "Data Interpretation",
+   "type": "hotspot",
+   "image": "<svg viewBox=\"0 0 260 182\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M40 14 L40 150 L240 150\" stroke=\"#9db1cd\" stroke-width=\"2\" fill=\"none\"/><polyline points=\"40,145 70,136 100,112 120,72 135,42 140,38 148,42 165,80 185,125 205,142 225,146\" fill=\"none\" stroke=\"#1fd6c3\" stroke-width=\"3\" stroke-linejoin=\"round\"/><g font-size=\"9\" fill=\"#9db1cd\" text-anchor=\"middle\"><text x=\"60\" y=\"163\">20</text><text x=\"100\" y=\"163\">30</text><text x=\"140\" y=\"163\">40</text><text x=\"180\" y=\"163\">50</text><text x=\"220\" y=\"163\">60</text><text x=\"140\" y=\"177\">Temperature (°C)</text><text x=\"14\" y=\"90\" transform=\"rotate(-90 14 90)\">Enzyme activity</text></g></svg>",
+   "target": [
+    {
+     "type": "circle",
+     "cx": 140,
+     "cy": 40,
+     "r": 20
+    }
+   ],
+   "variants": [
+    {
+     "stem": "Tap the point on the graph where enzyme activity is highest."
+    },
+    {
+     "stem": "On this graph of enzyme activity versus temperature, tap the optimum temperature."
+    },
+    {
+     "stem": "Tap the peak of the curve."
+    },
+    {
+     "stem": "Find the temperature at which the enzyme works best and tap it on the graph."
+    },
+    {
+     "stem": "Tap the location on the curve showing the maximum enzyme activity."
+    },
+    {
+     "stem": "Where on the graph is the enzyme most active? Tap it."
+    },
+    {
+     "stem": "Tap the highest point of enzyme activity shown."
+    },
+    {
+     "stem": "Identify the enzyme's optimum temperature on the graph by tapping the peak."
+    }
+   ],
+   "why": "The curve peaks at about 40°C, the enzyme's optimum temperature.",
+   "deep": "Enzyme activity rises with temperature up to the optimum, then drops sharply as the enzyme denatures (loses its shape). Always read the peak on the curve, not the end of the axis."
+  },
+  {
+   "id": "chem-b03-015",
+   "tag": "Chemical Reactions",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "According to Le Chatelier's principle, adding more reactant to a system at equilibrium causes the equilibrium to shift:",
+     "opts": [
+      "Toward the products",
+      "Toward the reactants",
+      "It does not shift",
+      "It reverses completely"
+     ]
+    },
+    {
+     "stem": "If extra reactant is added to a reaction at equilibrium, the system responds by shifting:",
+     "opts": [
+      "Toward the products",
+      "Toward the reactants",
+      "It does not shift",
+      "It reverses completely"
+     ]
+    },
+    {
+     "stem": "Increasing the concentration of a reactant at equilibrium causes the system to shift:",
+     "opts": [
+      "Toward the products",
+      "Toward the reactants",
+      "It does not shift",
+      "It reverses completely"
+     ]
+    },
+    {
+     "stem": "When more reactant is added to an equilibrium mixture, which direction does the reaction shift?",
+     "opts": [
+      "Toward the products",
+      "Toward the reactants",
+      "It does not shift",
+      "It reverses completely"
+     ]
+    },
+    {
+     "stem": "A system at equilibrium is disturbed by adding more of one reactant. The system shifts:",
+     "opts": [
+      "Toward the products",
+      "Toward the reactants",
+      "It does not shift",
+      "It reverses completely"
+     ]
+    },
+    {
+     "stem": "To counteract an increase in reactant concentration, an equilibrium system will shift:",
+     "opts": [
+      "Toward the products",
+      "Toward the reactants",
+      "It does not shift",
+      "It reverses completely"
+     ]
+    },
+    {
+     "stem": "What happens to the position of equilibrium when more reactant is added?",
+     "opts": [
+      "Toward the products",
+      "Toward the reactants",
+      "It does not shift",
+      "It reverses completely"
+     ]
+    },
+    {
+     "stem": "Adding reactant to a reversible reaction at equilibrium results in the equilibrium shifting:",
+     "opts": [
+      "Toward the products",
+      "Toward the reactants",
+      "It does not shift",
+      "It reverses completely"
+     ]
+    }
+   ],
+   "why": "Adding reactant makes the system shift toward the products to use up the extra reactant and restore equilibrium.",
+   "deep": "Le Chatelier's principle: a system at equilibrium responds to a stress by shifting to counteract it. Adding product shifts the system toward the reactants."
+  },
+  {
+   "id": "chem-b03-016",
+   "tag": "Acids & Bases",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "According to the Arrhenius definition, a base releases which ion in water?",
+     "opts": [
+      "Hydroxide ion (OH⁻)",
+      "Hydrogen ion (H⁺)",
+      "Sodium ion (Na⁺)",
+      "Chloride ion (Cl⁻)"
+     ]
+    },
+    {
+     "stem": "Which ion increases in concentration when a base such as NaOH dissolves in water?",
+     "opts": [
+      "Hydroxide ion (OH⁻)",
+      "Hydrogen ion (H⁺)",
+      "Sodium ion (Na⁺)",
+      "Chloride ion (Cl⁻)"
+     ]
+    },
+    {
+     "stem": "Raising the pH of a solution means increasing the concentration of which ion?",
+     "opts": [
+      "Hydroxide ion (OH⁻)",
+      "Hydrogen ion (H⁺)",
+      "Sodium ion (Na⁺)",
+      "Chloride ion (Cl⁻)"
+     ]
+    },
+    {
+     "stem": "Which ion do bases produce in solution?",
+     "opts": [
+      "Hydroxide ion (OH⁻)",
+      "Hydrogen ion (H⁺)",
+      "Sodium ion (Na⁺)",
+      "Chloride ion (Cl⁻)"
+     ]
+    },
+    {
+     "stem": "Sodium hydroxide dissociates in water to give sodium ions and which other ion?",
+     "opts": [
+      "Hydroxide ion (OH⁻)",
+      "Hydrogen ion (H⁺)",
+      "Sodium ion (Na⁺)",
+      "Chloride ion (Cl⁻)"
+     ]
+    },
+    {
+     "stem": "Which ion is responsible for the bitter taste and high pH of basic solutions?",
+     "opts": [
+      "Hydroxide ion (OH⁻)",
+      "Hydrogen ion (H⁺)",
+      "Sodium ion (Na⁺)",
+      "Chloride ion (Cl⁻)"
+     ]
+    },
+    {
+     "stem": "Compared with acids, bases produce an excess of which ion in water?",
+     "opts": [
+      "Hydroxide ion (OH⁻)",
+      "Hydrogen ion (H⁺)",
+      "Sodium ion (Na⁺)",
+      "Chloride ion (Cl⁻)"
+     ]
+    },
+    {
+     "stem": "A substance that releases this ion in water is classified as a base. Which ion?",
+     "opts": [
+      "Hydroxide ion (OH⁻)",
+      "Hydrogen ion (H⁺)",
+      "Sodium ion (Na⁺)",
+      "Chloride ion (Cl⁻)"
+     ]
+    }
+   ],
+   "why": "Bases release hydroxide ions (OH⁻) in water.",
+   "deep": "Acids release H⁺ and lower pH; bases release OH⁻ and raise pH. Neutral water has equal amounts of each at pH 7."
+  },
+  {
+   "id": "chem-b03-017",
+   "tag": "Atomic Structure",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "The atomic mass listed on the periodic table represents which of the following?",
+     "opts": [
+      "Weighted average of isotopes",
+      "Count of protons only",
+      "Count of electrons only",
+      "Mass of one isotope only"
+     ]
+    },
+    {
+     "stem": "The atomic mass of an element on the periodic table is best described as the:",
+     "opts": [
+      "Weighted average of isotopes",
+      "Count of protons only",
+      "Count of electrons only",
+      "Mass of one isotope only"
+     ]
+    },
+    {
+     "stem": "Atomic mass values on the periodic table are calculated as the:",
+     "opts": [
+      "Weighted average of isotopes",
+      "Count of protons only",
+      "Count of electrons only",
+      "Mass of one isotope only"
+     ]
+    },
+    {
+     "stem": "Which statement describes the atomic mass shown for an element?",
+     "opts": [
+      "Weighted average of isotopes",
+      "Count of protons only",
+      "Count of electrons only",
+      "Mass of one isotope only"
+     ]
+    },
+    {
+     "stem": "Because elements exist as mixtures of isotopes, the periodic table lists atomic mass as the:",
+     "opts": [
+      "Weighted average of isotopes",
+      "Count of protons only",
+      "Count of electrons only",
+      "Mass of one isotope only"
+     ]
+    },
+    {
+     "stem": "The decimal value for atomic mass in an element's box is the:",
+     "opts": [
+      "Weighted average of isotopes",
+      "Count of protons only",
+      "Count of electrons only",
+      "Mass of one isotope only"
+     ]
+    },
+    {
+     "stem": "How is the atomic mass of an element determined?",
+     "opts": [
+      "Weighted average of isotopes",
+      "Count of protons only",
+      "Count of electrons only",
+      "Mass of one isotope only"
+     ]
+    },
+    {
+     "stem": "An element's atomic mass on the periodic table is the:",
+     "opts": [
+      "Weighted average of isotopes",
+      "Count of protons only",
+      "Count of electrons only",
+      "Mass of one isotope only"
+     ]
+    }
+   ],
+   "why": "Atomic mass is the weighted average of the masses of an element's naturally occurring isotopes, which is why it is rarely a whole number.",
+   "deep": "The atomic number (a whole number) is the proton count. Chlorine's atomic mass is about 35.45 because roughly 75% of chlorine is Cl-35 and 25% is Cl-37."
+  },
+  {
+   "id": "chem-b03-018",
+   "tag": "Chemical Reactions",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "According to the law of conservation of mass, the total mass of the products is ______ the total mass of the reactants.",
+     "opts": [
+      "Equal to",
+      "Greater than",
+      "Less than",
+      "Unrelated to"
+     ]
+    },
+    {
+     "stem": "In a closed system, the mass of the reactants is ______ the mass of the products.",
+     "opts": [
+      "Equal to",
+      "Greater than",
+      "Less than",
+      "Unrelated to"
+     ]
+    },
+    {
+     "stem": "When a chemical reaction occurs in a sealed container, the mass after the reaction is ______ the mass before.",
+     "opts": [
+      "Equal to",
+      "Greater than",
+      "Less than",
+      "Unrelated to"
+     ]
+    },
+    {
+     "stem": "Atoms are neither created nor destroyed in a reaction, so the mass of products is ______ the mass of reactants.",
+     "opts": [
+      "Equal to",
+      "Greater than",
+      "Less than",
+      "Unrelated to"
+     ]
+    },
+    {
+     "stem": "A balanced chemical equation shows that the mass of the products is ______ the mass of the reactants.",
+     "opts": [
+      "Equal to",
+      "Greater than",
+      "Less than",
+      "Unrelated to"
+     ]
+    },
+    {
+     "stem": "If 10 g of reactants fully react in a closed system, the mass of the products compared with 10 g is ______.",
+     "opts": [
+      "Equal to",
+      "Greater than",
+      "Less than",
+      "Unrelated to"
+     ]
+    },
+    {
+     "stem": "The law of conservation of mass states that total mass before a reaction is ______ total mass after the reaction.",
+     "opts": [
+      "Equal to",
+      "Greater than",
+      "Less than",
+      "Unrelated to"
+     ]
+    },
+    {
+     "stem": "Comparing total reactant mass with total product mass in a closed system, the product mass is ______ the reactant mass.",
+     "opts": [
+      "Equal to",
+      "Greater than",
+      "Less than",
+      "Unrelated to"
+     ]
+    }
+   ],
+   "why": "Mass is conserved in chemical reactions, so total product mass equals total reactant mass in a closed system.",
+   "deep": "This is why equations must be balanced: the same number of each type of atom appears on both sides."
+  },
+  {
+   "id": "chem-b03-019",
+   "tag": "Periodic Table",
+   "type": "multi",
+   "variants": [
+    {
+     "stem": "Which of the following are noble gases? Select all that apply.",
+     "opts": [
+      "Neon",
+      "Helium",
+      "Nitrogen",
+      "Argon",
+      "Chlorine"
+     ],
+     "correct": [
+      0,
+      1,
+      3
+     ]
+    },
+    {
+     "stem": "Select every element that is in Group 18 of the periodic table.",
+     "opts": [
+      "Argon",
+      "Chlorine",
+      "Nitrogen",
+      "Neon",
+      "Helium"
+     ],
+     "correct": [
+      0,
+      3,
+      4
+     ]
+    },
+    {
+     "stem": "Which options are elements with a full outer electron shell and very low reactivity? Select all that apply.",
+     "opts": [
+      "Neon",
+      "Nitrogen",
+      "Argon",
+      "Helium",
+      "Chlorine"
+     ],
+     "correct": [
+      0,
+      2,
+      3
+     ]
+    },
+    {
+     "stem": "Identify all noble gases from the list.",
+     "opts": [
+      "Helium",
+      "Argon",
+      "Nitrogen",
+      "Neon",
+      "Chlorine"
+     ],
+     "correct": [
+      0,
+      1,
+      3
+     ]
+    },
+    {
+     "stem": "Which of these elements are inert gases? Select all that apply.",
+     "opts": [
+      "Helium",
+      "Neon",
+      "Chlorine",
+      "Nitrogen",
+      "Argon"
+     ],
+     "correct": [
+      0,
+      1,
+      4
+     ]
+    },
+    {
+     "stem": "Select all elements in the same group as xenon.",
+     "opts": [
+      "Neon",
+      "Nitrogen",
+      "Helium",
+      "Chlorine",
+      "Argon"
+     ],
+     "correct": [
+      0,
+      2,
+      4
+     ]
+    },
+    {
+     "stem": "Which of the following elements rarely form compounds because their outer shell is full? Select all that apply.",
+     "opts": [
+      "Nitrogen",
+      "Chlorine",
+      "Argon",
+      "Helium",
+      "Neon"
+     ],
+     "correct": [
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "stem": "Choose every noble gas.",
+     "opts": [
+      "Helium",
+      "Argon",
+      "Neon",
+      "Nitrogen",
+      "Chlorine"
+     ],
+     "correct": [
+      0,
+      1,
+      2
+     ]
+    }
+   ],
+   "why": "Helium, neon, and argon are noble gases (Group 18) with full outer shells. Nitrogen is Group 15 and chlorine is a Group 17 halogen.",
+   "deep": "Noble gases: He, Ne, Ar, Kr, Xe, Rn. Their full valence shells (2 for He, 8 for the rest) make them very unreactive."
+  },
+  {
+   "id": "sr-b03-020",
+   "tag": "Data Interpretation",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which of the following is an example of qualitative data?",
+     "opts": [
+      "The solution turned blue",
+      "The solution weighed 12 g",
+      "The solution measured 25 mL",
+      "The temperature was 30°C"
+     ]
+    },
+    {
+     "stem": "Which observation is qualitative rather than quantitative?",
+     "opts": [
+      "The solution turned blue",
+      "The solution weighed 12 g",
+      "The solution measured 25 mL",
+      "The temperature was 30°C"
+     ]
+    },
+    {
+     "stem": "A student records observations during a lab. Which observation is qualitative?",
+     "opts": [
+      "The solution turned blue",
+      "The solution weighed 12 g",
+      "The solution measured 25 mL",
+      "The temperature was 30°C"
+     ]
+    },
+    {
+     "stem": "Which statement describes a quality (a description without numbers)?",
+     "opts": [
+      "The solution turned blue",
+      "The solution weighed 12 g",
+      "The solution measured 25 mL",
+      "The temperature was 30°C"
+     ]
+    },
+    {
+     "stem": "Which of these observations would be recorded as qualitative data?",
+     "opts": [
+      "The solution turned blue",
+      "The solution weighed 12 g",
+      "The solution measured 25 mL",
+      "The temperature was 30°C"
+     ]
+    },
+    {
+     "stem": "Which data is descriptive rather than numerical?",
+     "opts": [
+      "The solution turned blue",
+      "The solution weighed 12 g",
+      "The solution measured 25 mL",
+      "The temperature was 30°C"
+     ]
+    },
+    {
+     "stem": "Which of the following observations does not involve a measurement?",
+     "opts": [
+      "The solution turned blue",
+      "The solution weighed 12 g",
+      "The solution measured 25 mL",
+      "The temperature was 30°C"
+     ]
+    },
+    {
+     "stem": "Which of these is NOT quantitative data?",
+     "opts": [
+      "The solution turned blue",
+      "The solution weighed 12 g",
+      "The solution measured 25 mL",
+      "The temperature was 30°C"
+     ]
+    }
+   ],
+   "why": "Qualitative data describe qualities (color, smell, texture) without numbers; quantitative data are measured numbers with units.",
+   "deep": "Qualitative = quality (words). Quantitative = quantity (numbers). Good lab notebooks record both."
+  },
+  {
+   "id": "sr-b03-021",
+   "tag": "Measurement",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "A balance reads 5.2 g, 5.2 g, and 5.1 g for a 10.0 g mass. These measurements are:",
+     "opts": [
+      "Precise but not accurate",
+      "Accurate but not precise",
+      "Both accurate and precise",
+      "Neither accurate nor precise"
+     ]
+    },
+    {
+     "stem": "A 10.0 g standard mass is weighed three times, giving 5.2 g, 5.1 g, and 5.2 g. The measurements are:",
+     "opts": [
+      "Precise but not accurate",
+      "Accurate but not precise",
+      "Both accurate and precise",
+      "Neither accurate nor precise"
+     ]
+    },
+    {
+     "stem": "Three readings of 5.2, 5.2, and 5.1 g are taken of a mass whose true value is 10.0 g. The results are:",
+     "opts": [
+      "Precise but not accurate",
+      "Accurate but not precise",
+      "Both accurate and precise",
+      "Neither accurate nor precise"
+     ]
+    },
+    {
+     "stem": "A scale consistently gives values near 5.2 g for an object that truly has a mass of 10.0 g. This scale is:",
+     "opts": [
+      "Precise but not accurate",
+      "Accurate but not precise",
+      "Both accurate and precise",
+      "Neither accurate nor precise"
+     ]
+    },
+    {
+     "stem": "The readings 5.2 g, 5.1 g, and 5.2 g are very close to each other but far from the true mass of 10.0 g. They are:",
+     "opts": [
+      "Precise but not accurate",
+      "Accurate but not precise",
+      "Both accurate and precise",
+      "Neither accurate nor precise"
+     ]
+    },
+    {
+     "stem": "How would you describe measurements of 5.2 g, 5.2 g, and 5.1 g when the object's actual mass is 10.0 g?",
+     "opts": [
+      "Precise but not accurate",
+      "Accurate but not precise",
+      "Both accurate and precise",
+      "Neither accurate nor precise"
+     ]
+    },
+    {
+     "stem": "A student's three trials give 5.1, 5.2, and 5.2 g on an object known to weigh 10.0 g. Which describes the data?",
+     "opts": [
+      "Precise but not accurate",
+      "Accurate but not precise",
+      "Both accurate and precise",
+      "Neither accurate nor precise"
+     ]
+    },
+    {
+     "stem": "Repeated measurements of 5.2 g, 5.1 g, and 5.2 g on a 10.0 g standard show that the data are:",
+     "opts": [
+      "Precise but not accurate",
+      "Accurate but not precise",
+      "Both accurate and precise",
+      "Neither accurate nor precise"
+     ]
+    }
+   ],
+   "why": "The readings are close to one another (precise) but far from the true value of 10.0 g (not accurate).",
+   "deep": "Accuracy = closeness to the true value. Precision = closeness of repeated measurements to each other. A miscalibrated scale can be precise but inaccurate."
+  },
+  {
+   "id": "sr-b03-022",
+   "tag": "Data Interpretation",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "Which type of graph is best for showing how a quantity changes over time?",
+     "opts": [
+      "Line graph",
+      "Pie chart",
+      "Pictograph",
+      "Venn diagram"
+     ]
+    },
+    {
+     "stem": "A scientist wants to display temperature readings taken every hour for a day. Which graph is most appropriate?",
+     "opts": [
+      "Line graph",
+      "Pie chart",
+      "Pictograph",
+      "Venn diagram"
+     ]
+    },
+    {
+     "stem": "Which graph best shows trends in data collected over a series of time intervals?",
+     "opts": [
+      "Line graph",
+      "Pie chart",
+      "Pictograph",
+      "Venn diagram"
+     ]
+    },
+    {
+     "stem": "To show how a population changed each year over a decade, which display is best?",
+     "opts": [
+      "Line graph",
+      "Pie chart",
+      "Pictograph",
+      "Venn diagram"
+     ]
+    },
+    {
+     "stem": "Which graph type is typically used to show continuous change?",
+     "opts": [
+      "Line graph",
+      "Pie chart",
+      "Pictograph",
+      "Venn diagram"
+     ]
+    },
+    {
+     "stem": "Which of these would be the best choice for plotting a plant's height each week?",
+     "opts": [
+      "Line graph",
+      "Pie chart",
+      "Pictograph",
+      "Venn diagram"
+     ]
+    },
+    {
+     "stem": "Which representation is best for identifying a trend as time passes?",
+     "opts": [
+      "Line graph",
+      "Pie chart",
+      "Pictograph",
+      "Venn diagram"
+     ]
+    },
+    {
+     "stem": "Which graph would most clearly show an increase or decrease in data over time?",
+     "opts": [
+      "Line graph",
+      "Pie chart",
+      "Pictograph",
+      "Venn diagram"
+     ]
+    }
+   ],
+   "why": "Line graphs connect data points in order and show trends over time.",
+   "deep": "Bar graphs compare separate categories, pie charts show parts of a whole, and scatter plots show the relationship between two variables."
+  },
+  {
+   "id": "sr-b03-023",
+   "tag": "Scientific Method",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "What is the purpose of peer review in science?",
+     "opts": [
+      "Other experts evaluate the research",
+      "The authors approve their own work",
+      "Funding is secured for the study",
+      "Results are adjusted to match a theory"
+     ]
+    },
+    {
+     "stem": "During peer review of a scientific paper:",
+     "opts": [
+      "Other experts evaluate the research",
+      "The authors approve their own work",
+      "Funding is secured for the study",
+      "Results are adjusted to match a theory"
+     ]
+    },
+    {
+     "stem": "Before a study is published in a scientific journal, peer review ensures that:",
+     "opts": [
+      "Other experts evaluate the research",
+      "The authors approve their own work",
+      "Funding is secured for the study",
+      "Results are adjusted to match a theory"
+     ]
+    },
+    {
+     "stem": "Which statement correctly describes peer review?",
+     "opts": [
+      "Other experts evaluate the research",
+      "The authors approve their own work",
+      "Funding is secured for the study",
+      "Results are adjusted to match a theory"
+     ]
+    },
+    {
+     "stem": "In peer review, what happens to a researcher's work before publication?",
+     "opts": [
+      "Other experts evaluate the research",
+      "The authors approve their own work",
+      "Funding is secured for the study",
+      "Results are adjusted to match a theory"
+     ]
+    },
+    {
+     "stem": "Peer review helps maintain the quality of science because:",
+     "opts": [
+      "Other experts evaluate the research",
+      "The authors approve their own work",
+      "Funding is secured for the study",
+      "Results are adjusted to match a theory"
+     ]
+    },
+    {
+     "stem": "Which action is part of the peer review process?",
+     "opts": [
+      "Other experts evaluate the research",
+      "The authors approve their own work",
+      "Funding is secured for the study",
+      "Results are adjusted to match a theory"
+     ]
+    },
+    {
+     "stem": "How does peer review work?",
+     "opts": [
+      "Other experts evaluate the research",
+      "The authors approve their own work",
+      "Funding is secured for the study",
+      "Results are adjusted to match a theory"
+     ]
+    }
+   ],
+   "why": "In peer review, independent experts in the field evaluate a study's methods and conclusions before it is published.",
+   "deep": "Peer review checks for flawed methods, unsupported conclusions, and missing controls. It improves quality but does not guarantee a result is correct."
+  },
+  {
+   "id": "sr-b03-024",
+   "tag": "Data Interpretation",
+   "type": "typed",
+   "answers": [
+    "7",
+    "7.0"
+   ],
+   "tolerance": 0,
+   "variants": [
+    {
+     "stem": "Four plants have heights of 4, 6, 8, and 10 cm. What is the mean height? Type a number."
+    },
+    {
+     "stem": "Calculate the average height of plants measuring 4 cm, 6 cm, 8 cm, and 10 cm. Type a number."
+    },
+    {
+     "stem": "A student measures four seedlings: 4, 6, 8, and 10 cm. What is the mean height? Type a number."
+    },
+    {
+     "stem": "Find the mean of 4, 6, 8, and 10 cm. Type a number."
+    },
+    {
+     "stem": "The heights of four plants are 4, 6, 8, and 10 cm. Give their average. Type a number."
+    },
+    {
+     "stem": "What is the average of these four plant heights: 4 cm, 6 cm, 8 cm, 10 cm? Type a number."
+    },
+    {
+     "stem": "Four measurements (4, 6, 8, 10 cm) are recorded. What is their mean? Type a number."
+    },
+    {
+     "stem": "If four plants measure 4, 6, 8, and 10 cm, what is the mean height? Type a number."
+    }
+   ],
+   "why": "Mean = (4 + 6 + 8 + 10) / 4 = 28 / 4 = 7 cm.",
+   "deep": "Mean = sum of values divided by the number of values. Median is the middle value (7 here as well); mode is the most frequent value.",
+   "unit": "cm"
+  },
+  {
+   "id": "sr-b03-025",
+   "tag": "Scientific Method",
+   "type": "single",
+   "variants": [
+    {
+     "stem": "A student's data do not support the hypothesis. What is the best next step?",
+     "opts": [
+      "Revise the hypothesis and retest",
+      "Discard all of the data",
+      "Ignore the result",
+      "Publish without review"
+     ]
+    },
+    {
+     "stem": "After an experiment contradicts the hypothesis, a scientist should:",
+     "opts": [
+      "Revise the hypothesis and retest",
+      "Discard all of the data",
+      "Ignore the result",
+      "Publish without review"
+     ]
+    },
+    {
+     "stem": "If the results of an experiment do not support the original hypothesis, the appropriate response is to:",
+     "opts": [
+      "Revise the hypothesis and retest",
+      "Discard all of the data",
+      "Ignore the result",
+      "Publish without review"
+     ]
+    },
+    {
+     "stem": "Which action is most consistent with the scientific method when data disagree with the hypothesis?",
+     "opts": [
+      "Revise the hypothesis and retest",
+      "Discard all of the data",
+      "Ignore the result",
+      "Publish without review"
+     ]
+    },
+    {
+     "stem": "An experiment's results contradict the prediction. What should the researcher do next?",
+     "opts": [
+      "Revise the hypothesis and retest",
+      "Discard all of the data",
+      "Ignore the result",
+      "Publish without review"
+     ]
+    },
+    {
+     "stem": "When evidence fails to support a hypothesis, scientists typically:",
+     "opts": [
+      "Revise the hypothesis and retest",
+      "Discard all of the data",
+      "Ignore the result",
+      "Publish without review"
+     ]
+    },
+    {
+     "stem": "Which is the best response to experimental data that disprove a hypothesis?",
+     "opts": [
+      "Revise the hypothesis and retest",
+      "Discard all of the data",
+      "Ignore the result",
+      "Publish without review"
+     ]
+    },
+    {
+     "stem": "A hypothesis is not supported by the data collected. The next step in the scientific process is to:",
+     "opts": [
+      "Revise the hypothesis and retest",
+      "Discard all of the data",
+      "Ignore the result",
+      "Publish without review"
+     ]
+    }
+   ],
+   "why": "Unsupported hypotheses are revised, and new experiments are designed to test the revision.",
+   "deep": "Disproving a hypothesis is useful information. Data should never be discarded or changed to fit a hypothesis."
+  }
+ ]
+}

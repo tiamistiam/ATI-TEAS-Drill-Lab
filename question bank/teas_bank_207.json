@@ -1,0 +1,280 @@
+{
+"format": "pulse-teas-bank",
+"version": 2,
+"questions": [
+{"id":"chem-207-001","tag":"Bonding","type":"single","variants":[
+{"stem":"How many electrons are shared in a single covalent bond?","opts":["2","1","4","8"]},
+{"stem":"A single covalent bond between two atoms consists of how many shared electrons?","opts":["2","1","3","4"]},
+{"stem":"In H–H, the line represents a bond made of how many electrons?","opts":["2","1","4","0"]},
+{"stem":"Two hydrogen atoms form H₂ by sharing electrons. How many electrons are in the shared pair?","opts":["2","1","4","8"]},
+{"stem":"How many electrons does one shared pair contain?","opts":["2","1","3","4"]},
+{"stem":"Each line drawn between atoms in a structural formula, such as in Cl–Cl, represents how many shared electrons?","opts":["2","1","4","8"]},
+{"stem":"A double bond contains four shared electrons. How many does a single bond contain?","opts":["2","1","3","6"]},
+{"stem":"Which number of electrons is shared in a single covalent bond?","opts":["2","1","4","6"]}
+],"why":"A single covalent bond is one shared pair of electrons, so it contains 2 electrons.","deep":"Single bond = 2 shared electrons, double bond = 4, triple bond = 6. In a structural formula each line represents one shared pair. Atoms share electrons to complete their outer shell (two for hydrogen, eight for most others)."},
+
+{"id":"chem-207-002","tag":"Moles","type":"typed","answers":["44"],"tolerance":0,"unit":"g/mol","variants":[
+{"stem":"Using atomic masses C = 12 and O = 16, what is the molar mass of CO₂ in g/mol?"},
+{"stem":"Calculate the molar mass of carbon dioxide (CO₂) in g/mol. Atomic masses: C = 12, O = 16."},
+{"stem":"One mole of CO₂ has what mass in grams? (C = 12 g/mol, O = 16 g/mol.)"},
+{"stem":"Find the formula mass of CO₂ in amu using C = 12 and O = 16."},
+{"stem":"What is the mass in grams of 1 mol of CO₂? Use C = 12 and O = 16."},
+{"stem":"A CO₂ molecule contains one carbon atom (12) and two oxygen atoms (16 each). What is its molar mass in g/mol?"},
+{"stem":"Add the atomic masses to find the molar mass of CO₂ (C = 12, O = 16). Give your answer in g/mol."},
+{"stem":"What is the molar mass of CO₂ in g/mol, given C = 12 and O = 16?"}
+],"why":"Molar mass of CO₂ = 12 + (2 × 16) = 12 + 32 = 44 g/mol.","deep":"Molar mass = sum of the atomic masses of every atom in the formula. The subscript tells you how many of each atom to count: CO₂ has 1 C and 2 O. One mole of any substance contains 6.022 × 10²³ particles."},
+
+{"id":"chem-207-003","tag":"Periodic Table","type":"single","variants":[
+{"stem":"Which of these period 3 elements has the highest first ionization energy?","opts":["Chlorine","Sodium","Magnesium","Aluminum"]},
+{"stem":"Ionization energy generally increases from left to right across a period. Which of these elements has the highest?","opts":["Chlorine","Sodium","Magnesium","Aluminum"]},
+{"stem":"Which atom would require the most energy to remove its outermost electron?","opts":["Chlorine","Sodium","Magnesium","Aluminum"]},
+{"stem":"Which of the following elements holds its valence electrons most tightly?","opts":["Chlorine","Sodium","Magnesium","Aluminum"]},
+{"stem":"Among these elements, which has the greatest ionization energy?","opts":["Chlorine","Sodium","Magnesium","Aluminum"]},
+{"stem":"Which element is the hardest to remove an electron from?","opts":["Chlorine","Sodium","Magnesium","Aluminum"]},
+{"stem":"Which of these elements has the highest ionization energy?","opts":["Chlorine","Sodium","Magnesium","Aluminum"]},
+{"stem":"Which atom has the highest first ionization energy of this group?","opts":["Chlorine","Sodium","Magnesium","Aluminum"]}
+],"why":"Ionization energy increases from left to right across a period, so chlorine (far right in period 3) has the highest first ionization energy of these elements.","deep":"Ionization energy is the energy needed to remove an electron from an atom. It increases across a period (more protons pull the electrons harder) and decreases down a group (the outer electrons are farther from the nucleus). So alkali metals lose electrons easily and halogens and noble gases hold them tightly."},
+
+{"id":"chem-207-004","tag":"Bonding","type":"single","variants":[
+{"stem":"Which molecule contains a nonpolar covalent bond?","opts":["O₂","HCl","H₂O","NH₃"]},
+{"stem":"In which molecule are electrons shared equally between identical atoms?","opts":["O₂","HCl","H₂O","NH₃"]},
+{"stem":"Which of the following molecules is nonpolar?","opts":["O₂","HF","CO","H₂S"]},
+{"stem":"Which substance has two identical atoms sharing electrons equally?","opts":["O₂","HCl","H₂O","NH₃"]},
+{"stem":"Which molecule has no difference in electronegativity between its bonded atoms?","opts":["O₂","HF","CO","H₂S"]},
+{"stem":"Which diatomic molecule has a bond with no partial charges?","opts":["O₂","HCl","HF","CO"]},
+{"stem":"Which molecule would NOT have partial positive and negative ends?","opts":["O₂","HCl","H₂O","NH₃"]},
+{"stem":"Which of the following has a purely nonpolar covalent bond?","opts":["O₂","HF","CO","H₂S"]}
+],"why":"In O₂, two identical oxygen atoms have the same electronegativity, so they share electrons equally. The bond is nonpolar covalent.","deep":"Polar covalent bonds form between different atoms with different electronegativity (HCl, H₂O, NH₃). Nonpolar covalent bonds form between identical atoms (O₂, N₂, H₂, Cl₂) or atoms with nearly equal electronegativity (such as C–H). Equal sharing means no partial charges."},
+
+{"id":"chem-207-005","tag":"Solutions","type":"single","variants":[
+{"stem":"Why does oil not dissolve in water?","opts":["Oil is nonpolar, while water is polar","Oil is polar, while water is nonpolar","Oil is an ionic compound","Water is a solid"]},
+{"stem":"Which statement best explains why oil and water form separate layers?","opts":["Oil is nonpolar, while water is polar","Oil is polar, while water is nonpolar","Both are ionic compounds","Both are gases"]},
+{"stem":"Like dissolves like. Which statement explains why nonpolar oil does not dissolve in polar water?","opts":["Their polarities do not match","Their polarities are identical","Oil is more electronegative than water","Water is nonpolar"]},
+{"stem":"Salad dressing separates into oil and vinegar layers. Why?","opts":["Oil is nonpolar and vinegar (mostly water) is polar","Oil is heavier than vinegar","Vinegar is a gas","Both are nonpolar"]},
+{"stem":"Polar substances dissolve well in water. Why does a nonpolar liquid like oil not?","opts":["It lacks charged ends that attract water molecules","It has too many charged ends","It reacts violently with water","It has a higher pH than water"]},
+{"stem":"A drop of oil floats on water instead of mixing. Which property explains this?","opts":["Oil is nonpolar and water is polar","Oil is ionic and water is covalent","Oil is an acid","Water is nonpolar"]},
+{"stem":"Which rule of solubility explains why oil and water do not mix?","opts":["Like dissolves like","Opposites dissolve each other","Heavy liquids always dissolve in light liquids","Acids dissolve bases"]},
+{"stem":"Which is true of oil and water?","opts":["A nonpolar substance does not dissolve in a polar solvent","A nonpolar substance always dissolves in a polar solvent","Both are polar","Both are ionic"]}
+],"why":"Water is polar and oil is nonpolar. Following the rule 'like dissolves like,' polar solvents dissolve polar and ionic solutes, and nonpolar solvents dissolve nonpolar solutes, so oil and water do not mix.","deep":"Salt and sugar dissolve in water (ionic and polar solutes). Oil, wax, and fats dissolve in nonpolar solvents such as hexane or gasoline. Soap molecules have both a polar end and a nonpolar end, which lets them lift oil off dishes into water."},
+
+{"id":"chem-207-006","tag":"Reactions","type":"single","variants":[
+{"stem":"In a chemical reaction, oxidation is defined as:","opts":["Loss of electrons","Gain of electrons","Gain of protons","Loss of neutrons"]},
+{"stem":"When an atom is oxidized, it:","opts":["Loses electrons","Gains electrons","Gains protons","Loses neutrons"]},
+{"stem":"Which statement describes oxidation?","opts":["Oxidation is loss of electrons","Oxidation is gain of electrons","Reduction is loss of electrons","Reduction is loss of protons"]},
+{"stem":"Iron rusts when it reacts with oxygen. In this reaction iron is oxidized, which means it:","opts":["Loses electrons","Gains electrons","Gains neutrons","Loses protons"]},
+{"stem":"Sodium becomes Na⁺ in a reaction. Sodium has been:","opts":["Oxidized (lost an electron)","Reduced (gained an electron)","Neutralized","Sublimated"]},
+{"stem":"Which process involves a loss of electrons?","opts":["Oxidation","Reduction","Neutralization","Sublimation"]},
+{"stem":"A substance that loses electrons during a reaction is said to be:","opts":["Oxidized","Reduced","Neutralized","Condensed"]},
+{"stem":"In the mnemonic OIL RIG, what does OIL stand for?","opts":["Oxidation Is Loss","Oxidation Is Gain","Oxygen Is Lost","Oxides In Liquids"]}
+],"why":"Oxidation is the loss of electrons. Reduction is the gain of electrons.","deep":"Memory aid: OIL RIG = Oxidation Is Loss, Reduction Is Gain (of electrons). Oxidation and reduction always occur together in redox reactions. When sodium forms Na⁺, it is oxidized; when chlorine forms Cl⁻, it is reduced."},
+
+{"id":"chem-207-007","tag":"Atomic Structure","type":"single","variants":[
+{"stem":"An alpha particle consists of:","opts":["Two protons and two neutrons","One electron","A high-energy photon","One proton"]},
+{"stem":"Which describes an alpha particle emitted during radioactive decay?","opts":["Two protons and two neutrons","One electron","A high-energy photon","One proton"]},
+{"stem":"What is the composition of the particle released in alpha decay?","opts":["Two protons and two neutrons","One electron","A high-energy photon","One proton"]},
+{"stem":"Alpha radiation is made of particles containing:","opts":["Two protons and two neutrons","One electron","A high-energy photon","One proton"]},
+{"stem":"An alpha particle is the same as a helium-4 nucleus. What does it contain?","opts":["Two protons and two neutrons","One electron","A high-energy photon","One proton"]},
+{"stem":"Which particles make up an alpha particle?","opts":["Two protons and two neutrons","One electron","A high-energy photon","One proton"]},
+{"stem":"What does an atom lose, in terms of nuclear particles, during alpha decay?","opts":["Two protons and two neutrons","One electron","Only gamma energy","One proton only"]},
+{"stem":"The particle released when uranium-238 undergoes alpha decay contains:","opts":["Two protons and two neutrons","One electron","A high-energy photon","One proton"]}
+],"why":"An alpha particle is the same as a helium-4 nucleus: 2 protons and 2 neutrons.","deep":"Alpha decay reduces an atom's atomic number by 2 and its mass number by 4. Beta particles are high-speed electrons (or positrons), and gamma rays are high-energy photons with no mass. Alpha particles are the heaviest but least penetrating (stopped by paper)."},
+
+{"id":"chem-207-008","tag":"Reactions","type":"single","variants":[
+{"stem":"Which type of reaction follows the pattern AB → A + B?","opts":["Decomposition","Synthesis","Single replacement","Double replacement"]},
+{"stem":"2H₂O → 2H₂ + O₂ is an example of which type of reaction?","opts":["Decomposition","Synthesis","Single replacement","Double replacement"]},
+{"stem":"One compound breaks down into two or more simpler substances. What is this reaction type?","opts":["Decomposition","Synthesis","Single replacement","Double replacement"]},
+{"stem":"Heating calcium carbonate gives calcium oxide and carbon dioxide (CaCO₃ → CaO + CO₂). This is a:","opts":["Decomposition reaction","Synthesis reaction","Single replacement reaction","Double replacement reaction"]},
+{"stem":"Which reaction type is the reverse of a synthesis reaction?","opts":["Decomposition","Single replacement","Double replacement","Combustion"]},
+{"stem":"2KClO₃ → 2KCl + 3O₂ is classified as:","opts":["Decomposition","Synthesis","Single replacement","Double replacement"]},
+{"stem":"In which type of reaction does a single reactant form multiple products?","opts":["Decomposition","Synthesis","Single replacement","Double replacement"]},
+{"stem":"A compound is split into its elements by electrolysis. What type of reaction is this?","opts":["Decomposition","Synthesis","Single replacement","Double replacement"]}
+],"why":"In a decomposition reaction, one compound breaks down into two or more simpler substances: AB → A + B.","deep":"Synthesis: A + B → AB. Decomposition: AB → A + B. Single replacement: A + BC → AC + B. Double replacement: AB + CD → AD + CB. Combustion: a fuel plus oxygen produces carbon dioxide, water, and energy."},
+
+{"id":"chem-207-009","tag":"Periodic Table","type":"multi","variants":[
+{"stem":"Select all that apply: Which of the following elements are nonmetals?","opts":["Oxygen","Sodium","Sulfur","Iron","Chlorine"],"correct":[0,2,4]},
+{"stem":"Select all that apply: Which elements are typically poor conductors of heat and electricity?","opts":["Sulfur","Copper","Nitrogen","Aluminum","Phosphorus"],"correct":[0,2,4]},
+{"stem":"Select all that apply: Which of these are located in the upper right of the periodic table as nonmetals?","opts":["Fluorine","Magnesium","Oxygen","Potassium","Nitrogen"],"correct":[0,2,4]},
+{"stem":"Select all that apply: Which of the following are metals?","opts":["Iron","Sulfur","Zinc","Oxygen","Calcium"],"correct":[0,2,4]},
+{"stem":"Select all that apply: Which elements tend to gain electrons to form anions?","opts":["Chlorine","Sodium","Oxygen","Calcium","Fluorine"],"correct":[0,2,4]},
+{"stem":"Select all that apply: Which elements are NOT metals?","opts":["Iron","Bromine","Copper","Sulfur","Aluminum"],"correct":[1,3]},
+{"stem":"Select all that apply: Which of these elements are brittle and dull as solids?","opts":["Sulfur","Gold","Phosphorus","Silver","Iron"],"correct":[0,2]},
+{"stem":"Select all that apply: Which elements are nonmetals?","opts":["Hydrogen","Lithium","Carbon","Magnesium","Neon"],"correct":[0,2,4]}
+],"why":"Nonmetals (such as hydrogen, carbon, nitrogen, oxygen, phosphorus, sulfur, the halogens, and the noble gases) are found on the right side of the periodic table. Metals (such as sodium, iron, copper, and calcium) are on the left and in the center.","deep":"Nonmetals are poor conductors, brittle as solids, and tend to gain electrons to form anions. Hydrogen is a nonmetal even though it sits in Group 1. Metals tend to lose electrons to form cations. Metalloids (such as silicon) lie along the staircase between them."},
+
+{"id":"chem-207-010","tag":"Moles","type":"typed","answers":["2","2.0","2.00"],"tolerance":0,"unit":"mol","variants":[
+{"stem":"How many moles are in 36 g of water? The molar mass of water is 18 g/mol."},
+{"stem":"A sample of water has a mass of 36 g (molar mass 18 g/mol). How many moles of water is this?"},
+{"stem":"Calculate the number of moles in 36 grams of H₂O if its molar mass is 18 g/mol."},
+{"stem":"Water has a molar mass of 18 g/mol. How many moles are in a 36 g sample?"},
+{"stem":"Convert 36 g of H₂O to moles, using a molar mass of 18 g/mol."},
+{"stem":"A beaker holds 36 g of water. If one mole of water has a mass of 18 g, how many moles are in the beaker?"},
+{"stem":"Using moles = mass ÷ molar mass, find the moles in 36 g of H₂O (18 g/mol)."},
+{"stem":"How many moles of H₂O are present in 36 g? Use 18 g/mol for the molar mass."}
+],"why":"Moles = mass ÷ molar mass = 36 g ÷ 18 g/mol = 2 mol.","deep":"Mass (g) ÷ molar mass (g/mol) = moles. Flip it to find mass: moles × molar mass = grams. The units cancel: g ÷ (g/mol) = mol. Common mistake: multiplying instead of dividing."},
+
+{"id":"chem-207-011","tag":"States of Matter","type":"hotspot","image":"<svg viewBox='0 0 300 200' xmlns='http://www.w3.org/2000/svg'><line x1='40' y1='170' x2='280' y2='170' stroke='#e2e8f0' stroke-width='2'/><line x1='40' y1='170' x2='40' y2='15' stroke='#e2e8f0' stroke-width='2'/><polyline points='45,165 75,140 125,140 165,80 225,80 265,35' fill='none' stroke='#fbbf24' stroke-width='4' stroke-linejoin='round' stroke-linecap='round'/><text x='160' y='192' fill='#e2e8f0' font-size='11' text-anchor='middle'>Heat added over time</text><text x='14' y='95' fill='#e2e8f0' font-size='11' text-anchor='middle' transform='rotate(-90 14 95)'>Temperature</text></svg>","target":[{"type":"rect","x":72,"y":124,"w":56,"h":32}],"variants":[
+{"stem":"This heating curve shows water being heated from ice to steam. Tap the part of the graph where the ice is melting."},
+{"stem":"Tap the flat segment where solid and liquid water coexist while heat is absorbed."},
+{"stem":"Tap the portion of the curve where temperature stays constant during the solid-to-liquid phase change."},
+{"stem":"Tap the melting point on this heating curve."},
+{"stem":"On this heating curve for water, tap the plateau at the lower temperature, where the phase change is melting."},
+{"stem":"Tap the region where the added heat is used to break attractions between particles in the solid, not to raise the temperature."},
+{"stem":"Tap the horizontal part of the curve that occurs at 0 °C."},
+{"stem":"Tap the segment that represents the phase change from ice to liquid water."}
+],"why":"The lower flat section is the melting plateau: the temperature stays constant (0 °C for water) while added heat converts solid to liquid.","deep":"On a heating curve the slanted sections show a single phase warming up (solid, liquid, gas), and the flat plateaus show phase changes. The lower plateau is melting; the higher plateau (100 °C for water) is boiling. During a plateau, heat breaks attractions between particles instead of raising their kinetic energy."},
+
+{"id":"bio-207-001","tag":"Genetics","type":"single","variants":[
+{"stem":"A permanent change in the DNA sequence of a gene is called a:","opts":["Mutation","Transcription","Translation","Replication"]},
+{"stem":"Which term describes an alteration in a cell's DNA base sequence?","opts":["Mutation","Transcription","Translation","Replication"]},
+{"stem":"A single nucleotide in DNA is replaced by a different nucleotide. This change is an example of a:","opts":["Mutation","Transcription","Translation","Replication"]},
+{"stem":"Which can occur when DNA is damaged by radiation or copied incorrectly?","opts":["Mutation","Transcription","Translation","Replication"]},
+{"stem":"A change in the sequence of bases in DNA that may alter a protein is a:","opts":["Mutation","Transcription","Translation","Replication"]},
+{"stem":"What is the term for a heritable change in genetic material?","opts":["Mutation","Transcription","Translation","Replication"]},
+{"stem":"Sickle cell disease is caused by a change in the DNA sequence of the hemoglobin gene. What type of change is this?","opts":["Mutation","Transcription","Translation","Replication"]},
+{"stem":"Which of the following describes a change to the order of bases in a gene?","opts":["Mutation","Transcription","Translation","Replication"]}
+],"why":"A mutation is a permanent change in the base sequence of DNA. It can alter the protein that a gene codes for.","deep":"Mutations can be caused by copying errors, radiation, or chemicals. A point mutation changes one base. Many mutations are harmless, some are harmful, and a few are beneficial. Only mutations in gametes (sperm or egg cells) can be passed to offspring."},
+
+{"id":"bio-207-002","tag":"Cell Energy","type":"single","variants":[
+{"stem":"Which molecule is the main immediate energy currency of the cell?","opts":["ATP","DNA","Cellulose","Hemoglobin"]},
+{"stem":"Cells use which molecule to power activities such as muscle contraction and active transport?","opts":["ATP","Glycogen","mRNA","Lipase"]},
+{"stem":"Which molecule releases energy when its terminal phosphate bond is broken?","opts":["ATP","Glucose","Cholesterol","DNA"]},
+{"stem":"What does a cell make during cellular respiration to store energy in a usable form?","opts":["ATP","Chlorophyll","Cellulose","Ribose"]},
+{"stem":"Which molecule is often described as the energy currency of the cell?","opts":["ATP","Glucose","DNA","Hemoglobin"]},
+{"stem":"Mitochondria produce most of the cell's supply of which energy-carrying molecule?","opts":["ATP","DNA","Hemoglobin","Keratin"]},
+{"stem":"Which molecule is converted to ADP when it gives up energy for cellular work?","opts":["ATP","DNA","Glucose","RNA"]},
+{"stem":"Which molecule powers the sodium–potassium pump?","opts":["ATP","Glucose","Oxygen","Water"]}
+],"why":"ATP (adenosine triphosphate) is the cell's immediate usable energy source. Breaking its terminal phosphate bond releases energy for cell work.","deep":"ATP → ADP + phosphate + energy. Cells regenerate ATP mainly in the mitochondria through cellular respiration. Glucose stores energy in a larger form, but cells must convert that energy into ATP before using it."},
+
+{"id":"bio-207-003","tag":"Genetics","type":"single","variants":[
+{"stem":"A person with type AB blood expresses both A and B antigens. This is an example of:","opts":["Codominance","Incomplete dominance","Complete dominance","Mutation"]},
+{"stem":"When both alleles are fully expressed in a heterozygote, the pattern is called:","opts":["Codominance","Incomplete dominance","Complete dominance","Mutation"]},
+{"stem":"A roan cow has both red hairs and white hairs. Which inheritance pattern does this show?","opts":["Codominance","Incomplete dominance","Complete dominance","Mutation"]},
+{"stem":"In the ABO blood group, the alleles Iᴬ and Iᴮ are:","opts":["Codominant","Incompletely dominant","Recessive","Mutated"]},
+{"stem":"Which inheritance pattern produces a heterozygote that shows both parental traits at the same time?","opts":["Codominance","Incomplete dominance","Complete dominance","Mutation"]},
+{"stem":"Blood type AB is the result of which pattern of inheritance?","opts":["Codominance","Incomplete dominance","Complete dominance","Mutation"]},
+{"stem":"Neither allele masks the other and both appear in the phenotype. What is this called?","opts":["Codominance","Incomplete dominance","Complete dominance","Mutation"]},
+{"stem":"Which term describes alleles that are both fully expressed in a heterozygote?","opts":["Codominance","Incomplete dominance","Complete dominance","Mutation"]}
+],"why":"In codominance, both alleles are fully and separately expressed in a heterozygote, as with the A and B antigens in type AB blood.","deep":"Complete dominance: one allele hides the other (Aa looks like AA). Incomplete dominance: a blend (red × white gives pink). Codominance: both appear side by side (roan coat, AB blood). Blood types involve three alleles: Iᴬ and Iᴮ are codominant, and i is recessive."},
+
+{"id":"bio-207-004","tag":"Microbiology","type":"single","variants":[
+{"stem":"How do most bacteria reproduce?","opts":["Binary fission","Mitosis","Meiosis","Budding"]},
+{"stem":"Which type of asexual reproduction divides a single prokaryotic cell into two identical cells?","opts":["Binary fission","Mitosis","Meiosis","Fertilization"]},
+{"stem":"A bacterial cell copies its DNA and splits into two daughter cells. This process is:","opts":["Binary fission","Mitosis","Meiosis","Budding"]},
+{"stem":"Which process do prokaryotes use to reproduce?","opts":["Binary fission","Mitosis","Meiosis","Fertilization"]},
+{"stem":"E. coli populations grow quickly because each cell reproduces by:","opts":["Binary fission","Mitosis","Meiosis","Budding"]},
+{"stem":"Which is the asexual process by which a prokaryote divides in two?","opts":["Binary fission","Mitosis","Meiosis","Fertilization"]},
+{"stem":"Which type of cell division occurs without a nucleus or spindle fibers?","opts":["Binary fission","Mitosis","Meiosis","Cytokinesis only"]},
+{"stem":"Bacteria produce genetically identical offspring through which process?","opts":["Binary fission","Mitosis","Meiosis","Budding"]}
+],"why":"Bacteria are prokaryotes with no nucleus, so they reproduce asexually by binary fission: the cell copies its DNA and splits into two identical cells.","deep":"Binary fission = prokaryotes. Mitosis = eukaryotic body cells. Meiosis = eukaryotic sex cells. Bacteria can multiply very quickly under good conditions, but they can also gain variation by exchanging DNA (conjugation) or by mutation."},
+
+{"id":"bio-207-005","tag":"Cell Biology","type":"single","variants":[
+{"stem":"Which organelle contains chlorophyll and carries out photosynthesis?","opts":["Chloroplast","Mitochondrion","Ribosome","Lysosome"]},
+{"stem":"In plant cells, which organelle captures light energy?","opts":["Chloroplast","Mitochondrion","Ribosome","Lysosome"]},
+{"stem":"Which organelle is found in plant cells but not animal cells and makes glucose?","opts":["Chloroplast","Mitochondrion","Golgi apparatus","Lysosome"]},
+{"stem":"Which structure contains stacks of thylakoids called grana?","opts":["Chloroplast","Mitochondrion","Golgi apparatus","Nucleus"]},
+{"stem":"The green color of leaves comes from a pigment in which organelle?","opts":["Chloroplast","Mitochondrion","Ribosome","Lysosome"]},
+{"stem":"Which organelle converts light energy into chemical energy?","opts":["Chloroplast","Mitochondrion","Ribosome","Nucleus"]},
+{"stem":"Photosynthesis takes place inside which organelle?","opts":["Chloroplast","Mitochondrion","Ribosome","Lysosome"]},
+{"stem":"Which organelle contains chlorophyll?","opts":["Chloroplast","Mitochondrion","Golgi apparatus","Lysosome"]}
+],"why":"Chloroplasts contain the green pigment chlorophyll and are the site of photosynthesis in plant cells.","deep":"Chloroplasts, like mitochondria, have a double membrane and their own DNA. Photosynthesis (chloroplast) makes glucose and oxygen; cellular respiration (mitochondria) breaks glucose down to make ATP. Plant cells have both; animal cells have only mitochondria."},
+
+{"id":"bio-207-006","tag":"Cell Division","type":"single","variants":[
+{"stem":"What is the result of mitosis in a human body cell?","opts":["Two identical diploid cells","Four different haploid cells","Two haploid cells","One cell with double the chromosomes"]},
+{"stem":"Mitosis produces how many cells, and how do they compare with the parent cell?","opts":["Two cells identical to the parent","Four cells different from the parent","Two cells with half the chromosomes","One cell with twice the DNA"]},
+{"stem":"After mitosis and cytokinesis, the daughter cells are:","opts":["Genetically identical and diploid","Genetically different and haploid","Genetically identical and haploid","Genetically different and diploid"]},
+{"stem":"Skin cells replace themselves by mitosis. How do the new cells compare with the old ones?","opts":["They are genetically identical","They have half the chromosomes","They are genetically different","They are haploid"]},
+{"stem":"Which outcome is typical of mitosis?","opts":["Two identical diploid cells","Four different haploid cells","Two haploid cells","One cell with double the chromosomes"]},
+{"stem":"A diploid cell with 46 chromosomes undergoes mitosis. What does each daughter cell contain?","opts":["46 chromosomes","23 chromosomes","92 chromosomes","12 chromosomes"]},
+{"stem":"Mitosis is used for growth and repair. What is a feature of the cells it produces?","opts":["They are identical to the parent cell","They are gametes","They have half the DNA","They are all different"]},
+{"stem":"Which statement is true of the products of mitosis?","opts":["Two genetically identical diploid cells","Four unique haploid cells","Two haploid cells","One diploid cell"]}
+],"why":"Mitosis produces two genetically identical daughter cells, each diploid (with the same number of chromosomes as the parent cell).","deep":"Mitosis: growth, repair, asexual reproduction in eukaryotes; one division, 2 identical diploid cells. Meiosis: gamete formation; two divisions, 4 unique haploid cells. A human body cell has 46 chromosomes and a gamete has 23."},
+
+{"id":"ap-207-001","tag":"Renal","type":"multi","variants":[
+{"stem":"Select all that apply: Which are functions of the kidneys?","opts":["Filtering waste from the blood","Regulating water balance","Producing erythropoietin","Producing bile","Producing insulin"],"correct":[0,1,2]},
+{"stem":"Select all that apply: Which tasks do the kidneys perform?","opts":["Regulating electrolyte balance","Making digestive enzymes","Helping regulate blood pressure","Storing glycogen","Removing urea"],"correct":[0,2,4]},
+{"stem":"Select all that apply: The kidneys help maintain homeostasis by:","opts":["Removing metabolic waste","Controlling blood volume","Producing sperm","Digesting fats","Stimulating red blood cell production"],"correct":[0,1,4]},
+{"stem":"Select all that apply: Which are NOT functions of the kidneys?","opts":["Filtering blood","Producing bile","Producing urine","Making insulin","Regulating pH"],"correct":[1,3]},
+{"stem":"Select all that apply: Which substances do the kidneys help regulate?","opts":["Water","Sodium","Potassium","Glucagon","Bile"],"correct":[0,1,2]},
+{"stem":"Select all that apply: Which statements about the kidneys are true?","opts":["They produce urine","They help regulate blood pressure","They absorb most nutrients","They release erythropoietin","They produce hydrochloric acid"],"correct":[0,1,3]},
+{"stem":"Select all that apply: Which of the following does the urinary system do?","opts":["Eliminate wastes","Maintain fluid balance","Digest proteins","Maintain electrolyte balance","Produce thyroid hormone"],"correct":[0,1,3]},
+{"stem":"Select all that apply: Which are roles of the kidneys?","opts":["Excreting urea","Controlling acid–base balance","Producing hormones such as renin","Making bile salts","Storing sperm"],"correct":[0,1,2]}
+],"why":"The kidneys filter waste (such as urea) from the blood, regulate water, electrolyte, and acid–base balance, help control blood pressure, and release hormones such as erythropoietin and renin.","deep":"Erythropoietin stimulates red blood cell production in the bone marrow. Renin helps regulate blood pressure. Not kidney functions: making bile (liver), insulin (pancreas), digestive enzymes (pancreas and intestine), absorbing nutrients (small intestine)."},
+
+{"id":"ap-207-002","tag":"Endocrine","type":"single","variants":[
+{"stem":"Which gland is called the master gland because it controls other endocrine glands?","opts":["Pituitary gland","Thyroid gland","Adrenal gland","Pancreas"]},
+{"stem":"Which gland, located at the base of the brain, secretes TSH, ACTH, FSH, and LH?","opts":["Pituitary gland","Thyroid gland","Adrenal gland","Pineal gland"]},
+{"stem":"Which gland is controlled by the hypothalamus and regulates many other glands?","opts":["Pituitary gland","Thyroid gland","Adrenal gland","Pancreas"]},
+{"stem":"Growth hormone is secreted by which gland?","opts":["Pituitary gland","Thyroid gland","Adrenal gland","Pineal gland"]},
+{"stem":"Which endocrine gland has an anterior lobe and a posterior lobe?","opts":["Pituitary gland","Thyroid gland","Adrenal gland","Pancreas"]},
+{"stem":"Which gland releases tropic hormones that stimulate other endocrine glands?","opts":["Pituitary gland","Thyroid gland","Pancreas","Pineal gland"]},
+{"stem":"Which small gland sits just below the hypothalamus?","opts":["Pituitary gland","Thyroid gland","Adrenal gland","Pancreas"]},
+{"stem":"Which gland is often called the master gland of the endocrine system?","opts":["Pituitary gland","Thyroid gland","Adrenal gland","Pineal gland"]}
+],"why":"The pituitary gland, controlled by the hypothalamus, releases hormones such as TSH, ACTH, FSH, LH, and growth hormone that control other endocrine glands, so it is called the master gland.","deep":"The anterior pituitary makes TSH, ACTH, FSH, LH, growth hormone, and prolactin. The posterior pituitary stores and releases oxytocin and ADH, which are made in the hypothalamus. Hypothalamus → pituitary → target glands (thyroid, adrenals, gonads)."},
+
+{"id":"ap-207-003","tag":"Skeletal","type":"single","variants":[
+{"stem":"Which is the longest and strongest bone in the human body?","opts":["Femur","Humerus","Tibia","Fibula"]},
+{"stem":"Which bone forms the thigh?","opts":["Femur","Humerus","Tibia","Fibula"]},
+{"stem":"The head of which bone fits into the acetabulum of the hip?","opts":["Femur","Humerus","Tibia","Radius"]},
+{"stem":"Which bone is the largest weight-bearing bone of the upper leg?","opts":["Femur","Humerus","Tibia","Fibula"]},
+{"stem":"Which long bone connects the hip to the knee?","opts":["Femur","Humerus","Tibia","Fibula"]},
+{"stem":"Which bone has the greatest length in the human skeleton?","opts":["Femur","Humerus","Tibia","Radius"]},
+{"stem":"The patella sits at the distal end of which bone?","opts":["Femur","Humerus","Tibia","Fibula"]},
+{"stem":"Which bone is found in the thigh?","opts":["Femur","Humerus","Tibia","Fibula"]}
+],"why":"The femur (thigh bone) is the longest, strongest bone in the body and connects the hip to the knee.","deep":"Leg bones: femur (thigh), patella (kneecap), tibia (shin, weight-bearing) and fibula (smaller, lateral). Arm bones: humerus (upper arm), radius and ulna (forearm). The head of the femur fits into the hip's acetabulum to form a ball-and-socket joint."},
+
+{"id":"ap-207-004","tag":"Nervous","type":"single","variants":[
+{"stem":"Which part of the brain coordinates balance and smooth voluntary movement?","opts":["Cerebellum","Cerebrum","Medulla oblongata","Thalamus"]},
+{"stem":"Damage to which brain structure would most likely cause loss of coordination and poor balance?","opts":["Cerebellum","Cerebrum","Medulla oblongata","Thalamus"]},
+{"stem":"Which brain region fine-tunes muscle movements and maintains posture?","opts":["Cerebellum","Cerebrum","Medulla oblongata","Hypothalamus"]},
+{"stem":"Which structure lies beneath the occipital lobes at the back of the brain and coordinates movement?","opts":["Cerebellum","Cerebrum","Medulla oblongata","Thalamus"]},
+{"stem":"Which part of the brain is responsible for equilibrium and muscle coordination?","opts":["Cerebellum","Cerebrum","Medulla oblongata","Thalamus"]},
+{"stem":"A person has difficulty walking in a straight line. Which brain region is most likely involved?","opts":["Cerebellum","Cerebrum","Medulla oblongata","Hypothalamus"]},
+{"stem":"Which structure integrates sensory input to coordinate the timing and accuracy of movement?","opts":["Cerebellum","Cerebrum","Medulla oblongata","Thalamus"]},
+{"stem":"Which brain structure is known as the little brain?","opts":["Cerebellum","Cerebrum","Medulla oblongata","Thalamus"]}
+],"why":"The cerebellum coordinates balance, posture, and smooth, accurate voluntary movements.","deep":"Cerebrum: thinking, voluntary movement, senses. Cerebellum: coordination and balance. Medulla oblongata: heart rate and breathing. Thalamus: relays sensory information. Hypothalamus: homeostasis (temperature, hunger, thirst) and control of the pituitary."},
+
+{"id":"ap-207-005","tag":"Reproductive","type":"single","variants":[
+{"stem":"Where does fertilization of the ovum normally occur?","opts":["Fallopian tube","Uterus","Ovary","Cervix"]},
+{"stem":"Sperm meet the secondary oocyte in which structure?","opts":["Fallopian tube","Uterus","Ovary","Cervix"]},
+{"stem":"After ovulation, the egg travels into which structure where it may be fertilized?","opts":["Fallopian tube","Uterus","Vagina","Cervix"]},
+{"stem":"Which structure carries the oocyte from the ovary and is the usual site of fertilization?","opts":["Uterine tube","Uterus","Vagina","Cervix"]},
+{"stem":"In which part of the female reproductive system does a sperm usually fuse with an egg?","opts":["Fallopian tube","Uterus","Ovary","Cervix"]},
+{"stem":"Which tube has fimbriae that sweep the ovulated egg inward?","opts":["Fallopian tube","Ureter","Urethra","Vas deferens"]},
+{"stem":"The zygote forms in which structure before traveling to the uterus?","opts":["Fallopian tube","Ovary","Vagina","Cervix"]},
+{"stem":"Fertilization usually takes place in which structure?","opts":["Uterine tube","Uterus","Ovary","Vagina"]}
+],"why":"Fertilization usually occurs in the fallopian (uterine) tube, where the ovulated egg meets sperm.","deep":"Path: ovary (ovulation) → fimbriae → fallopian tube (fertilization) → zygote divides as it moves → uterus (implantation of the blastocyst). The uterus is where the embryo develops; the cervix is the lower opening of the uterus."},
+
+{"id":"ap-207-006","tag":"Cardiovascular","type":"single","variants":[
+{"stem":"Which vessels carry oxygenated blood from the lungs to the left atrium?","opts":["Pulmonary veins","Pulmonary arteries","Vena cavae","Aorta"]},
+{"stem":"Which blood vessels return blood from the lungs to the heart?","opts":["Pulmonary veins","Pulmonary arteries","Vena cavae","Aorta"]},
+{"stem":"The only veins in the body that carry oxygen-rich blood are the:","opts":["Pulmonary veins","Pulmonary arteries","Vena cavae","Hepatic veins"]},
+{"stem":"Which vessels empty into the left atrium?","opts":["Pulmonary veins","Pulmonary arteries","Vena cavae","Aorta"]},
+{"stem":"Oxygenated blood travels from the lungs to the heart through which vessels?","opts":["Pulmonary veins","Pulmonary arteries","Vena cavae","Aorta"]},
+{"stem":"After gas exchange in the alveoli, blood leaves the lungs through which vessels?","opts":["Pulmonary veins","Pulmonary arteries","Vena cavae","Aorta"]},
+{"stem":"Which vessels deliver freshly oxygenated blood to the heart?","opts":["Pulmonary veins","Pulmonary arteries","Vena cavae","Aorta"]},
+{"stem":"Which veins carry blood with a high oxygen content?","opts":["Pulmonary veins","Hepatic veins","Vena cavae","Jugular veins"]}
+],"why":"The pulmonary veins carry oxygen-rich blood from the lungs back to the left atrium of the heart.","deep":"Pulmonary circuit: right ventricle → pulmonary arteries (oxygen-poor) → lungs → pulmonary veins (oxygen-rich) → left atrium. Veins carry blood TO the heart, arteries carry it AWAY; the pulmonary vessels are the exceptions to the oxygen rule (pulmonary arteries carry oxygen-poor blood, pulmonary veins carry oxygen-rich blood)."},
+
+{"id":"sr-207-001","tag":"Math","type":"single","variants":[
+{"stem":"How many minutes are in 2.5 hours?","opts":["150","250","25","15"]},
+{"stem":"A reaction runs for 2.5 hours. How many minutes is this?","opts":["150","250","25","15"]},
+{"stem":"Convert 2.5 hours to minutes.","opts":["150","250","25","15"]},
+{"stem":"An experiment lasts 2.5 h. Express this duration in minutes.","opts":["150","250","25","15"]},
+{"stem":"2.5 hours is equal to how many minutes?","opts":["150","250","25","15"]},
+{"stem":"A culture is incubated for 2.5 hours. How many minutes is that?","opts":["150","250","25","15"]},
+{"stem":"How many minutes are there in two and a half hours?","opts":["150","250","25","15"]},
+{"stem":"A timer is set for 2.5 hours. How long is that in minutes?","opts":["150","250","25","15"]}
+],"why":"There are 60 minutes in an hour, so 2.5 × 60 = 150 minutes.","deep":"Use dimensional analysis: 2.5 h × (60 min ÷ 1 h) = 150 min (the hours cancel). Split it up if helpful: 2 h = 120 min, plus 0.5 h = 30 min, giving 150 min."},
+
+{"id":"sr-207-002","tag":"Scientific Method","type":"single","variants":[
+{"stem":"What is the purpose of peer review in science?","opts":["Experts in the field evaluate the quality and validity of the research","The researcher checks their own data","Results are automatically published","The experiment is repeated by the original author"]},
+{"stem":"Before a study is published in a scientific journal, other experts review it. Why?","opts":["Experts in the field evaluate the quality and validity of the research","The researcher checks their own data","Results are automatically published","The experiment is repeated by the original author"]},
+{"stem":"Which best describes peer review?","opts":["Experts in the field evaluate the quality and validity of the research","The researcher checks their own data","Results are automatically published","The experiment is repeated by the original author"]},
+{"stem":"Peer review helps ensure that published research is:","opts":["Evaluated for quality by independent experts","Written by the most famous scientists","Free of all errors","Guaranteed to be correct"]},
+{"stem":"Who performs peer review of a scientific paper?","opts":["Other experts in the field","The author's family","The general public","The journal's advertisers"]},
+{"stem":"What does peer review do for scientific research?","opts":["Experts in the field evaluate the quality and validity of the research","The researcher checks their own data","Results are automatically published","The experiment is repeated by the original author"]},
+{"stem":"Scientific manuscripts are sent to independent experts before publication. What is this process designed to do?","opts":["Experts in the field evaluate the quality and validity of the research","The researcher checks their own data","Results are automatically published","The experiment is repeated by the original author"]},
+{"stem":"Which statement about peer review is correct?","opts":["Experts in the field evaluate the quality and validity of the research","The researcher checks their own data","Results are automatically published","The experiment is repeated by the original author"]}
+],"why":"In peer review, independent experts in the same field evaluate a study's methods, data, and conclusions for quality and validity before it is published.","deep":"Peer review does not guarantee that a study is correct or free of all errors, but it improves the quality and credibility of published science. Other scientists later test results by replication. Good sources are peer-reviewed journals, not advertisements or unreviewed websites."}
+]
+}

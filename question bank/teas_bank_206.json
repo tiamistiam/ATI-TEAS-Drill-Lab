@@ -1,0 +1,280 @@
+{
+"format": "pulse-teas-bank",
+"version": 2,
+"questions": [
+{"id":"chem-206-001","tag":"Periodic Table","type":"single","variants":[
+{"stem":"Moving down a group of the periodic table, what happens to atomic radius?","opts":["It increases","It decreases","It stays the same","It alternates"]},
+{"stem":"As you move down Group 1 from lithium to potassium, the size of the atoms:","opts":["Increases","Decreases","Stays the same","Varies randomly"]},
+{"stem":"Atoms get larger going down a group because they have more of what?","opts":["Electron shells","Valence electrons","Protons in the outer shell","Neutrons only"]},
+{"stem":"Why does atomic radius increase from the top of a group to the bottom?","opts":["Additional electron shells are added","The nucleus becomes smaller","Valence electrons decrease","Protons are removed"]},
+{"stem":"Which statement describes the trend in atomic size down a column of the periodic table?","opts":["Atomic size increases","Atomic size decreases","Atomic size stays constant","Atomic size is unrelated to position"]},
+{"stem":"Compared with a sodium atom, a potassium atom is:","opts":["Larger","Smaller","The same size","Charged"]},
+{"stem":"Going from fluorine to chlorine to bromine, atomic radius:","opts":["Increases","Decreases","Stays the same","Reverses"]},
+{"stem":"A student compares atoms in the same group. As the period number goes up, the atoms:","opts":["Get larger","Get smaller","Stay the same size","Lose all electron shells"]}
+],"why":"Atomic radius increases down a group because each lower period adds another electron shell, putting the outer electrons farther from the nucleus.","deep":"Trends: atomic radius increases down a group and decreases from left to right across a period (more protons pull the shells in tighter). Electronegativity and ionization energy generally follow the opposite pattern: they increase up a group and across a period."},
+
+{"id":"chem-206-002","tag":"Periodic Table","type":"single","variants":[
+{"stem":"Which group of elements contains the most reactive metals?","opts":["Alkali metals","Alkaline earth metals","Halogens","Noble gases"]},
+{"stem":"Lithium, sodium, and potassium belong to which group?","opts":["Alkali metals","Alkaline earth metals","Halogens","Noble gases"]},
+{"stem":"Which elements have a single valence electron and react vigorously with water?","opts":["Alkali metals","Alkaline earth metals","Halogens","Noble gases"]},
+{"stem":"Elements in Group 1 of the periodic table are called:","opts":["Alkali metals","Alkaline earth metals","Halogens","Noble gases"]},
+{"stem":"Which group of metals readily loses one electron to form 1+ ions?","opts":["Alkali metals","Alkaline earth metals","Transition metals","Noble gases"]},
+{"stem":"Which family of elements is stored under oil because it reacts with air and water?","opts":["Alkali metals","Alkaline earth metals","Halogens","Noble gases"]},
+{"stem":"Which family of elements includes sodium and potassium?","opts":["Alkali metals","Alkaline earth metals","Halogens","Noble gases"]},
+{"stem":"The most reactive metals are found in which group?","opts":["Group 1, the alkali metals","Group 2, the alkaline earth metals","Group 17, the halogens","Group 18, the noble gases"]}
+],"why":"The alkali metals (Group 1) have one valence electron that they lose very easily, which makes them the most reactive metals.","deep":"Reactivity of alkali metals increases down the group (Li < Na < K < Rb < Cs) because the outer electron is farther from the nucleus and easier to lose. Group 2 (alkaline earth metals) are reactive but less so; Group 17 (halogens) are the most reactive nonmetals; Group 18 (noble gases) are unreactive."},
+
+{"id":"chem-206-003","tag":"Periodic Table","type":"single","variants":[
+{"stem":"How many valence electrons do the alkaline earth metals (Group 2) have?","opts":["2","1","3","8"]},
+{"stem":"Magnesium and calcium are in Group 2. How many valence electrons does each atom have?","opts":["2","1","3","8"]},
+{"stem":"Elements in Group 2 tend to lose how many electrons to form ions?","opts":["2","1","3","0"]},
+{"stem":"A calcium atom has how many electrons in its outer shell?","opts":["2","1","8","20"]},
+{"stem":"Beryllium, magnesium, and calcium all share which number of valence electrons?","opts":["2","1","3","4"]},
+{"stem":"How many valence electrons are in an atom of barium (Group 2)?","opts":["2","1","8","56"]},
+{"stem":"To reach a stable octet configuration, Group 2 atoms lose how many electrons?","opts":["2","1","6","8"]},
+{"stem":"Group 2 on the periodic table corresponds to how many valence electrons?","opts":["2","1","3","18"]}
+],"why":"Group 2 (the alkaline earth metals) elements have 2 valence electrons, which they lose to form 2+ ions.","deep":"For the main groups, the group number (1, 2) or its last digit (13–18) gives the valence electrons: Group 1 → 1, Group 2 → 2, Group 13 → 3, Group 14 → 4, Group 15 → 5, Group 16 → 6, Group 17 → 7, Group 18 → 8. Group 2 atoms lose 2 electrons: Mg → Mg²⁺, Ca → Ca²⁺."},
+
+{"id":"chem-206-004","tag":"Ions","type":"typed","answers":["18"],"tolerance":0,"unit":"electrons","variants":[
+{"stem":"A chlorine atom has 17 protons. It gains one electron to form Cl⁻. How many electrons does the Cl⁻ ion have? Give a whole number."},
+{"stem":"An ion of chlorine has 17 protons and a 1− charge. How many electrons does it have? Give a whole number."},
+{"stem":"Cl⁻ is formed from a neutral atom with 17 protons. How many electrons are in one Cl⁻ ion? Give a whole number."},
+{"stem":"An anion has 17 protons and a charge of −1. How many electrons does it have? Give a whole number."},
+{"stem":"How many electrons are in an ion that has 17 protons and a net charge of 1−? Give a whole number."},
+{"stem":"A neutral atom with atomic number 17 gains 1 electron. How many electrons does it now have? Give a whole number."},
+{"stem":"The chloride ion has an atomic number of 17. How many electrons does it contain? Give a whole number."},
+{"stem":"Chlorine (atomic number 17) forms a 1− ion. How many electrons does this ion have? Give a whole number."}
+],"why":"A neutral chlorine atom has 17 electrons. Gaining one electron to form Cl⁻ gives 17 + 1 = 18 electrons.","deep":"Electrons = protons − charge. For Cl⁻: 17 − (−1) = 18. The protons stay at 17 because the atom is still chlorine. Cl⁻ now has 18 electrons, the same as argon, a stable full-shell configuration."},
+
+{"id":"chem-206-005","tag":"States of Matter","type":"single","variants":[
+{"stem":"What is the term for a solid changing directly into a gas without becoming a liquid?","opts":["Sublimation","Deposition","Condensation","Evaporation"]},
+{"stem":"Dry ice (solid CO₂) turns directly into carbon dioxide gas at room pressure. This process is called:","opts":["Sublimation","Deposition","Condensation","Evaporation"]},
+{"stem":"Which phase change skips the liquid state when going from solid to gas?","opts":["Sublimation","Deposition","Condensation","Freezing"]},
+{"stem":"Moth balls slowly disappear without melting. Which process is occurring?","opts":["Sublimation","Deposition","Condensation","Freezing"]},
+{"stem":"Snow slowly vanishing on a cold, dry, windy day without melting is an example of:","opts":["Sublimation","Deposition","Condensation","Freezing"]},
+{"stem":"Which term describes the transition from solid directly to gas?","opts":["Sublimation","Deposition","Condensation","Evaporation"]},
+{"stem":"Which phase change occurs when particles in a solid gain enough energy to escape directly as a gas?","opts":["Sublimation","Deposition","Condensation","Evaporation"]},
+{"stem":"Which process is the opposite of deposition?","opts":["Sublimation","Condensation","Freezing","Melting"]}
+],"why":"Sublimation is the phase change in which a solid becomes a gas without passing through the liquid state.","deep":"Phase changes: melting (solid → liquid), freezing (liquid → solid), vaporization/evaporation (liquid → gas), condensation (gas → liquid), sublimation (solid → gas), deposition (gas → solid). Melting, vaporization, and sublimation absorb energy (endothermic); freezing, condensation, and deposition release energy."},
+
+{"id":"chem-206-006","tag":"States of Matter","type":"single","variants":[
+{"stem":"Temperature is a measure of which property of the particles in a substance?","opts":["Average kinetic energy","Number of particles","Mass of each particle","Volume of the container"]},
+{"stem":"When a substance is heated and its temperature rises, which quantity of its particles increases on average?","opts":["Kinetic energy","Mass","Number","Charge"]},
+{"stem":"Which quantity do particles in warm water have more of, on average, than particles in cold water?","opts":["Kinetic energy","Mass","Charge","Number of electrons"]},
+{"stem":"The kinetic molecular theory relates temperature to which property of particles?","opts":["Their average kinetic energy","Their mass","Their charge","Their color"]},
+{"stem":"Which statement describes particles in a hot object compared with a cold object?","opts":["They move faster on average","They are heavier","They are more positively charged","They have more protons"]},
+{"stem":"Temperature measures the average:","opts":["Kinetic energy of particles","Mass of particles","Volume of particles","Charge of particles"]},
+{"stem":"Heating a gas makes its particles move faster. This means the average ____ of the particles has increased.","opts":["Kinetic energy","Mass","Atomic number","Charge"]},
+{"stem":"What happens to the average kinetic energy of particles when temperature rises?","opts":["It increases","It decreases","It stays the same","It becomes negative"]}
+],"why":"Temperature is a measure of the average kinetic energy of the particles in a substance. Higher temperature means the particles move faster on average.","deep":"Heat is the energy transferred between objects because of a temperature difference; temperature is the average kinetic energy of particles. At absolute zero (0 K), particle motion is at its minimum. States of matter: particles in solids vibrate in place, in liquids slide past each other, and in gases move freely."},
+
+{"id":"chem-206-007","tag":"Solutions","type":"single","variants":[
+{"stem":"In a solution made by dissolving salt in water, which substance is the solvent?","opts":["Water","Salt","The container","Air"]},
+{"stem":"Sugar is dissolved in water. Which is the solvent?","opts":["Water","Sugar","Heat","The spoon"]},
+{"stem":"Copper sulfate crystals are dissolved in water to make a blue solution. Which substance is the solvent?","opts":["Water","Copper sulfate","Heat","Light"]},
+{"stem":"Salt is dissolved in water to make saline. The solvent is:","opts":["Water","Salt","Saline","Sodium"]},
+{"stem":"In ocean water, which substance is the solvent that dissolves the salts?","opts":["Water","Sodium chloride","Magnesium chloride","Carbon dioxide"]},
+{"stem":"A powdered drink mix is dissolved in water. Which is the solvent?","opts":["Water","Drink mix","Sugar","Flavoring"]},
+{"stem":"Which substance does the dissolving in a solution of salt and water?","opts":["Water","Salt","Ice","Air"]},
+{"stem":"In a salt-water solution, the substance present in the greater amount that does the dissolving is the:","opts":["Water (solvent)","Salt (solvent)","Salt (solute)","Water (solute)"]}
+],"why":"The solvent is the substance that does the dissolving and is usually present in the larger amount. In salt water, water is the solvent and salt is the solute.","deep":"Solution = solute + solvent. Water is called the universal solvent because it dissolves so many substances. A solution is a homogeneous mixture: the solute is evenly distributed and does not settle out. Dissolving is a physical change."},
+
+{"id":"chem-206-008","tag":"Acids and Bases","type":"single","variants":[
+{"stem":"Which pH value indicates a basic solution?","opts":["pH 11","pH 7","pH 4","pH 2"]},
+{"stem":"Which of these solutions is basic?","opts":["pH 11","pH 7","pH 5","pH 3"]},
+{"stem":"Household ammonia is a base. Which pH would you expect?","opts":["pH 11","pH 7","pH 5","pH 2"]},
+{"stem":"A solution has a pH above 7. Which value could it be?","opts":["pH 11","pH 7","pH 4","pH 2"]},
+{"stem":"Which pH value belongs to a solution with more OH⁻ than H⁺?","opts":["pH 11","pH 7","pH 4","pH 2"]},
+{"stem":"Which solution would turn red litmus paper blue?","opts":["pH 11","pH 7","pH 4","pH 2"]},
+{"stem":"Which pH is the most basic of these values?","opts":["pH 12","pH 7","pH 3","pH 1"]},
+{"stem":"On the pH scale, which value represents a base?","opts":["pH 11","pH 7","pH 5","pH 3"]}
+],"why":"A pH above 7 is basic (alkaline). pH 11 has more hydroxide ions (OH⁻) than hydrogen ions (H⁺).","deep":"pH below 7 = acidic, pH 7 = neutral (pure water), pH above 7 = basic. Examples: stomach acid ≈ 2, lemon juice ≈ 2, blood ≈ 7.4, baking soda ≈ 9, ammonia ≈ 11, bleach ≈ 13. Bases turn red litmus blue; acids turn blue litmus red."},
+
+{"id":"chem-206-009","tag":"Acids and Bases","type":"single","variants":[
+{"stem":"What are the products of a neutralization reaction between an acid and a base?","opts":["A salt and water","Hydrogen gas and a salt","A metal and oxygen","Carbon dioxide and a gas"]},
+{"stem":"HCl + NaOH → ? Which products form?","opts":["NaCl and H₂O","Na and Cl₂","H₂ and O₂","NaH and ClOH"]},
+{"stem":"When an acid and a base react completely, which substances are formed?","opts":["A salt and water","An acid and a base","A metal and a salt","Two gases"]},
+{"stem":"Which pair forms when hydrochloric acid reacts with sodium hydroxide?","opts":["Sodium chloride and water","Sodium and chlorine","Hydrogen and oxygen","Sodium oxide and hydrogen chloride"]},
+{"stem":"Antacids neutralize stomach acid. What types of products form in an acid–base neutralization?","opts":["A salt and water","Only a gas","Only a metal","A new acid"]},
+{"stem":"Acid + base → ?","opts":["Salt + water","Salt + hydrogen","Metal + oxygen","Oxide + carbon dioxide"]},
+{"stem":"Which substances are produced when an acid is neutralized by a base?","opts":["Water and a salt","Hydrogen and a salt","Carbon dioxide and water","Oxygen and a salt"]},
+{"stem":"A neutralization reaction always produces water and what other type of compound?","opts":["A salt","An acid","A metal","A noble gas"]}
+],"why":"In a neutralization reaction, an acid reacts with a base to form a salt and water: acid + base → salt + water.","deep":"Example: HCl + NaOH → NaCl + H₂O. The H⁺ from the acid combines with the OH⁻ from the base to form water, and the leftover ions form the salt. A complete neutralization of a strong acid with a strong base gives a solution near pH 7."},
+
+{"id":"chem-206-010","tag":"Solutions","type":"typed","answers":["0.5",".5","0.50"],"tolerance":0,"unit":"M","variants":[
+{"stem":"A solution contains 2.0 moles of NaCl in 4.0 L of solution. What is its molarity in mol/L?"},
+{"stem":"What is the molarity of a solution made by dissolving 2.0 mol of solute in enough water to make 4.0 L of solution?"},
+{"stem":"A chemist prepares 4.0 L of solution containing 2.0 mol of KCl. Find the molarity in mol/L."},
+{"stem":"Calculate the concentration, in mol/L, of a solution with 2.0 mol of sucrose in 4.0 L of solution."},
+{"stem":"If 4.0 L of solution holds 2.0 moles of dissolved glucose, what is the molarity in M?"},
+{"stem":"Using M = moles ÷ liters, find the molarity of 2.0 mol of solute in 4.0 L of solution."},
+{"stem":"2.0 moles of solute are dissolved to make a total volume of 4.0 liters. What is the molarity?"},
+{"stem":"A 4.0 L sample of solution contains 2.0 mol of dissolved salt. What is the molarity in mol/L?"}
+],"why":"Molarity = moles of solute ÷ liters of solution = 2.0 mol ÷ 4.0 L = 0.5 M.","deep":"M = mol ÷ L. Check the units: the divisor is liters of SOLUTION (not liters of solvent). If you have milliliters, convert to liters first (divide by 1,000). A 0.5 M solution is less concentrated than a 1.0 M solution."},
+
+{"id":"chem-206-011","tag":"Acids and Bases","type":"multi","variants":[
+{"stem":"Select all that apply: Which of the following are properties of acids?","opts":["Sour taste","pH below 7","Release H⁺ in water","Feel slippery","Turn red litmus blue"],"correct":[0,1,2]},
+{"stem":"Select all that apply: Which are characteristics of bases?","opts":["Feel slippery","pH above 7","Release OH⁻ in water","Taste sour","Turn blue litmus red"],"correct":[0,1,2]},
+{"stem":"Select all that apply: Which statements about acids are correct?","opts":["They have a pH less than 7","They donate protons (H⁺)","They turn blue litmus red","They have a pH greater than 7","They feel slippery"],"correct":[0,1,2]},
+{"stem":"Select all that apply: Which of these are NOT properties of acids?","opts":["pH above 7","Release H⁺ in water","Feel slippery","Turn blue litmus red","Sour taste"],"correct":[0,2]},
+{"stem":"Select all that apply: Which of the following are true of a base?","opts":["pH above 7","Turns red litmus blue","Releases H⁺ in water","Contains more OH⁻ than H⁺","Tastes sour"],"correct":[0,1,3]},
+{"stem":"Select all that apply: Lemon juice is acidic. Which properties would you expect it to have?","opts":["pH below 7","Sour taste","Slippery feel","Turns blue litmus paper red","pH above 7"],"correct":[0,1,3]},
+{"stem":"Select all that apply: Which properties describe bases such as household ammonia?","opts":["Slippery feel","Bitter taste","pH above 7","Turns blue litmus red","Release H⁺ in water"],"correct":[0,1,2]},
+{"stem":"Select all that apply: Which are typical of acid solutions?","opts":["High H⁺ concentration","pH below 7","Turns red litmus blue","Sour taste","Slippery feel"],"correct":[0,1,3]}
+],"why":"Acids taste sour, have a pH below 7, release H⁺ in water, and turn blue litmus paper red. Bases feel slippery, taste bitter, have a pH above 7, release OH⁻, and turn red litmus paper blue.","deep":"Memory aids: Acids → H⁺, pH below 7, litmus goes red (A for Acid, Alike red). Bases → OH⁻, pH above 7, litmus goes blue, slippery (like soap). Never taste or touch lab chemicals; these properties are for identification in theory only."},
+
+{"id":"chem-206-012","tag":"Bonding","type":"hotspot","image":"<svg viewBox='0 0 200 180' xmlns='http://www.w3.org/2000/svg'><line x1='100' y1='60' x2='48' y2='132' stroke='#e2e8f0' stroke-width='5'/><line x1='100' y1='60' x2='152' y2='132' stroke='#e2e8f0' stroke-width='5'/><circle cx='100' cy='60' r='30' fill='#ef4444' stroke='#e2e8f0' stroke-width='3'/><circle cx='48' cy='132' r='18' fill='#e2e8f0' stroke='#94a3b8' stroke-width='2'/><circle cx='152' cy='132' r='18' fill='#e2e8f0' stroke='#94a3b8' stroke-width='2'/><g font-size='16' font-weight='bold' text-anchor='middle'><text x='100' y='66' fill='#ffffff'>O</text><text x='48' y='138' fill='#334155'>H</text><text x='152' y='138' fill='#334155'>H</text></g></svg>","target":[{"type":"circle","cx":100,"cy":60,"r":32}],"variants":[
+{"stem":"Tap the atom in this water molecule that carries the partial negative charge."},
+{"stem":"Tap the more electronegative atom in this molecule."},
+{"stem":"Tap the atom that pulls the shared electrons closer to itself."},
+{"stem":"Tap the atom that attracts the bonding electrons more strongly."},
+{"stem":"Tap the end of the molecule that is slightly negative (δ⁻)."},
+{"stem":"Tap the atom in H₂O with the greater electronegativity."},
+{"stem":"Tap the atom whose stronger pull on shared electrons makes the bonds polar."},
+{"stem":"Tap the atom that the hydrogens of neighboring water molecules are attracted to in hydrogen bonding."}
+],"why":"Oxygen is much more electronegative than hydrogen, so it pulls the shared electrons toward itself and carries the partial negative charge (δ⁻).","deep":"Each hydrogen carries a partial positive charge (δ⁺). This uneven charge makes water polar, and the δ⁺ hydrogens of one water molecule are attracted to the δ⁻ oxygen of another, forming hydrogen bonds. Electronegativity: O is about 3.5; H is about 2.1."},
+
+{"id":"bio-206-001","tag":"Genetics","type":"single","variants":[
+{"stem":"An mRNA codon reads AUG. Which tRNA anticodon pairs with it?","opts":["UAC","AUG","TAC","UCA"]},
+{"stem":"Which anticodon on a tRNA matches the mRNA codon 5′-AUG-3′?","opts":["3′-UAC-5′","3′-AUG-5′","3′-TAC-5′","3′-UCA-5′"]},
+{"stem":"During translation, a tRNA with which anticodon binds to the start codon AUG?","opts":["UAC","AUG","TAC","UUG"]},
+{"stem":"The codon AUG on mRNA is recognized by a tRNA containing which anticodon?","opts":["UAC","AUG","TAC","UCA"]},
+{"stem":"Which sequence is complementary to the mRNA codon AUG?","opts":["UAC","AUG","TAC","GUA"]},
+{"stem":"A ribosome reads the start codon AUG. Which tRNA anticodon base-pairs with it?","opts":["UAC","AUG","TAC","UCG"]},
+{"stem":"What is the anticodon for the codon AUG?","opts":["UAC","AUG","TAC","UGA"]},
+{"stem":"The anticodon of the tRNA that carries methionine is complementary to the codon AUG. What is it?","opts":["UAC","AUG","TAC","CAU"]}
+],"why":"The tRNA anticodon is complementary to the mRNA codon: A pairs with U, U pairs with A, and G pairs with C. So AUG pairs with UAC.","deep":"Remember that RNA uses uracil (U) instead of thymine (T), so a tRNA anticodon never contains T. AUG is the start codon and codes for methionine. Codon (on mRNA) and anticodon (on tRNA) pair like a lock and key during translation."},
+
+{"id":"bio-206-002","tag":"Cell Division","type":"single","variants":[
+{"stem":"During which phase of the cell cycle is DNA replicated?","opts":["S phase","G₁ phase","M phase","Cytokinesis"]},
+{"stem":"Which stage of interphase is when the cell copies its chromosomes?","opts":["S phase","G₁ phase","G₂ phase","Cytokinesis"]},
+{"stem":"A cell doubles its DNA content before mitosis. During which phase does this happen?","opts":["S phase","G₁ phase","M phase","Cytokinesis"]},
+{"stem":"In which phase does each chromosome become two sister chromatids?","opts":["S phase","G₁ phase","M phase","Cytokinesis"]},
+{"stem":"Which phase of the cell cycle comes between G₁ and G₂?","opts":["S phase","M phase","Cytokinesis","Prophase"]},
+{"stem":"DNA synthesis occurs during which part of interphase?","opts":["S phase","G₁ phase","G₂ phase","M phase"]},
+{"stem":"Which phase of the cell cycle is characterized by DNA replication?","opts":["S phase","G₁ phase","M phase","Cytokinesis"]},
+{"stem":"Before mitosis begins, the DNA is copied during which phase?","opts":["S phase","G₁ phase","M phase","Cytokinesis"]}
+],"why":"DNA replication occurs during the S (synthesis) phase of interphase, so each chromosome has two identical sister chromatids before mitosis.","deep":"Cell cycle: interphase (G₁ = growth, S = DNA synthesis, G₂ = preparation) → M phase (mitosis: prophase, metaphase, anaphase, telophase) → cytokinesis. Memory aid: S = Synthesis (DNA copied)."},
+
+{"id":"bio-206-003","tag":"Cell Transport","type":"single","variants":[
+{"stem":"Which statement describes simple diffusion?","opts":["Movement from high to low concentration without energy","Movement from low to high concentration using ATP","Movement inside a vesicle fused to the membrane","Movement of water only"]},
+{"stem":"In diffusion, particles move:","opts":["From high concentration to low concentration without energy","From low concentration to high concentration using ATP","Only through protein pumps","Only inside vesicles"]},
+{"stem":"Oxygen moves into a cell without using energy. Which statement describes this movement?","opts":["Down its concentration gradient","Against its concentration gradient","By active transport","By endocytosis"]},
+{"stem":"A drop of dye spreads through water without stirring. This process is driven by:","opts":["Random movement down a concentration gradient","ATP-driven pumps","Vesicle transport","Cell division"]},
+{"stem":"Which is a feature of passive transport such as diffusion?","opts":["It requires no cellular energy","It requires ATP","It moves substances against a gradient","It requires vesicles"]},
+{"stem":"Which direction do molecules move during diffusion?","opts":["From high to low concentration","From low to high concentration","Only toward the nucleus","Only out of the cell"]},
+{"stem":"Diffusion continues until:","opts":["Concentrations are equal (equilibrium)","All molecules stop moving","The cell uses ATP","The membrane breaks"]},
+{"stem":"Which condition does NOT apply to diffusion?","opts":["It requires ATP","It occurs down a gradient","It occurs without cellular energy","It moves particles toward equilibrium"]}
+],"why":"Diffusion is the passive movement of particles from an area of higher concentration to an area of lower concentration, and it requires no cellular energy.","deep":"Passive transport (no ATP): simple diffusion, facilitated diffusion (through channel or carrier proteins), and osmosis (water). Active transport (needs ATP) moves particles against their gradient. Particles keep moving at equilibrium, but with no net change in concentration."},
+
+{"id":"bio-206-004","tag":"Cell Biology","type":"single","variants":[
+{"stem":"Which organelle synthesizes lipids and steroids?","opts":["Smooth ER","Rough ER","Golgi apparatus","Lysosome"]},
+{"stem":"Which organelle lacks ribosomes and is involved in making lipids?","opts":["Smooth ER","Rough ER","Golgi apparatus","Lysosome"]},
+{"stem":"Which organelle is abundant in cells that make steroid hormones?","opts":["Smooth ER","Rough ER","Golgi apparatus","Lysosome"]},
+{"stem":"Which part of the endoplasmic reticulum makes phospholipids and detoxifies drugs?","opts":["Smooth ER","Rough ER","Golgi apparatus","Ribosome"]},
+{"stem":"Which membrane system produces lipids but has no ribosomes on its surface?","opts":["Smooth ER","Rough ER","Golgi apparatus","Lysosome"]},
+{"stem":"The organelle that synthesizes cholesterol and phospholipids is the:","opts":["Smooth ER","Rough ER","Golgi apparatus","Lysosome"]},
+{"stem":"Which organelle is the main site of lipid synthesis in the cell?","opts":["Smooth ER","Rough ER","Golgi apparatus","Lysosome"]},
+{"stem":"Which type of endoplasmic reticulum has a smooth appearance and makes lipids?","opts":["Smooth ER","Rough ER","Nuclear envelope","Plasma membrane"]}
+],"why":"The smooth endoplasmic reticulum has no ribosomes and is the site of lipid, phospholipid, and steroid synthesis.","deep":"Rough ER (with ribosomes) makes proteins for export or membranes; smooth ER (no ribosomes) makes lipids and steroids, and detoxifies drugs in the liver. The Golgi apparatus modifies, sorts, and packages products from the ER."},
+
+{"id":"bio-206-005","tag":"Evolution","type":"single","variants":[
+{"stem":"Which statement best describes natural selection?","opts":["Individuals with favorable traits tend to survive and reproduce more","All individuals have equal chances of surviving and reproducing","Traits acquired during life are passed to offspring","Organisms change on purpose to fit the environment"]},
+{"stem":"In a population of beetles, green beetles are eaten less often than brown beetles on green leaves, and over time green beetles become more common. This is best explained by which statement?","opts":["Individuals with favorable traits tend to survive and reproduce more","All individuals have equal chances of surviving and reproducing","Traits acquired during life are passed to offspring","Organisms change on purpose to fit the environment"]},
+{"stem":"Which is the key idea of Darwin's theory of natural selection?","opts":["Individuals with favorable traits tend to survive and reproduce more","All individuals have equal chances of surviving and reproducing","Traits acquired during life are passed to offspring","Organisms change on purpose to fit the environment"]},
+{"stem":"Antibiotic-resistant bacteria become more common when antibiotics are overused. Which statement explains this?","opts":["Resistant individuals survive and reproduce more","All bacteria have equal chances of surviving","Bacteria change on purpose to resist the drug","Traits gained during life are inherited"]},
+{"stem":"Which statement about natural selection is correct?","opts":["Individuals with favorable traits tend to survive and reproduce more","All individuals have equal chances of surviving and reproducing","Traits acquired during life are passed to offspring","Organisms change on purpose to fit the environment"]},
+{"stem":"A population faces a new predator, and individuals with a trait that helps them escape reproduce more. What does this show?","opts":["Individuals with favorable traits tend to survive and reproduce more","All individuals have equal chances of surviving and reproducing","Traits acquired during life are passed to offspring","Organisms change on purpose to fit the environment"]},
+{"stem":"What is the main driver of adaptation in natural selection?","opts":["Differences in survival and reproduction among individuals","Equal reproduction by all individuals","Inheritance of acquired characteristics","Conscious changes made by organisms"]},
+{"stem":"Which statement is true of evolution by natural selection?","opts":["Individuals with favorable traits tend to survive and reproduce more","All individuals have equal chances of surviving and reproducing","Traits acquired during life are passed to offspring","Organisms change on purpose to fit the environment"]}
+],"why":"In natural selection, individuals with traits that suit their environment are more likely to survive and reproduce, so those traits become more common in the population over generations.","deep":"Four parts: variation exists in a population, some variation is heritable, more offspring are produced than can survive, and individuals with favorable traits leave more offspring. Individuals do not evolve; populations do. Traits gained during a lifetime (such as larger muscles) are not inherited."},
+
+{"id":"ap-206-001","tag":"Digestive","type":"multi","variants":[
+{"stem":"Select all that apply: Which are functions of the liver?","opts":["Production of bile","Detoxification of drugs","Storage of glycogen","Production of insulin","Filtering lymph"],"correct":[0,1,2]},
+{"stem":"Select all that apply: Which tasks does the liver perform?","opts":["Making bile","Storing vitamins and iron","Producing glucagon","Detoxifying alcohol","Absorbing most nutrients"],"correct":[0,1,3]},
+{"stem":"Select all that apply: The liver is important for which of the following?","opts":["Converting excess glucose to glycogen","Producing urine","Making clotting factors","Making bile","Producing red blood cells in adults"],"correct":[0,2,3]},
+{"stem":"Select all that apply: Which are NOT functions of the liver?","opts":["Making bile","Making insulin","Detoxifying drugs","Storing glycogen","Producing urine"],"correct":[1,4]},
+{"stem":"Select all that apply: Which of the following does the liver do?","opts":["Metabolize drugs","Produce albumin","Store glycogen","Make hydrochloric acid","Concentrate bile"],"correct":[0,1,2]},
+{"stem":"Select all that apply: Which substances are made by the liver?","opts":["Bile","Albumin","Clotting factors","Insulin","Hydrochloric acid"],"correct":[0,1,2]},
+{"stem":"Select all that apply: Which functions are associated with the liver?","opts":["Glycogen storage","Bile production","Detoxification","Sperm production","Gas exchange"],"correct":[0,1,2]},
+{"stem":"Select all that apply: The liver helps maintain homeostasis by:","opts":["Storing and releasing glucose","Producing bile","Breaking down toxins","Producing thyroxine","Making urine"],"correct":[0,1,2]}
+],"why":"The liver makes bile, stores glycogen, vitamins, and iron, makes plasma proteins (such as albumin and clotting factors), and detoxifies drugs and alcohol.","deep":"Not liver jobs: insulin and glucagon come from the pancreas, urine from the kidneys, hydrochloric acid from the stomach, thyroxine from the thyroid, and bile concentration from the gallbladder. The liver is the largest internal organ and has a dual blood supply."},
+
+{"id":"ap-206-002","tag":"Cardiovascular","type":"single","variants":[
+{"stem":"Which valve lies between the right atrium and the right ventricle?","opts":["Tricuspid valve","Mitral valve","Aortic valve","Pulmonary valve"]},
+{"stem":"Blood flows from the right atrium into the right ventricle through which valve?","opts":["Tricuspid valve","Mitral valve","Aortic valve","Pulmonary valve"]},
+{"stem":"Which heart valve has three cusps and prevents backflow into the right atrium?","opts":["Tricuspid valve","Mitral valve","Aortic valve","Pulmonary valve"]},
+{"stem":"Which valve closes when the right ventricle contracts to prevent blood from returning to the right atrium?","opts":["Tricuspid valve","Mitral valve","Aortic valve","Pulmonary valve"]},
+{"stem":"Which is the right atrioventricular (AV) valve?","opts":["Tricuspid valve","Mitral valve","Aortic valve","Pulmonary valve"]},
+{"stem":"The valve that guards the opening between the upper and lower chambers on the right side of the heart is the:","opts":["Tricuspid valve","Mitral valve","Aortic valve","Pulmonary valve"]},
+{"stem":"Deoxygenated blood passes from the right atrium to the right ventricle across which valve?","opts":["Tricuspid valve","Mitral valve","Aortic valve","Pulmonary valve"]},
+{"stem":"Which valve is also called the right AV valve?","opts":["Tricuspid valve","Mitral valve","Aortic valve","Pulmonary valve"]}
+],"why":"The tricuspid valve is the right atrioventricular valve; it separates the right atrium from the right ventricle and prevents backflow.","deep":"Valves in blood-flow order: tricuspid (right AV) → pulmonary (semilunar) → lungs → mitral/bicuspid (left AV) → aortic (semilunar) → body. Memory aid: the Tricuspid valve has three cusps and sits on the right side; the left AV valve (mitral/bicuspid) has two."},
+
+{"id":"ap-206-003","tag":"Renal","type":"single","variants":[
+{"stem":"Where does most reabsorption of water, glucose, and sodium occur in the nephron?","opts":["Proximal convoluted tubule","Glomerulus","Collecting duct","Ureter"]},
+{"stem":"Which nephron structure reabsorbs nearly all of the filtered glucose and amino acids?","opts":["Proximal convoluted tubule","Glomerulus","Collecting duct","Ureter"]},
+{"stem":"After filtration at the glomerulus, most useful solutes are reclaimed in which part of the nephron?","opts":["Proximal convoluted tubule","Glomerulus","Collecting duct","Ureter"]},
+{"stem":"Which part of the nephron follows Bowman's capsule and reabsorbs the largest share of the filtrate?","opts":["Proximal convoluted tubule","Glomerulus","Collecting duct","Ureter"]},
+{"stem":"Which nephron segment has a brush border that increases surface area for reabsorption?","opts":["Proximal convoluted tubule","Glomerulus","Collecting duct","Ureter"]},
+{"stem":"Which nephron segment reabsorbs about two-thirds of the filtered water and sodium?","opts":["Proximal convoluted tubule","Glomerulus","Collecting duct","Bowman's capsule"]},
+{"stem":"Glucose normally does not appear in urine because it is reabsorbed in which structure?","opts":["Proximal convoluted tubule","Glomerulus","Collecting duct","Ureter"]},
+{"stem":"Which segment of the nephron is the main site of reabsorption?","opts":["Proximal convoluted tubule","Glomerulus","Collecting duct","Bowman's capsule"]}
+],"why":"The proximal convoluted tubule reabsorbs most of the filtered water and sodium and almost all of the glucose and amino acids back into the blood.","deep":"Nephron steps: filtration (glomerulus) → reabsorption (mostly proximal tubule) → secretion (tubules) → concentration of urine (loop of Henle and collecting duct, under the control of ADH). Filtration moves things out of the blood; reabsorption moves useful things back in."},
+
+{"id":"ap-206-004","tag":"Nervous","type":"single","variants":[
+{"stem":"Which division of the autonomic nervous system prepares the body for fight or flight?","opts":["Sympathetic","Parasympathetic","Somatic","Central"]},
+{"stem":"Which division increases heart rate and dilates the pupils during stress?","opts":["Sympathetic nervous system","Parasympathetic nervous system","Somatic nervous system","Central nervous system"]},
+{"stem":"A person is startled and their heart races. Which division is responsible?","opts":["Sympathetic","Parasympathetic","Somatic","Central"]},
+{"stem":"Which division speeds up the heart and diverts blood to skeletal muscles during danger?","opts":["Sympathetic","Parasympathetic","Somatic","Central"]},
+{"stem":"Which part of the nervous system is activated during an emergency, releasing norepinephrine and epinephrine?","opts":["Sympathetic","Parasympathetic","Somatic","Central"]},
+{"stem":"Which division is dominant when a person is frightened or exercising intensely?","opts":["Sympathetic","Parasympathetic","Somatic","Central"]},
+{"stem":"Which autonomic division increases the breathing rate and slows digestion during stress?","opts":["Sympathetic","Parasympathetic","Somatic","Central"]},
+{"stem":"The fight-or-flight response is controlled by which division of the nervous system?","opts":["Sympathetic","Parasympathetic","Somatic","Central"]}
+],"why":"The sympathetic division of the autonomic nervous system produces the fight-or-flight response: faster heart rate, dilated pupils, faster breathing, and slowed digestion.","deep":"Sympathetic = fight or flight (energy used). Parasympathetic = rest and digest (energy saved): slows the heart, increases digestion. Both are parts of the autonomic nervous system, which controls involuntary functions. The somatic system controls voluntary skeletal muscle."},
+
+{"id":"ap-206-005","tag":"Lymphatic","type":"single","variants":[
+{"stem":"Which organ filters blood and removes old or damaged red blood cells?","opts":["Spleen","Thymus","Lymph node","Pancreas"]},
+{"stem":"Which lymphatic organ stores platelets and filters blood?","opts":["Spleen","Thymus","Lymph node","Pancreas"]},
+{"stem":"Which organ, located in the upper left abdomen, filters blood and helps fight infection?","opts":["Spleen","Thymus","Lymph node","Pancreas"]},
+{"stem":"Which organ recycles iron from old red blood cells as it filters blood?","opts":["Spleen","Thymus","Lymph node","Pancreas"]},
+{"stem":"Which organ contains white pulp and red pulp?","opts":["Spleen","Thymus","Lymph node","Pancreas"]},
+{"stem":"Which organ acts as a blood filter and blood reservoir in the lymphatic system?","opts":["Spleen","Thymus","Lymph node","Pancreas"]},
+{"stem":"Old red blood cells are destroyed in which lymphatic organ?","opts":["Spleen","Thymus","Tonsil","Stomach"]},
+{"stem":"Which organ filters blood rather than lymph?","opts":["Spleen","Thymus","Lymph node","Tonsil"]}
+],"why":"The spleen filters blood, removes old or damaged red blood cells, recycles iron, and stores platelets and white blood cells.","deep":"Lymph nodes filter lymph; the spleen filters blood. The thymus is where T cells mature. The spleen sits in the upper left abdomen, behind the stomach. People can live without a spleen, though they are more prone to certain infections."},
+
+{"id":"sr-206-001","tag":"Metric System","type":"single","variants":[
+{"stem":"The metric prefix kilo- means how many of the base unit?","opts":["1,000","100","10","10,000"]},
+{"stem":"How many meters are in one kilometer?","opts":["1,000","100","10","10,000"]},
+{"stem":"One kilogram equals how many grams?","opts":["1,000","100","10","10,000"]},
+{"stem":"One kiloliter is equal to how many liters?","opts":["1,000","100","10","10,000"]},
+{"stem":"Which number does the prefix kilo- represent as a multiplier?","opts":["1,000","100","10","10,000"]},
+{"stem":"How many watts are in one kilowatt?","opts":["1,000","100","10","10,000"]},
+{"stem":"Which number of base units equals one kilo-unit?","opts":["1,000","100","10","10,000"]},
+{"stem":"A kilogram is how many times larger than a gram?","opts":["1,000","100","10","10,000"]}
+],"why":"The metric prefix kilo- means one thousand, so 1 kilogram = 1,000 grams and 1 kilometer = 1,000 meters.","deep":"Prefix ladder (largest to smallest): kilo (1,000), hecto (100), deka (10), base unit, deci (0.1), centi (0.01), milli (0.001). Going from a larger unit to a smaller unit, multiply; going from smaller to larger, divide."},
+
+{"id":"sr-206-002","tag":"Data Interpretation","type":"single","variants":[
+{"stem":"A scatter plot shows that as the number of hours studied increases, test scores also increase. What type of relationship is this?","opts":["Positive correlation","Negative correlation","No correlation","Inverse relationship"]},
+{"stem":"Data show that students who study more hours tend to score higher on tests. Which term describes this relationship?","opts":["Positive correlation","Negative correlation","No correlation","Inverse relationship"]},
+{"stem":"As one variable increases, the other variable also increases. This is called a:","opts":["Positive correlation","Negative correlation","Zero correlation","Inverse relationship"]},
+{"stem":"A scatter plot slopes upward from left to right. What relationship does it show?","opts":["Positive correlation","Negative correlation","No correlation","Inverse relationship"]},
+{"stem":"Higher study hours are associated with higher scores. Which statement describes the relationship?","opts":["Positive correlation","Negative correlation","No correlation","Inverse relationship"]},
+{"stem":"On a graph, as x increases, y increases. This shows:","opts":["Positive correlation","Negative correlation","No correlation","Inverse relationship"]},
+{"stem":"Which type of correlation exists when both variables rise together?","opts":["Positive correlation","Negative correlation","No correlation","Inverse relationship"]},
+{"stem":"Test scores go up as study time goes up. This is an example of a:","opts":["Positive correlation","Negative correlation","No correlation","Inverse relationship"]}
+],"why":"When both variables increase together, the data show a positive correlation, and a scatter plot slopes upward from left to right.","deep":"Positive correlation: both rise together (slope up). Negative (inverse) correlation: one rises as the other falls (slope down). No correlation: no pattern. Correlation does not by itself prove that one variable causes the other."},
+
+{"id":"sr-206-003","tag":"Scientific Method","type":"single","variants":[
+{"stem":"Why do scientists prefer a larger sample size in an experiment?","opts":["It reduces the effect of random chance","It guarantees the hypothesis is true","It removes the need for a control group","It eliminates all bias"]},
+{"stem":"How does increasing the number of subjects in a study improve the results?","opts":["It reduces the effect of random chance","It guarantees the hypothesis is true","It removes the need for a control group","It eliminates all bias"]},
+{"stem":"What is the main advantage of using a larger sample?","opts":["It reduces the effect of random chance","It guarantees the hypothesis is true","It removes the need for a control group","It eliminates all bias"]},
+{"stem":"A study of 10 people and a study of 1,000 people test the same question. Why is the larger study more trustworthy?","opts":["It reduces the effect of random chance","It guarantees the hypothesis is true","It removes the need for a control group","It eliminates all bias"]},
+{"stem":"Which is an effect of using a larger sample?","opts":["It reduces the effect of random chance","It guarantees the hypothesis is true","It removes the need for a control group","It eliminates all bias"]},
+{"stem":"Increasing sample size helps scientists in which way?","opts":["It reduces the effect of random chance","It guarantees the hypothesis is true","It removes the need for a control group","It eliminates all bias"]},
+{"stem":"Why might a researcher test many subjects instead of a few?","opts":["It reduces the effect of random chance","It guarantees the hypothesis is true","It removes the need for a control group","It eliminates all bias"]},
+{"stem":"Larger samples are generally better because they:","opts":["Reduce the effect of random chance","Guarantee the hypothesis is true","Remove the need for a control group","Eliminate all bias"]}
+],"why":"A larger sample reduces the influence of random variation, so the results are more likely to represent the whole population and be reliable.","deep":"A bigger sample does not guarantee the hypothesis is true and does not remove bias (a biased sample stays biased) or the need for a control group. Repeating trials and using enough subjects both improve reliability."}
+]
+}
